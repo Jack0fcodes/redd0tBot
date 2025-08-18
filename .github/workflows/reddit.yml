@@ -1,7 +1,7 @@
 name: Send Reddit Posts to Telegram (Test)
 
 on:
-  workflow_dispatch: # manual run only
+  workflow_dispatch: # run manually from GitHub Actions
 
 jobs:
   reddit-telegram-test:
@@ -20,3 +20,6 @@ jobs:
 
       - name: Run script
         run: python fetch_reddit.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
