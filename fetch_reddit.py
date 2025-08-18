@@ -1,26 +1,28 @@
+import os
 import requests
 
-# Hardcoded for quick test
-TG_TOKEN = "7512011024:AAF-Zpx5cerWpuz8wvwP08yOSKvjfI905tI"
-TG_CHAT_ID = "6231406396"
+TOKEN = os.getenv("TELEGRAM_TOKEN")
+CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-# Example: top 5 posts from r/worldnews
-url = "https://www.reddit.com/r/worldnews/top.json?limit=5&t=day"
-headers = {"User-Agent": "github-actions-script/0.1"}
-response = requests.get(url, headers=headers)
-data = response.json()
+def get_reddit_post():
+    url = "https://www.reddit.com/r/Python/hot.json?limit=1"
+    headers = {"User-Agent": "GitHubActionBot/0.1"}
+    response = requests.get(url, headers=headers)
+    data = response.json()
+    if "data" in data:
+        post = data["data"]["children"][0]["data"]
+        title = post["title"]
+        link = "https://reddit.com" + post["permalink"]
+        return f"{title}\n{link}"
+    return "No post found."
 
-posts = []
-for post in data["data"]["children"]:
-    title = post["data"]["title"]
-    link = "https://reddit.com" + post["data"]["permalink"]
-    posts.append(f"• {title}\n{link}")
+def send_to_telegram(message):
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+    payload = {"chat_id": CHAT_ID, "text": message}
+    response = requests.post(url, data=payload)
+    return response.json()
 
-message = "\n\n".join(posts)
-
-# Send to Telegram
-send_url = f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage"
-payload = {"chat_id": TG_CHAT_ID, "text": message}
-r = requests.post(send_url, data=payload)
-
-print("✅ Sent to Telegram!", r.text)
+if __name__ == "__main__":
+    msg = get_reddit_post()
+    result = send_to_telegram(msg)
+    print(result)
