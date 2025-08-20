@@ -62,11 +62,15 @@ if __name__ == "__main__":
             sent_posts = set(line.strip() for line in f)
 
     new_sent = set()
+    total_checked = 0
+    total_matched = 0
 
     try:
         for subreddit in SUBREDDITS:
             posts = fetch_posts(subreddit)
+            print(f"🔍 Checking r/{subreddit}, got {len(posts)} posts...")
             for post in posts:
+                total_checked += 1
                 post_id = post["data"]["id"]
                 title = post["data"]["title"]
                 author = post["data"]["author"]
@@ -78,6 +82,7 @@ if __name__ == "__main__":
                     continue
 
                 if any(kw in title for kw in KEYWORDS):
+                    total_matched += 1
                     message = (
                         f"📢 Subreddit: {subreddit}\n"
                         f"📝 Title: {title}\n"
@@ -94,7 +99,12 @@ if __name__ == "__main__":
             for post_id in new_sent:
                 f.write(post_id + "\n")
 
-        print(f"✅ Sent {len(new_sent)} new posts to Telegram")
+        print(f"✅ Checked {total_checked} posts, matched {total_matched}, sent {len(new_sent)} new ones")
+
+        if total_matched == 0:
+            send_to_telegram("⚠️ No matching posts found this run.")
 
     except Exception as e:
-        print(f"❌ Error: {e}")
+        error_msg = f"❌ Error: {e}"
+        print(error_msg)
+        send_to_telegram(error_msg)
