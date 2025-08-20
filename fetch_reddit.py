@@ -1,56 +1,47 @@
-import requests
 import os
-import time
+import requests
 
+# Load secrets
+CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
+CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
+USER_AGENT = os.getenv("REDDIT_USER_AGENT")
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-def send_message(text):
+# Get Reddit OAuth token
+def get_reddit_token():
+    auth = requests.auth.HTTPBasicAuth(CLIENT_ID, CLIENT_SECRET)
+    data = {"grant_type": "client_credentials"}
+    headers = {"User-Agent": USER_AGENT}
+    res = requests.post("https://www.reddit.com/api/v1/access_token",
+                        auth=auth, data=data, headers=headers)
+    res.raise_for_status()
+    return res.json()["access_token"]
+
+# Fetch subreddit posts
+def fetch_posts(subreddit="HungryArtists", limit=3):
+    token = get_reddit_token()
+    headers = {"Authorization": f"bearer {token}", "User-Agent": USER_AGENT}
+    url = f"https://oauth.reddit.com/r/{subreddit}/hot?limit={limit}"
+    res = requests.get(url, headers=headers)
+    res.raise_for_status()
+    return res.json()["data"]["children"]
+
+# Send to Telegram
+def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-    data = {"chat_id": CHAT_ID, "text": text}
-    response = requests.post(url, data=data)
-    response.raise_for_status()
-
-def fetch_reddit_posts(subreddit="HungryArtists", limit=5, retries=3):
-    url = f"https://www.reddit.com/r/{subreddit}/hot.json?limit={limit}"
-
-    user_agents = [
-        "Mozilla/5.0 (compatible; MyRedditBot/1.0; +https://github.com/yourusername)",
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15",
-    ]
-
-    for attempt in range(retries):
-        headers = {"User-Agent": user_agents[attempt % len(user_agents)]}
-        try:
-            response = requests.get(url, headers=headers, timeout=10)
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.HTTPError as e:
-            if response.status_code == 403:
-                time.sleep(2)  # wait before retry
-                continue  # try again with next user-agent
-            else:
-                raise e
-    raise Exception("Failed to fetch subreddit after multiple retries (403 Blocked).")
-
-def main():
-    subreddit = "HungryArtists"
-    try:
-        data = fetch_reddit_posts(subreddit)
-        posts = data["data"]["children"]
-        if not posts:
-            send_message(f"No posts found in r/{subreddit}")
-            return
-
-        for post in posts:
-            title = post["data"]["title"]
-            url = "https://reddit.com" + post["data"]["permalink"]
-            message = f"📌 {title}\n{url}"
-            send_message(message)
-
-    except Exception as e:
-        send_message(f"❌ Error: {e}")
+    payload = {"chat_id": CHAT_ID, "text": text}
+    res = requests.post(url, json=payload)
+    res.raise_for_status()
 
 if __name__ == "__main__":
-    main()
+    try:
+        posts = fetch_posts()
+        for post in posts:
+            title = post["data"]["title"]
+            link = "https://reddit.com" + post["data"]["permalink"]
+            message = f"📌 {title}\n{link}"
+            send_to_telegram(message)
+        print("✅ Sent posts to Telegram")
+    except Exception as e:
+        print(f"❌ Error: {e}")
