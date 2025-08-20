@@ -2,8 +2,8 @@ name: Send Reddit Posts to Telegram (Auto)
 
 on:
   schedule:
-    - cron: "0 * * * *"   # runs every hour on the hour
-  workflow_dispatch:      # keep manual trigger too
+    - cron: "0 * * * *"   # runs every hour
+  workflow_dispatch:      # allow manual trigger too
 
 jobs:
   reddit-telegram:
@@ -18,7 +18,14 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests praw
+        run: pip install requests
+
+      # Restore cached sent_posts.txt
+      - name: Restore cache
+        uses: actions/cache@v3
+        with:
+          path: sent_posts.txt
+          key: reddit-sent-posts
 
       - name: Run script
         run: python fetch_reddit.py
