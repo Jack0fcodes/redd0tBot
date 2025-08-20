@@ -1,6 +1,6 @@
 name: Send Reddit Posts to Telegram (Auto)
 
-on:
+off:
   schedule:
     - cron: "0 * * * *"   # runs every hour
   workflow_dispatch:      # allow manual trigger too
