@@ -18,11 +18,11 @@ def get_reddit_token():
     res.raise_for_status()
     return res.json()["access_token"]
 
-# Fetch subreddit posts
-def fetch_posts(subreddit="HungryArtists", limit=3):
+# Fetch newest subreddit posts
+def fetch_posts(subreddit, limit=3):
     token = get_reddit_token()
     headers = {"Authorization": f"bearer {token}", "User-Agent": USER_AGENT}
-    url = f"https://oauth.reddit.com/r/{subreddit}/hot?limit={limit}"
+    url = f"https://oauth.reddit.com/r/{subreddit}/new?limit={limit}"
     res = requests.get(url, headers=headers)
     res.raise_for_status()
     return res.json()["data"]["children"]
@@ -36,12 +36,27 @@ def send_to_telegram(text):
 
 if __name__ == "__main__":
     try:
-        posts = fetch_posts()
-        for post in posts:
-            title = post["data"]["title"]
-            link = "https://reddit.com" + post["data"]["permalink"]
-            message = f"📌 {title}\n{link}"
-            send_to_telegram(message)
-        print("✅ Sent posts to Telegram")
+        subreddits = ["HungryArtists", "commissions", "artcommission"]  # Add more here!
+        keywords = ["hiring", "looking for"]
+        limit = 5  # or any number you want
+
+        filtered_posts = []
+        for subreddit in subreddits:
+            posts = fetch_posts(subreddit, limit=limit)
+            for post in posts:
+                data = post["data"]
+                content = (data.get("title", "") + " " + data.get("selftext", "")).lower()
+                if any(keyword in content for keyword in keywords):
+                    filtered_posts.append((subreddit, post))
+
+        if filtered_posts:
+            for subreddit, post in filtered_posts:
+                title = post["data"]["title"]
+                link = "https://reddit.com" + post["data"]["permalink"]
+                message = f"📌 [{subreddit}] {title}\n{link}"
+                send_to_telegram(message)
+            print("✅ Sent filtered posts to Telegram")
+        else:
+            print("⚠️ No posts found with specified keywords")
     except Exception as e:
         print(f"❌ Error: {e}")
