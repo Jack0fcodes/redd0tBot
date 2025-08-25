@@ -1,12 +1,10 @@
-name: Send Reddit Posts to Telegram (Auto)
+name: Send Reddit Posts to Telegram (Test)
 
-off:
-  schedule:
-    - cron: "0 * * * *"   # runs every hour
-  workflow_dispatch:      # allow manual trigger too
+on:
+  workflow_dispatch: # manual run only
 
 jobs:
-  reddit-telegram:
+  reddit-telegram-test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,18 +18,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      # Restore cached sent_posts.txt
-      - name: Restore cache
-        uses: actions/cache@v3
-        with:
-          path: sent_posts.txt
-          key: reddit-sent-posts
-
       - name: Run script
-        run: python fetch_reddit.py
         env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
-          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+        run: python fetch_reddit.py
