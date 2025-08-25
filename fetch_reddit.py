@@ -19,7 +19,7 @@ def get_reddit_token():
     return res.json()["access_token"]
 
 # Fetch newest subreddit posts
-def fetch_posts(subreddit, limit=3):
+def fetch_posts(subreddit, limit=5):
     token = get_reddit_token()
     headers = {"Authorization": f"bearer {token}", "User-Agent": USER_AGENT}
     url = f"https://oauth.reddit.com/r/{subreddit}/new?limit={limit}"
@@ -36,31 +36,13 @@ def send_to_telegram(text):
 
 if __name__ == "__main__":
     try:
-        # Updated subreddits list (duplicates removed)
         subreddits = [
-            "HungryArtists",
-            "commissions",
-            "artcommission",
-            "artcommissions",
-            "artisthirecommission",
-            "announcements",
-            "Artcommission",
-            "Artistsforhire",
-            "artstore",
-            "ComicBookCollabs",
-            "commissionart",
-            "Commissions_",
-            "Commissions_rh",
-            "DesignJobs",
-            "dndcommissions",
-            "FurryCommissions",
-            "FursCommissions",
-            "hireanartist",
-            "HungryArtistsFed",
-            "starvingartist",
-            "DrawForMe",
-            "CatsWithDogs",
-            "starvingartists"
+            "HungryArtists", "commissions", "artcommission", "artcommissions",
+            "artisthirecommission", "announcements", "Artcommission", "Artistsforhire",
+            "artstore", "ComicBookCollabs", "commissionart", "Commissions_", "Commissions_rh",
+            "DesignJobs", "dndcommissions", "FurryCommissions", "FursCommissions",
+            "hireanartist", "HungryArtistsFed", "starvingartist", "DrawForMe",
+            "CatsWithDogs", "starvingartists"
         ]
         keywords = [
             "hiring",
@@ -76,25 +58,18 @@ if __name__ == "__main__":
             "[LOOKING FOR]",
             "[looking for]"
         ]
-        limit = 5  # You can change this as needed
+        limit = 5  # Number of new posts to fetch per subreddit
 
-        filtered_posts = []
         for subreddit in subreddits:
             posts = fetch_posts(subreddit, limit=limit)
             for post in posts:
                 data = post["data"]
                 content = (data.get("title", "") + " " + data.get("selftext", "")).lower()
                 if any(keyword.lower() in content for keyword in keywords):
-                    filtered_posts.append((subreddit, post))
-
-        if filtered_posts:
-            for subreddit, post in filtered_posts:
-                title = post["data"]["title"]
-                link = "https://reddit.com" + post["data"]["permalink"]
-                message = f"📌 [{subreddit}] {title}\n{link}"
-                send_to_telegram(message)
-            print("✅ Sent filtered posts to Telegram")
-        else:
-            print("⚠️ No posts found with specified keywords")
+                    title = data.get("title", "")
+                    link = "https://reddit.com" + data.get("permalink", "")
+                    message = f"📌 [{subreddit}] {title}\n{link}"
+                    send_to_telegram(message)
+        print("✅ Sent filtered posts to Telegram")
     except Exception as e:
         print(f"❌ Error: {e}")
