@@ -36,9 +36,47 @@ def send_to_telegram(text):
 
 if __name__ == "__main__":
     try:
-        subreddits = ["HungryArtists", "commissions", "artcommission"]  # Add more here!
-        keywords = ["hiring", "looking for"]
-        limit = 5  # or any number you want
+        # Updated subreddits list (duplicates removed)
+        subreddits = [
+            "HungryArtists",
+            "commissions",
+            "artcommission",
+            "artcommissions",
+            "artisthirecommission",
+            "announcements",
+            "Artcommission",
+            "Artistsforhire",
+            "artstore",
+            "ComicBookCollabs",
+            "commissionart",
+            "Commissions_",
+            "Commissions_rh",
+            "DesignJobs",
+            "dndcommissions",
+            "FurryCommissions",
+            "FursCommissions",
+            "hireanartist",
+            "HungryArtistsFed",
+            "starvingartist",
+            "DrawForMe",
+            "CatsWithDogs",
+            "starvingartists"
+        ]
+        keywords = [
+            "hiring",
+            "looking for",
+            "[HIRING]",
+            "[Hiring]",
+            "[hiring]",
+            "[looking for artist]",
+            "[Looking for artist ]",
+            "[Looking for Artist ]",
+            "[Looking For Artist ]",
+            "[LOOKING FOR ARTIST]",
+            "[LOOKING FOR]",
+            "[looking for]"
+        ]
+        limit = 5  # You can change this as needed
 
         filtered_posts = []
         for subreddit in subreddits:
@@ -46,7 +84,7 @@ if __name__ == "__main__":
             for post in posts:
                 data = post["data"]
                 content = (data.get("title", "") + " " + data.get("selftext", "")).lower()
-                if any(keyword in content for keyword in keywords):
+                if any(keyword.lower() in content for keyword in keywords):
                     filtered_posts.append((subreddit, post))
 
         if filtered_posts:
