@@ -6,7 +6,7 @@ import time
 # Load secrets
 CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
 CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
-USER_AGENT = os.getenv("USER_AGENT", "RedditBot/0.1")
+USER_AGENT = os.getenv("REDDIT_USER_AGENT", "RedditBot/0.1")
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
@@ -43,15 +43,17 @@ if __name__ == "__main__":
             "hireanartist", "HungryArtistsFed", "starvingartist", "DrawForMe",
             "CatsWithDogs", "starvingartists"
         ]
+        # Only match the specific tags and phrases, not "hire" alone
         keywords = [
             r"\[HIRING\]", r"\[Hiring\]", r"\[hiring\]",
             r"\[looking for artist\]", r"\[Looking for artist \]", r"\[Looking for Artist \]",
             r"\[Looking For Artist \]", r"\[LOOKING FOR ARTIST\]", r"\[LOOKING FOR\]", r"\[looking for\]",
             r"\bhiring\b", r"\blooking for artist\b", r"\blooking for\b"
+            # DO NOT include r"\bhire\b" or similar
         ]
         patterns = [re.compile(k, re.IGNORECASE) for k in keywords]
         limit = 5
-        hours_limit = 6  # only fetch posts newer than this many hours
+        hours_limit = 6  # fetch posts newer than this many hours
 
         current_time = int(time.time())
 
@@ -64,6 +66,7 @@ if __name__ == "__main__":
                 if hours_ago > hours_limit:
                     continue  # Skip posts older than hours_limit
                 content = (data.get("title", "") + " " + data.get("selftext", ""))
+                # Only match if pattern, NOT "hire" alone
                 if any(pattern.search(content) for pattern in patterns):
                     title = data.get("title", "")
                     author = data.get("author", "")
