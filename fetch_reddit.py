@@ -2,6 +2,7 @@ import os
 import requests
 import re
 import time
+import json
 
 # Load secrets
 CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
@@ -33,6 +34,17 @@ def send_to_telegram(text):
     res = requests.post(url, json=payload)
     res.raise_for_status()
 
+def load_sent_ids(filename):
+    try:
+        with open(filename, 'r') as f:
+            return set(json.load(f))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set()
+
+def save_sent_ids(filename, sent_ids):
+    with open(filename, 'w') as f:
+        json.dump(list(sent_ids), f)
+
 if __name__ == "__main__":
     try:
         subreddits = [
@@ -55,12 +67,18 @@ if __name__ == "__main__":
         limit = 5
         hours_limit = 6  # fetch posts newer than this many hours
 
+        sent_ids_file = "sent_post_ids.json"
+        sent_ids = load_sent_ids(sent_ids_file)
         current_time = int(time.time())
+        new_sent = False
 
         for subreddit in subreddits:
             posts = fetch_posts(subreddit, limit=limit)
             for post in posts:
                 data = post["data"]
+                post_id = data.get("id", "")
+                if post_id in sent_ids:
+                    continue  # Skip already sent posts
                 post_time = int(data.get("created_utc", 0))
                 hours_ago = (current_time - post_time) / 3600
                 if hours_ago > hours_limit:
@@ -84,6 +102,12 @@ if __name__ == "__main__":
                         f"{link}"
                     )
                     send_to_telegram(message)
-        print("✅ Sent filtered posts to Telegram")
+                    sent_ids.add(post_id)
+                    new_sent = True
+
+        if new_sent:
+            save_sent_ids(sent_ids_file, sent_ids)
+
+        print("✅ Sent filtered posts to Telegram (no repeats)")
     except Exception as e:
         print(f"❌ Error: {e}")
