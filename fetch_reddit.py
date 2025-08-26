@@ -33,16 +33,16 @@ def send_to_telegram(text):
     res = requests.post(url, json=payload)
     res.raise_for_status()
 
+def save_post_txt(filename, post_data):
+    with open(filename, 'a', encoding='utf-8') as f:
+        f.write(post_data + '\n' + '-'*40 + '\n')
+
 def load_sent_ids_txt(filename):
     try:
-        with open(filename, 'r') as f:
-            return set(line.strip() for line in f if line.strip())
+        with open(filename, 'r', encoding='utf-8') as f:
+            return set(re.findall(r"ID: (\w+)", f.read()))
     except FileNotFoundError:
         return set()
-
-def save_sent_id_txt(filename, post_id):
-    with open(filename, 'a') as f:
-        f.write(post_id + '\n')
 
 if __name__ == "__main__":
     try:
@@ -54,20 +54,18 @@ if __name__ == "__main__":
             "hireanartist", "HungryArtistsFed", "starvingartist", "DrawForMe",
             "CatsWithDogs", "starvingartists"
         ]
-        # Only match the specific tags and phrases, not "hire" alone
         keywords = [
             r"\[HIRING\]", r"\[Hiring\]", r"\[hiring\]",
             r"\[looking for artist\]", r"\[Looking for artist \]", r"\[Looking for Artist \]",
             r"\[Looking For Artist \]", r"\[LOOKING FOR ARTIST\]", r"\[LOOKING FOR\]", r"\[looking for\]",
             r"\bhiring\b", r"\blooking for artist\b", r"\blooking for\b"
-            # DO NOT include r"\bhire\b" or similar
         ]
         patterns = [re.compile(k, re.IGNORECASE) for k in keywords]
         limit = 5
-        hours_limit = 6  # fetch posts newer than this many hours
+        hours_limit = 6
 
-        sent_ids_txt_file = "post_reddit.txt"
-        sent_ids = load_sent_ids_txt(sent_ids_txt_file)
+        post_txt_file = "post_reddit.txt"
+        sent_ids = load_sent_ids_txt(post_txt_file)
         current_time = int(time.time())
 
         for subreddit in subreddits:
@@ -76,13 +74,12 @@ if __name__ == "__main__":
                 data = post["data"]
                 post_id = data.get("id", "")
                 if post_id in sent_ids:
-                    continue  # Skip already sent posts
+                    continue  # Skip already stored/sent posts
                 post_time = int(data.get("created_utc", 0))
                 hours_ago = (current_time - post_time) / 3600
                 if hours_ago > hours_limit:
-                    continue  # Skip posts older than hours_limit
+                    continue
                 content = (data.get("title", "") + " " + data.get("selftext", ""))
-                # Only match if pattern, NOT "hire" alone
                 if any(pattern.search(content) for pattern in patterns):
                     title = data.get("title", "")
                     author = data.get("author", "")
@@ -93,16 +90,20 @@ if __name__ == "__main__":
                         if (current_time - post_time) >= 60
                         else f"{current_time - post_time}s ago"
                     )
-                    message = (
-                        f"📌 [{subreddit}] {title}\n"
+                    post_data = (
+                        f"ID: {post_id}\n"
+                        f"Subreddit: {subreddit}\n"
+                        f"Title: {title}\n"
                         f"Author: {author}\n"
                         f"Posted: {time_ago}\n"
-                        f"{link}"
+                        f"Link: {link}\n"
+                        f"Content: {data.get('selftext', '')}"
                     )
-                    # Store post ID before sending to Telegram
-                    save_sent_id_txt(sent_ids_txt_file, post_id)
-                    send_to_telegram(message)
+                    save_post_txt(post_txt_file, post_data)
+                    send_to_telegram(
+                        f"📌 [{subreddit}] {title}\nAuthor: {author}\nPosted: {time_ago}\n{link}"
+                    )
 
-        print("✅ Sent filtered posts to Telegram (no repeats, tracked in post_reddit.txt)")
+        print("✅ Filtered posts saved to post_reddit.txt and sent to Telegram!")
     except Exception as e:
         print(f"❌ Error: {e}")
