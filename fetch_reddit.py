@@ -1,11 +1,12 @@
 import os
 import requests
 import re
+import time
 
 # Load secrets
 CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
 CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
-USER_AGENT = os.getenv("REDDIT_USER_AGENT")
+USER_AGENT = os.getenv("USER_AGENT", "RedditBot/0.1")
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
@@ -39,35 +40,46 @@ if __name__ == "__main__":
             "artisthirecommission", "announcements", "Artcommission", "Artistsforhire",
             "artstore", "ComicBookCollabs", "commissionart", "Commissions_", "Commissions_rh",
             "DesignJobs", "dndcommissions", "FurryCommissions", "FursCommissions",
-            "hireanartist",  "starvingartist", "DrawForMe",
+            "hireanartist", "HungryArtistsFed", "starvingartist", "DrawForMe",
             "CatsWithDogs", "starvingartists"
         ]
-        # Split into two types: bracketed tags and word matchers
-        bracket_keywords = [
+        keywords = [
             r"\[HIRING\]", r"\[Hiring\]", r"\[hiring\]",
             r"\[looking for artist\]", r"\[Looking for artist \]", r"\[Looking for Artist \]",
-            r"\[Looking For Artist \]", r"\[LOOKING FOR ARTIST\]", r"\[LOOKING FOR\]", r"\[looking for\]"
+            r"\[Looking For Artist \]", r"\[LOOKING FOR ARTIST\]", r"\[LOOKING FOR\]", r"\[looking for\]",
+            r"\bhiring\b", r"\blooking for artist\b", r"\blooking for\b"
         ]
-        # Use word boundaries for plain keywords
-        word_keywords = [
-            r"\bhiring\b",
-            r"\blooking for\b"
-        ]
+        patterns = [re.compile(k, re.IGNORECASE) for k in keywords]
         limit = 5
+        hours_limit = 6  # only fetch posts newer than this many hours
 
-        # Compile regex patterns (case-insensitive)
-        patterns = [re.compile(bk, re.IGNORECASE) for bk in bracket_keywords] + \
-                   [re.compile(wk, re.IGNORECASE) for wk in word_keywords]
+        current_time = int(time.time())
 
         for subreddit in subreddits:
             posts = fetch_posts(subreddit, limit=limit)
             for post in posts:
                 data = post["data"]
+                post_time = int(data.get("created_utc", 0))
+                hours_ago = (current_time - post_time) / 3600
+                if hours_ago > hours_limit:
+                    continue  # Skip posts older than hours_limit
                 content = (data.get("title", "") + " " + data.get("selftext", ""))
                 if any(pattern.search(content) for pattern in patterns):
                     title = data.get("title", "")
+                    author = data.get("author", "")
                     link = "https://reddit.com" + data.get("permalink", "")
-                    message = f"📌 [{subreddit}] {title}\n{link}"
+                    time_ago = (
+                        f"{int(hours_ago)}h ago" if hours_ago >= 1
+                        else f"{int((current_time - post_time) / 60)}m ago"
+                        if (current_time - post_time) >= 60
+                        else f"{current_time - post_time}s ago"
+                    )
+                    message = (
+                        f"📌 [{subreddit}] {title}\n"
+                        f"Author: {author}\n"
+                        f"Posted: {time_ago}\n"
+                        f"{link}"
+                    )
                     send_to_telegram(message)
         print("✅ Sent filtered posts to Telegram")
     except Exception as e:
