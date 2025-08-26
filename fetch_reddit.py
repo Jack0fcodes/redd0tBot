@@ -1,15 +1,14 @@
 import os
 import requests
-import re
-import time
 
 # Load secrets
 CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
 CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
-USER_AGENT = os.getenv("REDDIT_USER_AGENT", "RedditBot/0.1")
+USER_AGENT = os.getenv("REDDIT_USER_AGENT")
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
+# Get Reddit OAuth token
 def get_reddit_token():
     auth = requests.auth.HTTPBasicAuth(CLIENT_ID, CLIENT_SECRET)
     data = {"grant_type": "client_credentials"}
@@ -19,7 +18,8 @@ def get_reddit_token():
     res.raise_for_status()
     return res.json()["access_token"]
 
-def fetch_posts(subreddit, limit=5):
+# Fetch newest subreddit posts
+def fetch_posts(subreddit, limit=3):
     token = get_reddit_token()
     headers = {"Authorization": f"bearer {token}", "User-Agent": USER_AGENT}
     url = f"https://oauth.reddit.com/r/{subreddit}/new?limit={limit}"
@@ -27,83 +27,36 @@ def fetch_posts(subreddit, limit=5):
     res.raise_for_status()
     return res.json()["data"]["children"]
 
+# Send to Telegram
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {"chat_id": CHAT_ID, "text": text}
     res = requests.post(url, json=payload)
     res.raise_for_status()
 
-def save_post_txt(filename, post_data):
-    with open(filename, 'a', encoding='utf-8') as f:
-        f.write(post_data + '\n' + '-'*40 + '\n')
-
-def load_sent_ids_txt(filename):
-    try:
-        with open(filename, 'r', encoding='utf-8') as f:
-            return set(re.findall(r"ID: (\w+)", f.read()))
-    except FileNotFoundError:
-        return set()
-
 if __name__ == "__main__":
     try:
-        subreddits = [
-            "HungryArtists", "commissions", "artcommission", "artcommissions",
-            "artisthirecommission", "announcements", "Artcommission", "Artistsforhire",
-            "artstore", "ComicBookCollabs", "commissionart", "Commissions_", "Commissions_rh",
-            "DesignJobs", "dndcommissions", "FurryCommissions", "FursCommissions",
-            "hireanartist", "HungryArtistsFed", "starvingartist", "DrawForMe",
-            "CatsWithDogs", "starvingartists"
-        ]
-        keywords = [
-            r"\[HIRING\]", r"\[Hiring\]", r"\[hiring\]",
-            r"\[looking for artist\]", r"\[Looking for artist \]", r"\[Looking for Artist \]",
-            r"\[Looking For Artist \]", r"\[LOOKING FOR ARTIST\]", r"\[LOOKING FOR\]", r"\[looking for\]",
-            r"\bhiring\b", r"\blooking for artist\b", r"\blooking for\b"
-        ]
-        patterns = [re.compile(k, re.IGNORECASE) for k in keywords]
-        limit = 5
-        hours_limit = 6
+        subreddits = ["HungryArtists", "commissions", "artcommission"]  # Add more here!
+        keywords = ["hiring", "looking for"]
+        limit = 5  # or any number you want
 
-        post_txt_file = "post_reddit.txt"
-        sent_ids = load_sent_ids_txt(post_txt_file)
-        current_time = int(time.time())
-
+        filtered_posts = []
         for subreddit in subreddits:
             posts = fetch_posts(subreddit, limit=limit)
             for post in posts:
                 data = post["data"]
-                post_id = data.get("id", "")
-                if post_id in sent_ids:
-                    continue  # Skip already stored/sent posts
-                post_time = int(data.get("created_utc", 0))
-                hours_ago = (current_time - post_time) / 3600
-                if hours_ago > hours_limit:
-                    continue
-                content = (data.get("title", "") + " " + data.get("selftext", ""))
-                if any(pattern.search(content) for pattern in patterns):
-                    title = data.get("title", "")
-                    author = data.get("author", "")
-                    link = "https://reddit.com" + data.get("permalink", "")
-                    time_ago = (
-                        f"{int(hours_ago)}h ago" if hours_ago >= 1
-                        else f"{int((current_time - post_time) / 60)}m ago"
-                        if (current_time - post_time) >= 60
-                        else f"{current_time - post_time}s ago"
-                    )
-                    post_data = (
-                        f"ID: {post_id}\n"
-                        f"Subreddit: {subreddit}\n"
-                        f"Title: {title}\n"
-                        f"Author: {author}\n"
-                        f"Posted: {time_ago}\n"
-                        f"Link: {link}\n"
-                        f"Content: {data.get('selftext', '')}"
-                    )
-                    save_post_txt(post_txt_file, post_data)
-                    send_to_telegram(
-                        f"📌 [{subreddit}] {title}\nAuthor: {author}\nPosted: {time_ago}\n{link}"
-                    )
+                content = (data.get("title", "") + " " + data.get("selftext", "")).lower()
+                if any(keyword in content for keyword in keywords):
+                    filtered_posts.append((subreddit, post))
 
-        print("✅ Filtered posts saved to post_reddit.txt and sent to Telegram!")
+        if filtered_posts:
+            for subreddit, post in filtered_posts:
+                title = post["data"]["title"]
+                link = "https://reddit.com" + post["data"]["permalink"]
+                message = f"📌 [{subreddit}] {title}\n{link}"
+                send_to_telegram(message)
+            print("✅ Sent filtered posts to Telegram")
+        else:
+            print("⚠️ No posts found with specified keywords")
     except Exception as e:
         print(f"❌ Error: {e}")
