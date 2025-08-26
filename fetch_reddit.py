@@ -70,7 +70,6 @@ if __name__ == "__main__":
         sent_ids_file = "sent_post_ids.json"
         sent_ids = load_sent_ids(sent_ids_file)
         current_time = int(time.time())
-        new_sent = False
 
         for subreddit in subreddits:
             posts = fetch_posts(subreddit, limit=limit)
@@ -103,10 +102,9 @@ if __name__ == "__main__":
                     )
                     send_to_telegram(message)
                     sent_ids.add(post_id)
-                    new_sent = True
 
-        if new_sent:
-            save_sent_ids(sent_ids_file, sent_ids)
+        # Always save even if nothing new, so file is created on first run
+        save_sent_ids(sent_ids_file, sent_ids)
 
         print("✅ Sent filtered posts to Telegram (no repeats)")
     except Exception as e:
