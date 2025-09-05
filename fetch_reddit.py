@@ -1,4 +1,3 @@
-
 import os
 import requests
 
@@ -37,9 +36,9 @@ def send_to_telegram(text):
 
 if __name__ == "__main__":
     try:
-        subreddits = ["HungryArtists", "commissions", "DesignJobs", "artcommission"]  # Add more here!
+        subreddits = ["HungryArtists", "commissions", "DesignJobs", "artcommission"]
         keywords = ["hiring", "looking for"]
-        limit = 5  # or any number you want
+        limit = 5  
 
         filtered_posts = []
         for subreddit in subreddits:
@@ -51,12 +50,19 @@ if __name__ == "__main__":
                     filtered_posts.append((subreddit, post))
 
         if filtered_posts:
-            for subreddit, post in filtered_posts:
-                title = post["data"]["title"]
-                link = "https://reddit.com" + post["data"]["permalink"]
-                message = f"📌 [{subreddit}] {title}\n{link}"
-                send_to_telegram(message)
-            print("✅ Sent filtered posts to Telegram")
+            with open("post_reddit.txt", "w", encoding="utf-8") as f:  # overwrite file each run
+                for subreddit, post in filtered_posts:
+                    title = post["data"]["title"]
+                    link = "https://reddit.com" + post["data"]["permalink"]
+                    message = f"📌 [{subreddit}] {title}\n{link}"
+
+                    # save to txt
+                    f.write(message + "\n\n")
+
+                    # send to Telegram
+                    send_to_telegram(message)
+
+            print("✅ Saved posts to post_reddit.txt and sent to Telegram")
         else:
             print("⚠️ No posts found with specified keywords")
     except Exception as e:
