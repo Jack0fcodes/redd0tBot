@@ -57,7 +57,7 @@ if __name__ == "__main__":
                     message = f"📌 [{subreddit}] {title}\n{link}"
 
                     f.write(message + "\n\n")
-                    f.flush()  # ensure data is written
+                    f.flush()
                     send_to_telegram(message)
 
             print("✅ Saved posts to post_reddit.txt and sent to Telegram")
