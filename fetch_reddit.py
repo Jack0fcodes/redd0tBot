@@ -1,5 +1,6 @@
 import os
 import requests
+import csv
 
 # Load secrets
 CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
@@ -7,6 +8,8 @@ CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
 USER_AGENT = os.getenv("REDDIT_USER_AGENT")
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+
+CSV_FILE = "posts_reddit.csv"
 
 # Get Reddit OAuth token
 def get_reddit_token():
@@ -34,11 +37,23 @@ def send_to_telegram(text):
     res = requests.post(url, json=payload)
     res.raise_for_status()
 
+# Save posts to CSV
+def save_to_csv(posts):
+    file_exists = os.path.isfile(CSV_FILE)
+    with open(CSV_FILE, "a", newline="", encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        if not file_exists:
+            writer.writerow(["Subreddit", "Title", "Link"])  # write header once
+        for subreddit, post in posts:
+            title = post["data"]["title"]
+            link = "https://reddit.com" + post["data"]["permalink"]
+            writer.writerow([subreddit, title, link])
+
 if __name__ == "__main__":
     try:
-        subreddits = ["HungryArtists", "commissions", "DesignJobs", "artcommission"]
+        subreddits = ["HungryArtists", "commissions", "artcommission"]
         keywords = ["hiring", "looking for"]
-        limit = 5  
+        limit = 5
 
         filtered_posts = []
         for subreddit in subreddits:
@@ -50,21 +65,18 @@ if __name__ == "__main__":
                     filtered_posts.append((subreddit, post))
 
         if filtered_posts:
-            with open("post_reddit.txt", "w", encoding="utf-8") as f:
-                for subreddit, post in filtered_posts:
-                    title = post["data"]["title"]
-                    link = "https://reddit.com" + post["data"]["permalink"]
-                    message = f"📌 [{subreddit}] {title}\n{link}"
+            # Send to Telegram
+            for subreddit, post in filtered_posts:
+                title = post["data"]["title"]
+                link = "https://reddit.com" + post["data"]["permalink"]
+                message = f"📌 [{subreddit}] {title}\n{link}"
+                send_to_telegram(message)
 
-                    f.write(message + "\n\n")
-                    f.flush()
-                    send_to_telegram(message)
+            # Save to CSV
+            save_to_csv(filtered_posts)
 
-            print("✅ Saved posts to post_reddit.txt and sent to Telegram")
+            print("✅ Sent filtered posts to Telegram & saved to CSV")
         else:
-            with open("post_reddit.txt", "w", encoding="utf-8") as f:
-                f.write("⚠️ No posts found with specified keywords\n")
             print("⚠️ No posts found with specified keywords")
-
     except Exception as e:
         print(f"❌ Error: {e}")
