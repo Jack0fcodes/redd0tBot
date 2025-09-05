@@ -37,7 +37,7 @@ def send_to_telegram(text):
 
 if __name__ == "__main__":
     try:
-        subreddits = ["HungryArtists", "commissions", "artcommission"]  # Add more here!
+        subreddits = ["HungryArtists", "commissions", "DesignJobs", "artcommission"]  # Add more here!
         keywords = ["hiring", "looking for"]
         limit = 5  # or any number you want
 
