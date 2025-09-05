@@ -5,8 +5,6 @@ import requests
 CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
 CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET")
 USER_AGENT = os.getenv("REDDIT_USER_AGENT")
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # Get Reddit OAuth token
 def get_reddit_token():
@@ -19,7 +17,7 @@ def get_reddit_token():
     return res.json()["access_token"]
 
 # Fetch newest subreddit posts
-def fetch_posts(subreddit, limit=3):
+def fetch_posts(subreddit, limit=5):
     token = get_reddit_token()
     headers = {"Authorization": f"bearer {token}", "User-Agent": USER_AGENT}
     url = f"https://oauth.reddit.com/r/{subreddit}/new?limit={limit}"
@@ -27,36 +25,53 @@ def fetch_posts(subreddit, limit=3):
     res.raise_for_status()
     return res.json()["data"]["children"]
 
-# Send to Telegram
-def send_to_telegram(text):
-    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-    payload = {"chat_id": CHAT_ID, "text": text}
-    res = requests.post(url, json=payload)
-    res.raise_for_status()
+# Load already saved IDs
+def load_saved_ids(filename="post_ids.txt"):
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8") as f:
+            return set(line.strip() for line in f)
+    return set()
+
+# Save new IDs
+def save_new_ids(new_ids, filename="post_ids.txt"):
+    with open(filename, "a", encoding="utf-8") as f:
+        for pid in new_ids:
+            f.write(pid + "\n")
 
 if __name__ == "__main__":
     try:
-        subreddits = ["HungryArtists", "commissions", "artcommission"]  # Add more here!
-        keywords = ["hiring", "looking for"]
-        limit = 5  # or any number you want
+        subreddits = ["HungryArtists", "commissions", "artcommission"]
+        limit = 5  
 
-        filtered_posts = []
+        saved_ids = load_saved_ids()
+        new_ids = set()
+        new_posts = []
+
         for subreddit in subreddits:
             posts = fetch_posts(subreddit, limit=limit)
             for post in posts:
                 data = post["data"]
-                content = (data.get("title", "") + " " + data.get("selftext", "")).lower()
-                if any(keyword in content for keyword in keywords):
-                    filtered_posts.append((subreddit, post))
+                post_id = data["id"]
 
-        if filtered_posts:
-            for subreddit, post in filtered_posts:
-                title = post["data"]["title"]
-                link = "https://reddit.com" + post["data"]["permalink"]
-                message = f"📌 [{subreddit}] {title}\n{link}"
-                send_to_telegram(message)
-            print("✅ Sent filtered posts to Telegram")
+                # Skip if already saved
+                if post_id in saved_ids:
+                    continue
+
+                title = data.get("title", "")
+                link = "https://reddit.com" + data.get("permalink", "")
+                message = f"📌 [{subreddit}] {title}\n{link}\n\n"
+
+                new_posts.append(message)
+                new_ids.add(post_id)
+
+        if new_posts:
+            with open("post_reddit.txt", "w", encoding="utf-8") as f:  # overwrite with fresh results
+                f.writelines(new_posts)
+
+            save_new_ids(new_ids)
+
+            print(f"✅ Saved {len(new_posts)} new posts to post_reddit.txt")
         else:
-            print("⚠️ No posts found with specified keywords")
+            print("⚠️ No new posts found")
     except Exception as e:
         print(f"❌ Error: {e}")
