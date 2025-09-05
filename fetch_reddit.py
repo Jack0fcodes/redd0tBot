@@ -50,20 +50,21 @@ if __name__ == "__main__":
                     filtered_posts.append((subreddit, post))
 
         if filtered_posts:
-            with open("post_reddit.txt", "w", encoding="utf-8") as f:  # overwrite file each run
+            with open("post_reddit.txt", "w", encoding="utf-8") as f:
                 for subreddit, post in filtered_posts:
                     title = post["data"]["title"]
                     link = "https://reddit.com" + post["data"]["permalink"]
                     message = f"📌 [{subreddit}] {title}\n{link}"
 
-                    # save to txt
                     f.write(message + "\n\n")
-
-                    # send to Telegram
+                    f.flush()  # ensure data is written
                     send_to_telegram(message)
 
             print("✅ Saved posts to post_reddit.txt and sent to Telegram")
         else:
+            with open("post_reddit.txt", "w", encoding="utf-8") as f:
+                f.write("⚠️ No posts found with specified keywords\n")
             print("⚠️ No posts found with specified keywords")
+
     except Exception as e:
         print(f"❌ Error: {e}")
