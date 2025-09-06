@@ -42,13 +42,15 @@ def load_existing_ids():
     if not os.path.isfile(CSV_FILE):
         return set()
     with open(CSV_FILE, "r", encoding="utf-8") as f:
-        return {row[0] for row in csv.reader(f) if row and row[0] != "PostID"}
+        reader = csv.reader(f)
+        next(reader, None)  # skip header
+        return {row[0] for row in reader if row}
 
 # Save new posts to CSV
 def save_to_csv(posts):
     file_exists = os.path.isfile(CSV_FILE)
     with open(CSV_FILE, "a", newline="", encoding="utf-8") as csvfile:
-        writer = csv.writer(csvfile)
+        writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
         if not file_exists:
             writer.writerow(["PostID", "Subreddit", "Title", "Author", "URL"])  # header
         for subreddit, post in posts:
@@ -61,30 +63,14 @@ def save_to_csv(posts):
 if __name__ == "__main__":
     try:
         subreddits = [
-    "HungryArtists",
-    "commissions",
-    "DesignJobs",
-    "artcommission",
-    "artcommissions",
-    "artisthirecommission",
-    "announcements",
-    "Artcommission",
-    "Artistsforhire",
-    "artstore",
-    "ComicBookCollabs",
-    "commissionart",
-    "Commissions_",
-    "Commissions_rh",
-    "dndcommissions",
-    "FurryCommissions",
-    "FursCommissions",
-    "hireanartist",
-    "HungryArtistsFed",
-    "starvingartist",
-    "DrawForMe",
-    "CatsWithDogs",
-    "starvingartists"
-]
+            "HungryArtists", "commissions", "DesignJobs",
+            "artcommission", "artcommissions", "artisthirecommission",
+            "announcements", "Artcommission", "Artistsforhire", "artstore",
+            "ComicBookCollabs", "commissionart", "Commissions_",
+            "Commissions_rh", "dndcommissions", "FurryCommissions",
+            "FursCommissions", "hireanartist", "HungryArtistsFed",
+            "starvingartist", "DrawForMe", "CatsWithDogs", "starvingartists"
+        ]
         keywords = ["hiring", "looking for"]
         limit = 5
 
@@ -99,7 +85,6 @@ if __name__ == "__main__":
                 pid = data["id"]
                 title = data.get("title", "")
                 body = data.get("selftext", "")
-                link = "https://reddit.com" + data["permalink"]
                 content = (title + " " + body).lower()
 
                 # Only process new + keyword-matching posts
