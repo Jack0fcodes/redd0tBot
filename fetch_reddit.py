@@ -60,7 +60,31 @@ def save_to_csv(posts):
 
 if __name__ == "__main__":
     try:
-        subreddits = ["HungryArtists", "commissions", "DesignJobs"]
+        subreddits = [
+    "HungryArtists",
+    "commissions",
+    "DesignJobs",
+    "artcommission",
+    "artcommissions",
+    "artisthirecommission",
+    "announcements",
+    "Artcommission",
+    "Artistsforhire",
+    "artstore",
+    "ComicBookCollabs",
+    "commissionart",
+    "Commissions_",
+    "Commissions_rh",
+    "dndcommissions",
+    "FurryCommissions",
+    "FursCommissions",
+    "hireanartist",
+    "HungryArtistsFed",
+    "starvingartist",
+    "DrawForMe",
+    "CatsWithDogs",
+    "starvingartists"
+]
         keywords = ["hiring", "looking for"]
         limit = 5
 
