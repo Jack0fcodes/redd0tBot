@@ -1,7 +1,7 @@
 name: Send Reddit Posts to Telegram (Test)
 
 on:
-  workflow_dispatch: # manual run only
+  workflow_dispatch:
 
 permissions:
   contents: write
