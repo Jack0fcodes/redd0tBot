@@ -1,7 +1,9 @@
-name: Send Reddit Posts to Telegram (Test)
+name: Send Reddit Posts to Telegram (Every 10min)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # still allows manual runs
+  schedule:
+    - cron: "*/10 * * * *"   # run every 10 minutes
 
 permissions:
   contents: write
@@ -32,10 +34,14 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python fetch_reddit.py
 
-      - name: Commit updated CSV
+      - name: Commit updated CSV (if changed)
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
           git add posts_reddit.csv
-          git commit -m "Update reddit posts (CSV)" || echo "No changes to commit"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update reddit posts (CSV)"
+            git push
+          else
+            echo "No changes in CSV, skipping commit"
+          fi
