@@ -1,7 +1,7 @@
 import csv
 
 input_file = "posts_reddit.csv"
-output_file = "posts_reddit_clean.csv"
+output_file = "posts_reddit.csv"
 header = ["PostID", "Subreddit", "Title", "Author", "URL"]
 
 rows = []
