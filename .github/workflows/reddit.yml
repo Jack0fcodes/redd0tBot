@@ -45,3 +45,27 @@ jobs:
           else
             echo "No changes in CSV, skipping commit"
           fi
+
+  sync-to-lfa:
+    needs: reddit-telegram-test   # only run after CSV update job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout redd0tBot
+        uses: actions/checkout@v3
+
+      - name: Clone LFA (public repo)
+        run: git clone https://github.com/Jack0fcodes/LFA.git
+
+      - name: Copy CSV into LFA repo
+        run: |
+          cp posts_reddit.csv LFA/posts_reddit.csv
+          cd LFA
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add posts_reddit.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-sync CSV from redd0tBot"
+            git push https://x-access-token:${{ secrets.LFA_TOKEN }}@github.com/Jack0fcodes/LFA.git main
+          else
+            echo "No changes to sync, skipping push"
+          fi
