@@ -113,7 +113,7 @@ if __name__ == "__main__":
                 title = post["data"]["title"]
                 author = post["data"].get("author", "unknown")
                 link = "https://reddit.com" + post["data"]["permalink"]
-                message = f"📌 Subreddit: {subreddit}\nTitle: {title}\nAuthor: {author}\nURL: {link}"
+                message = f"Subreddit: {subreddit}\nTitle: {title}\nAuthor: {author}\nURL: {link}"
                 send_to_telegram(message)
 
             # Save to CSV archive
