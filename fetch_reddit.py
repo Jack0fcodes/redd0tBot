@@ -83,7 +83,6 @@ if __name__ == "__main__":
             "hireanartist",
             "HungryArtistsFed",
             "starvingartist",
-            "DrawForMe",
             "CatsWithDogs",
             "starvingartists"
         ]
