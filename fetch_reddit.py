@@ -79,7 +79,6 @@ if __name__ == "__main__":
             "dndcommissions",
             "gameDevClassifieds",
             "FurryCommissions",
-            "FursCommissions",
             "hireanartist",
             "HungryArtistsFed",
             "starvingartist",
