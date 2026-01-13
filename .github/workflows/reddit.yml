@@ -11,6 +11,8 @@ permissions:
 jobs:
   reddit-telegram:
     runs-on: ubuntu-latest
+    env:
+      SYNC_LFA: 'false'    # set to 'true' to enable the "Sync CSV to LFA repo" step
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -47,6 +49,7 @@ jobs:
           fi
 
       - name: Sync CSV to LFA repo
+        if: ${{ env.SYNC_LFA == 'true' }}
         run: |
           git clone https://github.com/Jack0fcodes/LFA.git
           cp posts_reddit.csv LFA/posts_reddit.csv
