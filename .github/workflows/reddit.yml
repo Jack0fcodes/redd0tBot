@@ -1,4 +1,4 @@
-name: Send Reddit Posts to Telegram (Every 10min)
+name: Send Reddit Posts to Telegram + Scout (Every 10min)
 
 on:
   workflow_dispatch:   # still allows manual runs
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  reddit-telegram:
+  reddit-notify:
     runs-on: ubuntu-latest
     env:
       SYNC_LFA: 'false'    # set to 'true' to enable the "Sync CSV to LFA repo" step
@@ -34,6 +34,8 @@ jobs:
           REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SCOUT_API_URL: ${{ secrets.SCOUT_API_URL }}
+          SCOUT_API_KEY: ${{ secrets.SCOUT_API_KEY }}
         run: python fetch_reddit.py
 
       - name: Commit updated CSV (if changed)
