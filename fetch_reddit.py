@@ -180,7 +180,48 @@ if __name__ == "__main__":
             "CatsWithDogs",
             "starvingartists"
         ]
-        keywords = ["hiring", "looking for"]
+        # Positive signals: a client is looking to hire an artist
+        include_keywords = [
+            "[hiring]",
+            "hiring",
+            "looking to hire",
+            "want to hire",
+            "need an artist",
+            "need a artist",
+            "need artist",
+            "need an illustrator",
+            "need illustrator",
+            "need a designer",
+            "need designer",
+            "[paid]",
+            "paying artist",
+            "paying illustrator",
+            "paying designer",
+        ]
+        # Negative signals: an artist is offering services (skip these)
+        exclude_keywords = [
+            "[for hire]",
+            "[fh]",
+            "for hire",
+            "looking for work",
+            "looking for a client",
+            "looking for clients",
+            "looking for commission",
+            "looking for commissions",
+            "open for commission",
+            "open for commissions",
+            "commissions open",
+            "commission open",
+            "taking commission",
+            "taking commissions",
+            "accepting commission",
+            "accepting commissions",
+            "portfolio in comment",
+            "dm for portfolio",
+            "dm for commission",
+            "my portfolio",
+            "my commission",
+        ]
         limit = 5
 
         # Ensure leads.json exists on disk (so the iOS app and `git add` never miss it)
@@ -202,8 +243,12 @@ if __name__ == "__main__":
                 link = "https://reddit.com" + data["permalink"]
                 content = (title + " " + body).lower()
 
-                # Only process new + keyword-matching posts
-                if any(keyword in content for keyword in keywords) and pid not in existing_ids:
+                has_include = any(k in content for k in include_keywords)
+                has_exclude = any(k in content for k in exclude_keywords)
+
+                # Client-hiring posts only: must have a positive signal,
+                # must not contain an artist-offering signal, must be new
+                if has_include and not has_exclude and pid not in existing_ids:
                     new_posts.append((subreddit, post))
 
         if new_posts:
