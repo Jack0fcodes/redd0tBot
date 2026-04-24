@@ -183,6 +183,11 @@ if __name__ == "__main__":
         keywords = ["hiring", "looking for"]
         limit = 5
 
+        # Ensure leads.json exists on disk (so the iOS app and `git add` never miss it)
+        if not os.path.isfile(LEADS_JSON_FILE):
+            with open(LEADS_JSON_FILE, "w", encoding="utf-8") as f:
+                json.dump([], f)
+
         # Load archive of IDs
         existing_ids = load_existing_ids()
 

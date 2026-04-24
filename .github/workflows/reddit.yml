@@ -42,7 +42,8 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
-          git add posts_reddit.csv leads.json
+          [ -f posts_reddit.csv ] && git add posts_reddit.csv || true
+          [ -f leads.json ] && git add leads.json || true
           if ! git diff --cached --quiet; then
             git commit -m "Update reddit posts (CSV + leads.json)"
             git push
