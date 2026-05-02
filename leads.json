@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1t235lc",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/reisart1",
+    "title": "[Hiring] I can draw your favorite character!! 100$ pencils 150$inks 200$colors ( digital or traditional ) one character - DM me *",
+    "content": "[Hiring] I can draw your favorite character!! 100$ pencils 150$inks 200$colors ( digital or traditional ) one character - DM me *",
+    "url": "https://reddit.com/r/HungryArtists/comments/1t235lc/hiring_i_can_draw_your_favorite_character_100/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-02T22:00:52Z"
+  },
+  {
+    "post_id": "1t22zi7",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/joco08",
+    "title": "3d artist needed for clothing",
+    "content": "3d artist needed for clothing\n\nLooking to hire a 3d artist to design and texture puritan/pligrim style clothing as shown in the pics. It's for an indie game. Primarily the male jackets and the white fabric most are wearing over their shoulders or necks both men and women. \n\n2 varieties of the male jackets (beige base color with fabric folds as in pics). 5 varieties of the shoulder drapes (2 medium sized and 3 smaller) which I think are called falling bands. \n\nThe edge decorative lace of the falling bands should be opacity driven not modeled in. Jackets should be seperate objects from the shoulder bands but they should align. \n\nNo rigging nor animating needed. \n\n$100 budget. Prefered native format is blender 3 or 4. Either fiverr (preferred) or Paypal goods for payment. I'm an indie dev so I wish I had more $ to offer but need to stay in budget. \n\nPBR materials or unreal. To be used in Unreal engine so poly count could be higher at 10k-20k (for the jackets). The jackets should have high detailed fabric (normals, roughs, etc) for closeups. 4k. \n\nI think I addressed all requirements but if not just ask\n\nAll images are from the 2015 horror movie The Witch\n\nI hope everyone is having a super awesome fantastic day!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1t22zi7/3d_artist_needed_for_clothing/",
+    "quality": "High Quality",
+    "budget": "$100",
+    "created_at": "2026-05-02T21:54:09Z"
+  },
+  {
     "post_id": "1t2203k",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-04-27T06:57:04Z"
-  },
-  {
-    "post_id": "1sww4jv",
-    "platform": "Reddit",
-    "source": "r/commissions",
-    "author": "u/superlatios11",
-    "title": "[HIRING] Pixel Art Animator $10-$15 per animation preferred, but I can negotiate.",
-    "content": "[HIRING] Pixel Art Animator $10-$15 per animation preferred, but I can negotiate.\n\nHello! I'm looking to hire an animator that specializes in pixel art for this project. It's to create some animations for a character for a platform fighting game. The character is Kiana Kaslana from Honkai Impact 3rd. \n\nThis work involves me sending reference videos/gifs and the animator would use the provided sprite to create animations resembling the references. The character is also going to change outfits into the two provided images for 2 animations as well so a new sprite would need to be created for those as well as a couple weapon sprites (the details of the two outfits can be simplified and may be required to if anything). \n\nComment your portfolio here and I'll send you a DM if you interest me. Thank you for taking time to read this and I look forward to working with any one of you!",
-    "url": "https://reddit.com/r/commissions/comments/1sww4jv/hiring_pixel_art_animator_1015_per_animation/",
-    "quality": "High Quality",
-    "budget": "$10-15",
-    "created_at": "2026-04-27T06:59:07Z"
-  },
-  {
-    "post_id": "1swqq5o",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/ClayHamster1821",
-    "title": "[Hiring] Looking for an artist to help design an original character.",
-    "content": "[Hiring] Looking for an artist to help design an original character.\n\nThank you for your interest! My budget is around $50-$70. I have a few vague ideas about the looks of the character, their apparel and what not, but nothing really in stone.",
-    "url": "https://reddit.com/r/artcommission/comments/1swqq5o/hiring_looking_for_an_artist_to_help_design_an/",
-    "quality": "High Quality",
-    "budget": "$50-70",
-    "created_at": "2026-04-27T02:20:35Z"
   }
 ]
