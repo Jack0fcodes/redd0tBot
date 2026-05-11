@@ -1,5 +1,53 @@
 [
   {
+    "post_id": "1taiwoa",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/Cyber_Imbiber",
+    "title": "[Hiring] I am making a fast, chaotic battle-simulator game. I need a game artist.",
+    "content": "[Hiring] I am making a fast, chaotic battle-simulator game. I need a game artist.\n\nI am making a battle simulator game where you play cards to summon waves of units to hold the line against massive swarms of enemies. Please watch this video to see the gameplay. [https://www.reddit.com/r/IndieDev/comments/1tags08/i\\_made\\_a\\_grey\\_boxed\\_game\\_but\\_what\\_should\\_the\\_art/](https://www.reddit.com/r/IndieDev/comments/1tags08/i_made_a_grey_boxed_game_but_what_should_the_art/)\n\nIt is finally time to start developing the artwork 🎉\n\n***Notes about the game:***  \n\\- The game is made in a custom C# engine so that I could have full control over the spatial partitioning and physics to maximize performance in a way not possible in Unity or UE5. In the video above (not the image), it reaches 12,000 rigidbodies doing physics calculations.\n\n\\- The theme, style, and art direction are all currently undecided. I was hoping that whoever I choose to hire could help me to find this.  \n\n\n***What I am needing:***  \n\\- Please do not message me if you are not an experienced game artist. There won't be enough time to onboard great artists who have an interest in game art but have never done it before.  \n\\- I would like to hire a mid-level or senior artist. I'm already a junior-level artist, and you can be my \"boss\" in this regard.  \n\\- Our strengths, personalities, and artistic identities should synergize well with each other  \n \n\n***What you will be doing:***  \n\\- Initially, we must establish style, art direction, and theming  \n\\- Once we do that, then we create the art assets for the game  \n\n\n***Regarding commitment:***  \n\\- For the first couple of weeks, 5-10 hours a week  \n\\- Once trust is established, we can talk about working for more hours (10-20 hours) and/or signing a contract (or not, depending on your preferences)  \n  \n***Regarding pay:***  \n\\- My budget is $10,000, and the pay will be by the hour.   \n\\- The rate will depend on seniority level. My target is $40 per hour. However, I am flexible. If your rates are more or less than this, then I will still work with you.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1taiwoa/hiring_i_am_making_a_fast_chaotic_battlesimulator/",
+    "quality": "High Quality",
+    "budget": "$10,000,",
+    "created_at": "2026-05-11T22:37:32Z"
+  },
+  {
+    "post_id": "1taimnt",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/alitheweeb",
+    "title": "[Hiring] Looking for Artist - Watercolour/Semirealistic",
+    "content": "[Hiring] Looking for Artist - Watercolour/Semirealistic\n\nHi everyone. Its the 2 year wedding anniversary for my wife and I this year and I'm hoping to get a blanket with a custom print made for her - I'm just on the lookout for an artist who could draw the print itself at the moment. \n\nThe print would include my wife and I with our dog at the centre of the print and our four cats in each corner. I'd hope to have some floral accents around the place as well - my budget is around $150 USD and I'm generally hoping for a semi-realistic watercolour style (mostly just not keen on an anime/chibi style for this).",
+    "url": "https://reddit.com/r/artcommission/comments/1taimnt/hiring_looking_for_artist_watercoloursemirealistic/",
+    "quality": "High Quality",
+    "budget": "$150",
+    "created_at": "2026-05-11T22:26:20Z"
+  },
+  {
+    "post_id": "1taiwsk",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/shadowjhunter1234",
+    "title": "[Hiring] Looking for an Artist to Create a Series of PNG YouTuber Avatar Poses",
+    "content": "[Hiring] Looking for an Artist to Create a Series of PNG YouTuber Avatar Poses\n\nHi all,\n\nI’m looking for an artist to create a set of avatar poses for my YouTube video essays. I’m after a realistic, slightly cartoon-styled version of myself — not anime-inspired.\n\nA few important notes:\n\n* No AI-generated artwork, please.\n* Commercial use rights are required, as I intend to monetise my videos.\n* I’m happy to credit you in my video descriptions and elsewhere where appropriate.\n\nThe budget is negotiable. Not in the thousands, but around $100 AUD+ depending on the scope and quality of the work.\n\nIf you’re interested, feel free to reach out with examples of your style and rates.\n\nThank you!",
+    "url": "https://reddit.com/r/artcommissions/comments/1taiwsk/hiring_looking_for_an_artist_to_create_a_series/",
+    "quality": "High Quality",
+    "budget": "$100",
+    "created_at": "2026-05-11T22:37:39Z"
+  },
+  {
+    "post_id": "1taijgy",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/AlwaysCycling53",
+    "title": "[PAID] Steam Capsule Art",
+    "content": "[PAID] Steam Capsule Art\n\nHi There,\n\nI need to improve all my steam capsule art.  I have no drawing skills all I did was put a title over a screen shot.  The first video on the steam page shows how the game works.\n\n[https://store.steampowered.com/app/4424780/JKRobots/?beta=0](https://store.steampowered.com/app/4424780/JKRobots/?beta=0)\n\nThe main problem I think I have is that it is hard to express how this game works in a thumbnail where the objects in it would be too small to show the scale of the game.  Also the game has decent game play but the 3D art is somewhat simple (I made it) and kept low res for lower end computers.\n\nI am hoping someone could figure out how to improve the capsule art while keeping true to what the game is.\n\nLet me know what you can do, how much you want and so on.  I am willing to go with whatever the artist thinks is good, I'm not a good judge of things.\n\n  \nJKRobots",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1taijgy/paid_steam_capsule_art/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-11T22:22:52Z"
+  },
+  {
     "post_id": "1tah89h",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2350,53 +2398,5 @@
     "quality": "High Quality",
     "budget": "$200",
     "created_at": "2026-05-05T16:23:29Z"
-  },
-  {
-    "post_id": "1t4hwx5",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/PakaGames",
-    "title": "[Paid] 2D animator wanted for a hand-painted metroidvania",
-    "content": "[Paid] 2D animator wanted for a hand-painted metroidvania\n\nHey,\n\nWe're a 2-person team, a programmer and an illustrator / art director, working on **Eden Lumina**, a 2D metroidvania set at the bottom of a giant chasm. Hand-painted aesthetic, rabbit protagonist, our own constructed in-world language (Mënalish). Visual reference points: Hollow Knight on the platforming side, Made in Abyss for the verticality and mood, with a bit of Nausicaä and Gaudí in the architecture.\n\nWe're in pre-production. What's already done:\n\n* full visual identity (palette, key art, logo)\n* character design for the protagonist\n* a substantial library of environment props and tilesets\n* worldbuilding + lore document, language system\n* a pre-production preview: [Eden Lumina — Pre-production Preview](https://drive.google.com/file/d/10Y9z10F-T0pLf_ozNfBOkBJLFFm1lR0Z/view?usp=sharing)\n\nhttps://preview.redd.it/mbkmpo8f3czg1.png?width=2082&amp;format=png&amp;auto=webp&amp;s=8dcff6ecc3f9ea1ecd9905bc26d278180aae3b1a\n\nhttps://preview.redd.it/xiu25m0g3czg1.png?width=2082&amp;format=png&amp;auto=webp&amp;s=abf16aaddb202063bf112ba32d2f69cea81d219f\n\nWhat we need is a **2D animator** to bring the protagonist (and later NPCs / enemies) to life. We're aiming for hand-drawn frame-by-frame, not rig-based, clean cycles, expressive, in line with a painterly look. Game-animation experience is a big plus (loops, idle/attack transitions, hitboxes-aware timing), but we care more about the right sensibility than a perfect CV.\n\nIf you're interested, take a look at the preview first, if it clicks, drop a portfolio / reel in a comment or DM. Especially keen to see frame-by-frame or character work.\n\nThanks for reading, Paka Games",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1t4hwx5/paid_2d_animator_wanted_for_a_handpainted/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-05T14:57:37Z"
-  },
-  {
-    "post_id": "1t4efet",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Formal_Particular585",
-    "title": "[Hiring] any game developers looking to help with a passion project, not being rude but i do not have alot to pay. its a passion project, but i guess any developer in a hard spot or wanting to take a risk to make alot of money in the end will help. have no problem paying for what i see up to 1000$",
-    "content": "[Hiring] any game developers looking to help with a passion project, not being rude but i do not have alot to pay. its a passion project, but i guess any developer in a hard spot or wanting to take a risk to make alot of money in the end will help. have no problem paying for what i see up to 1000$\n\ncoming from the title i know it sounds stupid. because it is lol. when i was a child i would remember coming home, playing garrysmod darkrp and other rps for hours. and with they're spiritual successor s&amp;box coming out, i thought why not just see lol. i have played the new \"darkrp\" and it feels hollow ,because it is. i know its new however then again i always thought if they used my ideas it could get better. i would like to own my own server however i dont know anything about developing. i have been told my these developers on fiverr that it could \"take a month for 200$\" from it would take \" half a year and 15000$\" so i wanted to see if there was any devlopers or even people who dabble . who would want to put our brains together and make something out of this. or if not at least people who arent trying to sell me something give me a idea of the scope of this. im not poor but im not rich, unfortunately i dont have 15k to throw at a idea i know nothing of. however if we were able to get this up i have no issue at all buying a domain , website or whatever things we need. any money from the server would also be shared, dont know about the legal side of things with contracts lmao. but i guess if it got there we would handle it. like i said even if there is nobody willing to help would love to hear thoughts or ideas or advice on the subject",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1t4efet/hiring_any_game_developers_looking_to_help_with_a/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-05T12:46:31Z"
-  },
-  {
-    "post_id": "1t4cv67",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/SnooFoxes603",
-    "title": "[HIRING] Senior Video Editor / Motion Designer (Remote, up to $1.75k)",
-    "content": "[HIRING] Senior Video Editor / Motion Designer (Remote, up to $1.75k)\n\nHiring a Senior Video Editor &amp; Graphic Designer for a fast-growing creative agency.\n\n\n\nWhat you’ll do:\n\n* Edit content for social + campaigns\n* Create motion graphics + animations\n* Handle color, audio, final polish\n* Design supporting visuals\n* Manage multiple creative projects\n\n\n\nYou should have:\n\n* Strong portfolio (video + motion)\n* Experience with fast-paced content production\n* Ability to manage multiple projects\n\n\n\nDetails:\n\n* Remote (PH + LATAM)\n* Budget up to 87k+ php/month\n\n\n\nApply via link or DM.",
-    "url": "https://reddit.com/r/DesignJobs/comments/1t4cv67/hiring_senior_video_editor_motion_designer_remote/",
-    "quality": "High Quality",
-    "budget": "$1",
-    "created_at": "2026-05-05T11:38:04Z"
-  },
-  {
-    "post_id": "1t49s62",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/JellyCatRP2",
-    "title": "[Hiring] Ahegao face bust of OC covered in cum",
-    "content": "[Hiring] Ahegao face bust of OC covered in cum\n\nHello again!\n\nFor this one I’d like to hire an artist to draw my OC from the chest up, boobs visible, doing the ahegao face with cum all over her face and tits. \n\nDespite it being an anime/manga style fetish I do welcome other styles do her to be drawn in, and I’d like to offer as much creative freedom as possible for you to adapt this in your own styles!\n\nI have attached a few refs to describe what I am wanting roughly.\n\nFor budget I’d be looking at around $30 for this one with a bit of wiggle room to go slightly higher. I also only pay via PayPal invoice!\n\nIf you are interested please post your portfolio below. I’d love it if you had experience drawing ahegao before as to me the expression is the most important part!\n\nIf you’ve made it this far also use the password “cum dump” to prove you have read the post (there was a worrying amount of artists that didn’t do this last time!) also please don’t directly DM me, I will DM you if I am interested.\n\nMany thanks! Xx",
-    "url": "https://reddit.com/r/HungryArtists/comments/1t49s62/hiring_ahegao_face_bust_of_oc_covered_in_cum/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-05-05T08:55:21Z"
   }
 ]
