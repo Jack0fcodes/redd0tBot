@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1tbku9o",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Exciting-Planner50",
+    "title": "[Hiring]",
+    "content": "[Hiring]\n\n\\[Hiring\\] Hi, I hope this is allowed. I’m looking for a graphic designer to make a preset filter for me for my instagram posts. I’d overlay the preset onto my pictures for all posts. Willing to pay of course just dm me. $20/hr min.\n\nThanks",
+    "url": "https://reddit.com/r/DesignJobs/comments/1tbku9o/hiring/",
+    "quality": "High Quality",
+    "budget": "$20",
+    "created_at": "2026-05-13T01:15:12Z"
+  },
+  {
+    "post_id": "1tbkfgo",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/IndividualComb2450",
+    "title": "Looking for a Live2D artist — semi-realistic/painterly otter for a personal desktop companion app [Hiring]",
+    "content": "Looking for a Live2D artist — semi-realistic/painterly otter for a personal desktop companion app [Hiring]\n\nHey everyone,  \n  \nI've been building a fully local AI companion called Pocket for the past few months. It runs entirely offline on my own machine — voice input, memory, personality, the works. The otter is its visual identity, and I'm at the point where I need the real model in place before I can keep building.  \n  \n─────────────────────────────────  \nWHAT I'M LOOKING FOR  \n─────────────────────────────────  \n  \nAn original otter character designed in a semi-realistic, painterly style. Think warm lighting, soft visible fur texture, expressive and emotive eyes — something that feels like a creature that actually lives on your screen, not a flat mascot. I want it to feel a little like concept art brought to life.  \n  \nFor the rig:  \n• Full Live2D rig with .moc3 export, compatible with the Live2D Cubism SDK  \n• 9 expressions: neutral, happy, excited, thinking, surprised, concerned, sleepy, smug, sad  \n• Idle physics: breathing cycle, ear movement, tail sway, fur/hair physics  \n• Sized for a small transparent always-on-top desktop window (\\~300px tall, transparent background)  \n  \n─────────────────────────────────  \nABOUT THE PROJECT  \n─────────────────────────────────  \n  \nPocket lives in a small transparent Electron window on my desktop. It wanders around, reacts to what I'm saying with different expressions, shows a subtitle bubble when it responds, and uses a separate output panel for longer answers. All of the technical integration — the animation system, expression triggers, WebSocket bridge, physics handler — is already built and waiting for the real model.  \n  \nThe placeholder right now is an SVG. I need the .moc3 dropped in so I can stop building against a placeholder and start building against the real thing.  \n  \n─────────────────────────────────  \nA NOTE ON THE AI THING  \n─────────────────────────────────  \n  \nI want to be completely upfront: this project is an AI project. Pocket is powered by a locally-run language model (Llama, running on my own GPU — nothing cloud-based, nothing generative image AI).  \n  \nYour character design and rig would be 100% your original artwork. I'm not using AI to generate the model, the concept, or any of the assets — I'm commissioning a real artist because I want real craft in this. I just think it's fair to say what the project is so there are no surprises.  \n  \n─────────────────────────────────  \nBUDGET + TIMELINE  \n─────────────────────────────────  \n  \nOpen to quotes — I know good Live2D work takes time and skill, and I'd rather find the right artist than rush it. Please share your rates, approximate turnaround, and a link to your portfolio (especially any rigged work or models with physics).  \n  \nFeel free to DM or comment. Happy to answer any questions about the technical side too.",
+    "url": "https://reddit.com/r/artcommission/comments/1tbkfgo/looking_for_a_live2d_artist/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-13T00:56:53Z"
+  },
+  {
     "post_id": "1tbhrsd",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-05-07T11:37:03Z"
-  },
-  {
-    "post_id": "1t64nbv",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/kindatriedofblareing",
-    "title": "[Hiring] symbiote bonding comic one page 70-100 up dollars",
-    "content": "[Hiring] symbiote bonding comic one page 70-100 up dollars\n\nso i just required a new symbiote oc which is meant too bond too my furry oc which i want now a comic page off i have no idea how many pages. more details in comments if needed just ask away",
-    "url": "https://reddit.com/r/artcommission/comments/1t64nbv/hiring_symbiote_bonding_comic_one_page_70100_up/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-07T08:44:40Z"
-  },
-  {
-    "post_id": "1t63726",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Cherry_Mallow96",
-    "title": "[Hiring] Looking for an artist to replicate Eve in this style",
-    "content": "[Hiring] Looking for an artist to replicate Eve in this style\n\nI love this style, but sadly this is AI. Wanted a human touch to it, please help. Budget is around 80 dolares no NSFW\n\nMe encanto este estilo, pero este es AI. Yo quiera darle un toque humano, Mi presupuesto es de 80 dolares,  gracias. No NSFW, solo SFW",
-    "url": "https://reddit.com/r/artcommissions/comments/1t63726/hiring_looking_for_an_artist_to_replicate_eve_in/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-07T07:17:12Z"
   }
 ]
