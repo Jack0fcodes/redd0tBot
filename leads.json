@@ -1,5 +1,77 @@
 [
   {
+    "post_id": "1td99qw",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/OrchidAlternative401",
+    "title": "[Hiring] Graphics Programmer (Prefer EU / US / CA)",
+    "content": "[Hiring] Graphics Programmer (Prefer EU / US / CA)\n\nWe’re looking for a graphics programmer to join our team and help build visually rich, high-performance software.\n\n\n\nIf you have at least 1 year of software development experience and enjoy working close to the GPU, rendering pipelines, or real-time visuals, this role should feel like a good fit.\n\n\n\nWhat you’ll work on:\n\n\n\n\\* Real-time rendering systems and visual features\n\n\\* Performance optimization (CPU/GPU)\n\n\\* Building smooth, responsive graphical experiences\n\n\\* Maintaining and improving existing graphics systems\n\n\n\nWe care about:\n\n\n\n\\* Clean, efficient code\n\n\\* Strong performance and low latency\n\n\\* Scalable rendering architecture\n\n\\* Solid user experience in visually intensive applications\n\n\n\nDetails:\n\n\n\n\\* Hourly Rate: $22 – $42 (based on experience)\n\n\\* Fully remote\n\n\\* Flexible schedule\n\n\\* Part-time or full-time available\n\n\\* Low-meeting environment\n\n\n\nTech focus: C++ / JavaScript / WebGL / WebGPU / engine or graphics pipeline work (depending on project)\n\n\n\nIf interested, send:\n\n\n\n\\* Your role/background\n\n\\* Relevant graphics or rendering projects\n\n\\* Your current location 📍",
+    "url": "https://reddit.com/r/DesignJobs/comments/1td99qw/hiring_graphics_programmer_prefer_eu_us_ca/",
+    "quality": "High Quality",
+    "budget": "$22-42",
+    "created_at": "2026-05-14T19:53:07Z"
+  },
+  {
+    "post_id": "1td87e9",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/broSleepNow",
+    "title": "[Hiring] Graphic Designers for Brand Assets &amp; Client Projects - $25/hr+",
+    "content": "[Hiring] Graphic Designers for Brand Assets &amp; Client Projects - $25/hr+\n\nI’m looking for reliable graphic designers to join the roster at **Brine Network**. We focus on high-speed brand assets and social media kits for startups.\n\n**The Role:**\n\n* Designing logos, brand guidelines, and social media templates.\n* Direct collaboration on client projects.\n* Fast turnaround times (24-48 hours for small tasks).\n\n**The Rate:** We strictly work with clients and projects that meet a minimum of **$25/hr to $50/hr**. We do not support or offer \"low-ball\" or \"race-to-the-bottom\" pricing. You are paid in currency for every project completed.\n\n**The Model:** Brine Network is a curated collective. We handle the lead generation and client vetting so you can focus on the design. Unlike traditional platforms, we don’t take a cut of your earnings—you keep 100% of your project fees. Because we spend significant resources on vetting and marketing, we operate on a membership/access model to keep the community high-quality and bot-free.\n\nIf you have a strong portfolio and want to move away from high-commission platforms, **please drop your portfolio below.**",
+    "url": "https://reddit.com/r/DesignJobs/comments/1td87e9/hiring_graphic_designers_for_brand_assets_client/",
+    "quality": "High Quality",
+    "budget": "$25",
+    "created_at": "2026-05-14T19:15:04Z"
+  },
+  {
+    "post_id": "1td9lhi",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/Longjumping-Olive726",
+    "title": "[Hiring] looking for a NSFW artist $25 - $50",
+    "content": "[Hiring] looking for a NSFW artist $25 - $50\n\nHello everyone! I’m looking for an artist that can do NSFW sketches and or drawings so this is for 18+ artists ONLY. Please feel free to message me!",
+    "url": "https://reddit.com/r/artcommission/comments/1td9lhi/hiring_looking_for_a_nsfw_artist_25_50/",
+    "quality": "High Quality",
+    "budget": "$25-50",
+    "created_at": "2026-05-14T20:04:30Z"
+  },
+  {
+    "post_id": "1td8nkf",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Linuxpenetrator",
+    "title": "[Hiring][Paid] 3D Environment Artist - Unity Developer — Quest 3 (Unity/URP, VR Shooter)",
+    "content": "[Hiring][Paid] 3D Environment Artist - Unity Developer — Quest 3 (Unity/URP, VR Shooter)\n\n## About the Project\n\nA 5v5 bomb defusal VR shooter for Meta Quest 3, built in Unity with URP. Physical room-scale gameplay — players move with their bodies, no joystick locomotion.\n\n**Visual style reference:** [Breachers VR by Triangle Factory](https://www.triangle-factory.be/breachers/) — stylized-clean, semi-realistic, high readability.\n\n## The Task\n\nI have a Unity Map (greybox) of the first competitive map. I'm looking for an environment artist to take it from greybox → fully art-passed, playable map.\n\nLINK TO THE greybox via DM 😄\n\nThe greybox layout is not final (u can change it if u have better ideas). Asset Store packs are fine as long as the result feels cohesive and matches the reference.\n\n## Core Deliverables\n\n- **Refined geometry** — modular asset library, clean topology, gameplay volumes unchanged\n- **Materials &amp; textures** — texture atlases where possible, ASTC compression\n- **Lighting** — fully baked workflow, clean lightmap UVs, per-object lightmap scales tuned, Light Probes covering walkable areas, Reflection Probes per room with Box Projection enabled\n- **Collision layer** — separate from visual meshes, primitive colliders (Box, Capsule) preferred over Mesh Colliders, physics layers per my spec\n- **Delivery format** — nested Unity Prefabs with strict naming convention (spec provided), every child GameObject addressable by hierarchy path\n\n## Non-Negotiable Technical Constraints\n\nThese keep the map shippable on Quest 3 standalone:\n\n- URP BakedLit or SimpleLit shaders only, no custom shaders without approval\n- ASTC texture compression on all textures (lightmaps excluded)\n- No post-processing dependencies, no HDR\n- 100% baked lighting — no realtime lights except optional shadowmask\n- All static geometry properly flagged Static / Contribute Global Illumination\n\n## Second Scope — Performance Optimization Pass\n\n- ≤ 150 draw calls per frame\n- ≤ 750k visible triangles\n- Stable 72 FPS minimum, target 90 FPS\n\nTasks would include Occlusion Culling setup, GPU instancing, mesh combining, static batching validation, LOD setup, lightmap consolidation.\n\n## What You Get From Me\n\n- The greybox Unity project\n- Prefab hierarchy spec, physics layer spec, naming convention doc\n- Mood references for the specific map\n\n## Nice to Have\n\n- Mobile VR or Meta Quest experience\n- Competitive shooter map work\n- Asset Store portfolio\n- Performance optimization skills\n\n## Timeline &amp; Budget\n\nPaid. Fixed price per map or daily/hourly — open to discuss. This is a funded commercial project.\n## How to Apply\n\nDM me with:\n\n- Portfolio link\n- Hourly rate or fixed-price proposal --&gt; I know some infos may missing so just reach out and you get all the missing details\n- Indicate if you'd also able to finish the performance optimization scope",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1td8nkf/hiringpaid_3d_environment_artist_unity_developer/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-14T19:30:50Z"
+  },
+  {
+    "post_id": "1tda4u4",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/Happy-RedPanda-29",
+    "title": "[Hiring] MLP ocs to Furry/human redesign (low budget)",
+    "content": "[Hiring] MLP ocs to Furry/human redesign (low budget)\n\nI want some of my old mlp ocs redesign into humans or furries. I cant pay that much but I dont mind the art level or the use of bases. I just dont have the time to do it all myself.",
+    "url": "https://reddit.com/r/starvingartists/comments/1tda4u4/hiring_mlp_ocs_to_furryhuman_redesign_low_budget/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-14T20:23:28Z"
+  },
+  {
+    "post_id": "1td9xca",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/Dense_Message4664",
+    "title": "[Hiring] Looking for a Character Designer for children's cartoon",
+    "content": "[Hiring] Looking for a Character Designer for children's cartoon\n\nWe're looking for a character designer for a children’s cartoon project, loosely based off our DiplomaDuck channel on YouTube, Insta, TikTok &amp; FB. (\\~1.2 million followers)\n\nThe style direction is geometric, expressive and warm inspired by the likes of Bluey.\n\nPlease can you share your portfolio link in the comments if interested! \n\nEstimated budget: \\~$30usd /hr \n\nThank you 🦆",
+    "url": "https://reddit.com/r/starvingartists/comments/1td9xca/hiring_looking_for_a_character_designer_for/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-05-14T20:16:05Z"
+  },
+  {
     "post_id": "1td7bqt",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2326,77 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-05-09T03:38:13Z"
-  },
-  {
-    "post_id": "1t7rfur",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/OutlandishnessFun304",
-    "title": "[Hiring] What job title should I search for if I want to hire someone to critique my website design?",
-    "content": "[Hiring] What job title should I search for if I want to hire someone to critique my website design?\n\nHey everyone,\n\nI’m currently building a website for my local service business. I’ve fleshed out the whole site myself, but before I go live, I'd really like to pay a professional to critique the overall look and feel.\n\nMy problem is that I don't know exactly what job role to search for or where to find them. Am I looking for a UI designer, a UX researcher, a web designer, or someone else? Just to be clear, I’m only looking to pay for a high-quality feedback report/audit, not a full redesign or rebrand service.\n\n**Separate question:** What kind of professional should I consult if I just need help choosing the right color palette for my business and website?\n\nAny advice on what titles to search for or where to find these services would be hugely appreciated. Thanks! 20/hr this is just for the reddi tpost requirement",
-    "url": "https://reddit.com/r/DesignJobs/comments/1t7rfur/hiring_what_job_title_should_i_search_for_if_i/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-09T01:53:34Z"
-  },
-  {
-    "post_id": "1t7u70v",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Beginning-Half-4259",
-    "title": "[Hiring]",
-    "content": "[Hiring]\n\nLooking for artist interested in drawing guro fetish art for money. I'm not sure I can do anything about 100 dollars, the budget of around 75 or a little higher is the baseline.",
-    "url": "https://reddit.com/r/artcommissions/comments/1t7u70v/hiring/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-09T04:04:37Z"
-  },
-  {
-    "post_id": "1t7ulq5",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/KPH102",
-    "title": "[Hiring] My Hero Academia x Invincible",
-    "content": "[Hiring] My Hero Academia x Invincible\n\nI'm wondering if anyone would like to design a concept of [Thragg](https://amazon-invincible.fandom.com/wiki/Thragg) after he's given All For One (the original Quirk), by the villain of the same name. Specifically, this enhanced Viltrumite would have [all white hair](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/picsart_24-09-21_22-28-43-445.jpg) (not grey) while wearing a black and purple armor inspired by [All For One's helmet here.](https://i.pinimg.com/originals/80/cb/cc/80cbcc8fa6d31d8076ef98bdec52c8f4.png)\n\nBudget: Up to $30.",
-    "url": "https://reddit.com/r/starvingartists/comments/1t7ulq5/hiring_my_hero_academia_x_invincible/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-05-09T04:25:05Z"
-  },
-  {
-    "post_id": "1t7q0xz",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/PromotionStraight269",
-    "title": "[Hiring] Artist who can make a graffiti style vector art for my clothing pieces (tshirt+shorts) (Minimum $100)",
-    "content": "[Hiring] Artist who can make a graffiti style vector art for my clothing pieces (tshirt+shorts) (Minimum $100)\n\nI have a detailed graffiti style mockup for my tshirt plus shorts design, I need someone experienced who can create a very strong improved vector art of my mockup, if interested pm me previous work and hopefully graffiti related work. Thanks",
-    "url": "https://reddit.com/r/HungryArtists/comments/1t7q0xz/hiring_artist_who_can_make_a_graffiti_style/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-05-09T00:48:04Z"
-  },
-  {
-    "post_id": "1t7ph75",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/PromotionStraight269",
-    "title": "[Hiring] need a mockup to be converted to vector ready file, experience with graffiti lettering ($100 minimum)",
-    "content": "[Hiring] need a mockup to be converted to vector ready file, experience with graffiti lettering ($100 minimum)\n\nMockup has detailed graffiti design, need someone experienced to make a detailed vector ready for print( t shirt and shorts set)",
-    "url": "https://reddit.com/r/DesignJobs/comments/1t7ph75/hiring_need_a_mockup_to_be_converted_to_vector/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-05-09T00:23:04Z"
-  },
-  {
-    "post_id": "1t7qj78",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/TArrN00",
-    "title": "[Paid]",
-    "content": "[Paid]",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1t7qj78/paid/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-09T01:11:19Z"
   }
 ]
