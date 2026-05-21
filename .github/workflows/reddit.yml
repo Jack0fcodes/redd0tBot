@@ -11,8 +11,6 @@ permissions:
 jobs:
   reddit-notify:
     runs-on: ubuntu-latest
-    env:
-      SYNC_LFA: 'false'    # set to 'true' to enable the "Sync CSV to LFA repo" step
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -49,20 +47,4 @@ jobs:
             git push
           else
             echo "No changes to commit"
-          fi
-
-      - name: Sync CSV to LFA repo
-        if: ${{ env.SYNC_LFA == 'true' }}
-        run: |
-          git clone https://github.com/Jack0fcodes/LFA.git
-          cp posts_reddit.csv LFA/posts_reddit.csv
-          cd LFA
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add posts_reddit.csv
-          if ! git diff --cached --quiet; then
-            git commit -m "Auto-sync CSV from redd0tBot"
-            git push https://x-access-token:${{ secrets.LFA_TOKEN }}@github.com/Jack0fcodes/LFA.git main
-          else
-            echo "No changes to sync, skipping push"
           fi
