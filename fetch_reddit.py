@@ -30,8 +30,7 @@ def get_reddit_token():
     return res.json()["access_token"]
 
 # Fetch newest subreddit posts
-def fetch_posts(subreddit, limit=3):
-    token = get_reddit_token()
+def fetch_posts(subreddit, token, limit=3):
     headers = {"Authorization": f"bearer {token}", "User-Agent": USER_AGENT}
     url = f"https://oauth.reddit.com/r/{subreddit}/new?limit={limit}"
     res = requests.get(url, headers=headers)
@@ -253,9 +252,12 @@ if __name__ == "__main__":
         # Load archive of IDs
         existing_ids = load_existing_ids()
 
+        # Authenticate with Reddit once and reuse the token for every subreddit
+        token = get_reddit_token()
+
         new_posts = []
         for subreddit in subreddits:
-            posts = fetch_posts(subreddit, limit=limit)
+            posts = fetch_posts(subreddit, token, limit=limit)
             for post in posts:
                 data = post["data"]
                 pid = data["id"]
