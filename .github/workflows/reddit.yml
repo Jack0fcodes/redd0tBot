@@ -15,17 +15,17 @@ jobs:
       SYNC_LFA: 'false'    # set to 'true' to enable the "Sync CSV to LFA repo" step
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests==2.32.3
 
       - name: Run script
         env:

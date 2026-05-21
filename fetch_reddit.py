@@ -42,8 +42,14 @@ def fetch_posts(subreddit, limit=3):
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {"chat_id": CHAT_ID, "text": text}
-    res = requests.post(url, json=payload)
-    res.raise_for_status()
+    try:
+        res = requests.post(url, json=payload, timeout=10)
+        res.raise_for_status()
+    except requests.RequestException as e:
+        # Re-raise without the original exception so the bot token
+        # embedded in the URL never reaches logs.
+        status = getattr(getattr(e, "response", None), "status_code", "no response")
+        raise RuntimeError(f"Telegram send failed (status: {status})") from None
 
 # Extract a budget string like "$800-1,500" or "$400" from post text
 def extract_budget(text):
