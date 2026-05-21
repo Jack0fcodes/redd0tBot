@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tjt07s",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/BussySlayer142",
+    "title": "[HIRING]",
+    "content": "[HIRING]\n\nNeed a recreation of a piece by David Hettinger, but with a change in space and subjects, the subjects being my roommate and his cat. This will be a birthday gift for him.  \n$250-$300 depending on final product. DM for images of the new space and pictures of the roommate and cat",
+    "url": "https://reddit.com/r/artcommission/comments/1tjt07s/hiring/",
+    "quality": "High Quality",
+    "budget": "$250-300",
+    "created_at": "2026-05-21T18:15:19Z"
+  },
+  {
     "post_id": "1tjqotk",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-05-15T19:41:20Z"
-  },
-  {
-    "post_id": "1te64md",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/JasonFleurant",
-    "title": "[HIRING] Unity 6 Real-Time VFX Artist — live digital CCG",
-    "content": "[HIRING] Unity 6 Real-Time VFX Artist — live digital CCG\n\nChrono CCG (PlayChrono.com) is looking to add another vfx artist to our team.\n\nWe need card play impacts, spell casts, board state ambient FX, win/lose flourishes. Unity 6 URP, VFX Graph or particle-system fluency required. Tech-artist combo (shader fluency) preferred but not required. Remote, async-friendly (Jira + Discord). Reply with: portfolio link, 1 sentence on card-game or competitive-multiplayer VFX experience, rate, and earliest start date.\n\nThank you!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1te64md/hiring_unity_6_realtime_vfx_artist_live_digital/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-15T19:14:05Z"
   }
 ]
