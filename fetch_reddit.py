@@ -30,8 +30,7 @@ def get_reddit_token():
     return res.json()["access_token"]
 
 # Fetch newest subreddit posts
-def fetch_posts(subreddit, limit=3):
-    token = get_reddit_token()
+def fetch_posts(subreddit, token, limit=3):
     headers = {"Authorization": f"bearer {token}", "User-Agent": USER_AGENT}
     url = f"https://oauth.reddit.com/r/{subreddit}/new?limit={limit}"
     res = requests.get(url, headers=headers)
@@ -153,6 +152,15 @@ def load_existing_ids():
     with open(CSV_FILE, "r", encoding="utf-8") as f:
         return {row[0] for row in csv.reader(f) if row and row[0] != "PostID"}
 
+# Neutralize spreadsheet formula injection: a cell starting with one of
+# these characters is evaluated as a formula by Excel/Sheets. Prefixing
+# with a single quote keeps it as literal text.
+def csv_safe(value):
+    text = "" if value is None else str(value)
+    if text and text[0] in ("=", "+", "-", "@", "\t", "\r"):
+        return "'" + text
+    return text
+
 # Save new posts to CSV
 def save_to_csv(posts):
     file_exists = os.path.isfile(CSV_FILE)
@@ -165,7 +173,7 @@ def save_to_csv(posts):
             title = post["data"]["title"]
             author = post["data"].get("author", "unknown")
             link = "https://reddit.com" + post["data"]["permalink"]
-            writer.writerow([pid, subreddit, title, author, link])
+            writer.writerow([csv_safe(c) for c in (pid, subreddit, title, author, link)])
 
 if __name__ == "__main__":
     try:
@@ -244,9 +252,12 @@ if __name__ == "__main__":
         # Load archive of IDs
         existing_ids = load_existing_ids()
 
+        # Authenticate with Reddit once and reuse the token for every subreddit
+        token = get_reddit_token()
+
         new_posts = []
         for subreddit in subreddits:
-            posts = fetch_posts(subreddit, limit=limit)
+            posts = fetch_posts(subreddit, token, limit=limit)
             for post in posts:
                 data = post["data"]
                 pid = data["id"]
