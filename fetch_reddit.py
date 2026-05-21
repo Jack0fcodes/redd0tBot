@@ -111,8 +111,14 @@ def send_to_scout(lead):
     headers = {"Content-Type": "application/json"}
     if SCOUT_API_KEY:
         headers["Authorization"] = f"Bearer {SCOUT_API_KEY}"
-    res = requests.post(SCOUT_API_URL, json=lead, headers=headers, timeout=10)
-    res.raise_for_status()
+    try:
+        res = requests.post(SCOUT_API_URL, json=lead, headers=headers, timeout=10)
+        res.raise_for_status()
+    except requests.RequestException as e:
+        # Re-raise without the original exception so SCOUT_API_URL
+        # embedded in the error message never reaches logs.
+        status = getattr(getattr(e, "response", None), "status_code", "no response")
+        raise RuntimeError(f"Scout send failed (status: {status})") from None
 
 # Load existing leads.json if present; returns a list
 def load_leads_json():
