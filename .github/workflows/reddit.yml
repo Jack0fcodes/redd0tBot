@@ -43,7 +43,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
-          END=$(( $(date +%s) + 340 * 60 ))
+          END=$(( $(date +%s) + 12 * 60 ))   # TEMPORARY TEST VALUE - revert to 340 after verifying
           while [ "$(date +%s)" -lt "$END" ]; do
             ITER_START=$(date +%s)
             python fetch_reddit.py || echo "fetch_reddit.py exited non-zero, continuing loop"
