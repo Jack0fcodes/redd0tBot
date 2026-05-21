@@ -153,6 +153,15 @@ def load_existing_ids():
     with open(CSV_FILE, "r", encoding="utf-8") as f:
         return {row[0] for row in csv.reader(f) if row and row[0] != "PostID"}
 
+# Neutralize spreadsheet formula injection: a cell starting with one of
+# these characters is evaluated as a formula by Excel/Sheets. Prefixing
+# with a single quote keeps it as literal text.
+def csv_safe(value):
+    text = "" if value is None else str(value)
+    if text and text[0] in ("=", "+", "-", "@", "\t", "\r"):
+        return "'" + text
+    return text
+
 # Save new posts to CSV
 def save_to_csv(posts):
     file_exists = os.path.isfile(CSV_FILE)
@@ -165,7 +174,7 @@ def save_to_csv(posts):
             title = post["data"]["title"]
             author = post["data"].get("author", "unknown")
             link = "https://reddit.com" + post["data"]["permalink"]
-            writer.writerow([pid, subreddit, title, author, link])
+            writer.writerow([csv_safe(c) for c in (pid, subreddit, title, author, link)])
 
 if __name__ == "__main__":
     try:
