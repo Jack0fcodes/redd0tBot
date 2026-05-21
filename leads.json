@@ -1,5 +1,41 @@
 [
   {
+    "post_id": "1tj6t3c",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/passionatetaco",
+    "title": "[HIRING] Looking for an outfit design!",
+    "content": "[HIRING] Looking for an outfit design!\n\nAs the title states, I'm looking  for someone to draw a pinup of my main OC with a new main outfit, she's had the same one for  while, so would like to update it :) Will have to brainstorm ideas as I'm not super good with outfit design lol \n\nBudget is 30-40USD",
+    "url": "https://reddit.com/r/HungryArtists/comments/1tj6t3c/hiring_looking_for_an_outfit_design/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-21T02:19:25Z"
+  },
+  {
+    "post_id": "1tj7a00",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Limp_Music2376",
+    "title": "[HIRING] Farm Logo Designer $250 Budget",
+    "content": "[HIRING] Farm Logo Designer $250 Budget\n\nI need a logo for a new farm - small scale selling vegetables to locals. Organically grown (although not certified).  \n\n$250 budget. Please dm a portfolio if interested.",
+    "url": "https://reddit.com/r/DesignJobs/comments/1tj7a00/hiring_farm_logo_designer_250_budget/",
+    "quality": "High Quality",
+    "budget": "$250",
+    "created_at": "2026-05-21T02:40:14Z"
+  },
+  {
+    "post_id": "1tj7nqv",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/BiggerThanATrex",
+    "title": "[Hiring] I have an artist's heart but a caveman's hands. Seeking punk/video game artist for multi-step project. $30 per session, pay as we go",
+    "content": "[Hiring] I have an artist's heart but a caveman's hands. Seeking punk/video game artist for multi-step project. $30 per session, pay as we go\n\nHello, wonderful artists of the world.\n\n\nI need some help. I've got a lil' project that I'm starting and I need some art for it. First things first, I need a logo. I've got fonts that I like but nothing I'm married to. After the logo, I'll need some help with a flyer. There's no rush on either project at the moment but I would like to have everything squared away by the end of June.\n\n\nAs far as style is concerned, I'm looking for a combination of punk rock and pinball. Maybe throw in some sci-fi if you wanna get weird with it. I like physical art, so any use of physical media during the initial logo creation would be sick. I'm cool with the creation of the physical logo being a separate step if needed. \n\n\n[Here's a collage of styles I like/want to pull from](https://imgur.com/a/IzDja0K)\n\n\nI'm looking to pay $30 per step. I'm thinking consult/roughs, then logo, then physical (if possible), then flyer. \n\n\n👉😎👉",
+    "url": "https://reddit.com/r/artcommissions/comments/1tj7nqv/hiring_i_have_an_artists_heart_but_a_cavemans/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-05-21T02:57:21Z"
+  },
+  {
     "post_id": "1tj1n9p",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2362,41 +2398,5 @@
     "quality": "High Quality",
     "budget": "$25-50",
     "created_at": "2026-05-14T20:04:30Z"
-  },
-  {
-    "post_id": "1td8nkf",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Linuxpenetrator",
-    "title": "[Hiring][Paid] 3D Environment Artist - Unity Developer — Quest 3 (Unity/URP, VR Shooter)",
-    "content": "[Hiring][Paid] 3D Environment Artist - Unity Developer — Quest 3 (Unity/URP, VR Shooter)\n\n## About the Project\n\nA 5v5 bomb defusal VR shooter for Meta Quest 3, built in Unity with URP. Physical room-scale gameplay — players move with their bodies, no joystick locomotion.\n\n**Visual style reference:** [Breachers VR by Triangle Factory](https://www.triangle-factory.be/breachers/) — stylized-clean, semi-realistic, high readability.\n\n## The Task\n\nI have a Unity Map (greybox) of the first competitive map. I'm looking for an environment artist to take it from greybox → fully art-passed, playable map.\n\nLINK TO THE greybox via DM 😄\n\nThe greybox layout is not final (u can change it if u have better ideas). Asset Store packs are fine as long as the result feels cohesive and matches the reference.\n\n## Core Deliverables\n\n- **Refined geometry** — modular asset library, clean topology, gameplay volumes unchanged\n- **Materials &amp; textures** — texture atlases where possible, ASTC compression\n- **Lighting** — fully baked workflow, clean lightmap UVs, per-object lightmap scales tuned, Light Probes covering walkable areas, Reflection Probes per room with Box Projection enabled\n- **Collision layer** — separate from visual meshes, primitive colliders (Box, Capsule) preferred over Mesh Colliders, physics layers per my spec\n- **Delivery format** — nested Unity Prefabs with strict naming convention (spec provided), every child GameObject addressable by hierarchy path\n\n## Non-Negotiable Technical Constraints\n\nThese keep the map shippable on Quest 3 standalone:\n\n- URP BakedLit or SimpleLit shaders only, no custom shaders without approval\n- ASTC texture compression on all textures (lightmaps excluded)\n- No post-processing dependencies, no HDR\n- 100% baked lighting — no realtime lights except optional shadowmask\n- All static geometry properly flagged Static / Contribute Global Illumination\n\n## Second Scope — Performance Optimization Pass\n\n- ≤ 150 draw calls per frame\n- ≤ 750k visible triangles\n- Stable 72 FPS minimum, target 90 FPS\n\nTasks would include Occlusion Culling setup, GPU instancing, mesh combining, static batching validation, LOD setup, lightmap consolidation.\n\n## What You Get From Me\n\n- The greybox Unity project\n- Prefab hierarchy spec, physics layer spec, naming convention doc\n- Mood references for the specific map\n\n## Nice to Have\n\n- Mobile VR or Meta Quest experience\n- Competitive shooter map work\n- Asset Store portfolio\n- Performance optimization skills\n\n## Timeline &amp; Budget\n\nPaid. Fixed price per map or daily/hourly — open to discuss. This is a funded commercial project.\n## How to Apply\n\nDM me with:\n\n- Portfolio link\n- Hourly rate or fixed-price proposal --&gt; I know some infos may missing so just reach out and you get all the missing details\n- Indicate if you'd also able to finish the performance optimization scope",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1td8nkf/hiringpaid_3d_environment_artist_unity_developer/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-14T19:30:50Z"
-  },
-  {
-    "post_id": "1tda4u4",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/Happy-RedPanda-29",
-    "title": "[Hiring] MLP ocs to Furry/human redesign (low budget)",
-    "content": "[Hiring] MLP ocs to Furry/human redesign (low budget)\n\nI want some of my old mlp ocs redesign into humans or furries. I cant pay that much but I dont mind the art level or the use of bases. I just dont have the time to do it all myself.",
-    "url": "https://reddit.com/r/starvingartists/comments/1tda4u4/hiring_mlp_ocs_to_furryhuman_redesign_low_budget/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-14T20:23:28Z"
-  },
-  {
-    "post_id": "1td9xca",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/Dense_Message4664",
-    "title": "[Hiring] Looking for a Character Designer for children's cartoon",
-    "content": "[Hiring] Looking for a Character Designer for children's cartoon\n\nWe're looking for a character designer for a children’s cartoon project, loosely based off our DiplomaDuck channel on YouTube, Insta, TikTok &amp; FB. (\\~1.2 million followers)\n\nThe style direction is geometric, expressive and warm inspired by the likes of Bluey.\n\nPlease can you share your portfolio link in the comments if interested! \n\nEstimated budget: \\~$30usd /hr \n\nThank you 🦆",
-    "url": "https://reddit.com/r/starvingartists/comments/1td9xca/hiring_looking_for_a_character_designer_for/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-05-14T20:16:05Z"
   }
 ]
