@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tkovhl",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/myownyose",
+    "title": "[PAID] 2D illustrator/artist for autobattler roguelike",
+    "content": "[PAID] 2D illustrator/artist for autobattler roguelike\n\nHello,\n\nI’m currently working on a prototype for a game that will be a roguelike autobattler. \n\n\n\nI’m looking for a 2D artist to help me with the art; the setting will be centred around the world of video games, comics and pop culture… so the aesthetic should fit in with that.\n\n\n\nI’d like to be honest from the start; the budget I have for the prototype will be around €4,000 if all goes well. The prototype should include two playable characters (animations aren’t necessary, though someone who can do basic animations would be an advantage), around 20 enemies and a total of 100–150 items. The dimensions of each sprite will be approximately 512x512px for characters and enemies (subject to slight variation) and 256x256px for items.\n\n\n\nPlease, if anyone is interested, contact me and send me your portfolio.\n\n\n\nImportant: I am not interested in artists who use AI. \n\n\n\nMany thanks",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tkovhl/paid_2d_illustratorartist_for_autobattler/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-22T16:57:22Z"
+  },
+  {
     "post_id": "1tkoi4q",
     "platform": "Reddit",
     "source": "r/commissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$15-25",
     "created_at": "2026-05-16T16:31:45Z"
-  },
-  {
-    "post_id": "1tex466",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/AdditionExcellent367",
-    "title": "[HIRING] Pixel Artist for Indie Horror Game — Background + Hand Animations",
-    "content": "[HIRING] Pixel Artist for Indie Horror Game — Background + Hand Animations\n\nHey everyone, I'm an indie developer looking for a pixel artist for a small 2d horror project.\n\nThe scene is simple but needs to feel genuinely unsettling — two pale human hands trapped in a mechanical mechanism where one wrong move results in a finger getting cut. Top-down overhead view, dark and atmospheric.\n\n**What I need:**\n\n**Background — 1 scene:**\n\n* Dark industrial metal surface with rivets, scratches and blood stains\n* Single hanging light bulb at the top center casting dramatic warm light\n* Two pale hands lying flat, fingers spread, each finger sitting on a circular glowing button\n* Each finger has a unique mechanical ring around it with a different cutting mechanism\n* Wires connecting everything to a central control box at the bottom\n* Thumbs rest naturally on the surface with no button or ring\n\n**Buttons — 3 sprites:**\n\n* Off state\n* Yellow glow state\n* Red glow state\n* Same button reused for all 8 fingers\n\n**Fingers — 12 sprites:**\n\n* 4 unique fingers × 3 states each\n* Pressed down on button\n* Lifted and released\n* Cut state(over all 4 different ways of removing a finger i have in mind), \n* Mirrored in engine for the other hand\n\n**Thumbs — 2 sprites:**\n\n* Resting naturally on surface\n* No button, no ring, no cut animation\n\n**Total deliverables:** 1 background scene, 3 button sprites, 12 finger sprites, 2 thumb sprites.\n\n**Style:** Dark pixel art, steampunk horror, muted teal and rust tones. Think White Knuckle meets industrial horror.\n\n**Scope:** Very small focused asset list. One main scene. This won't take long for the right person.\n\n**Budget:** Maximum €200.\n\n**Timeline:** Flexible. Looking for the right person, not the fastest.\n\n**Contact:** Reply here!\n\nFull commercial rights required. Artist retains the right to display work in their portfolio.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1tex466/hiring_pixel_artist_for_indie_horror_game/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-16T15:40:52Z"
   }
 ]
