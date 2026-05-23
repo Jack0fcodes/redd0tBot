@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tlloql",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/-Dargs",
+    "title": "[Discussion] My game is nearing the stage of feature completeness and there are several roles I need to hire for, and am considering hiring for.",
+    "content": "[Discussion] My game is nearing the stage of feature completeness and there are several roles I need to hire for, and am considering hiring for.\n\nHey r/gameDevClassifieds ,\n\nI am a solo developer on a budget. I have nearly 15 years of professional work experience as a backend software engineer. For me, functionality behind code comes fairly easily but visual interpretation and UI/UX experience is an area where I'm sorely lacking.\n\nI have led teams and currently lead a team of other engineers. But I haven't ever had to actually pay them out of my own pocket. I have hired for engineering teams, including my own, but I haven't had to worry about budget. I also have no experience professionally hiring people outside of engineering roles, which is giving me some pause going forward in this instance.\n\nThis is where I'd like to get some input from the community, and specifically people who have hired here before. I myself have hired here once before and admittently, it was a premature decision. I paid out the artist but the direction I was able to provide from my inexperience in graphical design wasn't particularly great.\n\nMy project needs:\n\n* An artist for 2d sprites &amp; spells\n* A UI/UX person for flow, feel, and design\n* A composer for \\~6 30-60s lengths of music\n* A language expert for content validation\n\nAt the stage I am at, the game is fully functional. But it looks pretty terrible and I am hestitent to begin hiring people because I can realistically only afford to bring on one fairly budget hire at a time. I am not opposed to offering rev share as a payment option or supplement but I also feel like that is frowned upon. I think an alternate path might be to go for a quick and dirty pass on concept art and move the project into kickstarter? I myself am fully employed so anything from kickstarter could go directly to funding the other professionals the project requires. \n\nWhat is everyone's thoughts about this kind of situation? Any suggestions on any particular aspect of this or in general?",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tlloql/discussion_my_game_is_nearing_the_stage_of/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-23T16:51:48Z"
+  },
+  {
     "post_id": "1tllk1r",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-05-17T17:58:47Z"
-  },
-  {
-    "post_id": "1tfxcio",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/jakesanabria",
-    "title": "Hiring two pixel artists for Waggon TD (isometric, applications close May 31)",
-    "content": "Hiring two pixel artists for Waggon TD (isometric, applications close May 31)\n\nWaggon is a Wild West roguelite tower defense where cat cowboys, horse gunslingers, beaver lumberjacks, and frog workers defend a wagon from cosmic horrors creeping in from the frontier. PvZ-goofy meets Slay the Spire structure: silly, affectionate, slightly off, and the eldritch stuff is more cute weird than scary weird.\n\nWe recently pivoted from top-down to isometric pixel art (screenshots below) and we're hiring for two roles:\n\n**1. In-game artist:** isometric characters, enemies, tiles, animations\n\n**2. Splash art artist:** larger pixel pieces for events + Steam page\n\n**Compensation:** flat per-piece rate, paid on delivery.\n\n**Timeline:** applications close **May 31st**. Targeting full release March 2027.\n\n**About us:** Smart Creative, a small indie team. Friendly, organized, pay on time. Our most recent release is Luck &amp; Loot on Steam.\n\n* Studio: [https://smartcreative.cz](https://smartcreative.cz)\n* Luck &amp; Loot on Steam: [https://store.steampowered.com/app/3208110/Luck\\_\\_Loot/](https://store.steampowered.com/app/3208110/Luck__Loot/)\n\nYou can play the original game jam version of Waggon here for a feel of the game: [https://smartcreative.itch.io/waggon-western-td](https://smartcreative.itch.io/waggon-western-td)\n\n(Note: that's the pre-pivot top-down version. Screenshots below show the current isometric direction.)\n\n**To apply:** please fill out the Google form. All applications happen there, not in the comments.\n\n[https://docs.google.com/forms/d/e/1FAIpQLScBk3JRMvzuIsHDYZzF-sw2XAaHIu3w9cyXIeBA\\_6aunL\\_IMw/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLScBk3JRMvzuIsHDYZzF-sw2XAaHIu3w9cyXIeBA_6aunL_IMw/viewform?usp=header)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tfxcio/hiring_two_pixel_artists_for_waggon_td_isometric/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-17T18:20:10Z"
   }
 ]
