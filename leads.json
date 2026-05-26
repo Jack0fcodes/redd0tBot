@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1toaaeb",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/TheVykin",
+    "title": "[PAID] 2D Sci-Fi Strategy Map Asset Artist Needed for WebGL game",
+    "content": "[PAID] 2D Sci-Fi Strategy Map Asset Artist Needed for WebGL game\n\nI’m working on a browser-based strategy WebGL game and need a 2D artist to create in-game map assets. They will be small gameplay sprites/icons that appear on a world map, not large character illustrations.\n\nThese assets will resemble futuristic city/building map objects, squad/unit markers, strategic weapon markers, and resource/building variants. I am aiming to keep them readable when displayed small on top of a satellite-style map with zooming capabilities.\n\nAll assets must read clearly at roughly 36–96px in-game, while being authored at a larger size for quality.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1toaaeb/paid_2d_scifi_strategy_map_asset_artist_needed/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-26T15:26:17Z"
+  },
+  {
     "post_id": "1to9kcz",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$50-100",
     "created_at": "2026-05-20T21:25:31Z"
-  },
-  {
-    "post_id": "1tj1bze",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/International_Ask246",
-    "title": "Need some touch ups done for a patch shouldn’t take much time to do willing to pay 20/hr [hiring]",
-    "content": "Need some touch ups done for a patch shouldn’t take much time to do willing to pay 20/hr [hiring]\n\nGot as far as I could using ai and just need someone to do some final touches making it accurate.",
-    "url": "https://reddit.com/r/DesignJobs/comments/1tj1bze/need_some_touch_ups_done_for_a_patch_shouldnt/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-20T22:30:27Z"
   }
 ]
