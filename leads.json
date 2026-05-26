@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tnrnjt",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/TDFighter41",
+    "title": "[Hiring] need a pixel artist to design character portraits in a game I’m making.",
+    "content": "[Hiring] need a pixel artist to design character portraits in a game I’m making.\n\nForgive me if this isn’t the right sub for commissioning pixel artists, but I am looking for someone capable of doing pixel art for character portraits in an rpg I’ve been working on for a little while now. \n\nThe first four images are characters that would have portraits. I am looking for portraits in the style of the fifth image, with an art style similar to the last image. \n\nI am only needing around two different portraits per character (some even less) and have around four-six characters that need portraits. That said all I am working towards at the moment is a demo, so in the future there will be a need to make more portraits, so I am asking for an artist that has a decent long term commitment (I can pay separately when the time comes)\n\nWhen it comes to pay, I’m open to anything within reason and I’d love to discuss it privately (I promise I won’t lowball you)",
+    "url": "https://reddit.com/r/artcommissions/comments/1tnrnjt/hiring_need_a_pixel_artist_to_design_character/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-26T01:04:02Z"
+  },
+  {
     "post_id": "1tnptyo",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$500",
     "created_at": "2026-05-20T00:58:39Z"
-  },
-  {
-    "post_id": "1ti5c61",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Gruesome_Grater",
-    "title": "[PAID] Seeing Pixel Artist(s) for Modern 2D Pixel-Art JRPG",
-    "content": "[PAID] Seeing Pixel Artist(s) for Modern 2D Pixel-Art JRPG\n\nHi everyone,\n\nI’m a solo developer working on a **modern, top-down 2D pixel-art JRPG** inspired by series' such as Final Fantasy, Persona, and Xeno(gears/saga/blade). The game itself is almost fully built out, with all of the systems in place and architecture built out. The only thing that's missing is the visual identity.\n\nI’m looking for pixel artist(s) to help create the visual identity for a polished demo/vertical slice. The demo is planned to be around 2 hours long and will be used as the main showcase to greenlight the creation of the full game, based on public support. I need someone who can take ownership of the project’s visuals and help create a **coherent, consistent art style** across the entire demo.\n\nThis is a CASH PAID position, so please do not ask me about rev share.\n\nThe initial style I am leaning towards is a semi-realistic, semi-anime art style like that found in Octopath Traveler (but not HD-2D), but this is not set in stone. If you have a preferred art style that you work with that appeals to me, then I would be happy to accommodate!\n\n# Specs\n\n* Modern detailed pixel art (color variety and high contrast).\n* Top-down JRPG perspective (NOT isometric nor side-scrolling).\n* Game resolution: 640x360, upscaled to 1080p/1440p/4K.\n* Experience with dynamic lighting / normal maps is a plus.\n\n# Assets Needed\n\n* Playable Character Sprites\n* NPCs\n   * NPCs share basic bodies, but having a variety of different clothing, hairstyles, etc. to differentiate them.\n* Enemy sprites\n   * Fantastical in design, leaning towards a more monster aesthetic\n   * Sizes vary wildly depending on the type of enemy, going all the way up to 256x256 for bosses.\n* Battle animations for playable characters and enemies\n* Overworld movement animations for playable characters and NPCs\n* Dialogue portraits with emotional variants\n* Top-down tilesets for a variety of locations, including:\n   * Peaceful Village\n   * Musty Slum\n   * Medieval City\n   * Gloomy Prison\n* UI components\n   * I have already created the layouts and formatting, you just need to design the elements.\n* Icons for items, spells, menus, etc.\n\nTo reiterate, the game already has many core systems implemented in-engine, including exploration, battle, menus, and general infrastructure. I have a lot of the UI in place with programmer art and placeholder assets, but the missing piece is a unified visual direction and polished art assets.\n\nPlease reach out if you:\n\n* Have experience with pixel-art RPG assets\n* Can create consistent characters, environments, UI, and animations\n* Are comfortable helping establish the game’s overall art direction\n* Can communicate clearly and help scope the workload realistically\n* Are open to a possible long-term collaboration if the demo goes well\n\nPlease send your portfolio, relevant examples to my project, rates, and availability if this project interests you!\n\nIf you are only comfortable with one aspect of the listed above (ex. if you think your environmental art would be a great fit but you are not comfortable with character sprite creation), that's fine! I'm not looking for just a single person, as long as you can adapt your style to fit the overall vision of the project, please don't hesitate to reach out!\n\nYou can DM me here or contact me at [garson.vgdev@gmail.com](mailto:garson.vgdev@gmail.com)\n\nThanks, and I look forward to hearing from you!\n\nEDIT: Please include a portfolio link and/or a small message about your skillset in your initial message to me, else I'll ignore all other messages that seem like bots.\n\nEDIT: Also no NSFW whatsoever, please!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ti5c61/paid_seeing_pixel_artists_for_modern_2d_pixelart/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-20T00:20:55Z"
   }
 ]
