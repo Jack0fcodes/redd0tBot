@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1trya03",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/MewTwoLich",
+    "title": "[Hiring] Importing character models from blender into unreal engine",
+    "content": "[Hiring] Importing character models from blender into unreal engine\n\nI will not respond to message requests only through the comments and then discord.\n\nI have character models in blender. They work in blender and have textures and animations. I would like to hire someone to import them into unreal engine preserving the textures and animations.\n\nBudget: I’ll pay you a flat rate if you can import three successfully and we can negotiate for the rest of the imported models as a whole.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1trya03/hiring_importing_character_models_from_blender/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-30T12:11:48Z"
+  },
+  {
     "post_id": "1trx09n",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-05-25T21:46:33Z"
-  },
-  {
-    "post_id": "1tnmit0",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/SomeRandomPoetyt",
-    "title": "[Hiring] OC character into art.",
-    "content": "[Hiring] OC character into art.\n\nHello! Looking for some artists who can translate my OC character into a bit of art. Preferably 90s anime style but I'm not really strict on that. Can supply more pics if needed and my budget's up to around $80. Most pics are screenshots from games I've created them in. You can just DM me here if interested.",
-    "url": "https://reddit.com/r/artcommissions/comments/1tnmit0/hiring_oc_character_into_art/",
-    "quality": "High Quality",
-    "budget": "$80",
-    "created_at": "2026-05-25T21:29:08Z"
   }
 ]
