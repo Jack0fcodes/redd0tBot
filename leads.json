@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tseqbz",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/ballisticgorillaz",
+    "title": "[HIRING] Cute creature / key art illustrator for a cozy axolotl mobile game (ongoing, $50-$100+)",
+    "content": "[HIRING] Cute creature / key art illustrator for a cozy axolotl mobile game (ongoing, $50-$100+)\n\nHi there!\n\nI'm a solo dev building [Axolkin](https://axol.gg), a cozy creature-collecting mobile/web game (catch Axols - axolotl like creatures, decorate your home, hang out in a social plaza), and I'm looking to hire skilled illustrator(s).\n\n**Context:**\n\nThe game has 100+ Axol variants with different themes that were generated via AI placeholder art. I am hiring to start replacing select variants with real commissioned work.\n\nEach Axol has:\n\n1. 1 key sprite\n2. 1 \"shiny\" variant that typically comes with distinctive visual flair and a painted background.\n\n*Examples*:\n\n* Plain: [https://imgur.com/TTrqAYx](https://imgur.com/TTrqAYx)\n* Plain (Shiny): [https://imgur.com/yLhMJiV](https://imgur.com/yLhMJiV)\n* You can see the full reference of existing Axol variants here: [https://axolkin.gg/dex](https://axolkin.gg/dex)\n\n**Requirements:**\n\nI am looking for a long-term illustrator to:\n\n1. help me replace the existing placeholder Axol artwork over time with polished, clean sprites\n2. eventually design and add net-new Axols into the game given creative direction\n\n*Must haves for me are:*\n\n* Ability to produce high quality, artistically consistent sprites that fit the aesthetic of the game.  Clean, polished coloring.\n* Ability to work quickly and provide accurate time estimates.\n\n**Budget**:\n\nMy budget is flexible at this time. What I care most about is finding artist(s) that satisfy my reqs for visual polish and quality.\n\n* Starting at $30-40 per piece, negotiable depending on batch as well as complexity\n\nI am open to working with multiple artists if able to stick to the visual identity and theme of the game.\n\n**Rights and credits:**\n\n* Commercial use in game and its marketing, with artist credit (if desired)\n\n**Timeline:**\n\n* Flexible. Quality matters most over speed.\n\n**Ask:**\n\nPlease reply with your portfolio, your rate, and rough turnaround.\n\nI'll prioritize artists whose prior work shows cozy creature designs in a style close to the references above.\n\nYou can also contact me at [**jc@axol.gg**](mailto:jc@axol.gg) as well with the above information!\n\nThank you very much! &lt;3",
+    "url": "https://reddit.com/r/starvingartists/comments/1tseqbz/hiring_cute_creature_key_art_illustrator_for_a/",
+    "quality": "High Quality",
+    "budget": "$50-100",
+    "created_at": "2026-05-30T23:22:13Z"
+  },
+  {
     "post_id": "1tsb4on",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-05-26T12:49:37Z"
-  },
-  {
-    "post_id": "1to4kw2",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/theeris94",
-    "title": "[PAID] 3D Character Artist, Rigger &amp; Animator Needed | Stylized Animal Fighters",
-    "content": "[PAID] 3D Character Artist, Rigger &amp; Animator Needed | Stylized Animal Fighters\n\nLooking for a 3D artist experienced with stylized character creation, rigging, and animation for an upcoming indie game currently in active development. We need a complete pipeline: modeling, rigging, animation, all delivered as a fully game-ready character.\n\nProject centers around animal-like creatures that battle each other in a colorful, lighthearted world.\n\n**Game Theme / Tone:**\n\n* Stylized / cartoon\n* Nature &amp; animals\n* Creature-on-creature combat\n* Friendly, vibrant, expressive\n* Tone inspiration somewhere between:\n* Pokémon, Nintendo\n\n**Visual Goals:**\n\n* Clean, readable silhouettes\n* Stylized proportions over realism\n* Expressive faces with personality\n* Each creature should feel unique but fit a shared visual language\n\n**Deliverables (per character):**\n\n* Fully modeled 3D character (game-ready topology, optimized poly count)\n* UVs + textures\n* Complete rig with humanoid-style skeleton (bipedal, hand/finger control for attacks)\n* Animation set:\n   * Idle\n   * Run\n   * Jump\n   * Attack (punch/melee, multiple variations preferred)\n* Source files (Blender)\n* Compatible export for Unity\n\n**Key Requirements:**\n\n* All characters must stand upright on two legs\n* All characters must be able to fight using their hands/arms\n* Consistent rig structure across multiple characters (so animations can potentially be shared/retargeted)\n\n**Scope:**\n\n* Starting with 1 hero character to validate style and pipeline\n* Potential for ongoing work on additional creatures if collaboration goes well\n\n**Please send:**\n\n* Portfolio (stylized 3D character work especially welcome)\n* Examples of rigged + animated characters if available\n* Estimated pricing/rates (per character or per stage)\n* Estimated timeline\n\nIndie/hobby budget around $400–600 looking for hobbyist or junior-level collaborator for portfolio + paid work",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1to4kw2/paid_3d_character_artist_rigger_animator_needed/",
-    "quality": "High Quality",
-    "budget": "$400-600",
-    "created_at": "2026-05-26T11:50:08Z"
   }
 ]
