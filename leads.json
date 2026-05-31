@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tss151",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/Mordhai",
+    "title": "[Hiring] looking for someone to draw my OC in anime style",
+    "content": "[Hiring] looking for someone to draw my OC in anime style\n\nonly hiring vgen artists! budget is flexible, the style i want to achieve is in the comments :)",
+    "url": "https://reddit.com/r/artcommissions/comments/1tss151/hiring_looking_for_someone_to_draw_my_oc_in_anime/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-05-31T10:51:25Z"
+  },
+  {
     "post_id": "1tso8cd",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30",
     "created_at": "2026-05-26T16:40:07Z"
-  },
-  {
-    "post_id": "1toc26v",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/wardragon3399",
-    "title": "[Hiring] 3D Artist - Multiplayer RTS in Unity ($30/hr, ~30 hrs/week)",
-    "content": "[Hiring] 3D Artist - Multiplayer RTS in Unity ($30/hr, ~30 hrs/week)\n\nHello, I'm developing Fortify, a real-time multiplayer PvP strategy game (2\\~8 players) set in an Aztec/Mesoamerican world. Players manage resources (wood, stone, food, gold), spawn units, and attack and defend their bases.   \nThere's a working prototype in Unity 2022.3 - the gameplay systems run, but the visuals are placeholder and need a real artist to bring them to life. (Screenshot attached.)\n\nhttps://preview.redd.it/budox9l45i3h1.png?width=1685&amp;format=png&amp;auto=webp&amp;s=2eef2cf48285ea03c00e332707cc861ed38b0b63\n\nWhat I need help with:  \n\n\n • Buildings — Settlement, House, Mining/Lumber camps, Farm, Eagle House, Archery, Tower, Fortress, plus the pyramids\n\n • Units — Archer, Knight, Scout, Mage\n\n • Environment &amp; UI — terrain, resource/HUD icons, general polish toward one cohesive Mesoamerican style\n\n\n\n(We can scope this down or reprioritize depending on your strengths — happy to focus on whichever area you do best.)\n\nThe role:\n\n\n\n • Rate: $30 USD/hour\n\n • Hours: \\~30 hours/week, ongoing\n\n • Tools: Comfortable delivering Unity-ready 3D assets (whatever pipeline you prefer — we'll align on formats)\n\n\n\nAbout me: \\[solo dev / studio / your background\\]. I handle the programming and networking side.\n\nIf you're interested, reply or DM with your portfolio and a note on which area (buildings, units, environment) you're strongest in. Thanks for reading!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1toc26v/hiring_3d_artist_multiplayer_rts_in_unity_30hr_30/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-05-26T16:26:33Z"
   }
 ]
