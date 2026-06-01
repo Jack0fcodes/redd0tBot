@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tu87l2",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/DifficultyOk764",
+    "title": "Unity Developer Needed — 1 Week Proof of Concept — Mobile Pirate Game [PAID]",
+    "content": "Unity Developer Needed — 1 Week Proof of Concept — Mobile Pirate Game [PAID]\n\nHi, I need a Unity developer for a focused one week job. I'm building a proof of concept video for a mobile pirate arena game called Scrap Sails to show potential publishers and investors.\n\nI don't need a full game. I need one satisfying core mechanic working and looking good enough to record a 60 second video.\n\n**Exactly what I need built:**\n\nA pirate ship made of individual grid tiles floating on water. When cannonballs hit the ship, individual tiles crack, break off with physics, and float away on the water. Broken tiles drop glowing scrap orbs. Sailing over scrap automatically collects it. Ship moves with a virtual joystick with a water drift feel. That's it.\n\n**What I provide:**\n\n* Complete GDD so you understand the full vision\n* Art direction references\n* Fast communication and instant decisions\n* All assets if you need them or guidance on placeholders\n\n**Deliverables:**\n\n* Working Unity project file\n* Runs on Android or iOS\n* Looks clean enough to record gameplay video\n* Delivered in 7 days\n\n**Budget:** $300–$600 fixed price\n\n**You're right for this if:**\n\n* You've done Unity physics before\n* You can work fast with placeholder art\n* You're excited by cool destruction mechanics\n* You can deliver in exactly one week\n\n**To apply send me:**\n\n1. One example of Unity physics work\n2. Confirm you can deliver in 7 days\n3. Your fixed price",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tu87l2/unity_developer_needed_1_week_proof_of_concept/",
+    "quality": "High Quality",
+    "budget": "$300-600",
+    "created_at": "2026-06-01T22:34:25Z"
+  },
+  {
     "post_id": "1tu7q1e",
     "platform": "Reddit",
     "source": "r/dndcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-05-28T02:57:41Z"
-  },
-  {
-    "post_id": "1tppp97",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Feminineslu",
-    "title": "[Hiring] Hey I’m looking to commission some stream emojis pieces for a streamer friend of mine",
-    "content": "[Hiring] Hey I’m looking to commission some stream emojis pieces for a streamer friend of mine\n\nHey I’m looking to commission art for a streamer friend of mine that’s been looking to get new emojis and so hopefully someone here can help me with that here’s his emojis he already has his “mascot” in like a dinosaur it doesn’t have to look exactly like that one but just some sort of anthro dinosaur so if your interested please comment under the post thank you \n\nAnd the pic I included his the emojis he already has (ignore the non art ones lol)\n\nPrice: 40-80 for maybe 8 but willing to negotiate",
-    "url": "https://reddit.com/r/artcommission/comments/1tppp97/hiring_hey_im_looking_to_commission_some_stream/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-28T01:55:12Z"
   }
 ]
