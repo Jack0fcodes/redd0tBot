@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tunq2w",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Zealousideal-Usual76",
+    "title": "[Hiring] UX Designer for Web/Mobile Apps - 6-month contract",
+    "content": "[Hiring] UX Designer for Web/Mobile Apps - 6-month contract\n\nStart Date: Immediate  \nJob Location: Remote  \nJob Type: 6-month contract, extension possible. Compensation: USD 6,500–7,500 per month, depending on experience.\n\neQualitie is a technology company creating tools, offering services and leading advocacy in support of a more equal and equitable internet. Operating on not-for-profit principles and guided by our common values, we solve complex technical problems for improving digital defences, supporting resilience and enabling freedom of expression and association online. Over fifty people distributed around the world create and lead our various initiatives, often focused on some of the most complex digital and political issues of our time. eQualitie’s solutions are open source, and everyday, they empower millions of people online.\n\nToday, we are looking for an experienced UX Designer to join our team. We’re looking for a person who can help us design usable, accessible and trustworthy experiences in technically complex and often constrained environments. This is an interesting opportunity to shape the usability of tools that are often built technology-first; i.e. this is a chance to take exciting technologies and turn them into meaningful, solutions that people want to use.\n\n**What we need help with**  \nWe are looking for someone to address the critical issue in Internet Freedom technology – designing tools people want to use even when times are normal. Too often, people reach for critical connectivity tools only when it’s too late, when the network is down, shutdown, or the website is blocked. We want to embed resilient tooling into friendly services that people want to use, so that when they need us, they already have us.\n\nDesigning for decentralized systems introduces a unique set of challenges, including inconsistent connectivity, non-traditional data flows, privacy-sensitive interactions and diverse user contexts. Our main requirement for the new colleague is the ability to understand these constraints, translate them into clear user experiences, and iterate based on real-world usage.\n\nTo do this, we expect you to be able to self-start, driving the process from mapping user journeys, to iterative design and testing and rollout. You will be simplifying complex concepts such as peer-to-peer content sharing, decentralized system set up, ensuring the product remains accessible to non-technical users, and incorporating feedback. You would be the only designer on the team, but we work together, so you’re not alone.\n\nGiven the nature of our work, UX research can play a central role. You will work closely with developers, researchers and field teams in various parts of the world to gather insights from users operating in restrictive or low-connectivity environments, and translate those insights into actionable design improvements.\n\n**We are looking for a subset of these skills**\n\n* Strong experience in UX design for web and/or mobile applications\n* Ability to translate complex technical concepts into clear and usable interfaces\n* Experience with user research methods, including remote or constrained-context research\n* Proficiency with design and prototyping tools (e.g. Figma or similar)\n* Experience working closely with developers in iterative product environments\n\n**Nice to have**\n\n* Experience designing for privacy, security or peer-to-peer systems\n* Familiarity with decentralized technologies or offline-first design patterns\n* Experience contributing to open-source projects\n* Background in interaction design, information architecture or service design\n* Strong interest in digital rights, internet freedom and usability in high-risk contexts\n\n**Work schedule**  \neQualitie is global, so you will have to coordinate with your team to find a time that works for all of you. Otherwise, you do your work when you work.\n\n**How to apply**  \nPlease send your resume and a cover letter to **hireme|at|equalitie|dot|org** explaining how your experience and motivation match our needs. Include a portfolio of relevant work demonstrating your UX process and outcomes. If applicable, include links to projects involving complex systems, research-driven design or open-source contributions.\n\neQualitie welcomes applicants from all backgrounds. We are a remote-first company and offer flexible working arrangements. We are keen to hear from people who consider themselves under-represented in the software, technology or FLOSS communities.",
+    "url": "https://reddit.com/r/DesignJobs/comments/1tunq2w/hiring_ux_designer_for_webmobile_apps_6month/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-02T11:10:51Z"
+  },
+  {
     "post_id": "1tunbg1",
     "platform": "Reddit",
     "source": "r/ComicBookCollabs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$200",
     "created_at": "2026-05-28T17:06:29Z"
-  },
-  {
-    "post_id": "1tq8n9k",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Juixg",
-    "title": "[PAID] Behavior &amp; Level Designer for 2D Permadeath MMO",
-    "content": "[PAID] Behavior &amp; Level Designer for 2D Permadeath MMO\n\nHi r/gamedevclassifieds, I'm looking for a behavior &amp; dungeon designer for our game Born Again, a permadeath mmo! [https://store.steampowered.com/app/2332210/Born\\_Again/](https://store.steampowered.com/app/2332210/Born_Again/)\n\n  \nThe ideal candidate has previous experience in behavior design and dungeons.\n\nThe core requirements:\n\n* C# Scripting &amp; State Machine Behaviors\n* 2D Level Editing\n* Modular Room Design\n* Artist Collaboration\n\nHuge Plus but not required:\n\n* Simple Pixel Art (Aseprite)\n* Item Design &amp; Balancing\n* Git\n\nContract work per dungeon is ideal!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tq8n9k/paid_behavior_level_designer_for_2d_permadeath_mmo/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-28T16:29:53Z"
   }
 ]
