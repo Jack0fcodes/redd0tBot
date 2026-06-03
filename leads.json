@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tvf3m0",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/isaacluduvo",
+    "title": "[Paid] - Looking for Senior Engine Developer (Custom C++ Engine): Physics, Rendering, Low-Level Programming, etc.",
+    "content": "[Paid] - Looking for Senior Engine Developer (Custom C++ Engine): Physics, Rendering, Low-Level Programming, etc.\n\nHi, I'm Isaac, CEO of Luduvo.\n\nLuduvo ([luduvo.com](http://luduvo.com)) is an upcoming user-generated content platform where users can create games, socialize, customize their avatars, and build communities. If you're familiar with platforms like Roblox or VRChat, you'll have a general idea of what we're building.\n\nFor the past 8 months, we've been developing a proprietary platform from the ground up, including our game engine, creator tools, website, backend infrastructure, and client software. We currently have a community of over 2,500 users waiting for launch, alongside a dedicated group of active alpha testers helping shape the platform's future.\n\nOur team includes developers, artists, designers, and other contributors working across nearly every aspect of the platform. As development continues, we're looking to expand our engineering team.\n\nWe are currently seeking C++ Engine Development Interns to help build the core technology behind Luduvo. We're currently seeking C++ Engine Development Interns to help build Luduvo. You'll work on both the Luduvo Client and Luduvo Studio, developing engine features, creator tools, gameplay systems, physics, rendering, and more. Areas of development may include engine systems, rendering, tooling, performance, infrastructure, and other foundational technologies that power the platform. If you're interested in helping build a platform from the start, we'd love to hear from you.\n\nThis is a paid internship position at $300 USD/month, with opportunities to scale into part-time or full-time roles as the project grows. A contract is required.\n\nWe're looking for ambitious developers who enjoy tackling difficult technical challenges and want to help build a large-scale creation platform from the ground up. If that sounds interesting, I'd love to talk with you and show you what we've been working on.\n\nFeel free to contact me at [isaac@luduvo.com](mailto:isaac@luduvo.com) or send me a Reddit chat request. 🙌",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tvf3m0/paid_looking_for_senior_engine_developer_custom_c/",
+    "quality": "High Quality",
+    "budget": "$300",
+    "created_at": "2026-06-03T04:49:54Z"
+  },
+  {
     "post_id": "1tvewg6",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-05-29T09:43:30Z"
-  },
-  {
-    "post_id": "1tqwc9j",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Chef_Margaux",
-    "title": "[HIRING] Composer for Cozy Solarpunk Cooking Life Sim Game (Japanese-inspired / J-pop influenced)",
-    "content": "[HIRING] Composer for Cozy Solarpunk Cooking Life Sim Game (Japanese-inspired / J-pop influenced)\n\nHi everyone!\n\nI’m currently looking for a composer for *Galaxy Chef*, an indie cozy cooking/life sim set in a colorful solarpunk sci-fi world.\n\nThe game has a warm anime-inspired aesthetic, and I’m looking for someone who can create music that feels emotionally rich, futuristic, cozy, and distinctly Japanese-inspired — more in the direction of J-pop/anime game soundtracks rather than traditional Japanese music.\n\nI’m still exploring the exact musical identity of the game, so I’m very open creatively and would love to collaborate with someone who has their own strong artistic voice.\n\nWhat I’m looking for:\n\n* Experience composing for sci-fi or futuristic settings\n* Strong sense of melody and atmosphere\n* Japanese-inspired style influences (J-pop, anime OSTs, city pop, etc.)\n* Interest in writing *songs* and vocal pieces, not just background music\n* Someone excited about cozy games and character-driven worlds\n\nI’ll be providing the vocals myself initially, so I’m especially interested in collaborating with someone who enjoys composing vocal-driven tracks and working closely with a singer.\n\nThe vibe of the game is:\n\n* Cozy cooking gameplay\n* Slice-of-life energy\n* Solarpunk sci-fi setting\n* Anime-inspired visuals\n* Emotional, uplifting, comforting tone\n\nIf interested, please send:\n\n* Portfolio / demo reel\n* Examples of vocal-oriented work (if available)\n* Rates and availability\n* Anything you feel captures your style\n\nYou can DM me.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tqwc9j/hiring_composer_for_cozy_solarpunk_cooking_life/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-05-29T09:21:18Z"
   }
 ]
