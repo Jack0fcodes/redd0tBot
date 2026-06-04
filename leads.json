@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1tx40dd",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ghostnet",
+    "title": "[PAID] Looking for graphics engineer to inject godot viewports into DX11 render pipelines",
+    "content": "[PAID] Looking for graphics engineer to inject godot viewports into DX11 render pipelines\n\nI am writing an overlay tool for a DX11 application, right now the overlay is a transparent window that sits on top of the target application, I also have an plugin for the target application that is capable of running imgui. The goal is to inject the overlay window directly into the application using the plugin instead of relying on the window manager to do composition.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1tx40dd/paid_looking_for_graphics_engineer_to_inject/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-04T23:23:36Z"
+  },
+  {
     "post_id": "1tx31lx",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-05-31T03:08:42Z"
-  },
-  {
-    "post_id": "1tsj7md",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Solidaniel62",
-    "title": "[Hiring] [$100-200] Reference sheet for an uma musume OC (see pics for inspiration)",
-    "content": "[Hiring] [$100-200] Reference sheet for an uma musume OC (see pics for inspiration)\n\nBottom row is the horse themselves, named Fast Friend: the most successful sire of Ines Fujin and \"Queen of the Dirt\"\n\nThe top right is their owner silks and in the top left is TM Opera O, whose design I want to try and emulate (but downplay) given Fast Friend's history\n\nThanks for reading and your consideration!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1tsj7md/hiring_100200_reference_sheet_for_an_uma_musume/",
-    "quality": "High Quality",
-    "budget": "$100-200",
-    "created_at": "2026-05-31T02:54:22Z"
   }
 ]
