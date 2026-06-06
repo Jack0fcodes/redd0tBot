@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1ty6btk",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/insainist09",
+    "title": "Digital redraw of AI logo and banner. [Hiring] $500",
+    "content": "Digital redraw of AI logo and banner. [Hiring] $500\n\nI already have a finished logo concept. I need a professional hand-drawn recreation for commercial use.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1ty6btk/digital_redraw_of_ai_logo_and_banner_hiring_500/",
+    "quality": "High Quality",
+    "budget": "$500",
+    "created_at": "2026-06-06T03:39:27Z"
+  },
+  {
     "post_id": "1ty2mya",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-01T14:29:27Z"
-  },
-  {
-    "post_id": "1ttqvx4",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/amusudan",
-    "title": "[PAID] Looking for FPS viewmodel animators and character animators.",
-    "content": "[PAID] Looking for FPS viewmodel animators and character animators.\n\n**Viewmodel animators:**  \n  \nI need viewmodel animations for guns and equipment for a video game. Each gun needs an idle pose, an empty reload animation, and a partial reload animation. Each equipment just needs one animation. There are around 100 viewmodel animations left for this project.\n\nI will pay per completed gun / equipment: 30 to 35 dollars per gun and 10 to 15 dollars per equipment based on complexity.\n\nI can not negotiate on the price as I am already working with animators who are comfortable with this price range, and I have a limited budget.\n\nIf you are interested, send me your portfolio via Discord (username: ikgadittochveranderen) and I can give you more details on the project.\n\n\n\n**Character animators:**\n\nI need around 20 custom animations for existing rigged models (a few humanoid, a few generic). These will include locomotion, attacks, and taunts.  \n  \nWilling to negotiate on price based on the complexity of the animations, as I have not worked with character animators before, but beware I'm a solo dev and I don't have a large budget.\n\nIf you are interested, send me your portfolio via Discord (username: ikgadittochveranderen) and I can give you more details on the project.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ttqvx4/paid_looking_for_fps_viewmodel_animators_and/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-01T12:36:29Z"
   }
 ]
