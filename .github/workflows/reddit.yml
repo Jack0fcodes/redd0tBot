@@ -3,7 +3,7 @@ name: Send Reddit Posts to Telegram + Scout (5-min self-loop)
 on:
   workflow_dispatch:        # manual start
   schedule:
-    - cron: "0 */6 * * *"   # backup: restart the loop if the self-dispatch chain ever breaks
+    - cron: "*/15 * * * *"  # backup: catches the chain quickly if a runner is evicted mid-loop. Concurrency keeps only one running.
 
 permissions:
   contents: write
