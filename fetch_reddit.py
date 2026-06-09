@@ -16,6 +16,7 @@ SCOUT_API_URL = os.getenv("SCOUT_API_URL")
 SCOUT_API_KEY = os.getenv("SCOUT_API_KEY")
 
 CSV_FILE = "posts_reddit.csv"
+CSV_MAX_ROWS = 5000  # keep the most recent N posts for dedup; older rows are pruned
 LEADS_JSON_FILE = "leads.json"
 LEADS_JSON_MAX = 200  # keep the file bounded for the iOS app to fetch
 
@@ -161,6 +162,27 @@ def csv_safe(value):
         return "'" + text
     return text
 
+# Keep the header plus the most recent CSV_MAX_ROWS data rows so the
+# dedup archive (and the repo) stays bounded instead of growing forever.
+def prune_csv():
+    if not os.path.isfile(CSV_FILE):
+        return
+    with open(CSV_FILE, "r", newline="", encoding="utf-8") as f:
+        rows = list(csv.reader(f))
+    if not rows:
+        return
+    has_header = bool(rows[0]) and rows[0][0] == "PostID"
+    header = rows[0] if has_header else None
+    data_rows = rows[1:] if has_header else rows
+    if len(data_rows) <= CSV_MAX_ROWS:
+        return
+    data_rows = data_rows[-CSV_MAX_ROWS:]  # newest rows are appended last
+    with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        if header:
+            writer.writerow(header)
+        writer.writerows(data_rows)
+
 # Save new posts to CSV
 def save_to_csv(posts):
     file_exists = os.path.isfile(CSV_FILE)
@@ -174,6 +196,7 @@ def save_to_csv(posts):
             author = post["data"].get("author", "unknown")
             link = "https://reddit.com" + post["data"]["permalink"]
             writer.writerow([csv_safe(c) for c in (pid, subreddit, title, author, link)])
+    prune_csv()
 
 if __name__ == "__main__":
     try:
