@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1u1yiz5",
+    "platform": "Reddit",
+    "source": "r/hireanartist",
+    "author": "u/Krumbz1995",
+    "title": "Looking to hire a mentor for online sessions focusing on drawing faces",
+    "content": "Looking to hire a mentor for online sessions focusing on drawing faces\n\nMy goal is to draw character faces consistently from any angle. Black and white, no torso/body, detailed rendering not needed. I am wanting to understand how the features and proportions of a character map across any head rotation.\n\nI have given some characters I drew to artists on fiverr to develop into a full turnover sheet and they always redrew them in their style with character features/proportions they are most comfortable with. This is NOT what I want.\n\nI’d like to draw a character and have someone help and explain to me how to rotate the head without having to change the original style too much. I am particularly struggling with 3/4 view head looking up/down.\n\nMy fave artists are Daisuke Iragashi, Junji Ito, I like Alt/indie Manga, Ukiyo-e and street art\n\nI am seeking online sessions where an artist can draw over my works explain the process and answer questions live.\n\nMy budget is around 50 USD for. Open to expand into a longer term mentorship",
+    "url": "https://reddit.com/r/hireanartist/comments/1u1yiz5/looking_to_hire_a_mentor_for_online_sessions/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-10T10:39:55Z"
+  },
+  {
     "post_id": "1u1yhdq",
     "platform": "Reddit",
     "source": "r/ComicBookCollabs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$300",
     "created_at": "2026-06-05T21:05:55Z"
-  },
-  {
-    "post_id": "1txxibu",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/CapriDev47",
-    "title": "[PAID] 3D artist wanted — clean game-ready sci-fi hover drone (concept + base mesh provided)",
-    "content": "[PAID] 3D artist wanted — clean game-ready sci-fi hover drone (concept + base mesh provided)\n\nHi all - indie dev here. I'm looking for someone to turn my concept into a clean, game-ready 3D model. First up is a sci-fi hover combat drone — angular fuselage with twin ring-shaped ducted thrusters (the \"Ringfighter\"). Concept art and a rough base mesh are attached below.\n\nWhat I'll provide:\n\n\\- Concept render + multiple reference angles (attached)\n\n\\- A rough base mesh (from Meshy) as a starting reference\n\n\\- A short spec sheet (scale, poly budget, etc.)\n\nWhat I need:\n\n\\- Clean game-ready model — sensible topology, no n-gon mess\n\n\\- Proper UVs + PBR texture set (2K is fine), dark gunmetal with cyan emissive accents\n\n\\- The two thruster rings as separate, correctly-pivoted meshes (so I can animate them)\n\n\\- Delivered as FBX + textures (OBJ backup welcome)\n\n\\- Target engine is Unreal, so correct scale/orientation please;\n\nIt does not need to match the concept exactly — clean and close is what matters. I'm not after AAA hero-asset detail.\n\nBudget: EUR 150-200 for this model.\n\nHeads up: this is the first of several. I have more props in the pipeline (a turret is next) and would rather find one reliable artist to keep working with than re-hire every time — so if this goes well and the price stays reasonable, there's ongoing work.\n\nTo apply, reply or DM with:\n\n\\- A portfolio / a few hard-surface examples\n\n\\- Your quote for this piece\n\n\\- A rough turnaround estimate\n\nThanks!\n\nhttps://preview.redd.it/c2mc3suj4j5h1.jpg?width=1536&amp;format=pjpg&amp;auto=webp&amp;s=f2a05b5e75575289b9c0e35726788c64f1c0fef5",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1txxibu/paid_3d_artist_wanted_clean_gameready_scifi_hover/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-05T21:06:54Z"
   }
 ]
