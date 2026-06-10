@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1u215ww",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/manteiguinhax",
+    "title": "[PAID] Looking for pixel artist to create a Fakemon + Monster Hunter like for a top-down 2D action game",
+    "content": "[PAID] Looking for pixel artist to create a Fakemon + Monster Hunter like for a top-down 2D action game\n\nHi everyone,\n\nI’m looking for a pixel artist to create 3 monster sprites for my top-down 2D action game.\n\nThe initial monsters would be:\n\n1. A raptor-like monster (velocidrome like), max 64x64 px\n\n2. A bird-like monster (qurupeco like), max 64x64 px\n\n3. A horned/burrowing monster (diablos like), max 84x84 px\n\nThe references are mainly inspired by monster-hunting games, but only for general type, silhouette, and gameplay role. I’m not looking for direct copies.\n\nAll monsters should be drawn in a side-view / side-profile pose.\n\nBudget: $25 per sprite, $75 total for the first 3 sprites.\n\nOne important note: I use GameMaker Sequences for animation, so I need permission to edit/separate parts of the sprites after delivery for animation purposes. I’m happy to explain the workflow in more detail if needed.\n\nI’d like to test these first, but I’m interested in commissioning more monster sprites later if everything works well.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1u215ww/paid_looking_for_pixel_artist_to_create_a_fakemon/",
+    "quality": "High Quality",
+    "budget": "$25",
+    "created_at": "2026-06-10T12:44:44Z"
+  },
+  {
     "post_id": "1u20zgd",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$25",
     "created_at": "2026-06-06T00:01:49Z"
-  },
-  {
-    "post_id": "1txzpn1",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/RaininMuffins",
-    "title": "[Hiring] Looking for Project Moon-style artist",
-    "content": "[Hiring] Looking for Project Moon-style artist\n\nHello! I'm looking to commission at least a sketch in Project Moon's art style. More specifically Library of Ruina. To be considered, please make a project moon reference! \n\nBudget is $20 minimum but I'm willing to work with you.\n\nThank you and I look forward to working with you!",
-    "url": "https://reddit.com/r/artcommissions/comments/1txzpn1/hiring_looking_for_project_moonstyle_artist/",
-    "quality": "High Quality",
-    "budget": "$20",
-    "created_at": "2026-06-05T22:35:23Z"
   }
 ]
