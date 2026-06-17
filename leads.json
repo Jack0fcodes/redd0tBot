@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1u8pc4g",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/ComedyManager",
+    "title": "[Hiring] Illustrator Needed ASAP for Merch Design – Psychedelic / Ramin Nazer Style",
+    "content": "[Hiring] Illustrator Needed ASAP for Merch Design – Psychedelic / Ramin Nazer Style\n\nWe are looking for a freelance illustrator to create merch designs for us on a very tight timeline. We need someone who can start immediately.\n\n**The Vibe/Style:** Heavily inspired by Ramin Nazer. We want clean, bold line art, flat/vibrant psychedelic color palettes, cosmic/whimsical themes, and integrated hand-drawn text.\n\n**Deliverables:** High-res vector files (.AI/.EPS) or transparent PNGs (300 DPI), print-ready for apparel.\n\n**Deadline:** We need the final files by **\\[June 24th absolute latest, sooner we'll give you a bonus\\]**.\n\n**Budget:** \\[**$150-300\\]** per design.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1u8pc4g/hiring_illustrator_needed_asap_for_merch_design/",
+    "quality": "High Quality",
+    "budget": "$150-300",
+    "created_at": "2026-06-17T22:53:37Z"
+  },
+  {
+    "post_id": "1u8peok",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/ComedyManager",
+    "title": "[Hiring] Illustrator Needed ASAP for Merch Design – Psychedelic / Existential Doodle Style",
+    "content": "[Hiring] Illustrator Needed ASAP for Merch Design – Psychedelic / Existential Doodle Style\n\nWe are looking for a freelance illustrator to create merch designs for us on a very tight timeline. We need someone who can start immediately.\n\nThe Vibe/Style: Heavily inspired by Ramin Nazer. We want clean, bold line art, flat/vibrant psychedelic color palettes, cosmic/whimsical themes, and integrated hand-drawn text.\n\nDeliverables: High-res vector files (.AI/.EPS) or transparent PNGs (300 DPI), print-ready for apparel.\n\nDeadline: We need the final files by \\[June 24th absolute latest, sooner we'll give you a bonus\\].\n\nBudget: \\[$20/hour must log hours, with a max\\] per design.",
+    "url": "https://reddit.com/r/DesignJobs/comments/1u8peok/hiring_illustrator_needed_asap_for_merch_design/",
+    "quality": "High Quality",
+    "budget": "$20",
+    "created_at": "2026-06-17T22:56:39Z"
+  },
+  {
     "post_id": "1u8ojol",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$80-100",
     "created_at": "2026-06-13T15:07:58Z"
-  },
-  {
-    "post_id": "1u4t9su",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/timelf",
-    "title": "[Hiring] Proposal drawing at Hong Kong Disneyland in Realism Style. Budget $80-100 with flexibility.",
-    "content": "[Hiring] Proposal drawing at Hong Kong Disneyland in Realism Style. Budget $80-100 with flexibility.\n\nMy cousin proposed at Disneyland I would like to gift this drawing as a wedding gift. I want it drawn on paper, so I can frame it. I have added some photos of the style that I like. Please link your previous work.",
-    "url": "https://reddit.com/r/artcommissions/comments/1u4t9su/hiring_proposal_drawing_at_hong_kong_disneyland/",
-    "quality": "High Quality",
-    "budget": "$80-100",
-    "created_at": "2026-06-13T15:04:41Z"
-  },
-  {
-    "post_id": "1u4t659",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/No-Strawberry-7577",
-    "title": "[PAID] Node.js + Socket.io dev for online PvP in a browser strategy game (fixed-price milestone)",
-    "content": "[PAID] Node.js + Socket.io dev for online PvP in a browser strategy game (fixed-price milestone)\n\n**\\[PAID\\] Node.js +** [**Socket.io**](http://Socket.io) **dev for online PvP in a browser strategy game (fixed-price milestone)**\n\nI have a working browser strategy game prototype and need a developer to build one specific feature: **real-time online PvP**.\n\n**The game**  \nA medieval kingdom-builder where your YouTube channel becomes your kingdom (subscribers = population). Players build a city, train an army, and battle other players. Pixel-art style.\n\n**Tech stack**\n\n* Backend: Node.js, Express, SQLite, [Socket.io](http://Socket.io)\n* Frontend: vanilla JS + HTML5 Canvas\n* YouTube OAuth — already working\n\n**Already built:** city builder, resource economy, building upgrades, save system, YouTube login, a single-player battle prototype, and a [Socket.io](http://Socket.io) matchmaking/room skeleton.\n\n**Design is done**  \nI have a complete set of game design documents — economy, troops, buildings, map generation, Town Hall progression, and the full PvP battle flow are all written out with formulas and config values. The work is implementing this existing design in code, not figuring out the game from scratch.\n\n**The milestone I'm hiring for**  \nConnect the existing battle client to the server for working online PvP:\n\n* Matchmaking → game room → two players in a synced battle\n* 2-round battle flow (defense setup → squad deployment → combat)\n* Server-authoritative battle resolution\n\n**Budget &amp; terms**\n\n* Fixed-price for this milestone — send me your quote for the scope above, or your hourly rate + estimate\n* Paid per agreed milestone, not rev-share\n* If it goes well, there's more paid work after this (city polish, balance, more features)\n\n**To apply — please send me a direct message / chat request here on Reddit with:**\n\n1. A multiplayer / [Socket.io](http://Socket.io) project you've built (most important)\n2. Your tech stack\n3. Your quote or hourly rate\n4. Short intro",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1u4t659/paid_nodejs_socketio_dev_for_online_pvp_in_a/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-13T15:00:38Z"
   }
 ]
