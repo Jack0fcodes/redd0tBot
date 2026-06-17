@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1u80m69",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Mysterious_Mind4841",
+    "title": "[PAID] Looking for someone to help me prototype or build a reusable gameplay framework in Unreal Engine",
+    "content": "[PAID] Looking for someone to help me prototype or build a reusable gameplay framework in Unreal Engine\n\nI am working on a Third-person single-player action-adventure RPG in Unreal Engine. I've designed and modeled most of the characters and assets, but I am currently struggling with the logic and protoyping.   \nFor the core structure, the game uses a linear, semi open-world progression. Player enter regions in a fixed story order. Each region has exploration, side quests, enemies, collectibles, and one major dungeon. Dungeons contain puzzles, traps, monsters, a Guardian mini-boss, then a Major boss. Reaching the dungeon core transports the player to a boss-specific realm where they will face off against the Major Boss.  \nSome required Gameplay Systems include; Player combat- Light/heavy attacks, Dodge/parry, Lock-on targeting, Magic/ability usage, Lunar Gauge resource,   \nEnemy AI tiers-  Simples: basic enemies, Elites: elite enemies that can spawn Simples until defeated, Guardians: shielded mini-bosses, Majors: cinematic multi-phase bosses,  \nDungeon system- Puzzle triggers, Trap logic, Locked doors, Guardian gate logic, Boss-realm transition after Guardian defeat,  \nProgression system- XP, Skill tree, solar stone unlocks,   \nNPC systems- horse companion/mount, merchant/crafting, seperate from potion shop, soul fragment appearances/lore triggers,  \nQuest system- Main quests, Side quests,  \nRegion-clearing objectives- Collectibles/lore tracking, Save/load system, Player stats, Inventory, quest progress, unlocked regions, defeated bosses, collected solar stones.  \nI need clean Blueprint and/or C++ architecture,  \nReusable parent classes for enemies, bosses, items, quests, and interactables,  \nCommented code/Blueprints,  \nEditable data tables or data assets for balancing,  \nBasic debug tools/prints,  \nDocumentation explaining how to add new enemies, abilities, quests, and dungeons.  \nThe systems should be modular and expandable, because the game has multiple regions, dungeons, bosses, enemy types, abilities, and NPCs.\n\nI am not asking for the full game to be built at once. I need a reusable gameplay framework in Unreal Engine that can support a third-person action-adventure RPG with combat, progression, dungeons, bosses, quests, NPCs, and save/load logic.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1u80m69/paid_looking_for_someone_to_help_me_prototype_or/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-17T04:54:07Z"
+  },
+  {
     "post_id": "1u7zlyl",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-06-13T05:43:24Z"
-  },
-  {
-    "post_id": "1u4ihll",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/pandoxyy",
-    "title": "[Hiring] [$100] Looking for an artist to turn this AI slop I was sold into real art",
-    "content": "[Hiring] [$100] Looking for an artist to turn this AI slop I was sold into real art\n\nI recently comissioned an \"artist\" on another site to make this for me. I was sold AI slop. My bad for using that site I guess. \n\nI am looking to have this remade by a real artist. I am in no real rush to have it done and am open to a bit of a longer timeline. I would prefer to pay through PayPal since that's the only common payment method I already have setup, but am willing to negotiate on payment method and price. \n\nI don't need all the text in the final product as I was planning on adjusting it in post anyway, but would like the layout/framing pretty much as is.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1u4ihll/hiring_100_looking_for_an_artist_to_turn_this_ai/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-06-13T05:35:54Z"
   }
 ]
