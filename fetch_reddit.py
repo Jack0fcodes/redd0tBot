@@ -210,6 +210,7 @@ if __name__ == "__main__":
             "announcements",
             "Artcommission",
             "Artistsforhire",
+            "artistforhire",
             "artstore",
             "ComicBookCollabs",
             "commissionart",
