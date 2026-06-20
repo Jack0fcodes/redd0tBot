@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uawdsg",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/Altruistic_Sand_6640",
+    "title": "[Hiring] Looking to commission a piece for my sister’s birthday!",
+    "content": "[Hiring] Looking to commission a piece for my sister’s birthday!\n\nMy sister absolutely LOVES her cat so I would love to commission a piece with for her 30th birthday\n\nI don’t really have many ideas in mind, I’m not sure if it would be cuter to have just a pet portrait or to have the portrait include her, her husband, and her cat\n\nMy budget is around 50$-80$\n\nI have attached a picture of said cat because she is adorable",
+    "url": "https://reddit.com/r/artcommissions/comments/1uawdsg/hiring_looking_to_commission_a_piece_for_my/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-20T13:15:45Z"
+  },
+  {
     "post_id": "1uavv98",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$300-400",
     "created_at": "2026-06-15T17:23:45Z"
-  },
-  {
-    "post_id": "1u6ln4o",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Juixg",
-    "title": "[PAID] Content Designer for Live MMORPG on Steam",
-    "content": "[PAID] Content Designer for Live MMORPG on Steam\n\nHi!\n\nI'm looking for a game designer/content designer contractor to help expand our permadeath MMORPG, Born Again:\n\n[https://store.steampowered.com/app/2332210/Born\\_Again/](https://store.steampowered.com/app/2332210/Born_Again/)\n\nBorn Again has been live since 2023 and we're continuing to add new content. We're looking for someone who enjoys creating dungeons, enemies, bosses, abilities, and items, and can help turn ideas into playable content.\n\nResponsibilities:\n\n* Design dungeon layouts, encounters, and objectives\n* Create enemies, bosses, abilities, and items\n* Script enemy and encounter behaviors using our existing C# content framework\n* Iterate on balance and gameplay based on testing\n\nPrimary Requirements:\n\n* Game design experience\n* Strong understanding of RPG/MMORPG progression and combat\n* Ability to create engaging encounters and content\n* Basic C# scripting experience\n\nNice to Have:\n\n* Aseprite / simple pixel art\n* Animation experience\n* Git (branches / pull requests)\n* JSON editing\n\nContract Details:\n\n* Paid contractor position\n* Remote\n* Flexible hours\n* Long-term work available for a good fit\n\nIf interested, send:\n\n* Relevant experience\n* Portfolio/examples (games, mods, levels, encounters, etc.)\n* Your hourly rate or preferred compensation",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1u6ln4o/paid_content_designer_for_live_mmorpg_on_steam/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-15T16:32:40Z"
   }
 ]
