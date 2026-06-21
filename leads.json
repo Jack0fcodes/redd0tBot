@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1ubuu23",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/frictionfrog",
+    "title": "[PAID] Vector Logo &amp; Simple Lottie Animation for indie iOS app - $200 (Full Rights)",
+    "content": "[PAID] Vector Logo &amp; Simple Lottie Animation for indie iOS app - $200 (Full Rights)\n\nHi! I just got my app, Friction Frog, accepted by the app store, which I’m really excited about. The app makes you do a breathing exercise before opening distracting apps, and lets you grayscale them to make them less stimulating.\n\nIt currently has 10-15 downloads but I’m looking to push it out there. I'm looking to replace my current placeholder art with an original logo and a simple animation of the frog to use on the app's home page, breathing exercise screen, and on different pages throughout the app.\n\n**The Budget:** $200 total ($100 for the static logo, $100 for the animation). I need full commercial rights/copyright buyout so I can use it in the app, for marketing, and potentially merch later on. We would need to sign a simple IP transfer.\n\n**What I need:**\n\n* **Logo:** Clean vector (.svg or .ai). I have a free-to-use set of pictures I'm currently using (image included and video linked below) that show the general vibe, but the new design needs to be completely original.\n* **Animation:** A loop of the frog doing an idle bounce (+croak after every 5 idle bounce loops). I will cut this up and use it for different purposes in the app (mainly the home screen idle, and the breathing exercise). This must be delivered as a Lottie file (.json) so I can drop it into Xcode.\n* **No AI:** I'll ask to see a few rough sketches/WIPs as we go to make sure it’s matching the vision and it's human-made art.\n\nPut your portfolio in the comments! If you have specific Lottie or UI animation experience, definitely point that out. I'll DM you if your style is a good fit.\n\nAlso, if you have a screen time problem yourself, feel free to check out the Friction Frog app. It is fully free. Thanks!\n\nCurrent logo: \n\n[Current logo, from a free pack, not mine](https://preview.redd.it/9kk9no4g0o8h1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=6c581a1af8e46c95ad4ac192275927d1814e4a3f)\n\nCurrent frog loop (top of page): [https://www.youtube.com/shorts/Edy4XOgaxJs](https://www.youtube.com/shorts/Edy4XOgaxJs)\n\nCurrent breathing exercise reference (0:05-0:16), it is just the croak slowed down: [https://www.youtube.com/shorts/ZaeDD3TRvsE](https://www.youtube.com/shorts/ZaeDD3TRvsE)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ubuu23/paid_vector_logo_simple_lottie_animation_for/",
+    "quality": "High Quality",
+    "budget": "$200",
+    "created_at": "2026-06-21T16:47:18Z"
+  },
+  {
     "post_id": "1ubuo8m",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-16T11:50:57Z"
-  },
-  {
-    "post_id": "1u7bcdk",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/HeritageOfBurgundy",
-    "title": "[Hiring] Recherche peintre aquarelliste ou peintre à l'huile pour un partenariat à long terme (Budget initial pour un essai : 60 à 100 USD par œuvre au format A4)",
-    "content": "[Hiring] Recherche peintre aquarelliste ou peintre à l'huile pour un partenariat à long terme (Budget initial pour un essai : 60 à 100 USD par œuvre au format A4)",
-    "url": "https://reddit.com/r/artcommission/comments/1u7bcdk/hiring_recherche_peintre_aquarelliste_ou_peintre/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-16T11:53:00Z"
   }
 ]
