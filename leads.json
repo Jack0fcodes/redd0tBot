@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uegl7p",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/CosmicTopSecret",
+    "title": "[PAID] [Hiring] Pixel artist for ongoing work on a dark finite idle game",
+    "content": "[PAID] [Hiring] Pixel artist for ongoing work on a dark finite idle game\n\nSolo dev building a finite idle/strategy game for Steam. It's well into development with an established dark art direction. Looking for a pixel artist for one-off and ongoing freelance work, starting with icons and extending into UI and more sprites over time.\n\nPaid hourly or for a batch of work, rate based on your experience, agreed before any work starts. Ideally looking to start a good working relationship!\n\nThe aesthetic is candlelit dark vibes, deep reds, blacks, orange tones (fixed palette supplied).  \nCurrently working at SORT OF a 16x16 size. \n\nI'll share the game name, screenshots, and palette over DM. Happy to start with a small paid trial piece so we both check the fit first.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uegl7p/paid_hiring_pixel_artist_for_ongoing_work_on_a/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-24T15:24:09Z"
+  },
+  {
     "post_id": "1uecon4",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-19T04:11:38Z"
-  },
-  {
-    "post_id": "1u9rq7g",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/masterchief9577",
-    "title": "[Unity] [Paid] Looking for dev-2D endless platformer with psychological mechanics (reply if interested)",
-    "content": "[Unity] [Paid] Looking for dev-2D endless platformer with psychological mechanics (reply if interested)\n\nI'm building a game but looking for game dev that can make the game real. It got inspired Geometry Dash, but instead of teaching the player a rhythm and keeping it, it teaches the rhythm and breaks it on purpose. The player's brain misfires. They die. They can't stop playing.\n\nSimple mechanic, All art assets are ready.\n\nBudget $200 or more. payment you must have a stripe account to get paid no paypal. Reply if you've built timing or rhythm based mechanics in Unity before, reply.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1u9rq7g/unity_paid_looking_for_dev2d_endless_platformer/",
-    "quality": "High Quality",
-    "budget": "$200",
-    "created_at": "2026-06-19T04:10:15Z"
   }
 ]
