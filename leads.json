@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uebfvc",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/existentialcrisis_8",
+    "title": "[PAID] Offering an Affordable C++ / C# Game Developer",
+    "content": "[PAID] Offering an Affordable C++ / C# Game Developer\n\nHi hello!\n\nI am a C++ game developer available for paid work at **affordable, negotiable rates**. \n\nI am especially useful if you need someone who can work on **gameplay**, **performance**, **tools**, **engine** code or **multiplayer**\\-related systems without needing everything explained from zero.\n\nhttps://reddit.com/link/1uebfvc/video/t5ipmjoyy79h1/player\n\nWhat I worked with:\n\n* **gameplay** features\n* bug fixing, dev tools\n* **performance** optimizations (i.e. my engine supports 4k + active zombies)\n* combat / **ballistics** systems\n* **seemless** worlds\n* **AI** (including complex AI like Utility AI (like in The Sims))\n* **save / load** systems (serialization)\n* **multiplayer** (both Steam co-op &amp; TCP/UDP servers)\n* **servers**\n* **cross-platform** support\n* large codebases\n\nMy current personal project is a 2.5D zombie survival RPG made in my own C++ engine. It already has movement, shooting, zombies, visibility, fog of war, world simulation, multiplayer-ready structure and a separate server application. (60k+ lines of my own code)\n\nhttps://reddit.com/link/1uebfvc/video/w87nvmc5z79h1/player\n\nI have also worked on non-game software, including a VM management panel and custom DDoS protection tools. Because of that, I am comfortable with practical programming problems, networking, optimization and larger codebases.\n\nI am open to:\n\n* small tasks\n* prototypes\n* part-time work\n* ongoing indie project work\n* technical help / advice for projects\n* fixing or improving existing C++ / C# / Java / Rust games\n\nPlease contact me with:\n\n* what your game is\n* what engine you use\n* what you need help with\n* your budget range\n* expected timeline\n\nI am interested in helping indie developers, so feel free to contact me via:\n\nDiscord at ***exicrysis***",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uebfvc/paid_offering_an_affordable_c_c_game_developer/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-24T11:56:51Z"
+  },
+  {
     "post_id": "1ueaqah",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-19T01:41:03Z"
-  },
-  {
-    "post_id": "1u9onvz",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Killscreen3",
-    "title": "[Hiring] I want to create an 'I Love You' signature poster for a loved one.",
-    "content": "[Hiring] I want to create an 'I Love You' signature poster for a loved one.\n\nhttps://preview.redd.it/ypva0cve858h1.png?width=736&amp;format=png&amp;auto=webp&amp;s=6ec3a0a0cb79e8fe03b05720b82c2b5109a6370b\n\nI have the signatures of multiple children, but they are scanned somewhat poorly. I was hoping that an artist could clear up the signatures and line them up for a 9x12 frame.\n\nWilling to pay $40 via paypal, venmo or cashapp.\n\nI'll provide link to document of signatures upon agreement.",
-    "url": "https://reddit.com/r/artcommissions/comments/1u9onvz/hiring_i_want_to_create_an_i_love_you_signature/",
-    "quality": "High Quality",
-    "budget": "$40",
-    "created_at": "2026-06-19T01:39:06Z"
   }
 ]
