@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uf35ex",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/evertonuk",
+    "title": "[Hiring] wanted for game",
+    "content": "[Hiring] wanted for game\n\nI'm looking for a **long-term artist** to help define the visual style of the game.\n\n# I'm looking for:\n\n* Hand-drawn (non-generative AI) artwork.\n* Stylized, semi-realistic portraits.\n* Consistent art style.\n* Commercial rights.\n* Someone interested in a long-term collaboration.\n\n# Initial work:\n\n* 3 test actor portraits.\n* If we're a good fit, around **50 cast portraits** over time.\n* Later, around **40–200 collectible props** (masks, coffins, knives, alien artifacts, crowns, etc.).\n\n# Art style:\n\nThink modern game portraits—colourful, expressive, and suitable for a Hollywood management game.\n\nPlease reply with:\n\n* Your portfolio.\n* Your rates.\n* Whether you work completely without generative AI.\n* Your typical turnaround time.\n\nThanks! Dont have lots of money, so will be like so many a month. \n\nhttps://preview.redd.it/v7bdwaznrd9h1.png?width=838&amp;format=png&amp;auto=webp&amp;s=1a1fcce243ca51bf553e60add68698abba3c8745\n\nAbove is a AI Placeholder but looking for a hand drawn styles, this is the size of the image.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1uf35ex/hiring_wanted_for_game/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-25T07:25:10Z"
+  },
+  {
     "post_id": "1uf0en3",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-20T09:37:53Z"
-  },
-  {
-    "post_id": "1uasa60",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/BeniOstr",
-    "title": "[Paid] Seeking Seasoned Level Designer to Blueprint/Greybox a Vertical Tutorial Descent",
-    "content": "[Paid] Seeking Seasoned Level Designer to Blueprint/Greybox a Vertical Tutorial Descent\n\n# Thread Title:\n\n&gt;\n\n# Post Body:\n\nHello,\n\nI am a software engineer building a 2D action/Metroidvania title. I am handling 100% of the architecture, gameplay logic, physics, and implementation myself.\n\nI am seeking a **seasoned freelance Level Designer with a proven track record and a clear portfolio of greybox/whitebox design** to collaborate on a contract basis for the game's opening tutorial zone.\n\n**The Project Scope:** While the core game is planned as an interconnected Metroidvania, this specific introductory/tutorial zone will be a **fully linear, one-time-clear area** that becomes inaccessible once completed. Thematically, the game is set in Hell, and this tutorial represents the narrative descent from Earth into the first circle. Because of this theme, the layout requires a highly vertical emphasis rather than a standard horizontal flow, though I am completely open to your creative game design and structural solutions to achieve the best player experience.\n\n**What I Need:**\n\n* A complete, metric-accurate 2D layout/blueprint of the tutorial phase (via LDtk, Tiled, Figma vector files, or directly as a native scene file in-engine). *No art assets are required for this milestone.*\n* The level must organically introduce core movement mechanics, basic enemy encounters, and conclude with a closed-arena boss layout.\n\n**The Ideal Candidate:**\n\n* **Must** have a portfolio showcasing raw greybox blockouts, design schematics, and structural metrics (please do not submit portfolios containing only finished environmental illustration art or 3D world lighting).\n* Can design layouts that respect player metrics (jump arcs, dash distances, camera bounding boxes).\n* Can work autonomously on milestones that fit a flexible weekend feedback cycle, as I develop this project in my spare time.\n\n**Contract &amp; Compensation:** This is a **paid, fixed-price milestone contract** with a clear definition of deliverables. Budget is competitive and negotiable based on your proven industry experience and senior tracking.\n\nIf you are a veteran designer who loves tight pacing and atmospheric, vertical level structures, please DM me here or reach out directly via email at [**beni@kaluto.com**](mailto:beni@kaluto.com) with a link to your greybox portfolio and your general milestone availability.\n\nThank you!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uasa60/paid_seeking_seasoned_level_designer_to/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-20T09:33:22Z"
   }
 ]
