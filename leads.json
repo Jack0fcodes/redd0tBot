@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1ug0iq1",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Conscious_Fox2892",
+    "title": "[PAID] Unity Lead Programmer for a Soulslike Co-op Game (Remote)",
+    "content": "[PAID] Unity Lead Programmer for a Soulslike Co-op Game (Remote)\n\n**Project:** We're building a soulslike action-RPG with a strong focus on cooperative play — methodical combat, deliberate enemy design, and a world meant to be tackled with a friend.   \nwe need a lead to own the programming side.\n\n**What you'll do:**\n\n* Architect and own the core gameplay systems (combat, stamina, enemy AI, animation-driven movement).\n* Build and maintain our **online co-op** (player sync, netcode, host/client architecture).\n* Set technical direction and code standards for the programming team.\n* Collaborate closely with design and art to ship polished, responsive gameplay.\n\n**What we're looking for:**\n\n* Strong Unity experience (C#) with **at least one fully shipped title — no near-shipped or unreleased projects.**\n* **Must have shipped at least one title with a networking/multiplayer feature.**\n* Solid grasp of **multiplayer networking** — Netcode for GameObjects, Mirror, Photon, or similar\n* **Strong refactoring skills** — able to clean up, restructure, and harden existing code without breaking it.\n* Experience with combat/character systems and animation (root motion, IK, state machines).\n* Comfortable leading: code reviews, mentoring, architecture decisions.\n* Bonus: prior soulslike / action-game experience.\n\n**Details:**\n\n* **Pay:** Hourly — rate negotiable based on experience (please share your hourly expectations)\n* **Type:** Part-time, Remote\n\n**How to apply:**  \nReach out at [**reach.me.2026@pm.me**](mailto:reach.me.2026@pm.me) or DM me. Send a short intro, your portfolio/GitHub, and any relevant shipped projects or co-op work. Networking samples especially welcome.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ug0iq1/paid_unity_lead_programmer_for_a_soulslike_coop/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-26T08:05:16Z"
+  },
+  {
     "post_id": "1ug012h",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-150",
     "created_at": "2026-06-21T08:42:48Z"
-  },
-  {
-    "post_id": "1ubj2z4",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/ZurichCat",
-    "title": "[Hiring] Looking for someone to remake my discord profile pic",
-    "content": "[Hiring] Looking for someone to remake my discord profile pic\n\nI had the first version of Dall E make this image many years ago, and I really don't feel good using AI art for my profile, so I'm hoping to find a real artist  who can remake a digital artwork similar to this in a similar charcoal style, but actually human made. \n\nThe concept is a black cat in an old fashioned dress looking out the window at  ships on a stormy sea.\n\nI can pay between $40 and $75USD for it.",
-    "url": "https://reddit.com/r/artcommissions/comments/1ubj2z4/hiring_looking_for_someone_to_remake_my_discord/",
-    "quality": "High Quality",
-    "budget": "$40",
-    "created_at": "2026-06-21T06:52:00Z"
   }
 ]
