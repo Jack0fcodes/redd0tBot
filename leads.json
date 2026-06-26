@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1ufrkzv",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Objective_Date6661",
+    "title": "[PAID] Looking for 2D Pixel Artist/Animator for Celeste-Style Platformer",
+    "content": "[PAID] Looking for 2D Pixel Artist/Animator for Celeste-Style Platformer\n\nHi! I’m looking to hire a 2D pixel artist/animator for a small platformer project.\n\nThe game is a Celeste-inspired 2D platformer, and I’m currently focused on beta/concepting work. I’m looking for someone who has experience with platformer art, especially character movement animations.\n\nInitial scope:\n\n* Player character animations\n* One platformer tileset\n* Possibly some simple map/tile layout work\n\nArt direction:\n\n* Pixel art only\n* 8x8 tiles\n* Player character likely around 8x16 or otherwise taller than wide\n* Clean/readable platformer style\n* Strong focus on movement clarity and feel\n\nFor the character, I’m especially interested in animations like:\n\n* Idle\n* Run\n* Jump\n* Fall\n* Land\n* Wall slide / wall cling\n* Dash or fast movement\n* Any other core platformer movement states\n\nFor the tileset, I’m looking for something usable for an early beta/prototype: readable, cohesive, and built for a 2D platformer environment.\n\nThis is art/animation only. No programming or engine implementation required.\n\nPlease send:\n\n* Your portfolio\n* Platformer examples you’ve worked on\n* Character animation GIFs/spritesheets, especially running/jumping/movement\n* Tileset or map examples, if you have them\n* Your rates\n* Availability\n\nI’m specifically looking for someone who has done platformer character animation before, so please include relevant examples if possible.\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ufrkzv/paid_looking_for_2d_pixel_artistanimator_for/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-26T00:34:31Z"
+  },
+  {
     "post_id": "1ufqoex",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$50-150",
     "created_at": "2026-06-21T03:50:55Z"
-  },
-  {
-    "post_id": "1ubfc6b",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/MildBilliam",
-    "title": "[Hiring] Looking for Semi-Realistic/DND Art Style Group Picture (Budget 600~USD w/ possible adjustments)",
-    "content": "[Hiring] Looking for Semi-Realistic/DND Art Style Group Picture (Budget 600~USD w/ possible adjustments)\n\nMy DND Campaign recently ended, I'm looking for an artist that can draw a group picture for my Player's characters (7) and their NPC Follower (1). The art style preferably would be a bit foreboding as they were not necessarily the good guys. (WARNING) While I do have reference pictures for the character, some of them (Due to lack of artistical talent) may be AI from the players.",
-    "url": "https://reddit.com/r/starvingartists/comments/1ubfc6b/hiring_looking_for_semirealisticdnd_art_style/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-21T03:22:15Z"
   }
 ]
