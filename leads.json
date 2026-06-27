@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1ugz5jf",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/0just_moxxie",
+    "title": "[Hiring] Looking for a 2D artist to turn my fursona into a Payday 2-style mask (for 3D modeling)",
+    "content": "[Hiring] Looking for a 2D artist to turn my fursona into a Payday 2-style mask (for 3D modeling)",
+    "url": "https://reddit.com/r/artistforhire/comments/1ugz5jf/hiring_looking_for_a_2d_artist_to_turn_my_fursona/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-27T10:23:41Z"
+  },
+  {
     "post_id": "1ugynpp",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-23T02:17:22Z"
-  },
-  {
-    "post_id": "1ud3i89",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Anixias",
-    "title": "[PAID] Artists and designers wanted for Roguelite Animal Brawler",
-    "content": "[PAID] Artists and designers wanted for Roguelite Animal Brawler\n\nHey all,\n\nI'm working on a game inspired by **Tokyo Jungle** and **Risk of Rain 2**. I am heavily inspired by the art style of Risk of Rain 2 and am aiming for a similar aesthetic. The game will be made in **Godot**.\n\nI'm looking for people who can:\n\n* Model, rig, and texture/color 3D animals\n* Fully animate animals with 10-30 animations each\n* Model and texture/color 3D environment assets\n* Create concept art\n\nBonus/nice-to-haves:\n\n* Level/environment design\n* VFX Artist\n* UI Designer/Animator\n\nI plan for this to be a long-term project where deliverables are requested as-needed in batches. For example, I might design and implement 1-5 animals and one biome/map region and request all concept art, models, and animations together.\n\n**Any art created will never be provided to AI. Do not use generative AI to create any aspect of your work; AI tooling may be used to assist in the creation of your work, but may not be present in the work itself.**\n\nIf you are interested, please DM me with your commission rate, portfolio, offered services, licensing restrictions, and availability. I would like to communicate via Discord after hiring.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ud3i89/paid_artists_and_designers_wanted_for_roguelite/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-23T01:36:22Z"
   }
 ]
