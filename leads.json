@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1ui721r",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/avirtualparadox",
+    "title": "[PAID] Pixel Artist Wanted (Trickster Online style)",
+    "content": "[PAID] Pixel Artist Wanted (Trickster Online style)\n\nHello. I'm a solo dev working on a personal project, a small 2D isometric game with a cute anime style. It's a hobby thing, not commercial at this time.\n\nI'm looking for a pixel artist who can work in the style of Trickster Online (the old isometric anime MMO): cute anime characters on a 3/4 top down grid, clean readable pixels, smooth walk cycles in 8 directions. Reference links are at the bottom.\n\nWhat I actually need is a modular base avatar with swappable parts, so the character can be customized in game by toggling layers. So:\n\n* a base avatar (the body) in 8 directions, with idle and walk at minimum\n* hair\n* clothing / outfits (a couple of tops, bottoms, or full sets)\n* shoes\n* gloves\n* faces / expressions\n* eyes\n* weapons\n\nBasically a paper doll setup: one base, lots of pieces that all line up across every direction and frame.\n\nTo start I just need the base avatar plus a small starter set of each (a couple hair styles, a couple outfits, shoes, gloves, a couple faces/eyes, a couple weapons), enough to build the customization system around. If it works out there's plenty more after that (more parts, monsters, NPCs, UI, whatever).\n\nStyle wise: cute, limited palette, crisp pixels, no fuzzy anti aliased edges. I can send the exact spec (cell size, anchor point, direction order, frame counts) so your art drops straight into the engine.\n\nA few technical notes so parts line up:\n\n* sprites are per direction (N, NE, E, SE, S, SW, W, NW), multi frame walk/idle\n* everything shares a common anchor so hair/clothes/weapons sit right across all directions and frames\n* deliver as layered PNG frames or a spritesheet plus a small manifest (I'll give you a template). Source files (Aseprite/PSD) would be great\n\nAbout me and terms: solo hobby dev, project's private for now. I'd rather start small, like one base + one hair + one outfit as a paid test, so we can both check the style and pipeline fit before committing to more.\n\nIf you're interested, reply or DM with your portfolio (character/iso/animation work ideally), your rates, and rough availability. I can send you some sprites I've been using for testing purposes to get you a rough idea of a final product I am looking for.\n\nThanks for reading.\n\n# Style reference (Trickster Online)\n\n* Wiki: [https://wikimirror.lifeto.co/wiki.ggftw.com/trickster/Main\\_Page.html](https://wikimirror.lifeto.co/wiki.ggftw.com/trickster/Main_Page.html)\n* Sprite rips (search \"Trickster Online\"): [https://www.spriters-resource.com/pc\\_computer/trickster/](https://www.spriters-resource.com/pc_computer/trickster/)\n* Community screenshots: [https://www.reddit.com/r/TricksterOnline/](https://www.reddit.com/r/TricksterOnline/)\n* Community post of actual game: [https://www.reddit.com/r/TricksterOnline/s/09JYy7GFjh](https://www.reddit.com/r/TricksterOnline/s/09JYy7GFjh)\n* (also just image-search \"Trickster Online character sprites\" / \"Trickster Online job sprites\")",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ui721r/paid_pixel_artist_wanted_trickster_online_style/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-28T19:57:06Z"
+  },
+  {
     "post_id": "1ui6nm1",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-24T10:22:13Z"
-  },
-  {
-    "post_id": "1ue9h29",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Unstructured_Excel98",
-    "title": "[hiring] Recreate and customise print $30",
-    "content": "[hiring] Recreate and customise print $30\n\nRecreate high definition version of below. 10 dollars",
-    "url": "https://reddit.com/r/HungryArtists/comments/1ue9h29/hiring_recreate_and_customise_print_30/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-06-24T10:14:11Z"
   }
 ]
