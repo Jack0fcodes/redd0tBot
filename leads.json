@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uho0lt",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/bellefille42",
+    "title": "[Hiring] Watercolor paper greeting card. Budget $30",
+    "content": "[Hiring] Watercolor paper greeting card. Budget $30\n\nI am hoping to commission a hand painted (watercolor) greeting card featuring Mount Rainier and wildflowers. I am happy to send reference images.",
+    "url": "https://reddit.com/r/starvingartists/comments/1uho0lt/hiring_watercolor_paper_greeting_card_budget_30/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-06-28T04:55:05Z"
+  },
+  {
     "post_id": "1uhnvgo",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-23T20:51:45Z"
-  },
-  {
-    "post_id": "1udt0wh",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/New_Result8740",
-    "title": "[PAID] Looking for a 2D Animator for a Painterly Psychological Horror Visual Novel",
-    "content": "[PAID] Looking for a 2D Animator for a Painterly Psychological Horror Visual Novel\n\nHi everyone!\n\nI’m looking for a **2D animator** to help with subtle atmospheric animation for an indie psychological horror visual novel called **SHORAPAN**.\n\nThe game has a dark painterly style, with cinematic static scenes that need to feel alive rather than “over-animated.”\n\n**What I need:**\n\n* Fire and candle flame loops\n* Smoke, dust, drifting particles\n* Subtle light/shadow movement\n* Cloth/cloak movement\n* Simple character idle animation: breathing, shoulders, small hand/arm movement\n* Atmospheric background details that can loop naturally\n\nMost animations are meant to be restrained and cinematic — slow, quiet, and atmospheric.\n\n**Workflow:**\n\n* I can provide layered artwork / PSD files\n* Output can be PNG sequence with transparency, Procreate Dreams files, After Effects renders, or another clean workflow suitable for Ren’Py\n* Seamless loops are very important\n* Experience with painterly / dark fantasy / horror atmosphere is a big plus\n\nThe project is currently in early development, but we already have the first backgrounds and a clear visual direction.\n\nPlease send:\n\n* Portfolio or animation examples\n* Your rates\n* Availability\n* What tools you use\n* Any experience with game/VN animation or looping background animation\n\nI’m open to starting with a small paid test first, such as a candle/fire/dust loop, and then continuing with more scenes if the style fits.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1udt0wh/paid_looking_for_a_2d_animator_for_a_painterly/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-23T20:46:34Z"
   }
 ]
