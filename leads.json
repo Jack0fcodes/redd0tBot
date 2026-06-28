@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1ui7g9z",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Gilded_Mage",
+    "title": "[PAID] Looking for pixel artist for top-down RPG prototype",
+    "content": "[PAID] Looking for pixel artist for top-down RPG prototype\n\nI’m building a hobby top-down survival RPG in Java from scratch and I’m looking for a pixel artist for a small paid art test.\n\nI have a strong programming background, the game already has a decent amount of functionality working: rendering, movement, tile/world interaction, basic UI, and inventory/tool systems within the last month. The art though is my current bottleneck.\n\nThe art right now is a mixture of tutorial assets, free assets, and rough freehand placeholders. I’m looking to replace it with a consistent style.\n\nThe direction I’m interested in is 16x16 base pixel art designs in a grim dark top-down pixel art. Something similar to StoneShard, Fear and Hunger, or Blasphemous.\n\nFor the first test, I’m thinking something small like:  \n\\- a few terrain tiles  \n\\- a few environmental props  \n\\- possibly a player sprite or small animation\n\nBudget for the first test is around $50 to $200 depending on scope and portfolio. If the style feels right, I’d be interested in continuing with more small paid packs over time!\n\nPlease send:  \n1. Portfolio  \n2. rates  \n3. Discord or preferred contact",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ui7g9z/paid_looking_for_pixel_artist_for_topdown_rpg/",
+    "quality": "High Quality",
+    "budget": "$50",
+    "created_at": "2026-06-28T20:12:28Z"
+  },
+  {
     "post_id": "1ui721r",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$500-1000",
     "created_at": "2026-06-24T10:25:21Z"
-  },
-  {
-    "post_id": "1ue9m9n",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/FirstEnthusiasm5237",
-    "title": "[Hiring] Looking for a Web Developer – New Queensland Political Party",
-    "content": "[Hiring] Looking for a Web Developer – New Queensland Political Party\n\n\n\nHi everyone,\n\nI'm currently in the process of building a new political movement in Queensland called the **Australian Centrist Party** with the motto **\"Progress Over Personality.\"**\n\nWe're still in the early stages, but we've already generated interest from several people and are now looking to establish a professional online presence.\n\nI'm seeking a **web developer** who may be interested in helping create the party's website. The project would likely include:\n\n* Homepage and party information\n* Policy pages\n* Membership applications\n* Volunteer sign-up forms\n* Events calendar\n* News and media section\n* Donation system\n* Secure member management database\n* Mobile-friendly and accessible design\n\nThe current plan is to host through Cloudflare Pages or another cost-effective platform while the organisation grows.\n\n**Compensation**\n\nAs this is my first time establishing a political organisation, I want to be transparent and upfront: **I genuinely don't know what a fair rate for a project of this size would be.**\n\nI'm open to:\n\n* Volunteer contributions\n* Reduced-rate work for someone who supports the project\n* Commercial rates\n* Milestone-based payments\n* Ongoing maintenance agreements\n\nIf you're interested, please feel free to send through:\n\n* Your experience\n* Portfolio or previous projects\n* Preferred technologies\n* Your estimated pricing or hourly rate\n* Any recommendations on how you would approach the project\n\nI'm happy to discuss payment and scope openly. Since this is a grassroots project still being built from the ground up, I'd appreciate guidance from experienced developers regarding realistic costs and timelines.\n\nI'm also looking to build a founding team, so if you have experience in web development, UI/UX design, databases, cybersecurity, digital marketing, or hosting infrastructure, I'd love to hear from you.\n\nFeel free to message me if you'd like to discuss the project further.\n\n**Australian Centrist Party**  \n*Progress Over Personality*",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ue9m9n/hiring_looking_for_a_web_developer_new_queensland/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-24T10:22:13Z"
   }
 ]
