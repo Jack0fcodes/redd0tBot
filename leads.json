@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uj45h9",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/elven_turtles",
+    "title": "[PAID] Freelance UE5 Cinematic Generalist (Animation, Lighting, VFX, Render Polish) - Up to $4k",
+    "content": "[PAID] Freelance UE5 Cinematic Generalist (Animation, Lighting, VFX, Render Polish) - Up to $4k\n\nHi everyone,\n\nI'm in the process of creating 12 minutes of stylized (classic World of Warcraft aesthetic) scenes for an indie feature film and am looking for a highly resourceful UE5 Cinematic Generalist to help me meet my film festival deadline.\n\nI'm doing all the camera blocking and rough layouts of the animation/environment, but I need an expert to come in, lock the animation timing, polish the environments and VFX, and help troubleshoot any issues with the final renders.  \n  \nThe job is remote. Timeline is 7/15 - 9/1. Animation deadline is 8/1. Budget is flexible, scaling with scope up to $4k.\n\n**Responsibilities:**\n\n* Finalize and lock animation timing for 12 minutes of stylized scenes using UE5 Sequencer.\n* Perform additive animation via Control Rig (blending existing packs whenever possible—no hand-keyed facial acting/dialogue required).\n* Polish, light, and finish set dressing 5-10 environments (all at varying stages of built) using existing FAB assets.\n* Modify Niagara VFX packs (primarily magic spells) to fit scenes and cast correct scene lighting.\n* Assist with final output rendering via Movie Render Queue and help troubleshoot Lumen/Virtual Shadow Map artifacts.\n* Sync project files daily using Unity Version Control. Prior experience is a plus, but not a requirement.\n\n**Qualifications:**\n\n* Expert in UE5 Sequencer, IK Retargeting,  Niagara VFX system, and Movie Render Queue.\n* Strong eye for cinematic lighting, composition, and set dressing/kitbashing.\n* Excellent communication: You must provide daily updates and flag issues immediately so deadlines are met on time.\n\n**How to Apply:** Please email me a link to your reel/portfolio at: [james@lordoftheline-film.com](mailto:james@lordoftheline-film.com). Please include your rates and availability.\n\nIMPORTANT: Please make the subject line of your email LOTL so I know you read this.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uj45h9/paid_freelance_ue5_cinematic_generalist_animation/",
+    "quality": "High Quality",
+    "budget": "$4",
+    "created_at": "2026-06-29T20:36:09Z"
+  },
+  {
     "post_id": "1uj1mbl",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-25T12:11:20Z"
-  },
-  {
-    "post_id": "1uf7p6l",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Dry-Funny4248",
-    "title": "[Hiring] [$30-$50] Race/Character design sketches for a fantasy setting - be creative!",
-    "content": "[Hiring] [$30-$50] Race/Character design sketches for a fantasy setting - be creative!\n\nHello all! I've been designing a weird little fantasy setting for some time (even making a little videogame for it) with some unique races, but I need some more visual ideas for what some of these races may look like. For some of these I really only have some vague ideas and moodboards visually, as well as some of the lore. For some of the others, I have some previous art, but am interested in a bit of a redesign or a fresh take on them.\n\nFor now I'm mainly interested in sketches/line art, and depending on the race I may only need a half-body/bust. Depending on the price I could also be happy to say little or no revisions. I could also happy to pay more for add-ons (such as colour) down the line if I can afford it 😅 \n\nThis is purely a personal project at this point, and I can't afford to spend too much for the time being, but if any artists are interested I may continue to reach out over the next few weeks and months as my budget permits.\n\nAlso, a bit of a question regarding commercial work: I may end up making another (possibly commercial) game in this setting. This art would **not** appear in the game or anywhere public, but the designs used could be used as reference material as I redesign the races, create 3D models of characters etc.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1uf7p6l/hiring_3050_racecharacter_design_sketches_for_a/",
-    "quality": "High Quality",
-    "budget": "$30-50",
-    "created_at": "2026-06-25T11:45:59Z"
   }
 ]
