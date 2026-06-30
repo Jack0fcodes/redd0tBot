@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1ujpbfi",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/fabricastor",
+    "title": "[Hiring] 2d Artist to Make Game Backgrounds and Props",
+    "content": "[Hiring] 2d Artist to Make Game Backgrounds and Props\n\nI hope you're doing well! My name is Oleander, and I'm developing my own 2D game in Unity, and I'm looking for an artist with a cutesy and sort of painted style to make backgrounds for several rooms, ideally with experience creating tilesets for Unity.\n\nThe game is still very much a work in progress, but structurally it's similar to Undertale or Deltarune, with a top-down perspective, interactable objects, and interconnected rooms the player can travel between. The characters, story, and overall narrative are fully planned out; I mainly need help creating environmental assets. \n\nSpecifically, I'm looking for someone to create tilesets for each location (walls, floors, terrain, etc.) along with individual props that I can place manually in Unity, such as dressers, tables, lockers, and other furniture or decorations. \n\nThe art style I have in mind is not pixel art or traditional. I'd like hand-drawn digital pieces, but I want still it to be light and soft with cute colors like some pixel art I've seen. The game includes several different settings. Some areas take place in a fairly normal world (a school, a few houses, and similar locations), while others are set in a fantasy world with forests, castles, stone buildings, and other more stylized environments.  \n\nSince I'm developing the game slowly over time, I'm looking to hire one artist for the entire game's development for style consistency. I'd like to talk about pricing with the prospective artist, because I'm a broke college student and not too familiar with how much artists typically charge for a long-term project like this (I want to charge on a room-by-room basis, and I'm thinking $100-$175 per room depending on complexity but I'm open to other prices, I just don't know this kind of thing).\n\nLooking forward to hearing from you!",
+    "url": "https://reddit.com/r/HungryArtists/comments/1ujpbfi/hiring_2d_artist_to_make_game_backgrounds_and/",
+    "quality": "High Quality",
+    "budget": "$100-175",
+    "created_at": "2026-06-30T13:30:36Z"
+  },
+  {
+    "post_id": "1ujp92n",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/fabricastor",
+    "title": "[PAID] Looking for 2d artist for backgrounds and interactable objects",
+    "content": "[PAID] Looking for 2d artist for backgrounds and interactable objects\n\nI hope you're doing well! My name is Oleander, and I'm developing my own 2D game in Unity, and I'm looking for an artist with a cutesy and sort of painted style to make backgrounds for several rooms, ideally with experience creating tilesets for Unity.\n\nThe game is still very much a work in progress, but structurally it's similar to Undertale or Deltarune, with a top-down perspective, interactable objects, and interconnected rooms the player can travel between. The characters, story, and overall narrative are fully planned out; I mainly need help creating environmental assets. \n\nSpecifically, I'm looking for someone to create tilesets for each location (walls, floors, terrain, etc.) along with individual props that I can place manually in Unity, such as dressers, tables, lockers, and other furniture or decorations. \n\nThe art style I have in mind is not pixel art, but I want it to be light and soft with cute colors like some pixel art I've seen. The game includes several different settings. Some areas take place in a fairly normal world (a school, a few houses, and similar locations), while others are set in a fantasy world with forests, castles, stone buildings, and other more stylized environments.  \n\nSince I'm developing the game slowly over time, I'm looking to hire one artist for the entire game's development for style consistency. I'd like to talk about pricing with the prospective artist, because I'm a college student and not too familiar with how much artists typically charge for a long-term project like this (I want to charge on a room-by-room basis).\n\nLooking forward to hearing from you!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ujp92n/paid_looking_for_2d_artist_for_backgrounds_and/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-30T13:27:55Z"
+  },
+  {
     "post_id": "1ujosu9",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-26T09:29:17Z"
-  },
-  {
-    "post_id": "1ug1r0z",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/EngineerRare2031",
-    "title": "[Hiring] im an 18 yr artist and i paint, draw, anything artistic under 30$",
-    "content": "[Hiring] im an 18 yr artist and i paint, draw, anything artistic under 30$\n\nIm willing to start puttin my self out there so I had the idea of starting a business with art of all kinds. My idea consists off taking requests from you guys of anything you would like me to make dm me and we can make it happen for the physical items they can be shipped to you if necessary be sure to upvote, comment and share to support my dream  \n5",
-    "url": "https://reddit.com/r/HungryArtists/comments/1ug1r0z/hiring_im_an_18_yr_artist_and_i_paint_draw/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-26T09:17:56Z"
-  },
-  {
-    "post_id": "1ug0iq1",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Conscious_Fox2892",
-    "title": "[PAID] Unity Lead Programmer for a Soulslike Co-op Game (Remote)",
-    "content": "[PAID] Unity Lead Programmer for a Soulslike Co-op Game (Remote)\n\n**Project:** We're building a soulslike action-RPG with a strong focus on cooperative play — methodical combat, deliberate enemy design, and a world meant to be tackled with a friend.   \nwe need a lead to own the programming side.\n\n**What you'll do:**\n\n* Architect and own the core gameplay systems (combat, stamina, enemy AI, animation-driven movement).\n* Build and maintain our **online co-op** (player sync, netcode, host/client architecture).\n* Set technical direction and code standards for the programming team.\n* Collaborate closely with design and art to ship polished, responsive gameplay.\n\n**What we're looking for:**\n\n* Strong Unity experience (C#) with **at least one fully shipped title — no near-shipped or unreleased projects.**\n* **Must have shipped at least one title with a networking/multiplayer feature.**\n* Solid grasp of **multiplayer networking** — Netcode for GameObjects, Mirror, Photon, or similar\n* **Strong refactoring skills** — able to clean up, restructure, and harden existing code without breaking it.\n* Experience with combat/character systems and animation (root motion, IK, state machines).\n* Comfortable leading: code reviews, mentoring, architecture decisions.\n* Bonus: prior soulslike / action-game experience.\n\n**Details:**\n\n* **Pay:** Hourly — rate negotiable based on experience (please share your hourly expectations)\n* **Type:** Part-time, Remote\n\n**How to apply:**  \nReach out at [**reach.me.2026@pm.me**](mailto:reach.me.2026@pm.me) or DM me. Send a short intro, your portfolio/GitHub, and any relevant shipped projects or co-op work. Networking samples especially welcome.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ug0iq1/paid_unity_lead_programmer_for_a_soulslike_coop/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-26T08:05:16Z"
   }
 ]
