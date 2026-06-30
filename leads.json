@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uk49p9",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/RHX_Thain",
+    "title": "[Hiring] Seeking 2D/3D Artist to Upgrade Our Main Menu Scene",
+    "content": "[Hiring] Seeking 2D/3D Artist to Upgrade Our Main Menu Scene\n\n\\[Intro\\]\n\nThis is a job for a **2D &amp; 3D Artist**, developing art assets for use in Unity as part of our intro &amp; main menu scene.\n\nWe've got the basics set up and the scene has a good composition for another artist to join us to begin fleshing out the scene with new 2D &amp; 3D elements. You can see the composition in the gifs above.\n\nThis is a paid job, terms &amp; rates negotiable. Must be eligible to work remotely in the US and get paid in USD. You must also be made of flesh, not an AI.\n\nIt's essential you be capable of ***Rendering Landscapes for use in 2D Parallax Art Panels in motion,*** and/or, be a competent ***3D Artist capable of doing Matte Paintings on 3D Plates that can move &amp; receive lighting***. Unity experience is a plus.\n\n\\--\n\n\\[Task Description\\]\n\nThe scene is of our Fragment, one of many millions. We're an observer, looking out over this detail rich landscape towards the horizon where the \"bow\" of the plate ends. Beyond the horizon we're looking at the center of this mega-structure, a kind of Dyson Swarm, where a \"Dragon\" eats the sun each day &amp; night. Another doomed Fragment slams into the mouth of this Dragon and is destroyed. A pulse of light falls from the dark side of the Dragon to reach a pillar; the camera follows.\n\nThis represents the player's starting cast of character arriving on this strange world.\n\nA quick little cinematic movement, a taste of the setting, some immersive atmosphere, while the game loads in. 5-6 seconds, then it's over, and the camera remains settled from here on as the player navigates the menus.\n\nWe're going for something akin to The Banner Saga in level of detail on these mountains, which do not need to precisely match the art style nor the exact layout above. I did some mockups by bashing photos together to show the intended intro animation and Day/Night cycle so we could then contract this job out. This could be done fully 2D with some alpha masks where we could introduce parallax layers of distant and close up features. ***OR,*** we could opt for a 3D landscape mesh and allow the Day/Night cycle to affect lighting directly.   \n  \nI'm open to your style and suggestions, but I am aiming for big, highly detailed, scifi/fantasy epic imagery.\n\nThe only elements we're in love with and don't plan to alter are the bow in the distance (akin to the Halo if it just stops at a distant horizon instead of making a full ring) the pillar which is already an asset in game, and the distant background field of Fragments.   \n  \nThe exact style, we are open to suggestions from various tastes. It should compliment our hand drawn art style we are already using in game, but does not need to match. If you show me a good photobash approach or a World Machine mesh &amp; texture, or a hand drawn comic book style, I'll consider any of these so long as they are professional, high resolution, and consistent.\n\nDo not show me AI stuff. If I see AI it goes right out the window. Human meat only.\n\nWe have just a *flabbergasting* quantity of art in this game already, but it is a 2D isometric colony-sim, lol. We never see the cool sky outside this menu. So this landscape would be great to introduce the player to the setting and repeatedly refer back to. Hand drawn art would be excellent, but 3D with hand drawn textures isn't unreasonable.\n\nThere have been discussions about adding characters, either watching this scene or facing the player for more visual hook, but we'll start with building a flexible scene with the established composition and plan to add layers as needed. The character art if it exists could be handled by Allegra, our resident full time artist. We just need time, which why we're hiring.\n\nIt will likely also feature predominantly in the game's promotional materials and Steam page.\n\n\\[Rates &amp; Terms\\]  \n  \nHourly if desired, negotiable starting at \\~20$/hr, and we have at least a month from start to delivery, so it's not a rushed job. Set your rates according to your usual large scope project. For security, we only begin providing upfront payments after significant identifiable commitment has been shown. Funding is released for the final piece on delivery, and any after-work, touchups, alterations, would be paid at the same rate. We also have an NDA to sign, but it's totally okay to post your work with permission as soon as permission is granted. \n\n\\[Contact\\]\n\n[https://radianhelix.com/contract-for-animation-interface](https://radianhelix.com/contract-for-animation-interface)\n\nFill out the form linked here, via the Career page.\n\nReddit DMs are super glitchy and I prefer communication in the comments, or via email through the form submission linked above. If you DM me here or on Discord or elsewhere, I'll assume you're a scammer and ignore you. Don't do that.",
+    "url": "https://reddit.com/r/artcommissions/comments/1uk49p9/hiring_seeking_2d3d_artist_to_upgrade_our_main/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-30T22:50:55Z"
+  },
+  {
     "post_id": "1uk3oil",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$35",
     "created_at": "2026-06-26T20:57:18Z"
-  },
-  {
-    "post_id": "1ugi0xh",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Excellent-Ad6147",
-    "title": "Subject: [Hiring] Visual Systems Designer for \"Prestige Simulation\" Tabletop Game",
-    "content": "Subject: [Hiring] Visual Systems Designer for \"Prestige Simulation\" Tabletop Game",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ugi0xh/subject_hiring_visual_systems_designer_for/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-26T20:26:58Z"
   }
 ]
