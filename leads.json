@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1uk4edb",
+    "platform": "Reddit",
+    "source": "r/commissions",
+    "author": "u/RHX_Thain",
+    "title": "[Hiring] Seeking 2D/3D Artist to Upgrade Our Main Menu Scene",
+    "content": "[Hiring] Seeking 2D/3D Artist to Upgrade Our Main Menu Scene\n\n**\\[Intro\\]**\n\nThis is a job for a ***2D &amp; 3D Artist,*** developing art assets for use in Unity as part of our intro &amp; main menu scene.\n\nWe've got the basics set up and the scene has a good composition for another artist to join us to begin fleshing out the scene with new 2D &amp; 3D elements. You can see the composition in the gifs above.\n\nThis is a paid job, terms &amp; rates negotiable. Must be eligible to work remotely in the US and get paid in USD. **You must also be made of flesh, not an AI.**\n\nIt's essential you be capable of ***Rendering Landscapes for use in 2D Parallax Art Panels in motion***, and/or, be a competent ***3D Artist capable of doing Matte Paintings on 3D Plates that can move &amp; receive lighting***. Unity experience is a plus.\n\n\\--\n\n**\\[Task Description\\]**\n\nThe scene is of our Fragment, one of many millions. We're an observer, looking out over this detail rich landscape towards the horizon where the \"bow\" of the plate ends. Beyond the horizon we're looking at the center of this mega-structure, a kind of Dyson Swarm, where a \"Dragon\" eats the sun each day &amp; night. Another doomed Fragment slams into the mouth of this Dragon and is destroyed. A pulse of light falls from the dark side of the Dragon to reach a pillar; the camera follows.\n\nThis represents the player's starting cast of character arriving on this strange world.\n\nA quick little cinematic movement, a taste of the setting, some immersive atmosphere, while the game loads in. 5-6 seconds, then it's over, and the camera remains settled from here on as the player navigates the menus.\n\nWe're going for something akin to The Banner Saga in level of detail on these mountains, which do not need to precisely match the art style nor the exact layout above. I did some mockups by bashing photos together to show the intended intro animation and Day/Night cycle so we could then contract this job out. This could be done fully 2D with some alpha masks where we could introduce parallax layers of distant and close up features. OR, we could opt for a 3D landscape mesh and allow the Day/Night cycle to affect lighting directly.\n\nI'm open to your style and suggestions, but I am aiming for big, highly detailed, scifi/fantasy epic imagery.\n\nThe only elements we're in love with and don't plan to alter are the bow in the distance (akin to the Halo if it just stops at a distant horizon instead of making a full ring) the pillar which is already an asset in game, and the distant background field of Fragments.\n\nThe exact style, we are open to suggestions from various tastes. It should compliment our hand drawn art style we are already using in game, but does not need to match. If you show me a good photobash approach or a World Machine mesh &amp; texture, or a hand drawn comic book style, I'll consider any of these so long as they are professional, high resolution, and consistent.\n\nDo not show me AI stuff. If I see AI it goes right out the window. Human meat only.\n\nWe have just a flabbergasting quantity of art in this game already, but it is a 2D isometric colony-sim, lol. We never see the cool sky outside this menu. So this landscape would be great to introduce the player to the setting and repeatedly refer back to. Hand drawn art would be excellent, but 3D with hand drawn textures isn't unreasonable.\n\nThere have been discussions about adding characters, either watching this scene or facing the player for more visual hook, but we'll start with building a flexible scene with the established composition and plan to add layers as needed. The character art if it exists could be handled by Allegra, our resident full time artist. We just need time, which why we're hiring.\n\nIt will likely also feature predominantly in the game's promotional materials and Steam page.\n\n**\\[Rates &amp; Terms\\]**\n\nHourly if desired, negotiable starting at \\~20$/hr, and we have at least a month from start to delivery, so it's not a rushed job. Set your rates according to your usual large scope project. For security, we only begin providing upfront payments after significant identifiable commitment has been shown. Funding is released for the final piece on delivery, and any after-work, touchups, alterations, would be paid at the same rate. We also have an NDA to sign, but it's totally okay to post your work with permission as soon as permission is granted.\n\n**\\[Contact\\]**\n\n[https://radianhelix.com/contract-for-animation-interface](https://radianhelix.com/contract-for-animation-interface)\n\nFill out the form linked here, via the Career page.\n\nReddit DMs are super glitchy and I prefer communication in the comments, or via email through the form submission linked above. ***If you DM me here or on Discord or elsewhere, I'll assume you're a scammer and ignore you. Don't do that.***",
+    "url": "https://reddit.com/r/commissions/comments/1uk4edb/hiring_seeking_2d3d_artist_to_upgrade_our_main/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-30T22:56:21Z"
+  },
+  {
+    "post_id": "1uk4c7j",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/SpecificFrosty8405",
+    "title": "[PAID] Looking for a pixel artist for characters, enemy, weapon and effects assets",
+    "content": "[PAID] Looking for a pixel artist for characters, enemy, weapon and effects assets\n\nHi,\n\nI am developing a small indie game and am looking for a pixel artist for occasional paid commissions: primarily characters, enemies, weapons, props, and other gameplay-facing assets.\n\nThe project already has a strong direction on the design side. I have clear ideas for the identity of the characters, enemies, and weapons, as well as their gameplay roles, silhouettes, mood, and general visual language. I will provide concise written briefs, reference images, and gameplay context for each commission.\n\nI am not looking for someone to copy a specific artist’s style or to create the entire art direction from scratch. The designs are already substantially defined, but I want the artist’s own pixel-art sensibility and execution to shape the final result. I am also open to relevant artistic or technical suggestions when they improve the asset.\n\nThe game uses a three-quarter top-down perspective, in pixel art. Most character and enemy assets will be relatively small, generally around 32×32 pixels, and sometimes bigger. They use a single side-facing direction only: I do not need separate up, down, left, or right-facing sprite sets.\n\nFor most character or enemy assets, I expect:\n\n* a static or idle sprite;\n* a very simple two-frame walk animation;\n* occasionally, one additional animation depending on the character or enemy;\n* transparent PNG delivery at native resolution.\n\nInitial commission:\n\nI would like to begin with one small paid test asset, most likely one character, enemy, or weapon. The scope will be defined in advance, including resolution, pose, animation requirements, references, and final deliverables.\n\nI am looking for fixed-price commissions rather than hourly work but, of course, it will also depends on you, the artist, and the affinity we might have. Please provide your own quote based on the requested asset and scope.\n\nCommercial use:\n\nThe final commissioned assets must be cleared for commercial use in the game. I am happy to credit the artist and allow portfolio display, but I need the commissioned final assets not to be resold, redistributed, or reused in another game without prior agreement.\n\nNo generative-AI please.\n\nTo apply, please reply with:\n\n* a portfolio containing actual game-ready pixel art, preferably small-scale characters, enemies, weapons, props, spritesheets, tilesets, or animations;\n* your approximate rates for a small static asset;\n* your rates for a small animated character or enemy sprite;\n* your usual turnaround time;\n* your preferred payment method.\n\nPlease do not send a generic message without a relevant portfolio. I will review submissions and contact the artists whose work fits the project.\n\nOf course we can discuss about your prices and scope in DM, just tell me.\n\nThank you.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uk4c7j/paid_looking_for_a_pixel_artist_for_characters/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-06-30T22:53:54Z"
+  },
+  {
     "post_id": "1uk49p9",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2374,29 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-26T21:19:32Z"
-  },
-  {
-    "post_id": "1ugivuj",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/CoffeeOrc_",
-    "title": "[Hiring] (500+) 3D artists for mediaeval watercolour painting style assets",
-    "content": "[Hiring] (500+) 3D artists for mediaeval watercolour painting style assets\n\nSo I'm working on [a game](https://store.steampowered.com/app/4847550/Argosy/) and I want to explore the idea of making the town view (visible in the screenshots) to a 3D view. This would enable a lot of things and simply even more. The issue is I'd like to keep the style roughly. So now I'm looking for some skilled 3D artists (or team of 2D and 3D) to help me realise this \n\nIf what I'm looking for is not really plausible, that is also ok, please tell me. As a backend Dev I have limited art skill/knowledge \n\nThanks in advance!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1ugivuj/hiring_500_3d_artists_for_mediaeval_watercolour/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-26T20:59:59Z"
-  },
-  {
-    "post_id": "1ugitho",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/noellexsecre",
-    "title": "[Hiring] NSFW Character Reference Sheet",
-    "content": "[Hiring] NSFW Character Reference Sheet\n\nHello! I’m looking for an artist to create one or multiple reference sheets for my OCs. These OCs include Humans, Cyborgs, and Aliens. My OCs feature a variety of genders/body types as well. Including but not limited to: Women, Men, Femboys, Futa, and Transgender body styles.\n\nSome of the OCs already have illustrations made of them, while others are currently in the rough concept phase. (Regrettably some of the references I have are generated with AI. If that’s not something you wish to work then I understand.)\n\nDisclaimer: these reference sheets are not currently for any commercial project. Their purpose is to be used in other projects that are also non-commercial.\n\nRequirements: Must be fluent in some kind of anime/manga style.  \nMust have experience drawing the various sexual organs and other body parts. (Penises, Vaginas, Anuses, etc)  \nMust be comfortable drawing varied body types.  \nMust also be comfortable drawing fetishes (This does not include disgusting ones, we try to have a little class around here.)\n\n(For the sake of the moderators, all the characters to be used in this comic are 21+)\n\nMy budget is roughly $35 a reference sheet but depending on the artist’s style I am open to negotiate.",
-    "url": "https://reddit.com/r/artcommission/comments/1ugitho/hiring_nsfw_character_reference_sheet/",
-    "quality": "High Quality",
-    "budget": "$35",
-    "created_at": "2026-06-26T20:57:18Z"
   }
 ]
