@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uk8h2j",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Vrsuh",
+    "title": "[PAID] 3D Character Artist wanted — stylized low-poly rigged character for a Unity 6 horror game",
+    "content": "[PAID] 3D Character Artist wanted — stylized low-poly rigged character for a Unity 6 horror game\n\nHi all,\n\nIm a solo dev, working on a 3D online asymmetric horror game in Unity. I had a recent post in this sub, you guys are great! I am looking for one stylized character, just the modelling and rigging; no animation is needed.\n\n**The character:** \n\n* **The head:** A \"hunter.\" Some pretty locked decision I have are a rigid metal bucket for the head. Its got bulging eyes, separate eyeball/pupil so that they can be animated as well. This is the **FOCAL** point of the character. \n* **The body** is a soft-ish, simple cloth sack/onesie by default — kept simple so the head stays the focal point — but I want it crafted, not a plain blob: think cloth sack, scarecrow, stitching, a zipper, a cinched/roped neck where the bucket sits, cuffed wrist and ankles or something idk, a bit of weight. If you have a stronger take on the body that keeps a clean, readable silhouette feel free to pitch it! I actually would **prefer** your input as well. Overall tone: creepy but a little pathetic/comedic. I have a front-view concept sketch I'll share. For **hands**, we can do the typical mitten looking hands with a thumb. For **feet**, ill let you guys decide dont really care on that one. \n* **OVERALL SIZE**: Shorter character, kinda like REPO? 1.5m maybe? im not great on the sizing. I want things to \"feel\" bigger than them. But not excessively small just shorter little fellas. I just wanna make sure that if i scale it down it doesn't look of, like it was meant to be bigger if that makes sense.\n\n**The game's premise:** Simply put, the hunters (up to 4), are up against 1 player ghost/entity. So they shouldn't look scary necessarily. Im going for that goofy, comedic relief look of REPO, lethal company, etc.\n\n**What I want delivered:**\n\n* Rigged FBX (mesh, skeleton, skin weights, etc im not good with the terms lol)\n* Unity humanoid compatible skeleton, modeled in T-pose\n* Eyes on separate bones so they can rotate independently, still move with head of course.\n* Separate material slots for bucket / body / eyes (I recolor parts at runtime)\n* Bucket = metallic/shiny material; body/eyes as fits the design\n* Textures (PBR: base color + metallic/smoothness, plus normal/AO if the style needs it), PNG, 1024 or 2048\n* Source file (.blend or Maya) included\n* Since it's for a commercial game, I'll need full commercial rights to the final asset — happy to give credit in the game!\n\n**Technical stuff:**\n\n* About 8-15k total triangles? im not good with estimating on this but this should be fine\n* Please model it at its final \\~1.5m size (don't build it big and shrink it), real-world scale, feet at the origin (0,0,0), facing +Z, transforms applied. That way the proportions are made for that size.\n\n **If interested,  please reply to this post or just DM me with:**\n\n*1. your portfolio*\n\n*2. your rate/availability*\n\n*3. ETA on turnaround time*\n\n*No* ***AI CONTENT*** *at all*",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uk8h2j/paid_3d_character_artist_wanted_stylized_lowpoly/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-01T01:59:12Z"
+  },
+  {
     "post_id": "1uk7w6i",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$40",
     "created_at": "2026-06-27T04:26:21Z"
-  },
-  {
-    "post_id": "1ugsn64",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/KatieSchmaty80",
-    "title": "[HIRING]  BW graphic \"Wizard Fingers\" logo/image to use on a bottle label USD$30",
-    "content": "[HIRING]  BW graphic \"Wizard Fingers\" logo/image to use on a bottle label USD$30\n\nHere's the concept - \"Wizard Fingers\" is the nickname we give our guitarist in our band. Im making him a liquor bottle, and it needs a label. I don't know exactly what direction to go, but I know what I do/don't like. Here's some yes/no to narrow down the ideas: \n\nYES: \n\n* Cool modern hipster wizard wearing sunglasses and doing finger guns\n* Dark mysterious magic type entity, face hidden in shadows, with a big beard where the beard is morphing into a bunch of gnarly arms/hands reaching out \n* Simplified meld of wizardly symbols, arcane magic, organic shapes, psychedelic elements\n* Dynamic, high contrast, b/w single graphic novel frame / comic cell\n* Anything that falls under the following: organic shapes, hand-drawn imperfections, unusual textures, psychedelic details, elements of sacred geometry, strange botanical/fungal forms, surreal anatomy, forgotten magical artefact or an old apothecary bottle - Be super keen to see your own spin on it! \n\nNO: \n\n* Serious LOTR Gandalf type stuff\n* Cheesy orb gazing, lightning hands,  \n* DnD tavern type fantasy art\n* Disney/kids/HP\n* Anime femme pointy ears elf\n* Anything too busy/messy/detailed - needs to be simple\n\nNo text required, just an image to use under the title \"Wizard Fingers\". It doesn't need to be polished and refined. A sketch or basic line art would be fine. I understand the budget is teeny (Im a broke bitch) but would rather pay an artist than the alternative (\\*blegh\\*) so I hope someone out there can help!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1ugsn64/hiring_bw_graphic_wizard_fingers_logoimage_to_use/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-06-27T04:15:42Z"
   }
 ]
