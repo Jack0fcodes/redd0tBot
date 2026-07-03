@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1um55yj",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/Vast-Tap2917",
+    "title": "[Hiring] Looking for iPad Procreate Mentor",
+    "content": "[Hiring] Looking for iPad Procreate Mentor\n\nHi! I'm looking for an iPad Procreate mentor who can help me re-learn how to draw digitally.\n\nFor my background, I am a hobbyist artist with a flat illustrative style. I started out in Photoshop but when I made the switch over to Procreate, I feel like could never just wrap my head around it and all brushes I used have been awful no matter how hard I edit them... (yes I know there are resources online but they are not helpful for me).\n\n  \nMy goal is to re-learn the basics of Procreate, as well as some art mentorship, over the course of 2-5 sessions, meeting over Discord 1x a week. More if I feel I need it. I am willing to pay 20-30 USD per hour, could negotiate higher depending on the portfolio :) \n\n  \nMust:\n\n* Have expertise in Procreate (knows their way around brushes, settings, settings, tools, tips, life hacks)\n* Ideally has a similar artstyle to mine (in photo), or can paint in that style \n* Be free around EST evening weekdays \n* Art teaching experience not required but its a bonus! \n* Have a Discord and is comfortable with mic on. \n\nKindly comment samples of your work and your rates!",
+    "url": "https://reddit.com/r/artcommissions/comments/1um55yj/hiring_looking_for_ipad_procreate_mentor/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-03T05:11:06Z"
+  },
+  {
     "post_id": "1um48uv",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-29T09:47:10Z"
-  },
-  {
-    "post_id": "1uinsrw",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/tommohawkaction",
-    "title": "[PAID] Looking for Mission Designer with Unity Experience",
-    "content": "[PAID] Looking for Mission Designer with Unity Experience\n\nHi! \n\nWe’re looking for a **Mission Designer with real Unity experience** to join our small UK remote team.\n\nThis is **paid**, full‑time (9–5), and remote.  \nWe work entirely through **Discord**, so you’ll need to be active there during work hours.\n\n  \n**About Us**\n\nWe’re an indie studio with a shipped commercial title.  \nYou can see our portfolio here:\n\n[**https://store.steampowered.com/app/1211020/Wobbly\\_Life/**](https://store.steampowered.com/app/1211020/Wobbly_Life/?utm_source=copilot.com)\n\n**What we’re looking for**\n\nSomeone who can **write missions AND implement them directly inside Unity**.\n\nNot just narrative design — actual **in‑engine mission setup**.\n\n  \n**You must be able to:**\n\n* Build **mission flows** (start → objectives → completion)\n* Create and manage **triggers**, **colliders**, and **objective states**\n* Hook up **dialogue**, **localisation keys**, and **mission logic**\n* Work with **ScriptableObjects**, **prefabs**, and the **Unity inspector**\n* Debug broken mission steps, triggers, or references\n* Collaborate with designers and programmers on gameplay‑driven missions\n* Experience writing lighthearted or comedic mission dialogue\n\n  \n**Nice to have**\n\n* Experience with sandbox or open‑world mission structures\n\n  \n**What we’re NOT looking for**\n\n* Pure writers with no Unity experience\n* People who only “worked with designers” but didn’t implement missions themselves\n* Students who have only done narrative design in Twine/Ink\n* Anyone who can’t show real engine‑side work\n\n  \n**How to apply**\n\nPlease send the following to [**employment@rubberbandgames.com**](mailto:employment@rubberbandgames.com)\n\n* Your CV\n* Examples of missions you’ve **implemented in Unity**\n* Examples of dialogue you've written.\n* A short description of a mission you built and how you implemented it",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uinsrw/paid_looking_for_mission_designer_with_unity/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-29T09:39:07Z"
   }
 ]
