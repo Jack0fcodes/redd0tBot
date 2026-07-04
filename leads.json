@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1unlg41",
+    "platform": "Reddit",
+    "source": "r/hireanartist",
+    "author": "u/MoonliteLea",
+    "title": "digital design of my and my partners gaming characters",
+    "content": "digital design of my and my partners gaming characters\n\nHello!  \nMy name is Lea and I am looking to hire an artist to create a digital design for my anniversary. We are both huge destiny 2 fans and I wanted to give him a gift of a design of both of our characters (I have photos of our guardians because I want it to look the same as our guardian with the outfit, colors etc) but I was hoping one could be my character and his character sitting on the edge of a building (the tower) looking forward (so it’s a back view) with us looking at the traveler with both of our hands touching and the words this is our destiny\n\nYes I’m corny and I have no shame 😂",
+    "url": "https://reddit.com/r/hireanartist/comments/1unlg41/digital_design_of_my_and_my_partners_gaming/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-04T22:09:25Z"
+  },
+  {
     "post_id": "1unl1ks",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-06-30T22:56:21Z"
-  },
-  {
-    "post_id": "1uk4c7j",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/SpecificFrosty8405",
-    "title": "[PAID] Looking for a pixel artist for characters, enemy, weapon and effects assets",
-    "content": "[PAID] Looking for a pixel artist for characters, enemy, weapon and effects assets\n\nHi,\n\nI am developing a small indie game and am looking for a pixel artist for occasional paid commissions: primarily characters, enemies, weapons, props, and other gameplay-facing assets.\n\nThe project already has a strong direction on the design side. I have clear ideas for the identity of the characters, enemies, and weapons, as well as their gameplay roles, silhouettes, mood, and general visual language. I will provide concise written briefs, reference images, and gameplay context for each commission.\n\nI am not looking for someone to copy a specific artist’s style or to create the entire art direction from scratch. The designs are already substantially defined, but I want the artist’s own pixel-art sensibility and execution to shape the final result. I am also open to relevant artistic or technical suggestions when they improve the asset.\n\nThe game uses a three-quarter top-down perspective, in pixel art. Most character and enemy assets will be relatively small, generally around 32×32 pixels, and sometimes bigger. They use a single side-facing direction only: I do not need separate up, down, left, or right-facing sprite sets.\n\nFor most character or enemy assets, I expect:\n\n* a static or idle sprite;\n* a very simple two-frame walk animation;\n* occasionally, one additional animation depending on the character or enemy;\n* transparent PNG delivery at native resolution.\n\nInitial commission:\n\nI would like to begin with one small paid test asset, most likely one character, enemy, or weapon. The scope will be defined in advance, including resolution, pose, animation requirements, references, and final deliverables.\n\nI am looking for fixed-price commissions rather than hourly work but, of course, it will also depends on you, the artist, and the affinity we might have. Please provide your own quote based on the requested asset and scope.\n\nCommercial use:\n\nThe final commissioned assets must be cleared for commercial use in the game. I am happy to credit the artist and allow portfolio display, but I need the commissioned final assets not to be resold, redistributed, or reused in another game without prior agreement.\n\nNo generative-AI please.\n\nTo apply, please reply with:\n\n* a portfolio containing actual game-ready pixel art, preferably small-scale characters, enemies, weapons, props, spritesheets, tilesets, or animations;\n* your approximate rates for a small static asset;\n* your rates for a small animated character or enemy sprite;\n* your usual turnaround time;\n* your preferred payment method.\n\nPlease do not send a generic message without a relevant portfolio. I will review submissions and contact the artists whose work fits the project.\n\nOf course we can discuss about your prices and scope in DM, just tell me.\n\nThank you.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uk4c7j/paid_looking_for_a_pixel_artist_for_characters/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-06-30T22:53:54Z"
   }
 ]
