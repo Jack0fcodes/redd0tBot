@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1unstdb",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/Nb-7925",
+    "title": "[Hiring] commision for an urban fantasy design. $22 offer.",
+    "content": "[Hiring] commision for an urban fantasy design. $22 offer.\n\nI'm looking for someone to make art of a protagonist for an urban fantasy story I'm writing.  The protagonist is a 27 year old male wearing clothes reminiscent of the Fairy Godmother from Disney's Cinderella (the original): A light blue hoodie with magenta accents in the lining and hood strings, worn over a white t shirt, beige sweatpants, and blue sneakers.",
+    "url": "https://reddit.com/r/artcommission/comments/1unstdb/hiring_commision_for_an_urban_fantasy_design_22/",
+    "quality": "High Quality",
+    "budget": "$22",
+    "created_at": "2026-07-05T04:34:43Z"
+  },
+  {
+    "post_id": "1unstyh",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/Last-Equal",
+    "title": "[HIRING] Looking for an illustrator for a custom playing card deck",
+    "content": "[HIRING] Looking for an illustrator for a custom playing card deck\n\nHi! I'm looking for an illustrator to collaborate on a custom playing card deck I'm creating.\n\nThe concept is a little different than a traditional custom deck: each rank will represent a different meaningful place. For example, all four Kings might feature one landmark, all four Queens another, etc. There will also be two custom Jokers. So in total, the project is around 15 unique illustrations that will be used throughout the deck.\n\nI'm still figuring out the exact style, so I'm hoping to find someone who can help shape the vision—not just execute it.\n\nThe general direction I'm imagining is classic, timeless, and whimsical. I love things like vintage playing cards, old book illustrations, engraved stationery, New England aesthetics, but very fun and modern, but I'm not looking for anything that feels stiff or overly technical. I'd love artwork that has personality while still feeling elegant.\n\nMost of the illustrations will be recognizable landmarks and buildings (historic buildings, stadiums, streets, lighthouses, hotels, etc.), but the goal is for the entire deck to feel like one cohesive collection.\n\nIf your style doesn't sound like an exact match based on my description, I'd still love to see your portfolio. I'm early enough in the process that seeing different styles may help me figure out exactly what I'm looking for.\n\nIf you're interested, please send:\n\nYour portfolio\n\nYour pricing (I am flexible on budget!)\n\nYour estimated timeline\n\nAny similar work you've done (if applicable)\n\nBonus points if you’ve worked with someone via Reddit\n\nHappy to share inspiration images and references with anyone who's interested.\n\nThanks!",
+    "url": "https://reddit.com/r/artcommissions/comments/1unstyh/hiring_looking_for_an_illustrator_for_a_custom/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-05T04:35:37Z"
+  },
+  {
     "post_id": "1unshlq",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$200",
     "created_at": "2026-07-01T02:13:46Z"
-  },
-  {
-    "post_id": "1uk8h2j",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Vrsuh",
-    "title": "[PAID] 3D Character Artist wanted — stylized low-poly rigged character for a Unity 6 horror game",
-    "content": "[PAID] 3D Character Artist wanted — stylized low-poly rigged character for a Unity 6 horror game\n\nHi all,\n\nIm a solo dev, working on a 3D online asymmetric horror game in Unity. I had a recent post in this sub, you guys are great! I am looking for one stylized character, just the modelling and rigging; no animation is needed.\n\n**The character:** \n\n* **The head:** A \"hunter.\" Some pretty locked decision I have are a rigid metal bucket for the head. Its got bulging eyes, separate eyeball/pupil so that they can be animated as well. This is the **FOCAL** point of the character. \n* **The body** is a soft-ish, simple cloth sack/onesie by default — kept simple so the head stays the focal point — but I want it crafted, not a plain blob: think cloth sack, scarecrow, stitching, a zipper, a cinched/roped neck where the bucket sits, cuffed wrist and ankles or something idk, a bit of weight. If you have a stronger take on the body that keeps a clean, readable silhouette feel free to pitch it! I actually would **prefer** your input as well. Overall tone: creepy but a little pathetic/comedic. I have a front-view concept sketch I'll share. For **hands**, we can do the typical mitten looking hands with a thumb. For **feet**, ill let you guys decide dont really care on that one. \n* **OVERALL SIZE**: Shorter character, kinda like REPO? 1.5m maybe? im not great on the sizing. I want things to \"feel\" bigger than them. But not excessively small just shorter little fellas. I just wanna make sure that if i scale it down it doesn't look of, like it was meant to be bigger if that makes sense.\n\n**The game's premise:** Simply put, the hunters (up to 4), are up against 1 player ghost/entity. So they shouldn't look scary necessarily. Im going for that goofy, comedic relief look of REPO, lethal company, etc.\n\n**What I want delivered:**\n\n* Rigged FBX (mesh, skeleton, skin weights, etc im not good with the terms lol)\n* Unity humanoid compatible skeleton, modeled in T-pose\n* Eyes on separate bones so they can rotate independently, still move with head of course.\n* Separate material slots for bucket / body / eyes (I recolor parts at runtime)\n* Bucket = metallic/shiny material; body/eyes as fits the design\n* Textures (PBR: base color + metallic/smoothness, plus normal/AO if the style needs it), PNG, 1024 or 2048\n* Source file (.blend or Maya) included\n* Since it's for a commercial game, I'll need full commercial rights to the final asset — happy to give credit in the game!\n\n**Technical stuff:**\n\n* About 8-15k total triangles? im not good with estimating on this but this should be fine\n* Please model it at its final \\~1.5m size (don't build it big and shrink it), real-world scale, feet at the origin (0,0,0), facing +Z, transforms applied. That way the proportions are made for that size.\n\n **If interested,  please reply to this post or just DM me with:**\n\n*1. your portfolio*\n\n*2. your rate/availability*\n\n*3. ETA on turnaround time*\n\n*No* ***AI CONTENT*** *at all*",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uk8h2j/paid_3d_character_artist_wanted_stylized_lowpoly/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-01T01:59:12Z"
-  },
-  {
-    "post_id": "1uk7w6i",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/billieyoucanthearme",
-    "title": "[Hiring] muscle transformation sequence 120",
-    "content": "[Hiring] muscle transformation sequence 120",
-    "url": "https://reddit.com/r/HungryArtists/comments/1uk7w6i/hiring_muscle_transformation_sequence_120/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-01T01:31:17Z"
   }
 ]
