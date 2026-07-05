@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uo3oim",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/therealchonttv",
+    "title": "[hiring] profile picture",
+    "content": "[hiring] profile picture\n\nSo I am the most uncreative person in the world but I really do want a profile picture that I can use for my twitch discord and whatever else but I have no ideas at all. We can discuss price but I am willing for around 50 I am willing to go more I don’t have any ocs or anything like that so I am more leaning to just my name for the pfp but to make it cool looking if that makes sense?",
+    "url": "https://reddit.com/r/artistforhire/comments/1uo3oim/hiring_profile_picture/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-05T14:32:15Z"
+  },
+  {
     "post_id": "1uo3e18",
     "platform": "Reddit",
     "source": "r/artcommission",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$35",
     "created_at": "2026-07-01T05:06:40Z"
-  },
-  {
-    "post_id": "1ukc7rl",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/MCantus",
-    "title": "[Paid] Looking for a Sprite Artist / Animator for 2 Sprite Sheets.",
-    "content": "[Paid] Looking for a Sprite Artist / Animator for 2 Sprite Sheets.\n\nI am looking to commission 2 animated pixel character sheets for a free mod in the game Elin (available on Steam.)    \n\nThis probably has a weird constraint compared to other commissions as I want to extend off existing artwork doing it from scratch. To explain:\nThe game uses a \"PCC\" system that has the base body, then layers ontop clothing as needed/selected.  \nI can provide the base \"Human\" sprites bodies as examples, which I hope to match at least the upper torsos and head with the originals to allow the players to continue using shirts/head/hair parts. The goal would be simply to change the bottom \"half\" of each sprite to the new race.  \nThe two races I am wanting to add PCC base bodies for are a half-snake half-human (Naga/Lamia) and half-plant half-human (Alraune/Dryad), so if the spriter specializes in anthropomorphic art that would be a plus.    \n\nTechnical Specs of each character sheet.  \nTotal Dimensions: 128 x 192 pixels  \nGrid Layout: 4x4 grid consisting of 16 total frames (Each frame is exactly 32 x 48 pixels)  \nAnimations: 4 directions of walking movement (South, West, East, North)  \n4 frames per directional loop.    \n\nDepending on how things go I might request a couple variations of them, which would increase the amount of sprite sheets in the request.\n\nBecause this is for a free mod, I want to clarify that this mod will be distributed entirely for free. There will be no paywalls, monetization, or commercial gain at all on my end.  \n  \nFor those interested, please include:  \nA portfolio.  \nYour rate and preferred payment method.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ukc7rl/paid_looking_for_a_sprite_artist_animator_for_2/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-01T05:04:25Z"
   }
 ]
