@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1upelat",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Batteredburrito",
+    "title": "[PAID] Character Rigger / Animator - Interactive 3D Animal Mascots [Blender &amp; Three.js]",
+    "content": "[PAID] Character Rigger / Animator - Interactive 3D Animal Mascots [Blender &amp; Three.js]\n\nWe're building an interactive Cat (Smitty) and Dog (Tenson) mascot experience for one of my businesses websites. Looking for someone to help with bringing these mascots to life with various idling and reaction / play animations. Looking for someone that can work with a cutesy and relaxed style, akin to a playdough/cartoons, not photoreal.\n\n**What I am looking for**\n\nSomeone to Rig and animate our two existing character models that have been built in Blender (we will provide the files) and help deliver clean, real-time-ready animation clips we can drive in Three.js. We may need assistance cleaning the models if necessary so experience with modelling would be a huge plus to make any adjustments as needed. \n\nWe will handle the web integration side of things, looking for you own the model/art, rig and the motion only.\n\n**What is needed**\n\n• Rigged armature + facial setup including morph targets / shape keys for blinks &amp; expressions\n\n• A named clip library including idle animation (3-4 variants), blinking, look-around, sit, run/chase, pounce/play, reactions, return-to-rest\n\n• Exported as glTF/GLB and then verified loading in Three.js, consistent bone &amp; clip naming for developer ease of use\n\n• Light model clean-up/adjustments as needed to hit a web poly + bone budget\n\nWe have a full list of proposed clips that include around 40 or so short animations clips that will be procedurally chained together in 3JS ourselves.\n\nLooking to get the two GLB files as the deliverable with all clips embedded as named animations and faces as morph targets with a single skeleton per animation and identical bind poses and seamless looping. \n\n**Budget:** Paid, fixed-price, milestone-based. Open to your quote based on experience and final clip count\n\n**Timeline:** 4-6 weeks but flexible and entirely depends on the complexity of the ask\n\n**Commercial rights:** Full commercial rights for business use needed\n\n**How to apply:** open to DMs or Comments Reel would be required and payment via PayPal or Bank Transfer per Milestone.\n\nFull clip list available on request. Fully incorporated UK company and VAT Registered. Details can be provided directly.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1upelat/paid_character_rigger_animator_interactive_3d/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-06T23:54:25Z"
+  },
+  {
     "post_id": "1updwwb",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-03T01:24:16Z"
-  },
-  {
-    "post_id": "1um030h",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Impressive-Front-383",
-    "title": "[Hiring] N from Pokemon Car Peeker Sticker Commission, price open for discussion, more details below. 30$ or more depending on details.",
-    "content": "[Hiring] N from Pokemon Car Peeker Sticker Commission, price open for discussion, more details below. 30$ or more depending on details.",
-    "url": "https://reddit.com/r/artcommission/comments/1um030h/hiring_n_from_pokemon_car_peeker_sticker/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-03T01:01:23Z"
   }
 ]
