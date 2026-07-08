@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uqsz9a",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/Axternaly2",
+    "title": "[Hiring] A single 32x32 PixelArt of curved conveyor belt with 8 frame animation",
+    "content": "[Hiring] A single 32x32 PixelArt of curved conveyor belt with 8 frame animation\n\nA bit of a silly request but I am losing my mind with curved conveyor belt animation, i have a 32x32px simple sprites for my game and the only thing i can't seem to make myself is the curved conveyor belt, here are images of my animated (8 frames) for straight conveyor belt, and my atrocity of a curved belt i couldn't even animate if i wanted to.\n\nI know that since a lot of lines on regular belt are thin that lines on curved will look weird and i don't know if there is a workaround for it. I am open to ideas/changes\n\nRequirements:\n\n1. 32x32 pixel art of curved conveyor belt with animation of exactly 8 frames (8 unique, 9th frame loops to first), each frame exported as separate png.\n2. A color scheme of only 4 colors, black, white, light gray and dark gray, the exact hue doesn't need to match my own, my program already does that for me.\n3. The straight conveyors are in 32x32 px square but have 2px margin on top and bottom to make them 28x32 px total (look at last example picture), so the corner-curved conveyor needs to be also 32x32px size but connect those two 28x32px (horizontal) with 32x28px (vertical) straight belt.\n\n*\\*Orientation of the curved belt doesn't matter, N-&gt;W; N-&gt;E; S-&gt;W; S-&gt;E; just 1 is needed*\n\n**Budget 20$**\n\nPayment options: PayPal, direct wire transfer, Ko-fi, Patreon, or another reasonable method. I do not have Venmo or Monero.",
+    "url": "https://reddit.com/r/artcommissions/comments/1uqsz9a/hiring_a_single_32x32_pixelart_of_curved_conveyor/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-08T13:39:16Z"
+  },
+  {
     "post_id": "1uqs8aq",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$1000",
     "created_at": "2026-07-04T12:03:09Z"
-  },
-  {
-    "post_id": "1un70nr",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/BubblyTumbleweed8455",
-    "title": "[HIRING] Someone who can create a haunting painting $100+",
-    "content": "[HIRING] Someone who can create a haunting painting $100+\n\n\\-Please make sure to respond below so I know you are not banned from this sub. Do DM me first. \n\nLooking for someone to create a painting for me thats horrific that possibly looks cursed or haunted. There's no particular theme or person or thing. \n\nPlease show me your work below. \n\nThank you.",
-    "url": "https://reddit.com/r/artcommissions/comments/1un70nr/hiring_someone_who_can_create_a_haunting_painting/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-07-04T11:47:21Z"
   }
 ]
