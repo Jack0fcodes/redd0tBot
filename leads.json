@@ -1,5 +1,41 @@
 [
   {
+    "post_id": "1uumsaw",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/SycoGamez203",
+    "title": "[HIRING] Looking to commission someone for a set of character art/splash art",
+    "content": "[HIRING] Looking to commission someone for a set of character art/splash art\n\nAs the title states, i'm looking to commission multiple high quality pieces for fantasy characters in my dnd setting either in a style like games such as LoL, Smite and other general hero shooters OR in an anime-like style from Gacha games such as Genshin Impact, Wuthering Waves, Honkai Star Rail etc.\n\nWhich style it is doesn't make much difference to me as long as it's emulates one of those styles very well.\n\nThe pieces do not need to have a background either, as the character themselves are what i'm looking to get but I may choose to get them with background depending on pricing.\n\nBudget is flexible, my expectation would be around $200 per piece, but my hard limit is significantly higher, though I wouldn't go above triple digits for a single piece.\n\nTurnover I'd ideally want one commission finished per month at the longest.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1uumsaw/hiring_looking_to_commission_someone_for_a_set_of/",
+    "quality": "High Quality",
+    "budget": "$200",
+    "created_at": "2026-07-12T18:06:24Z"
+  },
+  {
+    "post_id": "1uumvl8",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/SnooPaintings8310",
+    "title": "[PAID] Looking for an experienced turn-based game AI programmer for consulting",
+    "content": "[PAID] Looking for an experienced turn-based game AI programmer for consulting\n\nHi, I'm a solo Unity developer working on a turn-based strategy game, and I'm looking for an experienced game AI programmer for paid consulting.\n\nMy current problem is enemy action planning.\n\nThe AI has a limited amount of energy/action points each turn and can perform multiple actions. Actions have different costs, and movement cost depends on distance.\n\nI need the AI to evaluate **combinations/sequences of actions within its energy budget**, rather than simply choosing the highest-scoring next action.\n\nFor example, the AI may need to compare:\n\n* Move → Attack\n* Attack → Move → Defend\n* Use Ability A → Use Ability B \n* Move to position X → Use Ability B\n* Multiple lower-cost actions vs. one expensive action\n\nMovement also creates a large number of possible positions, so the action space can grow quickly.\n\nI currently have a basic Utility AI/scoring system in Unity/C#, but I'm unsure what planning/search approach is appropriate and how I should structure the system.\n\nI'm **not looking for someone to build the entire AI for me**. I'm looking for an experienced programmer who can review my current architecture, discuss the problem with me, and help me choose and structure the right approach.\n\nExperience with **turn-based tactics/strategy AI, action planning, search algorithms, Utility AI, GOAP, or similar systems** would be ideal.\n\nGames with broadly similar action structures would be XCOM 2, Battle Brothers, and turn-based Warhammer games. But also trading card games like path of Champion and MTG Arena.\n\nThis is paid consulting.\n\nIf this is your area of expertise, please DM me with your experience, relevant games/projects, and your hourly or consulting rate.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uumvl8/paid_looking_for_an_experienced_turnbased_game_ai/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-12T18:09:49Z"
+  },
+  {
+    "post_id": "1uumtcx",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/SycoGamez203",
+    "title": "[Hiring]",
+    "content": "[Hiring]\n\nAs the title states, i'm looking to commission multiple high quality pieces for fantasy characters in my dnd setting either in a style like games such as LoL, Smite and other general hero shooters OR in an anime-like style from Gacha games such as Genshin Impact, Wuthering Waves, Honkai Star Rail etc.\n\nWhich style it is doesn't make much difference to me as long as it's emulates one of those styles very well.\n\nThe pieces do not need to have a background either, as the character themselves are what i'm looking to get but I may choose to get them with background depending on pricing.\n\nBudget is flexible, my expectation would be around $200 per piece, but my hard limit is significantly higher, though I wouldn't go above triple digits for a single piece.\n\nTurnover I'd ideally want one commission finished per month at the longest.",
+    "url": "https://reddit.com/r/starvingartists/comments/1uumtcx/hiring/",
+    "quality": "High Quality",
+    "budget": "$200",
+    "created_at": "2026-07-12T18:07:31Z"
+  },
+  {
     "post_id": "1uumhpd",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2362,41 +2398,5 @@
     "quality": "High Quality",
     "budget": "$35",
     "created_at": "2026-07-08T15:06:08Z"
-  },
-  {
-    "post_id": "1uqvefl",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/jahvoncreamcone",
-    "title": "[Hiring] Looking for character designer to make a vector based 8 directional doom style sprite sheet for my soldier in this exact style. Hiring 2-3 people. $35 Each",
-    "content": "[Hiring] Looking for character designer to make a vector based 8 directional doom style sprite sheet for my soldier in this exact style. Hiring 2-3 people. $35 Each\n\nHey guys looking a character designer who can make a doom style sprite sheet of this character. It wouldn’t be pixelated or sprite based but it would be vector.  \nInterested in somebody who can work fast as I’d be able to give them more work. Seeing if anybody could handle this in 7 days",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uqvefl/hiring_looking_for_character_designer_to_make_a/",
-    "quality": "High Quality",
-    "budget": "$35",
-    "created_at": "2026-07-08T15:08:18Z"
-  },
-  {
-    "post_id": "1uqv555",
-    "platform": "Reddit",
-    "source": "r/hireanartist",
-    "author": "u/jahvoncreamcone",
-    "title": "Looking for character designer to make a vector based sprite sheet for my soldier in this exact style. Hiring 2-3 people. $35 Each",
-    "content": "Looking for character designer to make a vector based sprite sheet for my soldier in this exact style. Hiring 2-3 people. $35 Each\n\nHey guys looking a character designer who can make a doom style sprite sheet of this character. It wouldn’t be pixelated or sprite based but it would be vector.  \nInterested in somebody who can work fast as I’d be able to give them more work. Seeing if anybody could handle this in 7 days.",
-    "url": "https://reddit.com/r/hireanartist/comments/1uqv555/looking_for_character_designer_to_make_a_vector/",
-    "quality": "High Quality",
-    "budget": "$35",
-    "created_at": "2026-07-08T14:59:16Z"
-  },
-  {
-    "post_id": "1uqv2il",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/jahvoncreamcone",
-    "title": "[Hiring] Looking for character designer to make a vector based 8 directional doom style sprite sheet for my soldier in this exact style. Hiring 2-3 people. $35 Each",
-    "content": "[Hiring] Looking for character designer to make a vector based 8 directional doom style sprite sheet for my soldier in this exact style. Hiring 2-3 people. $35 Each\n\nHey guys looking a character designer who can make a doom style sprite sheet of this character. It wouldn’t be pixelated or sprite based but it would be vector.  \nInterested in somebody who can work fast as I’d be able to give them more work. Seeing if anybody could handle this in 7 days.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1uqv2il/hiring_looking_for_character_designer_to_make_a/",
-    "quality": "High Quality",
-    "budget": "$35",
-    "created_at": "2026-07-08T14:56:39Z"
   }
 ]
