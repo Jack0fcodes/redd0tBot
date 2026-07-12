@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uu882x",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/FolkCollector",
+    "title": "[HIRING] Mentor for 3D animation pipeline Blender/Godot",
+    "content": "[HIRING] Mentor for 3D animation pipeline Blender/Godot\n\nHello!\n\nLooking for a mentor/tutor to help with Blender -&gt; Godot animation pipeline, and some basic rigging skills. \n\nI’m developing a game where characters play musical instruments. I’ve had a good go and definitely need help with a few aspects! I’m mostly self taught in all aspects of game dev, animation, rigging etc - music is the only bit I have proper industry experience in.\n\nI’d like to work on my pipeline so that any character could potentially play any instrument, but I’m missing core knowledge on how to even begin such a process. I’ve never done retargeting, my naming conventions are vague at best, I don’t know which parts should I leave to Godot, which parts to blender, timing the animations to music in engine, etc etc.\n\nI’m looking for someone who can help answer these questions and really walk me through step by step, or to be pointed in the direction of mentorships that might be suitable.\n\nCheers!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uu882x/hiring_mentor_for_3d_animation_pipeline/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-12T07:04:12Z"
+  },
+  {
     "post_id": "1uu5yn6",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-08T06:19:39Z"
-  },
-  {
-    "post_id": "1uqk1c4",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/thefairestghoul",
-    "title": "[Hiring] Flower + Human",
-    "content": "[Hiring] Flower + Human\n\nBudget: $100-120 (PAYPAL, 50/50)   \nTime frame: 4 weeks (+ 2 weeks grace period, please communicate with me)   \nJob: Flower with 2 human heads. One on the actual flower. One on the ground. Plain or nature background. I’m not quite sure and am open to suggestions from artist. Fully rendered with color. Must be able to draw round face and ethnic features.   \nNo 🚫🚫🚫 AI or tracing   \nI would love to work with more women and queer people BUT I’m open to anyone   \nPlease show me the process (sketch draft, final sketch, coloring, final before last payment)   \nPlease don’t DM me",
-    "url": "https://reddit.com/r/artcommissions/comments/1uqk1c4/hiring_flower_human/",
-    "quality": "High Quality",
-    "budget": "$100-120",
-    "created_at": "2026-07-08T05:58:42Z"
   }
 ]
