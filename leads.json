@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uvplsi",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/zathe12",
+    "title": "[PAID] Need 5 crooked Arctic birches made in SpeedTree (Unity 6 HDRP) - $100",
+    "content": "[PAID] Need 5 crooked Arctic birches made in SpeedTree (Unity 6 HDRP) - $100\n\nHey everyone,\n\nI'm working on a project set in Lapland, Finland. I tried hiring on Upwork but my account randomly got blocked and their support is taking weeks to reply, so I'm looking to hire someone directly here.\n\nI need 5 variations of the crooked Arctic mountain birch.\n\nThe main details:\n\n- These are NOT tall, straight silver birches. They need to look stunted, twisted, and weather-beaten by the wind.\n- Needs to be bright autumn colors (yellow/gold/orange \"Ruska\" leaves, not summer green).\n- Photos of what I'm aiming for: [https://imgur.com/a/P5i5miS](https://imgur.com/a/P5i5miS)\n\nTech specs:\n\n- Made in SpeedTree with working wind weights (so the trunk and leaves move nicely in-engine).\n- Optimized for Unity 6 HDRP (Preferably the textures exported with a proper MaskMap).\n- Good LODs so they are actually game-ready for a semi-open world.\n- Leaves set up to look good with Subsurface Scattering.\n\nBudget is a flat $100 USD via PayPal invoice (Goods &amp; Services). I'm happy to do 50% upfront and 50% on delivery once I drop the files into Unity and verify. \n\nIf you've got experience with SpeedTree and Unity foliage, please send me a DM with your portfolio.\n\nIf this first batch goes well, I'm definitely looking to work with the same artist long-term for more Lapland-specific foliage as the map expands.\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uvplsi/paid_need_5_crooked_arctic_birches_made_in/",
+    "quality": "High Quality",
+    "budget": "$100",
+    "created_at": "2026-07-13T21:56:11Z"
+  },
+  {
     "post_id": "1uvp3ce",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-09T14:55:38Z"
-  },
-  {
-    "post_id": "1urs895",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/_Lamby_",
-    "title": "[Hiring] Looking for a freelance graphics designer to create a few \"posters\" for social media use. Grunge / New Wave style ideally with some interest in history. $35 Per piece (2-3 a week). UK Based but open to where ever.",
-    "content": "[Hiring] Looking for a freelance graphics designer to create a few \"posters\" for social media use. Grunge / New Wave style ideally with some interest in history. $35 Per piece (2-3 a week). UK Based but open to where ever.\n\nHi folks, I run a family business selling deadstock clothing (usually) from the 70's - 00's and am looking to up our content posting. The experimental scene of new wave posters and album covers has had some influence before, so somebody with that sort of style, and interest would be ideal. If it sounds like something you'd be up for shoot me a message and I can share what has been done historically to give you a general idea of what we're after.\n\nThis is new to us but we'd like to find somebody freelance who's happy to practice and try some styles out. Sizes would of course be limited to the usual social media sizes, like 1080x1080, so there will be some technical constraints there, but we're quite open to experimental works, that fit in with the general vintage vibe.\n\nAny questions COMMENT a message and I'd be happy to have a chat!",
-    "url": "https://reddit.com/r/DesignJobs/comments/1urs895/hiring_looking_for_a_freelance_graphics_designer/",
-    "quality": "High Quality",
-    "budget": "$35",
-    "created_at": "2026-07-09T14:40:29Z"
   }
 ]
