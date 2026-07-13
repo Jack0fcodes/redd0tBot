@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uvl5hl",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/UncertainCat",
+    "title": "[PAID] Looking for level builders",
+    "content": "[PAID] Looking for level builders\n\nHello! I am working on a game with a custom level editor. I'm looking for people passionate about building within games, preferably 3D. That includes games like Minecraft, Palworld, Space Engineers, Satisfactory, etc. \n\nI'm looking for two things\n\n* Ability to work within the editor's limitations to build interesting and visually appealing levels, to be used as part of an engine showcase and potentially in the final game.\n* Provide QA and feedback on the editor. I'm looking for pain points, confusing things, ergonomics, suggestions, and other feedback.\n\nRates start at $20/hour and initial scope limited to 4 hours. Both are negotiable depending on qualifications. The plan is to work with several contributors here and follow up for more with contributors that are a strong match for the project. Note that this will not be a full time project in the near term though, as budget is limited. We dream big though.\n\nThe game I'm working on has a grid-based editor, with a custom auto-tiler. I can provide links to some technical demonstrations. If this sounds interesting to you, reach out, and please provide screenshots or clips of your builds!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uvl5hl/paid_looking_for_level_builders/",
+    "quality": "High Quality",
+    "budget": "$20",
+    "created_at": "2026-07-13T19:14:30Z"
+  },
+  {
     "post_id": "1uvkq81",
     "platform": "Reddit",
     "source": "r/ComicBookCollabs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$1,300-1600",
     "created_at": "2026-07-09T13:21:54Z"
-  },
-  {
-    "post_id": "1uro8tt",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/espetilllodesardinas",
-    "title": "[Hiring] Couple drawing under $30 USD? (full color / flat color)",
-    "content": "[Hiring] Couple drawing under $30 USD? (full color / flat color)\n\nI would love to have more fanarts of my ships. I'm looking for an art style that is stylized and cartoony, with anime influences. Distinctive faces and realistic anatomy, but backgrounds don't have to be too detailed. Show me your art in the comments! (not in my DMs please). También hablo español :)\n\nSome art styles that I like: [Laia López](https://www.instagram.com/p/DZu3QVsiG1D/?img_index=1), [sadelionne](https://www.instagram.com/p/DXYOYjoDs07/?img_index=1), [Luz Tapia](https://www.instagram.com/p/DU5_jpQEQ6L/?img_index=1), [Charles Deroo](https://www.instagram.com/p/DSNYUUEEXdp/).",
-    "url": "https://reddit.com/r/artcommissions/comments/1uro8tt/hiring_couple_drawing_under_30_usd_full_color/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-07-09T12:01:18Z"
   }
 ]
