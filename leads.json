@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uvcy5p",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Bhlapa29",
+    "title": "[PAID] Looking for a Pixel Artist – Swamp Environment Tileset (Godot, 32×32 Tiles)",
+    "content": "[PAID] Looking for a Pixel Artist – Swamp Environment Tileset (Godot, 32×32 Tiles)\n\nHello!\n\nI'm developing a 2D pixel art creature collector game using Godot and I'm looking for a pixel artist to create a swamp-themed environment tileset for the project.\n\n# Project Details\n\n* Engine: Godot\n* Tile size: 32×32 pixels\n* Art style inspiration: Stardew Valle, Sun Haven, Fields of Mistria. But a bit somber\n\n# What I need\n\nI'm looking for a complete **swamp biome** tileset, including assets such as:\n\n* Grass and swamp ground variations\n* Mud and dirt paths\n* Shallow and deep water tiles\n* Water transitions and shoreline tiles\n* Cliffs and elevation transitions\n* Trees, dead trees, roots, bushes, reeds, cattails, mushrooms, and other swamp vegetation\n* Rocks, logs, stumps, and natural decorations\n* Lily pads and other water details\n* Decorative props that help make the environment feel alive\n\nThe tiles should be designed to work seamlessly in a top-down 2D game.\n\nIf you're interested, I'd love to see your portfolio and discuss the project with you. Thanks in advance!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uvcy5p/paid_looking_for_a_pixel_artist_swamp_environment/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-13T14:20:54Z"
+  },
+  {
     "post_id": "1uvcbuk",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-09T04:01:14Z"
-  },
-  {
-    "post_id": "1ure46j",
-    "platform": "Reddit",
-    "source": "r/hireanartist",
-    "author": "u/evansschmidts",
-    "title": "Need an artist to create a logo priced at 35 dollars",
-    "content": "Need an artist to create a logo priced at 35 dollars\n\nTrack and field equipment manufacturing",
-    "url": "https://reddit.com/r/hireanartist/comments/1ure46j/need_an_artist_to_create_a_logo_priced_at_35/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-09T03:03:43Z"
   }
 ]
