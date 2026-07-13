@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uvdvzz",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/Godcomplexity92",
+    "title": "Looking for someone to update/upgrade logo",
+    "content": "Looking for someone to update/upgrade logo\n\nI am a Pokemon Vendor and looking to hire an artist to take the logo my sons drew in google paint and upgrade/update it to be more scalable for banners, profile pictures, and signage in general. Would also be open to creative takes on how to change it while still keeping the spirit of the logo.",
+    "url": "https://reddit.com/r/artistforhire/comments/1uvdvzz/looking_for_someone_to_updateupgrade_logo/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-13T14:56:05Z"
+  },
+  {
     "post_id": "1uvcy5p",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30",
     "created_at": "2026-07-09T04:08:03Z"
-  },
-  {
-    "post_id": "1urfate",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Phildos",
-    "title": "[PAID] looking for 2d artist: logo, upgrade icons",
-    "content": "[PAID] looking for 2d artist: logo, upgrade icons\n\nI'm making a weird little vampire-survivors-meets-geography game, and need a 2d artist to develop a logo, and a series of upgrade icons.\n\nthe logo should be pixel art, made to fit across the top of a 1280x800 screen (the resolution of the steam deck) at either half or one-fourth resolution (see the \"Take Me To Your Leader\" placeholder text here: [http://phildogames.com/scratch/tmtyl\\_title.png](http://phildogames.com/scratch/tmtyl_title.png) )\n\nhere's an example of where the upgrade icons would be used (currently using \"X\" placeholders): [http://phildogames.com/scratch/tmtyl\\_upgrades.png](http://phildogames.com/scratch/tmtyl_upgrades.png) \n\nand for completeness, here's a better image of what the gameplay looks like: [http://phildogames.com/scratch/tmtyl\\_gameplay.png](http://phildogames.com/scratch/tmtyl_gameplay.png)\n\nnote that the plan is that the icons would actually be SVGs which get rendered to a low resolution texture making them  look like pixel art. I could be convinced to do straight pixel art if I found the right person, but the game is very \"wobbly\" and the svgs would work better to that end.\n\nI'm looking for a pretty quick turn around on this, so lmk if you're interested!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1urfate/paid_looking_for_2d_artist_logo_upgrade_icons/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-09T04:01:14Z"
   }
 ]
