@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uwf30j",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Revnolion",
+    "title": "[PAID] Looking for a Godot Programmer for an RPG project!",
+    "content": "[PAID] Looking for a Godot Programmer for an RPG project!\n\nWe are looking to recruit a Godot programmer to assist in developing an RPG project, starting with the basic systems and prototyping.\n\nOur project can be described as inspired by Persona, with the combat system similar to Paper Mario and Expedition 33, utilizing a 2.5D Pixel art style, similar to \"HD-2D\".\n\nResponsibilities:\n\n* Collaborate with the Lead Game Designer on battle systems and procedural generation\n* Implement a hybrid turn-based battle system with a turn order system similar to SMT and skill cooldown mechanics\n* Code timing minigames for battle using Godot's physics\\_process\n* Implement a grid-based proc gen dungeon generator with layout constraints\n\nRequirements:\n\n* Proficient in Godot 4 and GDScript (Strongly-typed GDScript is a major plus)\n\nCompensation will be milestone based, and will be negotiated before work begins.\n\nPlease message me at Revnolion on discord or reply on here with your Portfolio/Github if you are interested and/or if you have any questions or clarifications about anything!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uwf30j/paid_looking_for_a_godot_programmer_for_an_rpg/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-14T17:20:47Z"
+  },
+  {
     "post_id": "1uwduj3",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-10T09:08:19Z"
-  },
-  {
-    "post_id": "1usi1km",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/TeoFFXIV",
-    "title": "[Hiring] DnD Party commission - 180 euro budget",
-    "content": "[Hiring] DnD Party commission - 180 euro budget\n\nHi! We're looking to commission a group illustration of our DnD party for our upcoming anniversary\n\nOur total budget is around 180 euros. I understand it's on the modest side for a group commission, and I would've loved to offer more, but unfortunately this is the maximum we were able to put together\n\n  \nWe're hoping to include at least 6 characters, preferably 7 characters or a sort of \"pet\" avatar to represent the DM\n\nA simple background is completely fine, and we have reference pictures for the characters. The deadline would be late september, so there's no major rush\n\n  \nIf this is interesting to anyone, I'd love to hear from you!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1usi1km/hiring_dnd_party_commission_180_euro_budget/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-10T08:52:39Z"
   }
 ]
