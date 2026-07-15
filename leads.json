@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uxlf9n",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/DraftManager",
+    "title": "Ship a Live Multiplayer Poker-RPG on Steam — Java/TypeScript — $XX/hr + Rev Share",
+    "content": "Ship a Live Multiplayer Poker-RPG on Steam — Java/TypeScript — $XX/hr + Rev Share\n\nWe're hiring a someone to take ownership of Heroes of Hold'em (www.heroesofholdem.com), a live multiplayer poker-RPG, and drive it to Steam launch. This is not a prototype — the game is built, running on a live server, and playable end-to-end today. It's currently on an internal Steam test build and needs a finishing push: stability hardening, bug fixes, UX polish, and Steamworks release work (builds, depots, store setup). Post-launch there's a full roadmap of feature work, so this is a long-term role.\n\nWhy: We spent 4 hours developing this game for web3, well the crypto gaming space died. We're trying to pivot to web2 and frankly after spending 4 years on this we need someone with a new set of eyes specifically for Web2.\n\nThe game: Real Texas Hold'em wrapped in an RPG layer — hero classes, spells, minions, equipment, plus tournaments, sit-n-gos, booster drafts, and PvE boss events. An original spin on poker that already works.\n\nStack: Java real-time backend (SmartFoxServer 2X), TypeScript 2D client, Electron shell for the Steam build, MySQL/PostgreSQL. You'd be taking over an existing full-stack codebase, so comfort inheriting code you didn't write is essential. We develop with AI-assisted workflows (Claude Code, GPT 5.6 Sol and similar) — you should use these tools well and be senior enough to own everything they produce.\n\nPay: $XX/hr for all dev time, plus an ongoing % of net Steam revenue. The hourly is the base — the rev share is upside for someone who treats this like their own product.\n\nStrongly preferred: You've personally handled a Steam/Steamworks release before.\n\nTo apply, DM or comment with: a multiplayer game you've shipped or operated (link if possible), your hands-on Steamworks experience, and your comfort level with the stack above.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uxlf9n/ship_a_live_multiplayer_pokerrpg_on_steam/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-15T23:01:53Z"
+  },
+  {
     "post_id": "1uxk5vw",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-07-11T22:23:49Z"
-  },
-  {
-    "post_id": "1utx75d",
-    "platform": "Reddit",
-    "source": "r/commissions",
-    "author": "u/Exorccism",
-    "title": "CAS Sim Commission [Hiring]",
-    "content": "CAS Sim Commission [Hiring]\n\nDoes anyone do sim commissions? I want several sims made I’m horrible at making sims no matter how much time or effort I put they look horrible no matter what I do. I really want my characters made. I have a style in mind I want sims made with this kind of style. Give me a price offer I don’t know how much I should pay but keep it down to $50 I want ten sims made",
-    "url": "https://reddit.com/r/commissions/comments/1utx75d/cas_sim_commission_hiring/",
-    "quality": "High Quality",
-    "budget": "$50",
-    "created_at": "2026-07-11T22:09:32Z"
   }
 ]
