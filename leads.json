@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uxrcjy",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/4accountt",
+    "title": "[hiring] looking for someone who can draw this tree budget 20-50",
+    "content": "[hiring] looking for someone who can draw this tree budget 20-50",
+    "url": "https://reddit.com/r/artcommissions/comments/1uxrcjy/hiring_looking_for_someone_who_can_draw_this_tree/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-16T03:28:58Z"
+  },
+  {
     "post_id": "1uxr7f2",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-12T07:20:36Z"
-  },
-  {
-    "post_id": "1uu882x",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/FolkCollector",
-    "title": "[HIRING] Mentor for 3D animation pipeline Blender/Godot",
-    "content": "[HIRING] Mentor for 3D animation pipeline Blender/Godot\n\nHello!\n\nLooking for a mentor/tutor to help with Blender -&gt; Godot animation pipeline, and some basic rigging skills. \n\nI’m developing a game where characters play musical instruments. I’ve had a good go and definitely need help with a few aspects! I’m mostly self taught in all aspects of game dev, animation, rigging etc - music is the only bit I have proper industry experience in.\n\nI’d like to work on my pipeline so that any character could potentially play any instrument, but I’m missing core knowledge on how to even begin such a process. I’ve never done retargeting, my naming conventions are vague at best, I don’t know which parts should I leave to Godot, which parts to blender, timing the animations to music in engine, etc etc.\n\nI’m looking for someone who can help answer these questions and really walk me through step by step, or to be pointed in the direction of mentorships that might be suitable.\n\nCheers!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uu882x/hiring_mentor_for_3d_animation_pipeline/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-12T07:04:12Z"
   }
 ]
