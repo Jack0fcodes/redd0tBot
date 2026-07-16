@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uyi0gd",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/pasteluser",
+    "title": "[Hiring]. Oil Painting Commission",
+    "content": "[Hiring]. Oil Painting Commission\n\nhi\n\ndoes anyone know an artist with a similar art style? i like how real this piece looks. budget $300-$350.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1uyi0gd/hiring_oil_painting_commission/",
+    "quality": "High Quality",
+    "budget": "$300-350",
+    "created_at": "2026-07-16T22:48:25Z"
+  },
+  {
     "post_id": "1uyhn47",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$25",
     "created_at": "2026-07-13T02:19:44Z"
-  },
-  {
-    "post_id": "1uuyp21",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Zenonia_Gold",
-    "title": "[PAID] Steam Integration work for Godot Project",
-    "content": "[PAID] Steam Integration work for Godot Project\n\nHello!\n\nI have a fully released game on steam made with Godot 4.3. I am looking for some help with adding steam workshop integration to the project. It would be a short burst of work, not a long term job, but if you have some experience with steam integration please reach out.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uuyp21/paid_steam_integration_work_for_godot_project/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-13T02:18:12Z"
   }
 ]
