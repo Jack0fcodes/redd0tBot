@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uybhhj",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/StriveMinded",
+    "title": "[HIRING] Artist for Steam capsule set + wordmark, mythology/statue key art, $150-500, finals by Aug 1",
+    "content": "[HIRING] Artist for Steam capsule set + wordmark, mythology/statue key art, $150-500, finals by Aug 1\n\nI'm a solo dev about to put my first app on Steam and I need real key art to replace my placeholder wordmark.\n\nThe app is called Memnon. It reads game dialogue aloud and gives every character their own voice, built first for blind and low-vision players. The name comes from the Colossi of Memnon, the ancient broken statue that many believed to sing at dawn. That's the image I've roughly decided on - a stone face waking at first light, golden cracks leaking light, or golden sound/breath visibly leaving it.  \n  \nThe pharaoh image is something I created with AI, but I do like a few things about it - the \"line-art\" style, the reflective gold lines with what looks like the sun reflecting off of the top, the cracks. Warm dawn tones, matching the app's bronze-on-dark theme. If you have a stronger idea in the same spirit (stone and silence becoming voiced), pitch it.\n\nWhat I need:\n\n* The full Steam capsule set (main, header, small, vertical, library capsule, library header, library hero, library logo), plus the MEMNON wordmark, an optional page background, and a 256px app icon. Exact pixel sizes are in the full brief, which I'll send to anyone interested.\n* The wordmark and icon come first; the capsules get composed around them. One commission, not two.\n* The art has to read at thumbnail size. The small capsule is basically a logo at 120x45.\n* Layered source file, wordmark on its own layer.\n* Nothing horror-coded. The statue wakes, it doesn't loom.\n\nTerms:\n\n* Budget $150-500 depending on portfolio and what your rates say the deliverable list costs. Portfolio beats the low bid.\n* One concept round (2-3 sketches), one revision round on the pick, then finals. More negotiable.\n* Full commercial buyout (store, app, website, marketing). You get credit on the site and in the app's About screen.\n* Split payment or escrow, your preference.\n* First sketches within 5 days of kickoff. Finals by Friday, August 1. I submit the store page the first week of August, so there's only a few days of slack after the 1st.\n* Everything you deliver has to be 100% human-made, sketches through finals, and it goes in the agreement. If you use AI on your own side for reference or mood exploration, that's fine, just tell me, because Steam makes me disclose how AI touched the store art.\n\nReply or DM with your portfolio and a rough quote. I'll send the full brief with sizes and references to shortlisted artists.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uybhhj/hiring_artist_for_steam_capsule_set_wordmark/",
+    "quality": "High Quality",
+    "budget": "$150-500,",
+    "created_at": "2026-07-16T18:42:09Z"
+  },
+  {
     "post_id": "1uyalh8",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-12T22:02:49Z"
-  },
-  {
-    "post_id": "1uusem6",
-    "platform": "Reddit",
-    "source": "r/Artistsforhire",
-    "author": "u/Catito_Works",
-    "title": "[Hiring] [RevShare] Busqueda de Artista 2D para videojuego indie sobre cuentos y fábulas",
-    "content": "[Hiring] [RevShare] Busqueda de Artista 2D para videojuego indie sobre cuentos y fábulas",
-    "url": "https://reddit.com/r/Artistsforhire/comments/1uusem6/hiring_revshare_busqueda_de_artista_2d_para/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-12T21:41:01Z"
   }
 ]
