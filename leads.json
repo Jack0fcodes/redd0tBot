@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1uy5o0d",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/Humble_Caligula",
+    "title": "[Hiring] £250 for a Horror Novel Paperback Cover",
+    "content": "[Hiring] £250 for a Horror Novel Paperback Cover\n\nA psychedelic art style. Detailed linework, trippy warped backgrounds, that festival-poster/blacklight-art energy. But pulled toward horror. Dark, sickly, or bruised colour palettes instead of the usual bright rainbow psychedelia. I'm picturing a single striking central image (open to suggestions, but a mushroom with a human eye embedded in the cap is the idea I keep coming back to) against a simpler wavy/warped background, so it stays punchy and reads clearly even as a small thumbnail — not something that turns to visual noise when it's shrunk down.\n\nI have an example image of the sort of thing im after for anyone interested. If you are good at drawing manga/comic book art style then I'd love to hear from you.",
+    "url": "https://reddit.com/r/starvingartists/comments/1uy5o0d/hiring_250_for_a_horror_novel_paperback_cover/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-16T15:12:16Z"
+  },
+  {
     "post_id": "1uy44ao",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$200",
     "created_at": "2026-07-12T18:06:24Z"
-  },
-  {
-    "post_id": "1uumvl8",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/SnooPaintings8310",
-    "title": "[PAID] Looking for an experienced turn-based game AI programmer for consulting",
-    "content": "[PAID] Looking for an experienced turn-based game AI programmer for consulting\n\nHi, I'm a solo Unity developer working on a turn-based strategy game, and I'm looking for an experienced game AI programmer for paid consulting.\n\nMy current problem is enemy action planning.\n\nThe AI has a limited amount of energy/action points each turn and can perform multiple actions. Actions have different costs, and movement cost depends on distance.\n\nI need the AI to evaluate **combinations/sequences of actions within its energy budget**, rather than simply choosing the highest-scoring next action.\n\nFor example, the AI may need to compare:\n\n* Move → Attack\n* Attack → Move → Defend\n* Use Ability A → Use Ability B \n* Move to position X → Use Ability B\n* Multiple lower-cost actions vs. one expensive action\n\nMovement also creates a large number of possible positions, so the action space can grow quickly.\n\nI currently have a basic Utility AI/scoring system in Unity/C#, but I'm unsure what planning/search approach is appropriate and how I should structure the system.\n\nI'm **not looking for someone to build the entire AI for me**. I'm looking for an experienced programmer who can review my current architecture, discuss the problem with me, and help me choose and structure the right approach.\n\nExperience with **turn-based tactics/strategy AI, action planning, search algorithms, Utility AI, GOAP, or similar systems** would be ideal.\n\nGames with broadly similar action structures would be XCOM 2, Battle Brothers, and turn-based Warhammer games. But also trading card games like path of Champion and MTG Arena.\n\nThis is paid consulting.\n\nIf this is your area of expertise, please DM me with your experience, relevant games/projects, and your hourly or consulting rate.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uumvl8/paid_looking_for_an_experienced_turnbased_game_ai/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-12T18:09:49Z"
   }
 ]
