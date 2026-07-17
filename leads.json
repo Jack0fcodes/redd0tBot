@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1uz38f1",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/lafaxa",
+    "title": "[Paid]Narrative Writer Available – Horror, Mystery &amp; Detective Game Stories",
+    "content": "[Paid]Narrative Writer Available – Horror, Mystery &amp; Detective Game Stories",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uz38f1/paidnarrative_writer_available_horror_mystery/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-17T15:38:05Z"
+  },
+  {
+    "post_id": "1uz354b",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/AdvisorKitchen9023",
+    "title": "Looking for a 3D artist to build a SimCity4 building",
+    "content": "Looking for a 3D artist to build a SimCity4 building\n\nI am looking for a specialist for a quite niche task. I am building a mod for the SimCity4 game and I need an artist who would model me a 3D building (from 2 to 6 buildings, in fact). The caveat is that since the game is so old, the tools that are used to generate the files for the game to read them are old too. These tools require the model to be in the .3DS format. I am aware of the polygon-per-mesh limit. I also understand there may be problems with the texture-baking too.\n\nI do have a budget in mind; and I do have the sketches of the buildings at hand too.\n\nThe process may require an incremental approach; where we would need to test how transparent textures behave; and how animations run. I would need to import the .3ds models into the app called GMAX and then export the result into the .SC4Model file; then I would test it in game.\n\nIf there is anybody who is interested please drop me a message.\n\nr/simcity4",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uz354b/looking_for_a_3d_artist_to_build_a_simcity4/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-17T15:34:38Z"
+  },
+  {
     "post_id": "1uz330h",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-07-13T19:14:30Z"
-  },
-  {
-    "post_id": "1uvkq81",
-    "platform": "Reddit",
-    "source": "r/ComicBookCollabs",
-    "author": "u/Aggressive-Park-7826",
-    "title": "Need artist to draw a an image  for me.",
-    "content": "Need artist to draw a an image  for me.\n\nhey, offering some money for some really simple one Paige work. Just need someone to drop a book cover for me. Don’t even need to do the title. Just an image would be cool. Open any type of junk style. Just comment on the post and I’ll check out some of your work.",
-    "url": "https://reddit.com/r/ComicBookCollabs/comments/1uvkq81/need_artist_to_draw_a_an_image_for_me/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-13T18:59:23Z"
-  },
-  {
-    "post_id": "1uvjggm",
-    "platform": "Reddit",
-    "source": "r/dndcommissions",
-    "author": "u/Thicc-tony",
-    "title": "[Paid] Earth needs new maps. Magic has come back in the modern world.",
-    "content": "[Paid] Earth needs new maps. Magic has come back in the modern world.",
-    "url": "https://reddit.com/r/dndcommissions/comments/1uvjggm/paid_earth_needs_new_maps_magic_has_come_back_in/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-13T18:14:45Z"
   }
 ]
