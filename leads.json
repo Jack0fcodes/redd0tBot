@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v09sd2",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/biffbamboombap",
+    "title": "[Hiring] Looking for artist/animator with an old-school RPG manual / 1980s comic style",
+    "content": "[Hiring] Looking for artist/animator with an old-school RPG manual / 1980s comic style\n\nHi all,\n\nI’m looking for an artist who can capture an OSR-style RPG illustration/gritty late-70s/80s fantasy/sci-fi art style (artists like David A. Trampier, Russ Nicholson, Kevin Eastman and/or Peter Laird, etc).\n\nAlthough a lot of the inspiration is black-and-white pen-and-ink work, the finished game will use color.\n\nVery importantly, I’m not just looking for static illustrations. My long-term goal is for the actual in-game character and enemy animation to retain this same aesthetic, so experience with animation or designing artwork that can be adapted into animation is a major plus.\n\nDM for more info.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v09sd2/hiring_looking_for_artistanimator_with_an/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-18T22:49:24Z"
+  },
+  {
     "post_id": "1v08ku0",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-14T17:30:30Z"
-  },
-  {
-    "post_id": "1uwf30j",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Revnolion",
-    "title": "[PAID] Looking for a Godot Programmer for an RPG project!",
-    "content": "[PAID] Looking for a Godot Programmer for an RPG project!\n\nWe are looking to recruit a Godot programmer to assist in developing an RPG project, starting with the basic systems and prototyping.\n\nOur project can be described as inspired by Persona, with the combat system similar to Paper Mario and Expedition 33, utilizing a 2.5D Pixel art style, similar to \"HD-2D\".\n\nResponsibilities:\n\n* Collaborate with the Lead Game Designer on battle systems and procedural generation\n* Implement a hybrid turn-based battle system with a turn order system similar to SMT and skill cooldown mechanics\n* Code timing minigames for battle using Godot's physics\\_process\n* Implement a grid-based proc gen dungeon generator with layout constraints\n\nRequirements:\n\n* Proficient in Godot 4 and GDScript (Strongly-typed GDScript is a major plus)\n\nCompensation will be milestone based, and will be negotiated before work begins.\n\nPlease message me at Revnolion on discord or reply on here with your Portfolio/Github if you are interested and/or if you have any questions or clarifications about anything!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uwf30j/paid_looking_for_a_godot_programmer_for_an_rpg/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-14T17:20:47Z"
   }
 ]
