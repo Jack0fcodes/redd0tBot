@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v1je9u",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ExaminationFrosty205",
+    "title": "🚀 Hiring: Senior PixiJS Game Developer (Remote | Anywhere in India)",
+    "content": "🚀 Hiring: Senior PixiJS Game Developer (Remote | Anywhere in India)\n\nWe're looking for an experienced **PixiJS Game Developer** to build high-quality browser-based **Crash** and **Slot** games on a modern gaming platform built with **React + PixiJS**.\n\n# What You'll Do\n\n* Develop and maintain high-performance HTML5 casino games using **PixiJS**\n* Build engaging, modern, and responsive game UIs\n* Create smooth animations and gameplay with a strong focus on user experience\n* Optimize rendering pipelines for **WebGL** and mobile browsers\n* Ensure excellent performance across desktop and mobile devices, including iOS Safari and Android\n* Work closely with designers, frontend, and backend engineers to deliver polished gaming experiences\n\n# What We're Looking For\n\n* **3+ years** of hands-on experience with **PixiJS**\n* Proven experience building production-grade HTML5/browser games\n* Strong proficiency in **JavaScript/TypeScript**\n* Solid understanding of **WebGL**, rendering pipelines, textures, spritesheets, animation systems, asset loading, and memory management\n* Experience profiling and optimizing **mobile performance**, FPS, memory usage, and loading times\n* Experience integrating game logic with backend APIs/WebSockets\n* Familiarity with React is a plus\n* Bonus points for experience with **Crash**, **Slot**, Casino, or other real-money/social gaming products\n\n# Why Join?\n\n* 🌍 Fully remote role (Anywhere in India)\n* 🎮 Work on high-traffic, real-world gaming products\n* 🚀 Opportunity to solve challenging rendering and performance problems\n* 🤝 Collaborative engineering culture with ownership and impact\n\nInterested? **Send me a DM** with:\n\n* Resume\n* Portfolio or links to games you've built\n* GitHub/LinkedIn\n* Current CTC\n* Expected CTC\n* Notice period",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v1je9u/hiring_senior_pixijs_game_developer_remote/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-20T11:56:33Z"
+  },
+  {
     "post_id": "1v1j19m",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-15T20:41:57Z"
-  },
-  {
-    "post_id": "1uxh502",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/ThePhantom71319",
-    "title": "[PAID] 3D Modeler wanted to make some Islands (maybe other models, like boats) for a pirate game similar to Sea of Thieves in Godot. No work immediately, but eventually.",
-    "content": "[PAID] 3D Modeler wanted to make some Islands (maybe other models, like boats) for a pirate game similar to Sea of Thieves in Godot. No work immediately, but eventually.\n\nHello all! This is my first post here, im real excited :)\n\nSo, im making a pirate game similar to Sea of Thieves and Sail Forth, and need someone to help us make the actual world that it takes place in. One Piece fans please apply, the game is heavily inspired by that as well, and fans of it would have a better time understanding the vision, ya know?\n\nI dont need anything made \\*right now\\*, as progress is slow. Also i just bought an asset pack that includes islands that we'll be using for testing (wont be in final game), but if you want to stick around and be a part of the project, there will be work here and there eventually. Im happy to pay full price for everything, im just not made of money so the monthly budget is small. (For now, at least. Im thinking of a kickstarter or patreon when we have something worth showing off)\n\nWe have a discord dev server, so reach out to me at @ kirby3911 there for more info",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uxh502/paid_3d_modeler_wanted_to_make_some_islands_maybe/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-15T20:17:13Z"
   }
 ]
