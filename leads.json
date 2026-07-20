@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v1j19m",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/EmileThePerson",
+    "title": "[PAID] Experienced technical artist or animator needed for pipeline consultation",
+    "content": "[PAID] Experienced technical artist or animator needed for pipeline consultation\n\nWe’re looking for a senior technical artist, character animator or art pipeline specialist to consult with us for 1–2 hours.\n\nOur game is a 2D action platformer featuring modular robots with interchangeable weapons, arms, legs, skins and equipment. We need help deciding between a fully 2D modular animation pipeline and a workflow where the characters are modelled and animated in 3D, then exported as 2D sprites with some 2D shader and VFX work.\n\nWe want practical advice on:\n\n* Production time and cost\n* Animation quality and movement\n* Modularity and animation reuse\n* Scaling the pipeline as more weapons and cosmetics are added\n* The best approach for Unity\n\nThis is a paid consultation and could expand into contract work helping us establish or produce the final pipeline.\n\n**We’re only looking for highly experienced applicants who have shipped games or built similar character pipelines.**\n\nPlease DM me with relevant examples, your role on those projects, availability and rate.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v1j19m/paid_experienced_technical_artist_or_animator/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-20T11:39:12Z"
+  },
+  {
     "post_id": "1v1iwha",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-15T20:17:13Z"
-  },
-  {
-    "post_id": "1uxgol6",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/omerkolsuz",
-    "title": "[HIRING] [PAID] Isometric environment artist — painterly, Disco Elysium-inspired scenes for a narrative detective game (Godot)",
-    "content": "[HIRING] [PAID] Isometric environment artist — painterly, Disco Elysium-inspired scenes for a narrative detective game (Godot)\n\n**The project:** A story-driven isometric detective game built in Godot 4. The visual target is Disco Elysium: painterly, moody, atmospheric — a cold institutional palette with small stubborn spots of colour. Characters are handled separately as 3D-rendered sprites; what I need from you is **scene backdrops** (layered PNGs) that replace my current placeholder environments.  \n**The work:**  \n\t**1.**\tWe start with **one paid pilot scene** — an interior corridor — to lock in style, palette and workflow.  \n\t**2.**\tIf we’re both happy, it continues as \\~8–12 scenes per chapter, **paid per scene**.  \n**Deliverables per scene:** a layered backdrop (background / midground / foreground-occluder layers as PNG), painted at \\~1920px+ width. I’ll provide a mood board, palette references, in-engine screenshots and a rough layout sketch for each scene — you bring the painting.  \n**Budget:** Commercial-use rights. Up to **$100 for the pilot scene** — open to adjusting based on portfolio and experience level (junior artists with strong portfolios welcome, and I’ll consider more for exceptional work).  \n**Who I’m looking for:**  \n\t**•**\tA portfolio showing **isometric and/or painterly environment** work (this is a must — character-only portfolios won’t fit).  \n\t**•**\tJunior artists with strong portfolios are very welcome.  \n\t**•**\tAI-assisted paint-over workflow is fine, as long as the final pass is clearly hand-painted and style-consistent.  \n\t**•**\tReliable communication; async-friendly (I’m in the GMT+3 timezone).  \n**Size/purpose:** Game background art for a commercial indie title (not yet released). Deadline: no hard deadline for the pilot, but I’d like to see turnaround estimates with your quote.  \n**To apply:** DM me your portfolio + your rate and turnaround estimate for the pilot scene.  \nMore details (game name, story, full scene list) shared in DMs with shortlisted artists.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1uxgol6/hiring_paid_isometric_environment_artist/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-07-15T20:00:04Z"
   }
 ]
