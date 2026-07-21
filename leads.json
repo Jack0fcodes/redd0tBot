@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v2ntcg",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/No-Plum8019",
+    "title": "[HIRING] Sound designer / composer for a neon nightclub tycoon game (Steam-bound)",
+    "content": "[HIRING] Sound designer / composer for a neon nightclub tycoon game (Steam-bound)\n\n    [PAID]\n    \n    WHAT IT IS\n\n    Party Tycoon is a stylized nightlife management sim - you run and grow a set of venues (a gritty warehouse, an underground basement, a canal-side spot, etc.), manage crowds, drinks, staff and DJs, and watch the place fill up. Already live in the browser and headed to Steam.\n\n    Site: https://party-tycoon.com\n\n    WHAT I NEED\n\n    The game currently has almost no audio, and that's the biggest gap before launch. Looking for clean, game-ready audio assets:\n\n    - 10–12 looping music tracks, one per venue, each a different nightlife vibe\n\n      (e.g. warehouse rave, intimate basement, upscale rooftop, laid-back lounge)\n\n    - 1–2 crowd/ambience loops that layer on top and get busier as the venue fills\n\n    - ~10–15 short SFX: UI clicks, cash register on a sale, achievement unlock,\n\n      level-up, an alarm for in-game events, etc.\n\n\n\n    SCOPE / TECH\n\n    - I only need the audio files — implementation (Web Audio, volume scaling, looping logic) is handled on my side. Seamless loops please. - Deliver as WAV (or your preferred lossless); I'll handle formats/conversion.\n\n    HOW I WORK\n\n    - Paid. I'd like to start with a small paid test (a couple of SFX + one short loop) before committing to the full set, just to check the fit.\n\n    - Budget: 50€ for the test. Around 500€ for the complete set\n\n    - Timeline: till end of august\n\n\n\n    TO APPLY\n\n    Send a portfolio / reel (electronic + game audio especially welcome) and your rates to marcelschiering@gmail.com",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v2ntcg/hiring_sound_designer_composer_for_a_neon/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-21T16:42:43Z"
+  },
+  {
     "post_id": "1v2n46c",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-16T23:38:07Z"
-  },
-  {
-    "post_id": "1uyj41h",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/SevereAd4486",
-    "title": "[Hiring] $200 - Pokémon Landscape Mural",
-    "content": "[Hiring] $200 - Pokémon Landscape Mural\n\nHey all, \n\nI am reposting because I didn't commit to anyone last time ( lol ), so if you reached out before and are still interested, please feel free to do so again.\n\nI am looking for someone who can make a landscape  style drawing of a few Pokémon in their respective environments. This is going to end up being a spray paint mural that is going to be on a garage door. I'd like the piece to be done in the original cell shaded style, so that it will be easily transferable to the mural. I need the following Pokémon in it : Tornadus, Thunderus, Vulpix, Ninetails, and Haunter. \n\nIn the mural, each Pokémon should be in their respective landscapes (Haunter in a dark graveyard, Ninetails and Vulpix around some lava rocks, etc. ) but the piece should flow together as well ( if this makes sense ? )\n\nIm adding a pic of the actual garage door that it will be on ( please dont stress about aspect ratios, etc, ill figure it out as long as its a landscape drawing ), and also a sample of the art style that i need mimicked. \n\nFeel free to comment if interested",
-    "url": "https://reddit.com/r/starvingartists/comments/1uyj41h/hiring_200_pokémon_landscape_mural/",
-    "quality": "High Quality",
-    "budget": "$200",
-    "created_at": "2026-07-16T23:34:16Z"
   }
 ]
