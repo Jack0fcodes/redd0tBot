@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v37y71",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/AlwaysNarked",
+    "title": "[HIRING] Someone to design and code a whole phpbb forum (through forumotion/forumactif).",
+    "content": "[HIRING] Someone to design and code a whole phpbb forum (through forumotion/forumactif).\n\nHello !\n\nI'm looking for someone savvy with html/css and forums, to design a whole theme from scratch. For example, I'd like it to look something like [that](https://arsin-rpg.forumactif.com/).  \nIt's for a roleplay forum in a grimdark universe based around WW1, with some magic thrown into it, on an isle that is a recent empire colony. Heavily influenced by Dishonored's Karnaca island.\nI'll help with providing pictures and general guidelines, with [this](https://imgur.com/a/XuekWk8) as IMGUR album for inspiration.  \nNo drawing is required, if you're a 2D artist do not apply, I'm looking for graphists and coders.  \nBudget is negotiable, 100-500$.  \n\nThank you for your time, have a nice day !",
+    "url": "https://reddit.com/r/HungryArtists/comments/1v37y71/hiring_someone_to_design_and_code_a_whole_phpbb/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-22T06:31:22Z"
+  },
+  {
     "post_id": "1v37bzx",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-17T15:38:05Z"
-  },
-  {
-    "post_id": "1uz354b",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/AdvisorKitchen9023",
-    "title": "Looking for a 3D artist to build a SimCity4 building",
-    "content": "Looking for a 3D artist to build a SimCity4 building\n\nI am looking for a specialist for a quite niche task. I am building a mod for the SimCity4 game and I need an artist who would model me a 3D building (from 2 to 6 buildings, in fact). The caveat is that since the game is so old, the tools that are used to generate the files for the game to read them are old too. These tools require the model to be in the .3DS format. I am aware of the polygon-per-mesh limit. I also understand there may be problems with the texture-baking too.\n\nI do have a budget in mind; and I do have the sketches of the buildings at hand too.\n\nThe process may require an incremental approach; where we would need to test how transparent textures behave; and how animations run. I would need to import the .3ds models into the app called GMAX and then export the result into the .SC4Model file; then I would test it in game.\n\nIf there is anybody who is interested please drop me a message.\n\nr/simcity4",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1uz354b/looking_for_a_3d_artist_to_build_a_simcity4/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-17T15:34:38Z"
   }
 ]
