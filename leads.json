@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v3nfdq",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Logical-Resident4212",
+    "title": "[HIRING][PAID] Low-poly stylized 3D modeler + Texturing (Little Devil Inside vibe) for Tank game (Unity URP)",
+    "content": "[HIRING][PAID] Low-poly stylized 3D modeler + Texturing (Little Devil Inside vibe) for Tank game (Unity URP)\n\n    **Style**\n    See reference images — clean simple geometry, soft\n    painterly lighting, muted/moody palette, atmospheric feel.\n    \n    \n    **The job — model a new tank or remodel my player tank — $200**\n    Full re/model + textures in the style Displayed. Paid in milestones:\n      - 25% up front\n      - 50% at approved model (I'll want wireframe/topology shots)\n      - 25% on final textured delivery\n    \n    \n    Must be built MODULAR — separate parts for turret, barrel, armor plates, spaced\n    armor, tracks, hatches, etc., (not one fused mesh). Pieces\n    are designed to be blown off at runtime.\n    \n    \n    **Details**\n    - Engine: Unity (URP). Delivered as Unity-ready FBX + textures.\n    - Timeline: flexible.\n    \n    \n    **To apply — prior work REQUIRED**\n    DM me with:\n      - Your portfolio — must show 3D modeling examples, ideally a vehicle/hard-surface piece with wireframes/topology\n        (no portfolio, no reply)\n    - Examples in the \"Little Devil Inside\" stylized low-poly aesthetic, or closet you've got\n      - Your rate confirmation for the $200 tank\n      - A note on your experience with stylized low-poly in a similar vibe\n    \n    Full modeling specifications provided on hire or request.\n    \n    Current: To get an idea of requirments.\n    https://youtu.be/8L_Yy_rYKec  Tank Layout\n    https://youtu.be/et58ara3Aw8  Destruction System",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v3nfdq/hiringpaid_lowpoly_stylized_3d_modeler_texturing/",
+    "quality": "High Quality",
+    "budget": "$200",
+    "created_at": "2026-07-22T17:46:33Z"
+  },
+  {
     "post_id": "1v3loud",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-18T04:58:22Z"
-  },
-  {
-    "post_id": "1uzmfok",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Noevellaa",
-    "title": "[Hiring] Live2D commissions are now OPEN!!!! Prices start at $150. Limited slots available don't miss out! 💖",
-    "content": "[Hiring] Live2D commissions are now OPEN!!!! Prices start at $150. Limited slots available don't miss out! 💖\n\n# PRICELIST (Art + Rigg)\n\n* **Pack Basic** : Bust Up + Rigging **$400**\n* **Pack Silver** : Half Body + Rigging **$550**\n* **Pack Gold :** Body + Rigging **$700**\n\n# Rigging Included\n\n* Head X, Y, Z\n* Body X, Y, Z\n* Hips Z\n* Mouth X\n* Breathing\n* Hair physics\n* Clothes physics\n* Bouncy head and body physics\n* Eye physics (bouncing iris, eyelashes, etc...)\n* Expressive eyes, mouth, eyebrows.... +\n\n# Details\n\n* Free Custom 3 Expressions\n* Commercial Use\n* Unlimited Revision\n* High Resolution up to 8000px12000\n* PNG File and .JPEG File\n* MOC3 and all-related streaming files\n* Editable PSD file ready to Rig\n\n# Add-ons\n\n* Expression : $30/Expression\n* Outfit : $100/Outfitt\n* Pet : $50/Pet\n* Hairstyles : $80/Style\n* Toggles : $50/Toggle\n* Assets : $25/Assets",
-    "url": "https://reddit.com/r/artcommissions/comments/1uzmfok/hiring_live2d_commissions_are_now_open_prices/",
-    "quality": "High Quality",
-    "budget": "$150",
-    "created_at": "2026-07-18T04:53:56Z"
   }
 ]
