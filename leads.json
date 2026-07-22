@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v3vgox",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Longjumping-Use-8529",
+    "title": "2D Animator, sprite creator, sequence animator, trailers. Put me to work I’m ready to learn, collab and more.",
+    "content": "2D Animator, sprite creator, sequence animator, trailers. Put me to work I’m ready to learn, collab and more.\n\nHi I would really like to make use of the Moho video game features. It should work almost similar to spine. So if you are hiring please do consider me. This is one of my Oc which I will use as a test subject.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v3vgox/2d_animator_sprite_creator_sequence_animator/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-22T22:33:11Z"
+  },
+  {
     "post_id": "1v3venz",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-18T15:17:01Z"
-  },
-  {
-    "post_id": "1uzyfil",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Specialist-Click4253",
-    "title": "[Hiring] Looking to hire 3D nsfw animator to work with pre-made animations",
-    "content": "[Hiring] Looking to hire 3D nsfw animator to work with pre-made animations\n\nHello,\n\nI'm looking for an experienced 3D animator proficient in Unity to refine and polish animations for our VRoid models.\n\nWe have custom VRoid models with added 3D genitals and a set of pre-made animations. The base animations are generally okay, but they have several issues that need to be fixed:\n\n* The genitals have no animation at all\n* Hands and other body parts are not properly aligned with the rest of the body\n* The animations feel incomplete and could be significantly improved with additional keyframes\n\n**What we need:**\n\n* Animate the genital areas so they properly follow and react to the existing body movements\n* Align hands, arms, fingers and other body parts for correct interaction and positioning\n* Enhance the overall quality of the animations by adding more keyframes, improving timing, and making the motion smoother and more natural\n\nWe can export the full skeleton/rig from Unity, so you can work comfortably in Blender (or your preferred tool) and then bring the finished animations back into Unity.\n\nIf you have solid experience with Unity humanoid rigs, VRoid/VRM models, custom character animation, and especially adult/NSFW content — I’d love to see your work. Payment via Patreon or another arrangement we agree on.\n\nPlease DM me with examples of similar work or your portfolio.\n\nWe can pay per few animations, price would vary from $30 per animation up to 100.\n\nThank you!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1uzyfil/hiring_looking_to_hire_3d_nsfw_animator_to_work/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-07-18T15:11:15Z"
   }
 ]
