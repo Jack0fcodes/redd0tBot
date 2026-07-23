@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v4aoqm",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/torksgame",
+    "title": "[PAID] Looking for professional musician/composer to create soundtracks for my upcoming spellcasting action roguelite Arcane Mayhem",
+    "content": "[PAID] Looking for professional musician/composer to create soundtracks for my upcoming spellcasting action roguelite Arcane Mayhem\n\nHello!\n\nI am a 31 year old dude from Norway working on my passion project Arcane Mayhem, a stylized 3D top-down action roguelite.\n\n[https://store.steampowered.com/app/3197670/Arcane\\_Mayhem/](https://store.steampowered.com/app/3197670/Arcane_Mayhem/)\n\n\n\nI am looking for someone who can create custom made sountracks for each region in my game.\n\nThe game switches often between action (fighting enemies) and calm (picking rewards), so I am thinking 2 versions of the same track (per region) that seamlessly are crossfaded depending on game state.\n\n\n\n[In a previous post I made](https://www.reddit.com/r/gameDevClassifieds/comments/1tups8q/paid_looking_for_artist_to_draw_lots_of_stylized/) looking for a spellicon artist I got tons of requests from AI spammers and artists that wasn't qualified, so please respect my time and only message me if you qualify.\n\n\n\nCurrently I am using placeholder AI generated tracks in the game. They are style-wise somewhat close to what I am after, and pretty good imo. But I want original handcrafted music.\n\nYou can see the latest raw gameplay and music here: [https://youtu.be/1Qj3hd2yu7I](https://youtu.be/1Qj3hd2yu7I)\n\n\n\nA big inspiration is the music from [the game Pathogenic](https://store.steampowered.com/app/3808690/Pathogenic/), which also uses the layered approach for switching music intensity depending on game state. [Pathogenic sountracks](https://youtu.be/qt3bfkfCLqA).\n\nI think an EDM, DnB, Breakbeat, or similar style could fit the game. Which is also a genre I enjoy. But I am open to suggestions.\n\n\n\nWhat I am looking for:\n\n* 3 original soundtracks, one for each region in the game\n   * Mystical Forest \\[Complete\\]\n   * Scorched Dunes \\[In production\\]\n   * Gloom Ridge \\[After Scorched Dunes\\]\n* 1 boss soundtrack\n* Main menu soundtrack (potentially)\n\nPay:\n\n* I will ofcourse pay for great music, but keep in mind that I am a solo developer without publisher\n\nCurrent state of game:\n\n* 2+ years in development\n* Fully playable, steam playtest version available\n* Almost all core systems in place\n* Working on polishing and adding more content; mechanics, spells, artifacts, maps, etc\n\nPlease send me a message if:\n\n* Collaborating on this project sounds interesting to you\n* You will use zero AI music (otherwise I would do it myself obviously)\n* You are comfortable with the type of music described above\n* You don't have a bankbreaking rate\n* You acknowledge that sharing your **portfolio** in the first message is **required.** Sharing a rough estimate of rate is also helpful\n* You are not a beginner and got the skills to match the quality of the current AI tracks in the game or better\n\nContact:\n\n* Send me a DM on reddit but also feel free to comment on this post\n* When a musician is locked in we will communicate on Discord",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v4aoqm/paid_looking_for_professional_musiciancomposer_to/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-23T11:04:31Z"
+  },
+  {
     "post_id": "1v4aekq",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-18T21:25:35Z"
-  },
-  {
-    "post_id": "1v07pgm",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/AngeOnirique",
-    "title": "[HIRING] Looking for a Visual Novel Sprite Artist (200-500€)",
-    "content": "[HIRING] Looking for a Visual Novel Sprite Artist (200-500€)\n\nHey hey !\n\n\n\nI'm currently developing and writing a visual novel and I'm looking for an artist.\n\n\n\nI've attached a moodboard that represents the overall art style. It's only a style reference and not something to copy directly. I'm looking for a soft, emotional, painterly anime aesthetic.\n\n\n\nFor now, I'd like to commission one visual novel character with multiple expressions and pose variations to see if we're a good match. If everything goes well, I'd love to continue working with the same artist for the rest of the project, including around 5 characters, illustrations and backgrounds.\n\n\n\nMy budget is around 200-500€ for this first commission depending on the scope and quality.\n\n\n\nRequirements :\n\nFull body character\n\nTransparent PNG\n\nAround 2200-2600 px tall\n\nCommercial use\n\n(The exact number of expressions and poses will be discussed after the initial contact.)\n\n\n\nIf possible, I'd also like the editable Krita (.kra) file with organized layers. If this has an additional cost, please let me know.\n\n\n\n(As confirmation of your having read through this posting, include a water related emoji in your message.)\n\n\n\nCould you also let me know:\n\n\n\nyour price / estimated delivery time / portfolio, social media / your availability for a long term project / anything else you want me to know\n\n\n\nThank you for your time and consideration, if you're interested I will be happy to share more details about the project and the character !\n\n\n\n(feel free to ask any questions if you need more information and please don't send NSFW portfolios)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v07pgm/hiring_looking_for_a_visual_novel_sprite_artist/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-18T21:19:48Z"
   }
 ]
