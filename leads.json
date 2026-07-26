@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v78t8v",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/VortexKitsune",
+    "title": "[Hiring] LOOKING FOR ARTIST TO CREATE A LOGO FOR MY TTRPG SYSTEM ($20-30 budget)",
+    "content": "[Hiring] LOOKING FOR ARTIST TO CREATE A LOGO FOR MY TTRPG SYSTEM ($20-30 budget)\n\nI am making a TTRPG system for me and my friends use. I am window shopping through artists right now.  \nThe style/genre is high stylized cartoon comic fantasy.  \nI would love to see your work and if I choose you ill be in contact. Thanks!",
+    "url": "https://reddit.com/r/artcommissions/comments/1v78t8v/hiring_looking_for_artist_to_create_a_logo_for_my/",
+    "quality": "High Quality",
+    "budget": "$20-30",
+    "created_at": "2026-07-26T16:35:47Z"
+  },
+  {
     "post_id": "1v73trj",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$80-100",
     "created_at": "2026-07-22T04:06:53Z"
-  },
-  {
-    "post_id": "1v31tmu",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Squeph",
-    "title": "[PAID] I need a 3D character artist skilled at doing very low-poly designs.",
-    "content": "[PAID] I need a 3D character artist skilled at doing very low-poly designs.\n\nHi,\n\n\n\nI need a small set of very low-poly character assets for a game prototype.\n\n\n\nThe visual style is like 2006-era Runescape and PSX-style art. The game uses vertex colours with Gouraud shading, so models are untextured but need strong silhouettes.\n\n\n\nThe project requires:\n\n* male base character with shirt and pants\n* metal armour set (helmet, chest and arms, legs)\n* light/leather armour set (hood, chest and arms, legs)\n* accessories set (shoes, gloves, cape, necklace)\n\n\n\nThe character should be divided into 5 modular sections: head, chest/arms, hands, legs, and feet. Equipment should replace the corresponding sections rather than being overlaid.\n\n\n\nModels should work well with Gouraud shading and no texture maps. I'll need source files and game-ready files for use in Unity. They do not need to be rigged or animated.\n\n\n\nI don't need something super polished or fancy as this is currently just a prototype, so this would be perfect for someone who can quickly turnaround basic prototype art.\n\n\n\nPlease either respond to this thread or DM me, and include\n\n* a link to your portfolio with examples of low-poly character work you have done.\n* your estimated price\n* your availability and estimated turnaround.\n\n\n\n[Examples of the style I'm looking for.](https://imgur.com/a/CkoKh3q)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v31tmu/paid_i_need_a_3d_character_artist_skilled_at/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-22T01:33:11Z"
   }
 ]
