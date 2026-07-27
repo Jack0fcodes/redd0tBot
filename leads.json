@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v7mme8",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/aloxuhik",
+    "title": "[PAID] 250$ - Looking for Unity 2D Artist for graphics overhaul of minimalistic game with shapes.",
+    "content": "[PAID] 250$ - Looking for Unity 2D Artist for graphics overhaul of minimalistic game with shapes.\n\n# Looking for Unity 2D Artist.\n\nI have TowerDefense game that relies on basic shapes. Combination of shapes are generated at runtime based on enemies stats. Same with colors. Size is getting biger in later stages of game as enemies get more powerful. When enemies get damaged, shapes stays but vibrant color get lowerd proportionally, meaning lower half is bright and upper is dark.(Inspired in Outhold)\n\n**Towers** are circles(can be changed) that grow bigger as they get stronger and change color with rising dmg and speed. Towers have rotating barell with light, that shows where towers are looking and signaling towers range and spread. Bigger range = longer light, bigger spread = wider cone of light. When effect is added to tower, it is signalized by adding ring in color of effect(burn = orange, ice = light blue etc.). (This can be change if you have better idea)\n\n**On map there are**\n\n* Obstacles(brown squares),\n* spots on which to build towers for bonus(green),\n* relics around which you build towers to get bonus(white, yellow),\n* preplaced road(gray square without line),\n* road placed by player(gray with line),\n* barricade brown square on road that is build by tower to stop enemies,\n* white circles on road are damaging traps.\n\n**I want graphics overhaul**, that will make it look good. I tried to make it dark with light from towers brighting it, to make some atmosphere but I failed misserably. I like look of Outhold(https://store.steampowered.com/app/3767740/Outhold/) where I get inspired.\n\n**Fundamentals** like shape based enemies, mixing colors etc. Cant be changed. Apart from that anything goes if it looks good. Outlines, shadows, post-proccessing, different colors(probably must as I picked at random and I suck and color theory) etc.\n\n*Only gameplay graphics, UI will be change in the future.*\n\n&gt;Please share portfolio if possible and some ideas/approach you would choose here. Then if I picked you I would pay you 25$(PayPal) to make some quick concept of your idea, just to get image how it would look like and to discuss details. If I liked it then we would move forward to whole thing.\n\nhttps://preview.redd.it/k46bof02fofh1.png?width=697&amp;format=png&amp;auto=webp&amp;s=cf65fbb12f953a5e8aa1f0872fabb9793a608baf\n\nhttps://preview.redd.it/6klr1mc4fofh1.png?width=2083&amp;format=png&amp;auto=webp&amp;s=6e3a49627b00aef0c29a31c56bc767271d496180\n\nhttps://preview.redd.it/t5ntfvm5fofh1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=6f3fab2bcad6b802cb935d65a00120a538fe5376\n\nhttps://preview.redd.it/o3wx3fc6fofh1.png?width=2097&amp;format=png&amp;auto=webp&amp;s=1fe682980315ffda5768d8c474bb5e495dbe613d\n\nhttps://preview.redd.it/bjh64sw6fofh1.png?width=2097&amp;format=png&amp;auto=webp&amp;s=488f584ec3a482f7369ced88b38180059a9d79c5",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v7mme8/paid_250_looking_for_unity_2d_artist_for_graphics/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-27T01:41:59Z"
+  },
+  {
     "post_id": "1v7mjjl",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-22T20:41:52Z"
-  },
-  {
-    "post_id": "1v3r37s",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/erotik_rahibe_",
-    "title": "[Hiring] 3d model/scan cleaner",
-    "content": "[Hiring] 3d model/scan cleaner\n\nHello folks! I scan a few things here and there and had a relatively successfully business while doing so. \n\nBut the problem is that my model cleaner had to quit due to family reasons :( \n\nSo now I'm looking for a cleaner! I can offer %35 of my monthly gains or any price range we decide depending on how big the set is :) \n\nThank u for ur Time!!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1v3r37s/hiring_3d_modelscan_cleaner/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-22T19:53:14Z"
   }
 ]
