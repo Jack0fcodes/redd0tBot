@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v93poa",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ShrimpFriedGames",
+    "title": "[Paid] UI/UX Designer needed to rework game UI screens and HUD",
+    "content": "[Paid] UI/UX Designer needed to rework game UI screens and HUD\n\nI'm looking for a designer to help rework the already existing screens in The Last Captain: [https://store.steampowered.com/app/3700200/The\\_Last\\_Captain/](https://store.steampowered.com/app/3700200/The_Last_Captain/)\n\nIt is an upcoming top-down, tactical space shooter featuring pitched combat, in-depth ship customization, and an explorable star map alongside co-op and PvP modes.\n\n**Game Details:**\n\n* Platforms: PC and Steamdeck (controller friendly UX) \n* Engine: Unreal Engine 5.4\n* Genre: Top-down space shooter\n* Theme: Sci-fi / space opera\n\n**Deliverables:** \n\nDesign files of each requested screen (Figma preferred but flexible). I will handle in engine implementation. More detailed requirements and examples will be provided after starting.\n\n* UX Layout and Visual Polish pass\n* Included Screens\n   * In Game HUD (rework)\n      * Weapon states (ammo, reload, lock on)\n      * Objective indicators\n      * Shield / health status\n      * Friendly / enemy ships\n      * Missile indicators\n   * Ship Customization Screen (rework)\n      * Equipment Loadout\n      * Aesthetics\n      * Ship Modules\n   * Ship Upgrade Screen (rework)\n      * Equipment skill trees\n      * Equipment info\n      * Equipment compare / contrast\n   * Star map (rework)\n      * Plant info\n      * Fleet indicators\n      * Mission indicators\n   * Pre mission screen (rework)\n   * Post mission screen (new)\n   * New campaign screen (rework)\n   * In game campaign store (not microtransaction) (rework)\n   * Multiplayer lobby screen (new)\n   * Multiplayer matchmaking screen (new)\n\n**Requirements:**\n\n* Portfolio link\n* Reddit DMs welcome\n* Discord is the preferred communication method (after starting)\n* Payment will be broken down into deliverable milestones at agreed rate\n* Estimated time for work completion\n\n  \nLet me know if you're interested, I'm really excited to work together on the UX and get this game out the door!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v93poa/paid_uiux_designer_needed_to_rework_game_ui/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-28T16:38:02Z"
+  },
+  {
     "post_id": "1v93h80",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-24T11:03:58Z"
-  },
-  {
-    "post_id": "1v55j7d",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/owen081199",
-    "title": "[Hiring] D&amp;D Tarot-esque Cards",
-    "content": "[Hiring] D&amp;D Tarot-esque Cards\n\nHey I'm looking for 10 DND tarot-like cards for my DND game - I've got Al versions that I can't really stand and would much prefer an actual artist makes them.\n\nI'm not sure of my budget it's open to discussion but maybe like £150?\n\nIf you are interested let me know and I we can chat and I can send over the garbage Al versions for reference.\n\nIll add 2 Al references - im not overly happy with how they look but the style is kinda what im after, would just much rather an actual piece of art.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1v55j7d/hiring_dd_tarotesque_cards/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-24T08:36:20Z"
   }
 ]
