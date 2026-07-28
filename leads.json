@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v96xv6",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/tjkandala",
+    "title": "[PAID] Seeking Stylized 3D Creature Artist / Animator for Browser MMORPG (PS2-era)",
+    "content": "[PAID] Seeking Stylized 3D Creature Artist / Animator for Browser MMORPG (PS2-era)\n\nHi! I’m looking for a 3d artist to help make and animate creatures/mobs for my browser-based mmorpg inspired by PS2-era JRPGs and 2000s mmos.\n\nI currently have 4 rigged creature models, and would like to have 4-6 more done before closed testing. I also want a minimal set of 4 animations (idle, move, attack, hit reaction) that can be reused between creatures in the same body family (eg medium quadruped, small critter).\n\nThe game is meant to run on lower-end hardware and the art is also meant to evoke nostalgia. To serve both needs, we’re targeting low poly count and efficient materials, textures, and animation, with a bright, colorful, anime-influenced fantasy style.\n\n[Render of one of our existing creatures for reference.](http://assets.vetaonline.com/procurement-refs/jagraith/preview_render.png)\n\nIf this sounds like something you can help me with, I’d love to hear from you!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v96xv6/paid_seeking_stylized_3d_creature_artist_animator/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-28T18:30:51Z"
+  },
+  {
     "post_id": "1v95hun",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-24T15:26:22Z"
-  },
-  {
-    "post_id": "1v5e3b7",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/shtoopr",
-    "title": "[Hiring] Looking for Card Designer",
-    "content": "[Hiring] Looking for Card Designer\n\nHi! I’m looking for a designer to join my art team and help create the visual design system for an upcoming animal themed tabletop card game.\n\nThe game revolves around recruiting animals using treats, and I’m looking for someone who can help design:\n\nCard backgrounds and borders with a cute/cozy aesthetic\n\nCard layout elements\n\nSymbols/icons\n\n  \n\n\nThere will be around 15 unique card types total, many of which are different variants of the same type of card.\n\n\n\nThis is a paid freelance project with a $550 total budget.\n\n\n\nPlease comment or DM with:\n\nPortfolio/examples of card game, board game, UI, or graphic design work\n\nYour rates and availability\n\nAny relevant experience\n\n  \nThank you :)",
-    "url": "https://reddit.com/r/DesignJobs/comments/1v5e3b7/hiring_looking_for_card_designer/",
-    "quality": "High Quality",
-    "budget": "$550",
-    "created_at": "2026-07-24T15:08:50Z"
   }
 ]
