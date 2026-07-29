@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1v9gfmx",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/_doorstuck_",
+    "title": "[PAID] Concept/environment artist — greybox paintover, visdev for 640×360 top-down stealth-horror",
+    "content": "[PAID] Concept/environment artist — greybox paintover, visdev for 640×360 top-down stealth-horror\n\nSolo developer. I have a playable greybox and no art direction yet. I'm commissioning a paid paintover.\n\nThe game renders at 640×360 and integer-scales up. I'd want the paintover authored at native, delivered as the native PNG plus a 3× nearest-neighbour upscale.\n\n**The work**\n\nOne frame, rough finish. I'm buying direction, not a finished illustration. Plus a few lines on how you'd build it in engine — what's texture, what's lighting, what's post. One revision round included.\n\n**Direction** is open — that's what I'm paying to explore. I’d like to avoid generic-looking themes, so no lovecraft pastiche, tentacles, occult symbology, gore, anything reading as a monster's lair.\n\n**The actual problem in the frame**\n\nIt has to read as underlit and oppressive while staying tactically legible — a player needs to parse cover and sightlines at a glance, at 640×360, from a flat top-down camera. If it can't be solved I'd rather find out now, for the price of one commission.\n\nSecond constraint: it has to be buildable by one programmer, so I need a direction carried by lighting, palette, fog and shader work rather than a ton of different props.\n\n**To apply**, DM with:\n\n1. Portfolio link  \n2. Your fixed price for the above, and rough hours.  \n3. One sentence on how you'd approach readability at 640×360 top-down and your general style approach.  \n4. Questions you need answered before starting the work.\n\nIncluding greybox frame (native + 3× for viewing).\n\nhttps://preview.redd.it/7q9lpx22c2gh1.png?width=640&amp;format=png&amp;auto=webp&amp;s=aa89ec07b54cd781d7e15281ff36511b5c1fc6f5\n\nhttps://preview.redd.it/yddagx22c2gh1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=2c8ef087319f0db12b35b06a0866478e4214cfb8",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v9gfmx/paid_conceptenvironment_artist_greybox_paintover/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-29T00:32:19Z"
+  },
+  {
     "post_id": "1v9fwdv",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30-100",
     "created_at": "2026-07-25T00:22:31Z"
-  },
-  {
-    "post_id": "1v5sctp",
-    "platform": "Reddit",
-    "source": "r/ComicBookCollabs",
-    "author": "u/Rodega12",
-    "title": "Looking to hire ongoing artist for comic commission. [Hiring]",
-    "content": "Looking to hire ongoing artist for comic commission. [Hiring]\n\nHello!\n\nJust what it says above. I have a story I want to write but I think it would work best in comic/ webcomic format. I have absolutely no artistic talent whatsoever so I am looking to get someone to help put my thoughts on paper/ screen in that style.\n\nSome pieces 1st: to see if you'd be interested.\n\n1. I'm looking for a somewhat rough art style. I'm looking for something that would look similar to the \"Kill Bill\" animation sequence or the \"Breaking The Habit\" music Video by Linkin Park. This is very flexible but it's what I think would work best. \n\n2. This is an ongoing commitment, not a 1 off. Please only respond if you think you'll be able to commit to something ongoing. While I do want to publish this eventually, I recognize that this is not something that may ever make money so I'm paying on a per page basis. I think $50.00 per page is reasonable on a 1/2 up front 1/2 upon delivery basis but that is negotiable. \n\n3. You need to be ok with making art at a minimum PG-13/R basis. While there wouldn't be anything extremely explicit there would be some nastier elements in conflict so I want to make sure a person is ok with that. \n\n4. Timing and scheduling for delivery needs to be agreed upon. I recognize that life happens and I would likely not be the 1st or only job you have but I would like to get an agreed upon time table for delivery as this isn't just a 1 off. \n\n5. Absolutely NO AI. I'm coming here to hire a person. I want, as the Spice Girls put it, a human touch. So, if you use AI or call yourself an \"AI artist\" (fraud), please don't bother with me / this. \n\nThat's what I have. Please fell free to DM me if you think you would fit this bill and would be interested in the work.\n\nI hope you have a great day. 😊.",
-    "url": "https://reddit.com/r/ComicBookCollabs/comments/1v5sctp/looking_to_hire_ongoing_artist_for_comic/",
-    "quality": "High Quality",
-    "budget": "$50",
-    "created_at": "2026-07-25T00:00:20Z"
   }
 ]
