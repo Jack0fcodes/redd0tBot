@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vbm6t4",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Problem_Solverz",
+    "title": "[HIRING] UI/UX Designer for \"AutoTempest of India\" Startup - 2-Week MVP Sprint (Figma / Tailwind)",
+    "content": "[HIRING] UI/UX Designer for \"AutoTempest of India\" Startup - 2-Week MVP Sprint (Figma / Tailwind)\n\n**Who we are &amp; What we need:** We are JaanCar, an early-stage startup building an aggregator and diagnostic data layer for the Indian used car market. We need a sharp UI/UX designer for a fast-paced 2-week MVP sprint. We have funding pitches in 10–15 days, so we need clickable prototypes that shift our interface from a standard classifieds site into a clean, clinical diagnostic platform.\n\n**Core MVP Deliverables:**\n\n* **Landing Page:** A dual-action hero section featuring unified search and a \"URL Drop-Zone\" for instant diagnostic pre-checks.\n* **P2P Deal Checker:** A conversion page where users paste URLs from OLX/Cars24 to get instant visual risk assessments.\n* **Comparison UI (The \"Anti-Checkbox\"):** A data-dense, interactive UI that visually compares price-to-market data and \"trust meters.\"\n* **Booking Modal:** A frictionless 3-step checkout flow.\n\n**Design Style &amp; Technical Requirements:**\n\n* **Web-First UI:** We are prioritizing a rich, data-dense desktop experience first that scales down gracefully to mobile.\n* **Aesthetic:** Clean and clinical (Deep Navy, Slate Grey, Crisp Whites) with high-contrast alert colors (Green/Red/Yellow).\n* **Deliverables:** Layered Figma files utilizing Tailwind CSS-friendly design tokens and responsive breakpoints.\n\nBUDGET : $300, we are open to longer term commitments too as we get funded",
+    "url": "https://reddit.com/r/DesignJobs/comments/1vbm6t4/hiring_uiux_designer_for_autotempest_of_india/",
+    "quality": "High Quality",
+    "budget": "$300,",
+    "created_at": "2026-07-31T09:37:41Z"
+  },
+  {
     "post_id": "1vblqsp",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30-60",
     "created_at": "2026-07-27T15:43:25Z"
-  },
-  {
-    "post_id": "1v83yk4",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/TheTrueStix",
-    "title": "[Hiring] Frog wizard",
-    "content": "[Hiring] Frog wizard\n\nLooking for an artist willing and wanting to bring a silly little frog wizard to life.\n\nDescription:\n\n• Common European frog\n\n• Oversized, colourful patchwork robe with way too long sleeves\n\n• Wide wizard's hat with holes in the brim near the cone for his eyes, and the cone would be long and as well\n\n• Bulrush wand, obviously magically treated to not burst open\n\n• Rope belt with two small vials of blue and red liquid respectively\n\nBudget:\n\n$20-$60",
-    "url": "https://reddit.com/r/artcommissions/comments/1v83yk4/hiring_frog_wizard/",
-    "quality": "High Quality",
-    "budget": "$20-60",
-    "created_at": "2026-07-27T15:39:38Z"
   }
 ]
