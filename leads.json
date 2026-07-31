@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vbcn9l",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ghosx0",
+    "title": "[Hiring] - Looking for an Indie/Solo 3D Game Developer",
+    "content": "[Hiring] - Looking for an Indie/Solo 3D Game Developer\n\nHey, I’m currently planning a 3D platformer game for my mid-sized community and am looking to build a shortlist of developers to potentially work with once the project is fully planned and the GDD is finalized.\n\nThis isn’t meant to be a AAA-quality game. I’m aiming for something with a polished indie feel, simple in scope, similar to Roblox experiences, classic 3D platformers, or 3D Mario-style games.\n\nAt first I considered a revenue-share model, but I’ve decided I’d rather go with a flat-fee arrangement. My current idea is 50% paid upfront. 50% paid after the final game is completed and delivered.\n\nEngine doesn’t matter to me (Unity, Unreal, Godot, etc.) as long as it’s the right fit for the project.\n\nRight now I’m mainly looking through portfolios and seeing what different developers are capable of before I make a final decision.\n\nIf you’re interested, I’d love to see:\n\n2) Your portfolio or previous games.\n\n2) Whether you work solo or as a small team.\n\n3) Your general experience with 3D platformers (if any).\n\n(I will also be using this post for archive so i can come back and take a look when i finish the GDD so feel free to leave a comment with your work. Thanks :D)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vbcn9l/hiring_looking_for_an_indiesolo_3d_game_developer/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-31T01:30:24Z"
+  },
+  {
     "post_id": "1vbbsyh",
     "platform": "Reddit",
     "source": "r/artcommission",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30",
     "created_at": "2026-07-27T06:52:20Z"
-  },
-  {
-    "post_id": "1v7rsbk",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/loveisneuroscience",
-    "title": "[Hiring] Custom matryoshka",
-    "content": "[Hiring] Custom matryoshka\n\nI want to gift a custom matryoshka to my girlfriend and am looking to work with an artist to develop the design. I am happy to pay the artist’s rate/estimate for the piece (stuffies with very unique personalities) which I anticipate to be more than $20. I would love to see prior work. Thanks!",
-    "url": "https://reddit.com/r/artcommissions/comments/1v7rsbk/hiring_custom_matryoshka/",
-    "quality": "High Quality",
-    "budget": "$20",
-    "created_at": "2026-07-27T05:59:11Z"
   }
 ]
