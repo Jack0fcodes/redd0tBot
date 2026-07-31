@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vbvci9",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/Jompong_Levin",
+    "title": "I need medieval paintings of a character in some poses. Max. payment 100 Dollar. [Hiring]",
+    "content": "I need medieval paintings of a character in some poses. Max. payment 100 Dollar. [Hiring]\n\nI need a character in many poses without a background. I'm not sure if I want the character to be looking at the viewer or slightly to the side. The picture is just an example what kind of style I mean.",
+    "url": "https://reddit.com/r/artcommission/comments/1vbvci9/i_need_medieval_paintings_of_a_character_in_some/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-07-31T16:11:20Z"
+  },
+  {
     "post_id": "1vbt38p",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-27T20:15:21Z"
-  },
-  {
-    "post_id": "1v88tvy",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/farooqsaad",
-    "title": "[HIRING] Design a visual communication language for non-verbal children",
-    "content": "[HIRING] Design a visual communication language for non-verbal children\n\nI’m building an AAC app (augmentative communication — picture-based speech) for non-verbal children and need someone to establish the visual design language.\n\n**The goal:** Create a cohesive design system for communication symbols — the rules, not the library yet. Figure out the visual grammar: how figures are constructed, how actions are conveyed, what makes a symbol readable, what the design principles are. The output is a style guide and templates that any illustrator can follow to produce consistent symbols later. This is about functional design as much as visual.\n\n**What I’m looking for:** Really looking for someone who can pick up on the domain quickly and understand the visual language at some depth. Study existing AAC symbol sets (SymbolStix, PCS, ARASAAC, Mulberry). Read the research on symbol comprehension and design for children with communication challenges. Come with a point of view about the problem and how the design addresses the problems.\n\n**Process:** For the initial application, I'm just looking for a portfolio of existing work and what  insights you were able to gather in the AAC domain. You don't to put in a lot of work for this. An LLM should be able to guide you towards what the problems are and where the research is headed. For the selected candidates, we will do one or two interviews to discuss your findings and working fit. Then the next phase will be producing the design system, and once we have the design system, there will be ongoing work producing symbols.\n\n**Budget:** I'm looking for quotes and will likely hire two or three on a project basis for the design system creation. Then from there on we'll have ongoing rates for creating the actual symbols. Since the work will be ongoing, I don't have a specific budget for the symbol creations but I expect the quotes will meet the $20/hr minimum requirement.",
-    "url": "https://reddit.com/r/DesignJobs/comments/1v88tvy/hiring_design_a_visual_communication_language_for/",
-    "quality": "High Quality",
-    "budget": "$20",
-    "created_at": "2026-07-27T18:28:46Z"
   }
 ]
