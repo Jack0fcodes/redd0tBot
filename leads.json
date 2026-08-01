@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vcz1fn",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/burner4confessions",
+    "title": "[Hiring] Non-AI iPhone wallpaper request",
+    "content": "[Hiring] Non-AI iPhone wallpaper request\n\nI found this picture on Pinterest that I really wanted to use as my iPhone wallpaper, but immediately realized it was AI. I would love for an artist to give me their own interpretation of this image! I just want something that looks like a sorcerer’s/wizard’s library, doesn’t have to look exaclty like this one! Needs to be sized for a phone. 20$ is my budget. Thank you so much!",
+    "url": "https://reddit.com/r/artcommissions/comments/1vcz1fn/hiring_nonai_iphone_wallpaper_request/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-01T21:17:25Z"
+  },
+  {
     "post_id": "1vcxmua",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-28T22:12:25Z"
-  },
-  {
-    "post_id": "1v9cta5",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Charmander906",
-    "title": "[Hiring] 2D Pixel Artist / Animator for Indie Game Bosses (32x32–48x48)",
-    "content": "[Hiring] 2D Pixel Artist / Animator for Indie Game Bosses (32x32–48x48)\n\nHi there!\n\nI’m an indie developer working on a 2D game heading to Steam Early Access, and I’m looking for a pixel artist/animator to create sprites and animations for 7 boss characters.\n\nProject Scope &amp; Specifications:\n\n* Canvas Size: \\~32x32 to 48x48 px per boss.\n* Perspective: 2D Side-View, facing right, completely head-on (flat side perspective with no vertical tilt).\n* Visual References: I have a 1-frame draft of the first boss to serve strictly as a size reference. The visual style will be guided by existing in-game art examples, which I will provide.\n* Boss Mechanics: Specific attack actions and mechanics will be outlined individually on a 1-on-1, per-boss basis.\n* Animation Count: 9 states per boss (Idle, Walk, Jump/Midair, Attack, Heavy Attack, 3 Skills, and Death).\n* Frame Budget &amp; Reuse: \\~4 to 8 frames per animation state (or fewer if appropriate). Reusing/double-dipping frames across skills, attacks, or intros is strongly encouraged to keep workload and costs down!\n* Deliverables: Unscaled .png sprite sheets.\n* Palette: No strict color/palette limits—just matching the general look of existing game assets.\n\nBudget &amp; Rights:\n\n* As a solo indie dev, budget is my primary constraint, so cost efficiency is my top priority.\n* Low-Cost Paid Trial: To keep initial costs low on my end, I would like to start with a quick paid trial for just the Idle animation of Boss #1 to make sure our workflow and style align before moving forward.\n* Payment Terms: Flexible (50/50 upfront/completion or milestone payments per completed boss).\n* Rights &amp; Credit: Full exclusive commercial/IP rights to the art and characters for use in the game. You are 100% free to display the work in your portfolio, and you will be fully credited in the game's credits.\n* Long-Term Potential: If the Early Access release performs well, I plan to expand the game to 18 bosses and re-hire the same artist for additional assets/art overhauls.\n\nIf you're interested, please send over your portfolio, your rate for a single idle animation trial, your estimated rate for a full boss sprite sheet of this scope, and your current availability. Looking forward to seeing your work!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v9cta5/hiring_2d_pixel_artist_animator_for_indie_game/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-28T22:06:25Z"
   }
 ]
