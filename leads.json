@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vclsbi",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Sufficient-Paper576",
+    "title": "HIRING] Experienced Mobile Game Developer Needed (Android/APK Expertise) – Paid Opportunity",
+    "content": "HIRING] Experienced Mobile Game Developer Needed (Android/APK Expertise) – Paid Opportunity",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vclsbi/hiring_experienced_mobile_game_developer_needed/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-01T12:12:52Z"
+  },
+  {
     "post_id": "1vcjo8l",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-28T15:04:32Z"
-  },
-  {
-    "post_id": "1v8ztz1",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/WhiskyBearGames",
-    "title": "[PAID] Low-poly hard-surface character artist — 5 mech frames for a tactical squad game ($550 paid test piece)",
-    "content": "[PAID] Low-poly hard-surface character artist — 5 mech frames for a tactical squad game ($550 paid test piece)\n\n**Low-poly hard-surface character artist — tactical squad game (paid test piece, ongoing work)**\n\nI’m a solo developer building a turn-based tactical squad game in Godot 4 — XCOM-like camera, low-poly, units about 150px tall on screen. The player squad are pilotless combat **frames**: remotely piloted machines, no cockpits, no visors, nothing that implies someone inside. Enemies are alien flesh with scavenged industrial machinery grafted on.\n\n**The work:** five player frames, built from **two shared topologies** — one HEAVY body and one HUMANOID body, each reproportioned into its variants. Every frame sits on one shared 20-bone armature, carries six named hardpoints, and ships with one authored idle pose. Clean low-poly hard-surface, flat-shaded, silhouette-first — no sculpted bakes, no PBR noise.\n\n**What matters most:** the topology has to **reproportion**. The first frame you deliver becomes the body two others are derived from, so I care more about edge flow that stretches cleanly than about detail that doesn’t survive at 150px.\n\n**Terms:** paid test piece first — the Sniper frame, **$550 USD fixed, 12 days, two revisions**, with a mandatory day-3 blockout checkpoint where I return a render from the real game camera within 24 hours. **The test piece is paid whether or not it leads to further work.** On a pass: the remaining four frames, then hardpoint modules, then a separately quoted enemy set. Milestone-billed, work-for-hire, `.blend` sources delivered, remote, any timezone.\n\n**A heads-up on how I work:** deliveries are checked by an automated harness in-engine — scale, bone names, rest transforms, attach points. It’s strict, it’s documented up front, and it exists so feedback is “bone `ThighL` has non-unit rest scale” instead of “something looks off.” Concept art is the style contract and is already done.\n\n**To apply:** send in-engine screenshots of stylized low-poly game-ready work (not beauty renders), at least one hard-surface character, and `.blend` wireframes. **If you’ve reproportioned one topology into several characters before, lead with that** — it’s the specific skill this turns on. Portfolio matches beat years of experience.\n\n[squad concept](https://preview.redd.it/l2hfvdk7bzfh1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=3bb021253b859fb27ba77c03206803d454d6ab87)\n\n[in game render](https://preview.redd.it/hc06ml59bzfh1.png?width=998&amp;format=png&amp;auto=webp&amp;s=2e8007a293e7b1e3d99f9549888e30f4ee512f15)\n\nFull technical brief on request. → [**contact@whiskeybeargames.com**](mailto:contact@whiskeybeargames.com) — *Whiskey Bear Games*",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v8ztz1/paid_lowpoly_hardsurface_character_artist_5_mech/",
-    "quality": "High Quality",
-    "budget": "$550",
-    "created_at": "2026-07-28T14:17:44Z"
   }
 ]
