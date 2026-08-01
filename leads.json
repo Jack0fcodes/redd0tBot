@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vctpx9",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/del1verance",
+    "title": "[PAID] Hiring game UI/UX designer: dark-fantasy Souls-like, ~14 screens + style guide, $4–6k",
+    "content": "[PAID] Hiring game UI/UX designer: dark-fantasy Souls-like, ~14 screens + style guide, $4–6k\n\n**The game**\n\n*Blood Mage* is a 2.5D side-scrolling Souls-like built in Unreal 5.8. The hook: **health is mana** — every spell costs HP with a hard 1 HP floor, so the health bar is your resource, your threat, and your economy in one strip of red. Combat and systems are built and playable — the UI is the weak layer: part pixel kit, part stock menu-framework chrome, and one screen that doesn't even exist yet.\n\n**The job**\n\nRedesign essentially every screen into one coherent, controller-first system:\n\n- In-world HUD · non-pausing in-game menu · inventory · spell loadout · character/status screen (net-new) · settings + rebinding · bonfire hub (level-up, alchemy, skill tree) · save slots · title screen · death screen · fishing overlay · dialogs and toasts\n\n- Deliverables: **high-fidelity mockups (Figma or similar) plus a component style guide** — frames, buttons, focus states, bars, type scale, spacing — tight enough for me to rebuild everything in UMG myself. \n\n- Expanded Scope: If you can work directly with/in Unreal 5.8, we would *love* a quote for implementation.\n\n- Built from **marketplace asset packs, not bespoke art.** We own a dark-fantasy pixel UI kit and Synty's Fantasy Warrior HUD pack; your first milestone is an art-direction recommendation, and a third pack is absolutely on the table (We'll buy it).\n\n**What you work from**\n\nA 25-page brief with annotated screenshots of every current screen, a screen-flow map, input tables, and technical constraints — plus capture sessions on request. You are not starting cold.\n\n**Budget &amp; terms**\n\n**$4,000–$5,000** for roughly 90–110 hours across 4–6 weeks, paid per milestone (discovery is a fixed paid fee, so it's a cheap exit for both of us if the fit is wrong). Some flexibility for a strong game-UI portfolio. Credit in-game offered; NDA available but not required.\n\n**To apply**\n\nDM me with your portfolio (game UI especially — dark fantasy a plus), your rate, and availability. Bonus points if, after seeing the brief, you have an opinion on the pixel-vs-painterly question — that's the first conversation we'll have.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vctpx9/paid_hiring_game_uiux_designer_darkfantasy/",
+    "quality": "High Quality",
+    "budget": "$4-6",
+    "created_at": "2026-08-01T17:45:40Z"
+  },
+  {
     "post_id": "1vcsn1b",
     "platform": "Reddit",
     "source": "r/artistforhire",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-07-28T16:55:33Z"
-  },
-  {
-    "post_id": "1v93poa",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/ShrimpFriedGames",
-    "title": "[Paid] UI/UX Designer needed to rework game UI screens and HUD",
-    "content": "[Paid] UI/UX Designer needed to rework game UI screens and HUD\n\nI'm looking for a designer to help rework the already existing screens in The Last Captain: [https://store.steampowered.com/app/3700200/The\\_Last\\_Captain/](https://store.steampowered.com/app/3700200/The_Last_Captain/)\n\nIt is an upcoming top-down, tactical space shooter featuring pitched combat, in-depth ship customization, and an explorable star map alongside co-op and PvP modes.\n\n**Game Details:**\n\n* Platforms: PC and Steamdeck (controller friendly UX) \n* Engine: Unreal Engine 5.4\n* Genre: Top-down space shooter\n* Theme: Sci-fi / space opera\n\n**Deliverables:** \n\nDesign files of each requested screen (Figma preferred but flexible). I will handle in engine implementation. More detailed requirements and examples will be provided after starting.\n\n* UX Layout and Visual Polish pass\n* Included Screens\n   * In Game HUD (rework)\n      * Weapon states (ammo, reload, lock on)\n      * Objective indicators\n      * Shield / health status\n      * Friendly / enemy ships\n      * Missile indicators\n   * Ship Customization Screen (rework)\n      * Equipment Loadout\n      * Aesthetics\n      * Ship Modules\n   * Ship Upgrade Screen (rework)\n      * Equipment skill trees\n      * Equipment info\n      * Equipment compare / contrast\n   * Star map (rework)\n      * Plant info\n      * Fleet indicators\n      * Mission indicators\n   * Pre mission screen (rework)\n   * Post mission screen (new)\n   * New campaign screen (rework)\n   * In game campaign store (not microtransaction) (rework)\n   * Multiplayer lobby screen (new)\n   * Multiplayer matchmaking screen (new)\n\n**Requirements:**\n\n* Portfolio link\n* Reddit DMs welcome\n* Discord is the preferred communication method (after starting)\n* Payment will be broken down into deliverable milestones at agreed rate\n* Estimated time for work completion\n\n  \nLet me know if you're interested, I'm really excited to work together on the UX and get this game out the door!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v93poa/paid_uiux_designer_needed_to_rework_game_ui/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-28T16:38:02Z"
   }
 ]
