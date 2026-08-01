@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vcp5x5",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/nashartwell",
+    "title": "[PAID]  UI/UX Designer &amp; 2D Artist (Animation experience would be a plus) | Chess PvP Deck builder",
+    "content": "[PAID]  UI/UX Designer &amp; 2D Artist (Animation experience would be a plus) | Chess PvP Deck builder\n\n\n\nWorking on a chess deck builder where you can draft cards from packs against your opponent and build a deck with those cards and then use them in a game of chess. Everything was designed so there is no randomness on the card effects and all player hands are visible and you draw at the end of your turn. This ensure that you are always playing with 100% of the information of what options your opponent has next turn so there are not 'gatcha' surprises and completely strategy still. Eventually will be adding a ranked PvP mode.\n\n  \n**What I need** is someone who can help refine all of my UI/UX and also create new 2D for for almost all aspects of my game (except the art on the cards themselves, currently outside my budget to get art for the 100+ cards.)\n\n\n\nhttps://reddit.com/link/1vcp5x5/video/6y9fbm7hurgh1/player",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vcp5x5/paid_uiux_designer_2d_artist_animation_experience/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-01T14:40:56Z"
+  },
+  {
     "post_id": "1vcodbd",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-07-28T16:25:56Z"
-  },
-  {
-    "post_id": "1v93171",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/bellefille42",
-    "title": "[Hiring] simple traced outline of Jimothy - $25",
-    "content": "[Hiring] simple traced outline of Jimothy - $25\n\nHello, I'm looking for a simple traced profile outline of Jimothy in motion/walking. Thanks in advance.",
-    "url": "https://reddit.com/r/starvingartists/comments/1v93171/hiring_simple_traced_outline_of_jimothy_25/",
-    "quality": "High Quality",
-    "budget": "$25",
-    "created_at": "2026-07-28T16:13:52Z"
   }
 ]
