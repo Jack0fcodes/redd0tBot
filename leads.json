@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vcx5e5",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/soroth01",
+    "title": "[Hiring] Starting from 30$ going up to 100$ World of Warcraft Female Hero",
+    "content": "[Hiring] Starting from 30$ going up to 100$ World of Warcraft Female Hero\n\nI am looking for a drawing of a World of Warcraft Heroine. I prefer if its nsfw or that she's dressed in lingerie.\n\nMaybe 2D art style would be best.\n\nIn general I am very open to suggestions on this one.\n\nI am looking for someone who is available to start in the next 24 hours. The artwork needs to be completed in a maximum of 7 working days.\n\nPost your female examples and may the best suggestion win.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1vcx5e5/hiring_starting_from_30_going_up_to_100_world_of/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-01T20:01:24Z"
+  },
+  {
     "post_id": "1vcx3ff",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-28T22:01:23Z"
-  },
-  {
-    "post_id": "1v9cr0e",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/VentusCacliuM",
-    "title": "[Paid] Looking for a 3D animator to animate my main character for a 3rd person action game.",
-    "content": "[Paid] Looking for a 3D animator to animate my main character for a 3rd person action game.\n\nHello!\n\nI am currently seeking an animator to create the base animations for my main character (and maybe also rig, depending on what animations are needed) for a 3rd Person character action game inspired by Kingdom Hearts 2. I am currently in the early prototyping and concepting stage for the rest of the project, but the character is modeled (and autorigged) and ready to go. To start, the animations I need are:\n\n* idle\n* walk/run cycle\n* 1,2,3 combo attacks on the ground and in the air. \n* hit/hurt animations\n* death\n* Jump (jump start, loop, and land)\n* Spellcast\n* Dodge roll\n\nAdditional animations may be needed further in the project, but currently this is the list.\n\nI don't have a huge budget for the prototyping portion of this project, but depending on the quality of the animations and the experience of the contractor, I will be willing to pay more. The game is using the Godot game engine and personally developed tools to help with the animation pipeline. The model will be given as a blend file.\n\nThe game is based on Kingdom Hearts 2-style combat, with a mix of being able to draw spell sigils mid-combo to cast magic. This magic is also used to solve simple puzzles, complete platforming challenges, and defeat climactic 1v1 bosses.\n\nPlease give me a link to your portfolio/past works, why you'd be interested in working on this project, and a rough hourly rate, if possible.\n\nThanks - Ventus Games",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1v9cr0e/paid_looking_for_a_3d_animator_to_animate_my_main/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-28T22:03:59Z"
   }
 ]
