@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1vee00d",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/xsoyer",
+    "title": "[Hiring][Paid]Looking for Game BGM / OST creators.",
+    "content": "[Hiring][Paid]Looking for Game BGM / OST creators.\n\nHello,\n\nI'm working on a gamecube-era stylized pet simulation game.\n\nThe closest existing reference game is the Chao Garden sub-game from the Sonic Adventure Series. I'm looking for music that can emulate that soft childlike wonder/feel and holistic approach across scenes without being a blunt copy-paste. Whimsical, Cozy, Cute, Fun, *and an over-arching sense of connectedness across the modes within my game.*\n\n\nRight now I am looking for:\n\n* 1-2: 90-120 Seconds loops (or logically resolving tracks) for the main scene.\n* 1-2: 60 Second Loops for an \"arena\" styled Sumo scene.\n* 1-2: 120 second loops for a \"race\" scene.\n* 1: &lt;30 second \"race/arena\" completion \"fanfare\"\n\nI'll defer to expertise here but I'm hoping the above can fit (so experience with is preferred):\n\n\nMode\t| Target BPM\t| Feel\t| Primary Instruments\n---|---|----|----\nMain\t| 90–105 | Relaxed | Music box, marimba, flute, soft pads\nRace\t| 140–150| Energetic\t| Piano, brass, marimba, bass, drums\nArena | 145–155| Competitive| Brass, organ, bass, drums, percussion\nAward | 80–95| Triumphant| Strings, bells, piano, brass\n\nLooking to avoid any use of AI.\n\nYou can comment or DM me:\n\n* Portfolio\n* Rate Sheet\n\nI can provide gameplay footage, artwork, and music target reference tracks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vee00d/hiringpaidlooking_for_game_bgm_ost_creators/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-03T13:49:48Z"
+  },
+  {
+    "post_id": "1vedzu0",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/SummonBero",
+    "title": "[Paid] Looking for simple low poly city builder assets",
+    "content": "[Paid] Looking for simple low poly city builder assets\n\nI have a need for about a dozen low poly medieval buildings.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vedzu0/paid_looking_for_simple_low_poly_city_builder/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-03T13:49:36Z"
+  },
+  {
     "post_id": "1vebw99",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-07-30T06:34:22Z"
-  },
-  {
-    "post_id": "1vadwsq",
-    "platform": "Reddit",
-    "source": "r/ComicBookCollabs",
-    "author": "u/brettroedel",
-    "title": "Hiring (paid) An all in one illustrator, colorist, text, and everything in between.",
-    "content": "Hiring (paid) An all in one illustrator, colorist, text, and everything in between.\n\nI’m looking to turn a sci-fi coming of age TV pilot into a graphic novel. I can pay $50 a page. I know it’s not much but maybe some of yall are looking to build a portfolio and are down the ride with me. Thanks for your interest.",
-    "url": "https://reddit.com/r/ComicBookCollabs/comments/1vadwsq/hiring_paid_an_all_in_one_illustrator_colorist/",
-    "quality": "High Quality",
-    "budget": "$50",
-    "created_at": "2026-07-30T00:18:53Z"
-  },
-  {
-    "post_id": "1vakiry",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/machetteneko",
-    "title": "[Hiring] Artist for book cover (Budget is in NZD probably about $50-$75)",
-    "content": "[Hiring] Artist for book cover (Budget is in NZD probably about $50-$75)\n\nHi there, I don't want to use AI (booo) for this so I'd rather pay someone who's actually skilled.\n\nI'm writing a book and I want to commission a cover artist, I have my own idea that I made on Canva but it just doesn't capture the essence of what I'm going for. I have a few inspirations, feel free to dm me to learn more.\n\n  \nThanks in advance",
-    "url": "https://reddit.com/r/artistforhire/comments/1vakiry/hiring_artist_for_book_cover_budget_is_in_nzd/",
-    "quality": "High Quality",
-    "budget": "$50-75",
-    "created_at": "2026-07-30T05:31:52Z"
   }
 ]
