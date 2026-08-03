@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1veqqxg",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/sincover",
+    "title": "[Hiring] 3D Artist Needed for Top-Down Sci-Fi Hero Ship (Budget : minimum $100)",
+    "content": "[Hiring] 3D Artist Needed for Top-Down Sci-Fi Hero Ship (Budget : minimum $100)\n\nLooking for a 3D artist to create a single medium-large hero ship (approx. 350m scale but will be viewed from isometric angles) for a hard-science indie space game.\n\nDetails:\n\nBudget: $100 - $200\n\nDeadline: 1 week but flexible.\n\nPolycount: 40k–80k tris (LOD0) - I'll provide details for 2 remaining LODs upon contact.\n\nStyle: Hard sci-fi/industrial. Strong silhouette from a top-down 3/4 view.\n\nDeliverables: FBX + PBR Texture maps (Albedo, Normal, Metallic, Roughness, Emission, AO). Standard Unity URP Lit workflow.\n\nThe camera angle is locked to a 55–70° downward pitch. The underside of the ship is never seen and requires no detail.\n\nNo rigging, skinning, or complex animation required.\n\nLighting is a single hard directional light (no bounce/fill).\n\nI have a comprehensive, 1-page technical spec sheet ready that defines exact pivot requirements, marker placements for thrusters, and delivery formats so there is no guesswork on your end. \n\nPlease reply with a link to your portfolio, specifically highlighting any hard-surface or mechanical work along with your contact info!",
+    "url": "https://reddit.com/r/HungryArtists/comments/1veqqxg/hiring_3d_artist_needed_for_topdown_scifi_hero/",
+    "quality": "High Quality",
+    "budget": "$100-200",
+    "created_at": "2026-08-03T21:34:56Z"
+  },
+  {
     "post_id": "1veqmzm",
     "platform": "Reddit",
     "source": "r/artcommission",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-30T20:35:31Z"
-  },
-  {
-    "post_id": "1vb3wr8",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/liveslow_eatgood",
-    "title": "[Hiring] Artist to do 2d animations",
-    "content": "[Hiring] Artist to do 2d animations\n\nI'm working on a personal project and I'm looking for an artist to make animations.  \nI need 15 done, budget of $750 USD. Here's an example of the style/quality needed:  \nThank you!  \n\n\nhttps://i.redd.it/65mvli2x4fgh1.gif",
-    "url": "https://reddit.com/r/HungryArtists/comments/1vb3wr8/hiring_artist_to_do_2d_animations/",
-    "quality": "High Quality",
-    "budget": "$750",
-    "created_at": "2026-07-30T19:39:51Z"
   }
 ]
