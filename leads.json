@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vesdkm",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/Porumaru",
+    "title": "[Hiring] Freelance 3D Character Modeler (Anime Style), Unity Game",
+    "content": "[Hiring] Freelance 3D Character Modeler (Anime Style), Unity Game\n\nBudget: $500-$1000\n\nProject: Indie game built in Unity, featuring a horror-adjacent anime character.\n\nLooking for: A 3D character modeler who can work in an anime-inspired stylized realm, not hyper-realistic, not overly moe. The assignment will specifically be modeling a variant of a cute anime girl.  \n  \nStyle isn't 100% locked yet.\n\nScope: modeling only. Rigging, blendshapes, and facial setup will be handled as a separate pass with a different artist later. Please don't quote for that, just the model.\n\nWhat I need:\n\n* Unity-ready topology: clean quads/tris, game-appropriate poly count (open to discussing target range based on your workflow)\n* Textures: PBR or toon-shaded, whichever fits your normal pipeline, happy to align on this during scoping\n* Standard export (FBX), software-agnostic (Blender, Maya, etc. all fine)\n* Facial topology: enough edge loop density around the mouth and eyes to support expressive animation down the line. Separate tongue/teeth geometry preferred if that's part of your normal process. Eyes as separate geometry from the face.\n\nTimeline: No hard deadline yet, but hoping to move relatively quickly once I find the right person, realistically within the next month or two.\n\nTo apply, please send:\n\n* Portfolio (website, ArtStation, Twitter, wherever your work lives) with anime-style character work especially relevant\n* Brief note on your current availability\n* I'll follow up by DM with anyone whose work fits\n\nHappy to answer questions in comments. Thanks for reading.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1vesdkm/hiring_freelance_3d_character_modeler_anime_style/",
+    "quality": "High Quality",
+    "budget": "$500-1000",
+    "created_at": "2026-08-03T22:39:47Z"
+  },
+  {
     "post_id": "1verk05",
     "platform": "Reddit",
     "source": "r/commissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-30T21:12:34Z"
-  },
-  {
-    "post_id": "1vb6242",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Extreme_Meet_3589",
-    "title": "[HIRING] Looking for an artist for my Soul Eater fan novel cover!",
-    "content": "[HIRING] Looking for an artist for my Soul Eater fan novel cover!\n\nHi! I’m looking for someone to draw the cover for a Soul Eater fan novel I’ve been writing for a while now.\n\nI already have a pretty clear idea of what I want. The main focus would be Death the Kid reaching his hand toward the viewer (I’ll provide the pose reference).\n\nBudget: 250 (flexible depending on experience and style.)\n\nPlease comment or DM me with your portfolio and prices. Thanks! 🖤",
-    "url": "https://reddit.com/r/artcommissions/comments/1vb6242/hiring_looking_for_an_artist_for_my_soul_eater/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-30T20:57:46Z"
   }
 ]
