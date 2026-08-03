@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1verk05",
+    "platform": "Reddit",
+    "source": "r/commissions",
+    "author": "u/Illustrious-Log-2070",
+    "title": "[Hiring] Looking to have a 3d model of my room",
+    "content": "[Hiring] Looking to have a 3d model of my room\n\nNeed an online render/ model of my room so I may be able to test certain arrangements.   \nMax: 50$?",
+    "url": "https://reddit.com/r/commissions/comments/1verk05/hiring_looking_to_have_a_3d_model_of_my_room/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-03T22:06:17Z"
+  },
+  {
     "post_id": "1veqqxg",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-30T20:57:46Z"
-  },
-  {
-    "post_id": "1vb5gdb",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Key-Path-1867",
-    "title": "[PAID] Pixel artist wanted! Hairstyles &amp; clothing for an existing, licensed layered paper doll asset, per-sheet rate",
-    "content": "[PAID] Pixel artist wanted! Hairstyles &amp; clothing for an existing, licensed layered paper doll asset, per-sheet rate\n\nMost importantly! This work comprises the expansion of a commercially licensed, existing art set approved under the terms of the artist's license: \n\n* [https://selieltheshaper.weebly.com/user-license.html](https://selieltheshaper.weebly.com/user-license.html) (under Editing section &amp; Freelancers section)\n\nThe Mana Seed system is a \\~16-layer paperdoll built on Seliel the Shaper's **Mana Seed \"Farmer Sprite System\"**, with runtime palette swapping.  I need more hairstyles and clothing/accessories so my NPCs stop looking like the player wearing a different shirt.\n\n**I'm hiring per sheet, and I'd like your rate per sheet.** I'm keen to establish an ongoing relationship with more than 1 artist, so after reviewing the scope of work. Please feel free to quote for hair or clothing or both!\n\nHopefully a helpful note: this is 16 bit-era homage stuff: Secret of Mana, Trials of Mana (SNES version), Secret of Evermore, Chrono Trigger. Many of my references will include images of those games as well.\n\n# Important Notes on the Scope of Work\n\nA product in this system is **not** four drawings. Each sheet is:\n\n* **1024 × 1024 px (**a 16 × 16 grid of 64 × 64 cells)\n* **192 occupied cells,** some are unique positions, but many are simply adjusting the position of the hair (or slight adjustments to add animated motion to the hair/garment)\n* **3 drawn directions:** down, up, right. Left is mirrored at runtime, so it isn't necessary for you to include\n* **Aligned cell-for-cell with the body sheet:** every layer is frame-locked to it. I would expect this to also be done on the body sheets that I'll provide.\n* **For hairstyles**, I would want per-frame animation.\n\n  \nI know that's scary, sorry! I just don't want to waste anyone's time!\n\n# Technical constraints\n\n* **No anti-aliasing.** Every pixel is alpha 0 or alpha 255. Hard edges only, please!\n* **Fixed palette.** Recolorable pixels must be the exact hex values from the pack's base ramps (I'll send them, along with other information!). My recolor is an exact-match pixel remap, so being off by one color would break my recoloring system.\n* Deliver **flat PNG + layered source**\n\nI have the sheet dimensions, base palette (and example palettes if you want'em), and templates. Happy to provide them, but I don't want to put them up here as they are licensed assets. The base Farmer sprite I'm using IS available for free here:\n\n* [https://seliel-the-shaper.itch.io/farmer-base](https://seliel-the-shaper.itch.io/farmer-base)\n\nAnd should contain the templates, but I will provide them as well so we don't have any confusion!\n\n# Paperwork stuff\n\n**Rights**: I'm buying the new artwork outright. You keep full portfolio rights to display it, and you get credited by name in the game (unless you specify otherwise).\n\nI'm fairly new to art commissions, so if this sounds off, let me know and we can talk through your preferences; but mostly I'm aimed at protecting commercial interests while not stiffing you out of proving you did good work.  \n\n\n**No generative AI.** The pack's license forbids it, so I am looking for hand-authored pixel art. If possible, I'd love to see WIP so we can both have receipts and cover our buns.\n\n# Process\n\nBasic stuff! Send me a DM and if you have portfolio work in the retro pixel art SNES-era JRPG/ARPG vein (swinging for the fences, I know), include it! =&gt; I'll send references and a spec sheet =&gt; Send me a quote per sheet =&gt; We can do a deposit (PayPal preferred) =&gt; DM/email/hop on a call to go through scope, milestones/payments, and timeline. \n\n  \nAfter that, just keep me in the loop, send WIP for milestones, and then we finish it out.\n\n  \nI'm super excited! And obviously let me know if this post is outrageous? First time posting a classifieds ad for an artist, but really keen to work with y'all! If this goes well I'll need pixel art creatures in the same vein!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vb5gdb/paid_pixel_artist_wanted_hairstyles_clothing_for/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-30T20:35:31Z"
   }
 ]
