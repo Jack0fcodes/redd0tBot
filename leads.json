@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1veqi9j",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Odd-Distribution5295",
+    "title": "[PAID] Looking for a C / Visual Studio Developer for a Hardcore Difficulty Mod (Existing Game)",
+    "content": "[PAID] Looking for a C / Visual Studio Developer for a Hardcore Difficulty Mod (Existing Game)\n\nLooking for a C / Visual Studio Developer to help me create a custom, high-difficulty gameplay overhaul mod for an **existing classic game** (using its open-source decompilation / source code project in Visual Studio).  \n(sorry my bad english, i'm hispanic)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1veqi9j/paid_looking_for_a_c_visual_studio_developer_for/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-03T21:25:47Z"
+  },
+  {
     "post_id": "1vepn88",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-07-30T17:50:17Z"
-  },
-  {
-    "post_id": "1vb2znk",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Known_Singer_513",
-    "title": "[HIRING] - 2D Artist",
-    "content": "[HIRING] - 2D Artist\n\nHi there, \n\n  \nI am looking to hire an artist for my simple TCG game. I have mocks for the layout. \n\n  \nThings that I need:\n\n* Professional Card Template (Front)\n   * Multiple Colors, Three Different Card Types\n   * I have a mock version need a professional piece. \n* Professional Card Back\n* The layout of the board\n* UI Building\n* Will purchase your old artwork/license to use. I have a stockpile of artwork that I have the authorization to use, but if there is a piece you wish to license/are able to sell for I will purchase it :) \n\nI have the game mostly built. \n\nBonus Points (money lol) if you can help me best integrate it into Godot. \n\n  \n\\*\\*Note\\*\\* I will publicly shame you if you use robots ❤️",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vb2znk/hiring_2d_artist/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-07-30T19:06:44Z"
   }
 ]
