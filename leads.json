@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vf6lry",
+    "platform": "Reddit",
+    "source": "r/Artistsforhire",
+    "author": "u/Mr_BusinessDK",
+    "title": "Looking for an Artist/Illustrator for a New Premium Brand Project [Hiring]",
+    "content": "Looking for an Artist/Illustrator for a New Premium Brand Project [Hiring]\n\nHi!\n\nWe are two founders building a new premium lifestyle brand and are looking for an artist/illustrator to help create the visual identity for our first collection.\n\nWe're looking for a series of quick concept sketches (around 1–2 hours of work) to see if your artistic style matches our vision and if we're a good fit to work together.\n\nAs we're still in the early stages of our startup, this initial sketch phase is unpaid.\n\nIf we decide to continue with you, we'll offer a symbolic payment of $30–100 for the next stage, with the goal of building a long-term collaboration and many more paid projects as the brand grows.\n\nIf you're interested, feel free to comment or send us a message with examples of your work. :)",
+    "url": "https://reddit.com/r/Artistsforhire/comments/1vf6lry/looking_for_an_artistillustrator_for_a_new/",
+    "quality": "High Quality",
+    "budget": "$30-100",
+    "created_at": "2026-08-04T10:34:05Z"
+  },
+  {
     "post_id": "1vf6ive",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$300",
     "created_at": "2026-07-31T12:32:58Z"
-  },
-  {
-    "post_id": "1vbm6t4",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/Problem_Solverz",
-    "title": "[HIRING] UI/UX Designer for \"AutoTempest of India\" Startup - 2-Week MVP Sprint (Figma / Tailwind)",
-    "content": "[HIRING] UI/UX Designer for \"AutoTempest of India\" Startup - 2-Week MVP Sprint (Figma / Tailwind)\n\n**Who we are &amp; What we need:** We are JaanCar, an early-stage startup building an aggregator and diagnostic data layer for the Indian used car market. We need a sharp UI/UX designer for a fast-paced 2-week MVP sprint. We have funding pitches in 10–15 days, so we need clickable prototypes that shift our interface from a standard classifieds site into a clean, clinical diagnostic platform.\n\n**Core MVP Deliverables:**\n\n* **Landing Page:** A dual-action hero section featuring unified search and a \"URL Drop-Zone\" for instant diagnostic pre-checks.\n* **P2P Deal Checker:** A conversion page where users paste URLs from OLX/Cars24 to get instant visual risk assessments.\n* **Comparison UI (The \"Anti-Checkbox\"):** A data-dense, interactive UI that visually compares price-to-market data and \"trust meters.\"\n* **Booking Modal:** A frictionless 3-step checkout flow.\n\n**Design Style &amp; Technical Requirements:**\n\n* **Web-First UI:** We are prioritizing a rich, data-dense desktop experience first that scales down gracefully to mobile.\n* **Aesthetic:** Clean and clinical (Deep Navy, Slate Grey, Crisp Whites) with high-contrast alert colors (Green/Red/Yellow).\n* **Deliverables:** Layered Figma files utilizing Tailwind CSS-friendly design tokens and responsive breakpoints.\n\nBUDGET : $300, we are open to longer term commitments too as we get funded",
-    "url": "https://reddit.com/r/DesignJobs/comments/1vbm6t4/hiring_uiux_designer_for_autotempest_of_india/",
-    "quality": "High Quality",
-    "budget": "$300,",
-    "created_at": "2026-07-31T09:37:41Z"
   }
 ]
