@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vfy8t8",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/MTIofthetiger",
+    "title": "[Hiring] $30 looking for someone to create some concert flyer templates based on some art themes that have already been established.",
+    "content": "[Hiring] $30 looking for someone to create some concert flyer templates based on some art themes that have already been established.\n\nWould like some reusable templates that I can fill in the location, time, and venue at a later time.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1vfy8t8/hiring_30_looking_for_someone_to_create_some/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-08-05T05:29:27Z"
+  },
+  {
     "post_id": "1vfx76q",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-01T17:50:57Z"
-  },
-  {
-    "post_id": "1vctpx9",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/del1verance",
-    "title": "[PAID] Hiring game UI/UX designer: dark-fantasy Souls-like, ~14 screens + style guide, $4–6k",
-    "content": "[PAID] Hiring game UI/UX designer: dark-fantasy Souls-like, ~14 screens + style guide, $4–6k\n\n**The game**\n\n*Blood Mage* is a 2.5D side-scrolling Souls-like built in Unreal 5.8. The hook: **health is mana** — every spell costs HP with a hard 1 HP floor, so the health bar is your resource, your threat, and your economy in one strip of red. Combat and systems are built and playable — the UI is the weak layer: part pixel kit, part stock menu-framework chrome, and one screen that doesn't even exist yet.\n\n**The job**\n\nRedesign essentially every screen into one coherent, controller-first system:\n\n- In-world HUD · non-pausing in-game menu · inventory · spell loadout · character/status screen (net-new) · settings + rebinding · bonfire hub (level-up, alchemy, skill tree) · save slots · title screen · death screen · fishing overlay · dialogs and toasts\n\n- Deliverables: **high-fidelity mockups (Figma or similar) plus a component style guide** — frames, buttons, focus states, bars, type scale, spacing — tight enough for me to rebuild everything in UMG myself. \n\n- Expanded Scope: If you can work directly with/in Unreal 5.8, we would *love* a quote for implementation.\n\n- Built from **marketplace asset packs, not bespoke art.** We own a dark-fantasy pixel UI kit and Synty's Fantasy Warrior HUD pack; your first milestone is an art-direction recommendation, and a third pack is absolutely on the table (We'll buy it).\n\n**What you work from**\n\nA 25-page brief with annotated screenshots of every current screen, a screen-flow map, input tables, and technical constraints — plus capture sessions on request. You are not starting cold.\n\n**Budget &amp; terms**\n\n**$4,000–$5,000** for roughly 90–110 hours across 4–6 weeks, paid per milestone (discovery is a fixed paid fee, so it's a cheap exit for both of us if the fit is wrong). Some flexibility for a strong game-UI portfolio. Credit in-game offered; NDA available but not required.\n\n**To apply**\n\nDM me with your portfolio (game UI especially — dark fantasy a plus), your rate, and availability. Bonus points if, after seeing the brief, you have an opinion on the pixel-vs-painterly question — that's the first conversation we'll have.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vctpx9/paid_hiring_game_uiux_designer_darkfantasy/",
-    "quality": "High Quality",
-    "budget": "$4-6",
-    "created_at": "2026-08-01T17:45:40Z"
   }
 ]
