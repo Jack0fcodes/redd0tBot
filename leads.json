@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vhganb",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ChromicTTN",
+    "title": "[PAID] Looking for 3D Character Artist – Anime with Semi-Realistic proportions | Blender ($2000 | open to negotiation)",
+    "content": "[PAID] Looking for 3D Character Artist – Anime with Semi-Realistic proportions | Blender ($2000 | open to negotiation)\n\nLooking for a 3D character artist to create ONE female game-ready character for my tactical RPG.\n\nI will provide:\n\n* Full turnaround/concept sheet\n* Female base mesh with the proportions already established\n\nThe provided base mesh should be used as the foundation. The breast and buttock proportions should NOT be altered, and the feet are already positioned for raised heels.\n\nMust be comfortable with working with highly sexualized characters, whether male or female.\n\n**Style:** Semi-realistic proportions with anime influence. First Berserker Khazan is a good reference where the mesh is semi-realistic in proportion but the eyes are and face shape are anime influenced. I will provide a model from *The First Berserker: Khazan* as a visual style reference only. Nothing from that model may be copied, extracted, reused, or incorporated into the final work.\n\nSo not an anime model from like Genshin Impact or WuWa.\n\n**Requirements:**\n\n* Model clothing, hair, and accessories from the concept\n* Clean, game-ready topology and UVs\n* Approx. 30k–60k triangles preferred, but open to artist recommendation\n* PBR textures: Base Color, Normal, Roughness, Metallic where applicable\n* No baked directional lighting/heavy shadows in Base Color\n* Final stylized shading will be handled in Unreal Engine\n* No rigging, skinning, or animation required\n\n**Deliverables:**\n\n* Original Blender (.blend) project file\n* Unrigged final character\n* PBR textures\n* FBX export\n\nPlease link to your portfolio if interested.\n\n  \n\n\n  \nThank you!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vhganb/paid_looking_for_3d_character_artist_anime_with/",
+    "quality": "High Quality",
+    "budget": "$2000",
+    "created_at": "2026-08-06T20:48:48Z"
+  },
+  {
     "post_id": "1vheaz9",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-03T12:21:55Z"
-  },
-  {
-    "post_id": "1veb1yq",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Cresyae",
-    "title": "[PAID] Solo developer looking for a concept artist to help find the visual style of my sci-fi survival game",
-    "content": "[PAID] Solo developer looking for a concept artist to help find the visual style of my sci-fi survival game\n\nHi everyone, I’m a solo developer from Italy working on my first game. The current working title is SKYFRAME, not final at all.  \nIt’s a cooperative science-fiction survival game built in Godot.\n\nThe player is permanently inside a flight-capable exosuit and explores a hostile alien world after following a distress signal.  \nThis is already a playable project, not only an idea or design document. The flight system works and most of the survival foundation is playable. I’m currently finishing the vertical slice before moving toward the real world and its final visual production.\n\nUntil now I have focused mainly on making the game work and feel good. A lot of the current art is placeholder material.  \nI do have some starting ideas for the visual direction. I was thinking of cel-shaded science fiction with an anime-mecha influence OR a stylized science-fiction look built from simple low/medium-poly graphics and low/medium-resolution textures, and in both cases lighting and atmosphere providing most of the visual richness, but I'm open to any suggestion except realism. The world should feel atmospheric, warm and painterly in open areas, then become darker as the player travels underground or dark zones. Everything also should remain readable while flying.  \n**That said, I don’t have the complete answer for what the game should look like.**\n\nI’m not an art director and this is my first game. I’m looking for somebody who is comfortable helping me explore that answer, rather than expecting me to arrive with every visual decision already made.\n\nThe first collaboration would be a small paid exploration. We would look at the current build and talk about what I already like. You could then propose some rough directions. If one of them feels right, I would like to develop it further into a proper style frame and a short visual guide that can help later production, kinda like a visual “bible” to guide the future work.  \nI’m interested in how you think, not only in how polished your illustrations are. It would help if you can explain why a certain shape fits the game, or why one approach may become difficult when made into 3D.\n\nI’m not looking for somebody to begin tomorrow. I want to finish the current vertical slice first, but I would like to start meeting artists and understanding their process now. If the collaboration goes well, I expect to return to you during development, especially for future concept art work.  \nLater work could cover important locations, island concepts and creature designs as they become relevant. I cannot promise a fixed amount of future work, but I am not looking for a single illustration and then moving on to somebody else.\n\nThe visual-development work I’m hiring for must be created by the artist. I am not looking for AI-generated concepts or portfolios.\n\nThis is a commercial project, so usage rights and deliverables would be agreed before starting.\n\nIf you are interested, send me your portfolio first. Also please tell me your usual rates and when you may be available.  \nA few honest lines about how you approach style exploration would be useful too.  \nYou can reply here or contact me privately.\n\nThanks and ciao!\n\np.s. Yes this is a new account for the “studio”, i’m still waiting on the logo to be made and then to prepare the first landing page with the first details on the game.\n\np.p.s. I noticed late that reddit automatically block private message by default, i unlocked the private message now T.T",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1veb1yq/paid_solo_developer_looking_for_a_concept_artist/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-03T11:42:57Z"
   }
 ]
