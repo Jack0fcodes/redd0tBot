@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vhypql",
+    "platform": "Reddit",
+    "source": "r/Artistsforhire",
+    "author": "u/Substantial_Iron_871",
+    "title": "Attention Digital Artists [Hiring]",
+    "content": "Attention Digital Artists [Hiring]\n\nLooking for several remote videographers and designers willing to work on various ad creation jobs.\n\nWe require you to have access to stripe to be paid out, and pay is job specific with work ranging from minor 50 USD projects to full scale 400+ USD campaigns. You can choose for yourself which pay range you aim for.\n\nPlease check if your country has access to stripe, there are no exceptions to this rule.\n\nThis will be an ongoing program for as long as you wish, no long term contract you can leave when you wish to do so. Pay held by middleman and delivered on job completion.\n\nTo apply please message me privately (with some prior work if possible).",
+    "url": "https://reddit.com/r/Artistsforhire/comments/1vhypql/attention_digital_artists_hiring/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-07T12:03:00Z"
+  },
+  {
     "post_id": "1vhwo8q",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-03T22:06:17Z"
-  },
-  {
-    "post_id": "1veqqxg",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/sincover",
-    "title": "[Hiring] 3D Artist Needed for Top-Down Sci-Fi Hero Ship (Budget : minimum $100)",
-    "content": "[Hiring] 3D Artist Needed for Top-Down Sci-Fi Hero Ship (Budget : minimum $100)\n\nLooking for a 3D artist to create a single medium-large hero ship (approx. 350m scale but will be viewed from isometric angles) for a hard-science indie space game.\n\nDetails:\n\nBudget: $100 - $200\n\nDeadline: 1 week but flexible.\n\nPolycount: 40k–80k tris (LOD0) - I'll provide details for 2 remaining LODs upon contact.\n\nStyle: Hard sci-fi/industrial. Strong silhouette from a top-down 3/4 view.\n\nDeliverables: FBX + PBR Texture maps (Albedo, Normal, Metallic, Roughness, Emission, AO). Standard Unity URP Lit workflow.\n\nThe camera angle is locked to a 55–70° downward pitch. The underside of the ship is never seen and requires no detail.\n\nNo rigging, skinning, or complex animation required.\n\nLighting is a single hard directional light (no bounce/fill).\n\nI have a comprehensive, 1-page technical spec sheet ready that defines exact pivot requirements, marker placements for thrusters, and delivery formats so there is no guesswork on your end. \n\nPlease reply with a link to your portfolio, specifically highlighting any hard-surface or mechanical work along with your contact info!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1veqqxg/hiring_3d_artist_needed_for_topdown_scifi_hero/",
-    "quality": "High Quality",
-    "budget": "$100-200",
-    "created_at": "2026-08-03T21:34:56Z"
   }
 ]
