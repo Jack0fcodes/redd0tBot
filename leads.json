@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vinfor",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/LatokValdelius",
+    "title": "[HIRING] 2D Illustrator – 15 Static Narrative Panels (Mural / Concept Art Style)",
+    "content": "[HIRING] 2D Illustrator – 15 Static Narrative Panels (Mural / Concept Art Style)\n\nProject: Geima: Cadence (Indie 2D Rhythm Runner in Godot 4)\n\n\n\nScope: 15 Static Cutscene Keyframes (Stylised 2D Graphic / Mural Concept Art Style)\n\n\n\nTarget Specs: 640x288 Native Pixel Scale (16:9 safe area, flat solid background edges for dynamic UI scaling).\n\n\n\nWe are seeking a 2D artist to illustrate 15 static narrative panels across 5 narrative sequences (3 panels per story arc).\n\n\n\nStyle Reference: 2D graphic animated prologue style (e.g., Prince of Egypt, Hercules intro). Flat matte pigments, expressive charcoal/ink lines, zero 3D bloom/gradients.\n\n\n\nFull Brief &amp; Lore Document:\n\n[https://gist.github.com/juan-medina/c0497ac67265a3780cf818584412a173](https://gist.github.com/juan-medina/c0497ac67265a3780cf818584412a173)\n\n\n\nDeliverables Required:\n\n* 15 Standalone 2D static panel illustrations (640x288 or 1920x864 source)\n* Solid-color outer edge backgrounds for UI expansion\n\nIn your application/quote, please provide:\n\n1. Link to your portfolio (preferably showing stylised 2D concept/illustration work)\n2. Estimated Total Price (per panel or flat rate for all 15)\n3. Estimated Timeframe / Turnaround Time\n\n  \nContact: via Direct Message",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vinfor/hiring_2d_illustrator_15_static_narrative_panels/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-08T05:26:36Z"
+  },
+  {
     "post_id": "1vilyta",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-150",
     "created_at": "2026-08-04T16:33:54Z"
-  },
-  {
-    "post_id": "1vfeg0u",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/kerobyx",
-    "title": "[Hiring] $30-$60 average (some higher some lower) Looking for paid 3d modelers to partner with me (models for 3d printing)",
-    "content": "[Hiring] $30-$60 average (some higher some lower) Looking for paid 3d modelers to partner with me (models for 3d printing)\n\nI'm not able to attach a form to this so look for it in the comments! No need to DM me, thanks! :)\n\nI run a business where I do 3d printing and I get a decent amount of custom requests that I don't have the skill to complete. The guy I work with is amazing and we've been working together for about 2 years now, but he's taking on a full time salary job and won't have time anymore.\n\nI'm looking for someone who understands 3d modeling and 3d printing (Not strictly 3d models for games or animations) I'm also looking for someone I can personally get along with, and pays  \nattention to all details given in regards to the models.\n\nThe models vary from simple things like little cartoon characters, keychains, and magnets to sometimes things like house replicas, people, animals, buildings, cars, or detailed statues. A majority of it is on the non hyper realistic side though. If you only deal in buildings for example, I could contact you just for that! I would prefer an all around person, but I'm open to hearing you out!\n\nNo specific skill set required. Even if you are fairly new to the game, I'm all ears! I FULLY understand everyone has their own worth, so our ideas of prices might not match up and that's okay. I'd rather we both leave happy and not have any regrets financially.\n\n\\*You are not employed by me and this is not a full time job\\*\n\nThe work is on an \"as needed\" basis. Sometimes it's very busy, like holiday time where it may be daily requests. Other times it's 1 a week. Working time should be max 3-5 days per model and be fine with revisions. You would be working directly with me and not with clients. I prefer discord, but I'm open to talking through Instagram, email, etc.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1vfeg0u/hiring_3060_average_some_higher_some_lower/",
-    "quality": "High Quality",
-    "budget": "$30-60",
-    "created_at": "2026-08-04T15:59:17Z"
   }
 ]
