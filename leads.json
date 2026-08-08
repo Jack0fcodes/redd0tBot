@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vixe2e",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Feedinkoo",
+    "title": "[Hiring] – Brand Designer (Full-Time) $40 – $64/Hourly",
+    "content": "[Hiring] – Brand Designer (Full-Time) $40 – $64/Hourly\n\nFully Remote Job Opening 🚀\n\nRole – Brand Designer (Feeld)  \nSalary – $40– $64/Hourly  \nLocation – Remote, United States\n\nAbout the Company – Feeld is an independent, fully remote dating and relationships platform focused on creating a more open and inclusive approach to intimacy and connection. The company is seeking a Brand Designer to create CRM and email campaigns, App Store marketing assets, product storytelling, web visuals, and scalable design systems while collaborating with product, growth, and marketing teams.\n\nLet us know if you are Interested",
+    "url": "https://reddit.com/r/DesignJobs/comments/1vixe2e/hiring_brand_designer_fulltime_40_64hourly/",
+    "quality": "High Quality",
+    "budget": "$40-64",
+    "created_at": "2026-08-08T14:26:26Z"
+  },
+  {
     "post_id": "1viu5qv",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-04T20:29:21Z"
-  },
-  {
-    "post_id": "1vflhx8",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Techrocket9",
-    "title": "[Hiring] Factorio Mod Art - $200 USD",
-    "content": "[Hiring] Factorio Mod Art - $200 USD\n\nAfter [much delay](https://forums.factorio.com/viewtopic.php?t=100141) I am close to releasing my improved [Factorio](https://factorio.com/) belt balancer mod.\n\n\\_\\_\\_\n\nTo commemorate the release, I want to commission some nice updated graphics for the building the mod adds.\n\nThis isn't a commercial project (I'll be giving the mod away for free), but the art assets will be MIT licensed as part of the mod. Thus, the terms of the contract are permanent MIT licensing of the art.\n\nI'm offering $200 USD (payable through [Artistree](https://artistree.io/)) for this job. $100 up front, $100 upon final delivery. The timeline for completion of this project is two weeks from payment of the initial deposit.\n\n\\_\\_\\_\n\nThe mod adds a modular building called a belt balancer -- basically a building with one or more walls for a conveyor belt to enter it, and one or more walls for a conveyor belt to exit it (and some cool details on the top/unused sides).\n\nThe function of the building is to connect all the input belts to the output belts, evenly distributing items from the input belts to the output belts.\n\n[The mod running with placeholder graphics](https://i.redd.it/fi42i1a00fhh1.gif)\n\nThe desired art style is something that matches the built-in Factorio assets (i.e. looks like it could be part of the official game) and is visually pleasing when connected with belts. If you aren't familiar with Factorio, you can find a significant volume of reference footage on YouTube.\n\nThe commissioned artist is welcome to use the \\[3D model to 2D asset workflow\\](https://factorio.com/blog/post/fff-146) that the Factorio developers use, but this is not required.\n\n\\_\\_\\_\n\nIn your post, please notate whether you have or have not played Factorio. Not playing isn't a screen; this is a check to see who actually read my post before posting.\n\nThe tricky bit is that the building is player-assembled out of a grid of 1x1 squares (so it can take on almost any shape), and the overall building's visual is constructed by sampling from a sprite sheet to form a coherent whole. Thus, multiple sprites need to be designed (though they will have much in common).\n\nIn total, there are 4 deliverables:\n\n1. The sprite sheet for the Belt Balancer\n2. The icon for the Belt Balancer\n3. An arrow sprite sheet to render over the connections the Belt Balancer makes to belts when the user toggles arrows on\n4. A logo for the mod (may be derived largely from the other assets)\n\n\n\nThe exact technical details of the deliverables fit better in a pdf than a Reddit post. I've included a PNG render of the spec in the attached images on this post -- will share the actual PDF after an artist is selected.\n\n\\_\\_\\_\n\n**Do not send me a chat request. Post a comment on this post.**",
-    "url": "https://reddit.com/r/HungryArtists/comments/1vflhx8/hiring_factorio_mod_art_200_usd/",
-    "quality": "High Quality",
-    "budget": "$200",
-    "created_at": "2026-08-04T20:08:54Z"
   }
 ]
