@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vkfw7d",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/stuffedcrust_studios",
+    "title": "[PAID] Looking for UI/UX Designer/Artist for my Unity based Pizza Deckbuilder",
+    "content": "[PAID] Looking for UI/UX Designer/Artist for my Unity based Pizza Deckbuilder\n\nHi all!\n\nLooking for a UI Artist to help redo and improve the UI art in my game. I am currently using AI art for most assets which I want to replace before release, also there is definitely room for improvement on general quality and cohesion.\n\n**The Game**\n\nHere is a video showing some raw game footage so you can get an idea of the current state of the game - [https://www.youtube.com/watch?v=CEPCRcctpf0](https://www.youtube.com/watch?v=CEPCRcctpf0)\n\nAlso Steam page - [https://store.steampowered.com/app/4428780/Perrys\\_Pizzeria/](https://store.steampowered.com/app/4428780/Perrys_Pizzeria/)\n\n**Art Style**\n\nThe art style is pretty well determined, going for a kind of 90s cartoony, wonky, hand drawn, colorful kinda style. I wouldn't want it to be drastically different, just... better, and not AI.\n\n**Scope of Work**\n\nHere is a page showing a graphical list of all the UI assets in the game to get an idea of scope - [https://pizzacards-art-tool.vercel.app/showcase/ui-art](https://pizzacards-art-tool.vercel.app/showcase/ui-art)  \nThey are vaguely categorised and priority tagged, but it's not a perfect list, also I wouldn't necessarily want to replace all of these, some fall more into art rather than UI, and also there's some things like the 'Feed Me' and 'Get Paid' buttons which have the text baked in which is probably not a good idea for localisation so these should be something dynamic using new UI art.\n\nSo roughly in priority order what I need is:\n\n\\- Card redesign - new card borders+backgrounds (you can see I have the bronze/silver/gold plus different card styles for bases + sauces), in general open to an overhaul and redesign of the cards to improve quality + readability.\n\n\\- UI Buttons, panels and progress bars/meters - right now I am using the same panel and button for basically everything, and I think a better and more fleshed out UI kit with different 9-sliced buttons and panels would be great to give more cohesion and variety and also can be used to replace some of the text baked in button assets.\n\n\\- Icons - there's a bunch of different icons for things like taste points, energy, hunger, satisfaction etc, a pass on these to make them all better and more consistent would be great. Also the map cell icons (in Run Map section). Also card type icons (dairy, fruit, funghi, etc). Button icons like the fridge as well.\n\n\\- General color + layout pass - open to any suggestions on improvements for the general UI/UX throughout.\n\n\\- Meta Screen Icons (Restaurant and Progression Section) - a bunch of UI elements here, the graphical buttons might be more 'art' than UI but there's a bunch of UI bits too.\n\n\\- Everything else - other random bits + pieces, maybe we tackle the above first though and then can work on these later.\n\n**Applying**\n\nApply by email only please - If you are interested please send portfolio links and price quote to [stuffedcruststudios@proton.me](mailto:stuffedcruststudios@proton.me) \\- DMs/comments may be missed.\n\nPlease highlight any relevant portfolio pieces or previous work, ideally showing something in any similar art style or card game work.\n\nIf you are able to itemize your quote in any way for the above categories that would help, I know I've maybe been a bit vague on some of the details and we can have further discussions on the exact scope but hopefully from the vid + site you can get an idea of what needs doing.\n\nUnity experience not essential but would be a plus, if you're able to navigate the project to find assets and poke around a bit that would be helpful. I'm happy to handle the implementation side though so as to reduce the overall cost.\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vkfw7d/paid_looking_for_uiux_designerartist_for_my_unity/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-10T09:21:23Z"
+  },
+  {
     "post_id": "1vkf66b",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$60-180",
     "created_at": "2026-08-06T09:54:32Z"
-  },
-  {
-    "post_id": "1vgyv3y",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/Complete_Concert9215",
-    "title": "[HIRING] Freelance Wedding Photo Retoucher — Remote, Ongoing Work",
-    "content": "[HIRING] Freelance Wedding Photo Retoucher — Remote, Ongoing Work\n\nHi everyone,\n\n\n\nI run a wedding photography studio and I'm looking for a freelance retoucher to work with us regularly. Looking for individuals only, not agencies or outsourcing teams.\n\n\n\nWhat the work looks like:\n\n\n\nWe shoot weddings and hand over full sets for editing. That means colour correction and keeping the grade consistent across the whole album, natural looking skin retouching, cleaning up blemishes and stray hair, tidying backgrounds, and removing the occasional distraction in frame.\n\n\n\nWhat we're after:\n\n\n\nSomeone solid in Photoshop and Lightroom who can match a reference style across an entire set without it drifting halfway through. Good communication and hitting deadlines matter just as much as the editing itself. Wedding or portrait experience is a plus but not a dealbreaker if the portfolio is strong.\n\n\n\nIf you're interested, fill in this short form:\n\n\n\n[https://docs.google.com/forms/d/e/1FAIpQLSfc0\\_E5NPih6M8jvF2JY4NTr1hBIphebu9x1pXIq21a5JlnlA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfc0_E5NPih6M8jvF2JY4NTr1hBIphebu9x1pXIq21a5JlnlA/viewform)\n\n\n\nI'll go through the responses and send a short paid test to anyone who looks like a good fit. Please apply through the form rather than DMing me so I can keep everything in one place.\n\n\n\nThanks",
-    "url": "https://reddit.com/r/DesignJobs/comments/1vgyv3y/hiring_freelance_wedding_photo_retoucher_remote/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-06T08:59:25Z"
   }
 ]
