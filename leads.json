@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vkw4hp",
+    "platform": "Reddit",
+    "source": "r/commissions",
+    "author": "u/FirefighterTop6105",
+    "title": "[Hiring] I’m looking for a thumbnail artist and a pngtuber artist.",
+    "content": "[Hiring] I’m looking for a thumbnail artist and a pngtuber artist.\n\nHello there. I’m looking for someone to make me a thumbnail and another pngtuber art. It’s gonna be static so I don’t need no emotion really. I’m not sure what to put here budget wise so let’s just say 100$",
+    "url": "https://reddit.com/r/commissions/comments/1vkw4hp/hiring_im_looking_for_a_thumbnail_artist_and_a/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-10T20:19:41Z"
+  },
+  {
     "post_id": "1vkvm0k",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$1,500-2,500",
     "created_at": "2026-08-06T21:41:15Z"
-  },
-  {
-    "post_id": "1vhganb",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/ChromicTTN",
-    "title": "[PAID] Looking for 3D Character Artist – Anime with Semi-Realistic proportions | Blender ($2000 | open to negotiation)",
-    "content": "[PAID] Looking for 3D Character Artist – Anime with Semi-Realistic proportions | Blender ($2000 | open to negotiation)\n\nLooking for a 3D character artist to create ONE female game-ready character for my tactical RPG.\n\nI will provide:\n\n* Full turnaround/concept sheet\n* Female base mesh with the proportions already established\n\nThe provided base mesh should be used as the foundation. The breast and buttock proportions should NOT be altered, and the feet are already positioned for raised heels.\n\nMust be comfortable with working with highly sexualized characters, whether male or female.\n\n**Style:** Semi-realistic proportions with anime influence. First Berserker Khazan is a good reference where the mesh is semi-realistic in proportion but the eyes are and face shape are anime influenced. I will provide a model from *The First Berserker: Khazan* as a visual style reference only. Nothing from that model may be copied, extracted, reused, or incorporated into the final work.\n\nSo not an anime model from like Genshin Impact or WuWa.\n\n**Requirements:**\n\n* Model clothing, hair, and accessories from the concept\n* Clean, game-ready topology and UVs\n* Approx. 30k–60k triangles preferred, but open to artist recommendation\n* PBR textures: Base Color, Normal, Roughness, Metallic where applicable\n* No baked directional lighting/heavy shadows in Base Color\n* Final stylized shading will be handled in Unreal Engine\n* No rigging, skinning, or animation required\n\n**Deliverables:**\n\n* Original Blender (.blend) project file\n* Unrigged final character\n* PBR textures\n* FBX export\n\nPlease link to your portfolio if interested.\n\n  \n\n\n  \nThank you!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vhganb/paid_looking_for_3d_character_artist_anime_with/",
-    "quality": "High Quality",
-    "budget": "$2000",
-    "created_at": "2026-08-06T20:48:48Z"
   }
 ]
