@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vmpaqn",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/ShallowWarlock",
+    "title": "[Hiring] artist to do B-day illustration of pets.",
+    "content": "[Hiring] artist to do B-day illustration of pets.\n\nHello, I am searching for an artist to create a portrait of my girlfriend's three cats together. Searching for a cutesy art style for around $30. Thank you!",
+    "url": "https://reddit.com/r/artcommission/comments/1vmpaqn/hiring_artist_to_do_bday_illustration_of_pets/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-08-12T20:14:45Z"
+  },
+  {
     "post_id": "1vmoriq",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-09T05:01:02Z"
-  },
-  {
-    "post_id": "1vjfupy",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Suspicious-Sell-1235",
-    "title": "[PAID] Data Engineer, Simulation / World Builder",
-    "content": "[PAID] Data Engineer, Simulation / World Builder\n\n# About us\n\nWe are a stealth research lab developing a new paradigm of intelligent agents that continually learn, adapt, and improve through experience.\n\nOur goal is not to apply existing models to industry. We are conducting fundamental research into new kinds of AI systems that can learn how to learn.\n\n# About the role\n\nThis is not a conventional data engineering role.\n\nYou will build the scalable data pipelines, simulations, games, and interactive environments used to train the next paradigm of models that do not only memorize but continually learn as they interact with the world.\n\nYou will work closely with researchers and engineers to turn ideas about learning and intelligence into large-scale training environments and rigorous evaluations.\n\n# What you'll do\n\n* Build scalable data pipelines and infrastructure for training and evaluation\n* Design simulations, games and interactive environments for agent learning\n* Generate large-scale experience data from agent interactions\n* Develop evaluations for continual learning, adaptation and generalization\n* Analyze agent behavior and create new challenges and feedback systems\n\n# You'll thrive in this role if\n\n* You are a strong, hands-on engineer with experience in software, data, games, or simulations, and you hold yourself to an exceptionally high bar\n* You have built scalable pipelines, distributed systems, environments or evaluation infrastructure, and want to push further\n* You think creatively and rigorously about how intelligent behavior emerges through experience\n* You are deeply passionate about fundamental AI research, and are excited to pushing toward the next AI paradigms\n* You use AI tools to maximize your productivity\n* You want to work relentlessly alongside a small, high-intensity team on something you genuinely believe in and find truly exciting\n\n# Practical details\n\n**Location:** Remote, with consistent availability during agreed-upon core working hours and occasional travel for team-wide off-sites several times a year\n\n**Employment:** Full-time\n\n# Application\n\nPlease send to [hi@afterlabs.ai](mailto:hi@afterlabs.ai)\n\n* Your CV\n* Links to your profiles (e.g., LinkedIn, X, Google Scholar, GitHub, personal page, etc)\n* 1-2 examples of projects related to synthetic data, games, or simulations you’ve contributed to",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vjfupy/paid_data_engineer_simulation_world_builder/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-09T04:07:54Z"
   }
 ]
