@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vnq390",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/KevinTheWolfy",
+    "title": "[Hiring] I’m looking for an artist to help draw a game thumbnail, ~150$ budget!",
+    "content": "[Hiring] I’m looking for an artist to help draw a game thumbnail, ~150$ budget!\n\nHey! I’m looking for an artist to help draw a game thumbnail for an indie RPG I’m currently working on!\n\nIt would be “a kid falling in a dark void, hand pointed up. A bear near them (Split in-half leaking fluff) and a bee flying around the kid with hearts”.\n\n \n\n[\\(Something on the line of this\\)](https://preview.redd.it/oqreu10n28jh1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=833d5f2169a8cdf325bd68511404691f8caaf809)\n\n***Note, I pay via paypal!***",
+    "url": "https://reddit.com/r/artcommissions/comments/1vnq390/hiring_im_looking_for_an_artist_to_help_draw_a/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-13T22:56:10Z"
+  },
+  {
     "post_id": "1vnn7pw",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-10T08:31:14Z"
-  },
-  {
-    "post_id": "1vkdifd",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/thinkatcloud",
-    "title": "[PAID] Unity 2D isometric level designer — build a raid map from my layout plan + provided tileset",
-    "content": "[PAID] Unity 2D isometric level designer — build a raid map from my layout plan + provided tileset\n\nHi all,\n\nI'm a solo hobbyist dev working on a 2D isometric extraction shooter in Unity (zombie / post-apocalyptic setting, PvE, top-down isometric). I'm handling the code and systems myself, but level design is not my strength, and in this genre the map is the game. So I'd rather pay someone who knows what they're doing.\n\n\n\n**The job**\n\nBuild one playable raid map in a Unity scene, using tilesets I already own and provide.\n\nI have a hand-drawn layout plan with the zones, buildings, main routes and extraction points. I'm not looking for someone to copy it tile for tile — I want someone with an actual level design eye who can take my intent and improve on it: readability of routes, landmarks, chokepoints, risk/reward zoning, pacing between open streets and tight interiors.\n\n\n\n**What I provide**\n\n\\- Unity project (Unity 6, URP, 2D) with the Grid and Tilemap layers already set up (Ground, Details, Walls &amp; Objects, Roof, Shadows), correct sorting and Z-as-Y configuration\n\n\\- Tile palettes ready to use\n\n\\- SmallScale Interactive HD isometric tilesets (Zombie City / Rural / Interior) — legally purchased on the Unity Asset Store, provided for this job only\n\n\\- My layout plan, annotated with approximate distances in tiles\n\n\\- Reference scenes showing the visual quality I'm aiming for\n\n\n\n**What I need back**\n\n\\- One assembled Unity scene, layered correctly\n\n\\- Clean colliders on walls and blocking props\n\n\\- Circulation paths kept clear (this is a shooter — props must not hide loot or enemies)\n\n\\- Marked positions for loot container spawn points and extraction zones\n\n\\- A short note on any design changes you made and why\n\n\n\n**Requirements**\n\n\\- Prior 2D isometric level design work in Unity — please link examples\n\n\\- Comfortable with Tilemaps, sorting layers, Z as Y\n\n\\- English or French\n\n\n\n**Process and payment**\n\nI'd like to start with a small **paid test:** one building or one street block, so we both see if it's a good fit. If it works out, we agree a fixed price for the full map, split into milestones.\n\nPlease tell me your rate (hourly or fixed) and your availability. To be upfront: I'm a solo hobbyist doing this for the love of it, not a studio with a budget — so I won't pretend I can match studio rates. That said, I'd rather pay a fair price for good work than go cheap and redo it. If my budget doesn't line up with your rate, no hard feelings at all — and if you'd still be up for the smaller paid test, I'd be glad to talk.\n\n\n\n**To apply**\n\nComment or DM with your portfolio, relevant examples, and your rate. Happy to share more about the project.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vkdifd/paid_unity_2d_isometric_level_designer_build_a/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-10T06:57:10Z"
   }
 ]
