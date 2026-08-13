@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vnlfwy",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Sweet-Upper",
+    "title": "[Hiring] [Paid] 2D Level Designer / Tiled Map Editor for Pokémon-style 2D Game (Phaser 3)",
+    "content": "[Hiring] [Paid] 2D Level Designer / Tiled Map Editor for Pokémon-style 2D Game (Phaser 3)\n\n\\*(English version below | Versão em Português abaixo)\\*\n\n\n\n\\---\n\n\n\n\\### 🇬🇧 English Version\n\n\n\nHello everyone! We are looking for someone to help create multiple map environments for our 2D Pokémon-style indie game developed using \\*\\*Phaser 3\\*\\*. No need to be a senior professional, hobbyists and beginners with map-making experience are welcome!\n\n\n\n\\*\\*Project Overview:\\*\\*\n\n\\* \\*\\*Style:\\*\\* Top-down 2D pixel art RPG (inspired by classic Pokémon games).\n\n\\* \\*\\*Tool:\\*\\* \\*\\*Tiled Map Editor\\*\\* (maps must be exported and delivered in \\*\\*JSON format\\*\\*).\n\n\\* \\*\\*Scope:\\*\\* Design several maps (routes, towns, interior buildings, and forests) maintaining consistent scale, clean layer structuring (ground, collision/blocked layers, objects/decorations), and great aesthetic flow.\n\n\n\n\\*\\*Requirements:\\*\\*\n\n\\* Experience using the \\*\\*Tiled Map Editor\\*\\*.\n\n\\* Ability to structure layers properly (especially collision and depth layers for Phaser).\n\n\\* Good sense of composition, pacing, and visual storytelling suitable for an RPG world.\n\n\\* Basic communication in English or Portuguese.\n\n\n\n\\*\\*What We Provide:\\*\\*\n\n\\* The complete tilesets and asset sheets to work with.\n\n\\* Technical guidelines regarding map sizes, tile dimensions, and layer naming conventions.\n\n\n\n\\*\\*How to Apply:\\*\\*\n\nIf you are interested, please send a message or comment below with:\n\n1. A link to your portfolio or examples of previous maps created in \\*\\*Tiled\\*\\*.\n\n2. Your rates (per map or hourly).\n\nYou don't need to be a professional—just someone capable of handling the job.\n\n\\---\n\n\n\n\\### 🇧🇷 Versão em Português\n\n\n\nOlá a todos! Estamos procurando alguém para ajudar a criar múltiplos mapas para nosso jogo indie 2D estilo Pokémon desenvolvido em \\*\\*Phaser 3\\*\\*. Não precisa ser um profissional experiente, entusiastas e iniciantes que saibam usar a ferramenta são muito bem-vindos!\n\n\n\n\\*\\*Visão Geral do Projeto:\\*\\*\n\n\\* \\*\\*Estilo:\\*\\* RPG 2D top-down em pixel art (inspirado nos jogos clássicos de Pokémon).\n\n\\* \\*\\*Ferramenta:\\*\\* \\*\\*Tiled Map Editor\\*\\* (os mapas devem ser exportados e entregues em \\*\\*formato JSON\\*\\*).\n\n\\* \\*\\*Escopo:\\*\\* Desenvolver vários mapas (rotas, cidades, interiores de prédios e florestas) mantendo escala consistente, estruturação limpa de camadas (chão, colisão/bloqueio, objetos/decorações) e um ótimo fluxo estético.\n\n\n\n\\*\\*Requisitos:\\*\\*\n\n\\* Experiência utilizando o \\*\\*Tiled Map Editor\\*\\*.\n\n\\* Habilidade para estruturar camadas corretamente (especialmente camadas de colisão e profundidade para o Phaser).\n\n\\* Bom senso de composição, ritmo e ambientação adequados para um mundo de RPG.\n\n\\* Comunicação básica em inglês ou português.\n\n\n\n\\*\\*O Que Fornecemos:\\*\\*\n\n\\* Os tilesets completos e folhas de assets para o trabalho.\n\n\\* Diretrizes técnicas sobre tamanhos de mapas, dimensões de tiles e convenções de nomes de camadas.\n\n\n\n\\*\\*Como se Candidatar:\\*\\*\n\nSe tiver interesse, envie uma mensagem ou comente abaixo contendo:\n\n1. Um link para o seu portfólio ou exemplos de mapas criados no \\*\\*Tiled\\*\\*.\n\n2. Suas taxas/preços estimados (por mapa ou por hora). \n\nnão presisa sr nem um proficional so alguem que der conta",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vnlfwy/hiring_paid_2d_level_designer_tiled_map_editor/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-13T19:55:01Z"
+  },
+  {
     "post_id": "1vnkx9l",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$1000-1500",
     "created_at": "2026-08-10T05:12:35Z"
-  },
-  {
-    "post_id": "1vkb5lr",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/nightmanifest",
-    "title": "[PAID] Looking for a 2d environmental (and potentially character) artist to do tileset creation",
-    "content": "[PAID] Looking for a 2d environmental (and potentially character) artist to do tileset creation\n\nHi all! I’m setting out to build a better version of one of my favorite childhood games, Graal Era. I’m looking for someone who can do extensive tileset creation for a modern, 2.5d shooter set in a modern city. There is a particular (now retired) pixel artist I worked very closely with about 10 years ago whose style I am heavily leaning towards. I’m attaching a few of his sprites, tilesets, and general assets as a reference point. \n\nSend me a DM and we can talk details! Potential for long term staff role, and rev share post Steam release. Any former Graalians out there, hi!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vkb5lr/paid_looking_for_a_2d_environmental_and/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-10T04:43:06Z"
   }
 ]
