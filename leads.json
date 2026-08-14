@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vnro6c",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/MelonOrgy",
+    "title": "[Hiring] for nsfw project",
+    "content": "[Hiring] for nsfw project\n\nHii look for someone to help me with some nsfw pieces im.working on. I have some solid designs for the characters just need touch ups, small changes and background refinement - budget - $20-50 but im really open to negotiation - here is one of the designs I currently have",
+    "url": "https://reddit.com/r/artcommissions/comments/1vnro6c/hiring_for_nsfw_project/",
+    "quality": "High Quality",
+    "budget": "$20-50",
+    "created_at": "2026-08-14T00:04:11Z"
+  },
+  {
     "post_id": "1vnrezn",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-10T11:01:13Z"
-  },
-  {
-    "post_id": "1vkfw7d",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/stuffedcrust_studios",
-    "title": "[PAID] Looking for UI/UX Designer/Artist for my Unity based Pizza Deckbuilder",
-    "content": "[PAID] Looking for UI/UX Designer/Artist for my Unity based Pizza Deckbuilder\n\nHi all!\n\nLooking for a UI Artist to help redo and improve the UI art in my game. I am currently using AI art for most assets which I want to replace before release, also there is definitely room for improvement on general quality and cohesion.\n\n**The Game**\n\nHere is a video showing some raw game footage so you can get an idea of the current state of the game - [https://www.youtube.com/watch?v=CEPCRcctpf0](https://www.youtube.com/watch?v=CEPCRcctpf0)\n\nAlso Steam page - [https://store.steampowered.com/app/4428780/Perrys\\_Pizzeria/](https://store.steampowered.com/app/4428780/Perrys_Pizzeria/)\n\n**Art Style**\n\nThe art style is pretty well determined, going for a kind of 90s cartoony, wonky, hand drawn, colorful kinda style. I wouldn't want it to be drastically different, just... better, and not AI.\n\n**Scope of Work**\n\nHere is a page showing a graphical list of all the UI assets in the game to get an idea of scope - [https://pizzacards-art-tool.vercel.app/showcase/ui-art](https://pizzacards-art-tool.vercel.app/showcase/ui-art)  \nThey are vaguely categorised and priority tagged, but it's not a perfect list, also I wouldn't necessarily want to replace all of these, some fall more into art rather than UI, and also there's some things like the 'Feed Me' and 'Get Paid' buttons which have the text baked in which is probably not a good idea for localisation so these should be something dynamic using new UI art.\n\nSo roughly in priority order what I need is:\n\n\\- Card redesign - new card borders+backgrounds (you can see I have the bronze/silver/gold plus different card styles for bases + sauces), in general open to an overhaul and redesign of the cards to improve quality + readability.\n\n\\- UI Buttons, panels and progress bars/meters - right now I am using the same panel and button for basically everything, and I think a better and more fleshed out UI kit with different 9-sliced buttons and panels would be great to give more cohesion and variety and also can be used to replace some of the text baked in button assets.\n\n\\- Icons - there's a bunch of different icons for things like taste points, energy, hunger, satisfaction etc, a pass on these to make them all better and more consistent would be great. Also the map cell icons (in Run Map section). Also card type icons (dairy, fruit, funghi, etc). Button icons like the fridge as well.\n\n\\- General color + layout pass - open to any suggestions on improvements for the general UI/UX throughout.\n\n\\- Meta Screen Icons (Restaurant and Progression Section) - a bunch of UI elements here, the graphical buttons might be more 'art' than UI but there's a bunch of UI bits too.\n\n\\- Everything else - other random bits + pieces, maybe we tackle the above first though and then can work on these later.\n\n**Applying**\n\nApply by email only please - If you are interested please send portfolio links and price quote to [stuffedcruststudios@proton.me](mailto:stuffedcruststudios@proton.me) \\- DMs/comments may be missed.\n\nPlease highlight any relevant portfolio pieces or previous work, ideally showing something in any similar art style or card game work.\n\nIf you are able to itemize your quote in any way for the above categories that would help, I know I've maybe been a bit vague on some of the details and we can have further discussions on the exact scope but hopefully from the vid + site you can get an idea of what needs doing.\n\nUnity experience not essential but would be a plus, if you're able to navigate the project to find assets and poke around a bit that would be helpful. I'm happy to handle the implementation side though so as to reduce the overall cost.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vkfw7d/paid_looking_for_uiux_designerartist_for_my_unity/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-10T09:21:23Z"
   }
 ]
