@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1voqo50",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/DoubleTeamStudios",
+    "title": "[PAID] Artist for 2D Platformer Character Pixel Art",
+    "content": "[PAID] Artist for 2D Platformer Character Pixel Art\n\nHello! We are a tiny indie game studio and are looking to commission artists for a retro 2D platformer. Our game is all pixel art and we are targeting aesthetics reminiscent of the NES. While we are not hard limited to an 8-bit color palette, our goal is to be pretty close. Our tile size is 16x16 and characters are 16x32.\n\nWe are looking to commission artists for character art.\n\nCharacter Art Overview:\n\n* Leading character art the 16x32 size\n* Side view\n* Look good with different palette swaps\n* Maintain visual identify with an ensemble cast of characters\n* Roughly 16 unique animations of 2-4 frames\n\nThis is a commercial project, so all artwork has to be original and not AI generated. All applicants must be 18+.\n\nIf you are interested, please send over some information about yourself, including:\n\n* A link to your portfolio with examples that are most relevant to the project\n* Your rates\n* Your typical turnaround time\n\nThank you!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1voqo50/paid_artist_for_2d_platformer_character_pixel_art/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-15T02:22:53Z"
+  },
+  {
     "post_id": "1vopfwh",
     "platform": "Reddit",
     "source": "r/Artistsforhire",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$200",
     "created_at": "2026-08-11T04:47:55Z"
-  },
-  {
-    "post_id": "1vl7ncy",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/casefc3s",
-    "title": "[PAID] 2D/3D Artist, Environment/Level Designer for racing game",
-    "content": "[PAID] 2D/3D Artist, Environment/Level Designer for racing game\n\nI have an arcade drift racing game developed in Unity that needs some help in the art department. The game has been coming along smoothly but I've been handling 99% of the game development myself, and I'm running out of time so I need to focus purely on the engineering side to get the game across the finish line. The game uses a stylized low-poly design.\n\nI'm looking for a 2D/3D artist that can handle texturing/modeling and materials for environmental props and cars. I already have most of the cars the game will be launching with in prototype form, however they need polished in most cases and a few done from scratch.\n\nI'm also looking for an environment/level designer that has experience with track design and is willing to be detail-oriented with polishing track designs and grounding them in the design language of the game. The game has a wide variety of racing environs (racetracks, street, mountain, and highway). I can create any additional necessary tools in-engine to ease the workflow to assist in scene development.\n\nIf you’re interested, please leave a comment or send a DM with your portfolio and any questions you may have. Linkedin references are appreciated. If you also have any extra talents that would be beneficial to the game's development alongside the skills asked for above, let me know. I will DM if fitting!\n\n[Screenshot of current level and car style](https://preview.redd.it/92i2l0yoboih1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=093c3676a660d7625a25cbabb9fed0552ac1b57f)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vl7ncy/paid_2d3d_artist_environmentlevel_designer_for/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-11T04:44:13Z"
   }
 ]
