@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vp0i0l",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ben2420",
+    "title": "[PAID] 2D Character Artist for Fantasy RPG Mobile Game",
+    "content": "[PAID] 2D Character Artist for Fantasy RPG Mobile Game\n\nI’m looking for a 2D character artist to create the player character for an indie mobile game currently in development.\n\nThe game is a fantasy/RPG-inspired fitness and personal progression app called Syloria. The player is the hero, and their character will appear throughout the app as they progress through the world.\n\nWhat we’re looking for\n\nWe’re looking for a modern, polished, stylised fantasy RPG aesthetic.\n\nWe’re not looking for:\n\nChibi\n\nVery cartoonish/mobile-game style\n\nHeavily anime-inspired\n\nHyper-realistic\n\nOverly sexualised character designs\n\nThe character should feel heroic, approachable and aspirational, with enough fantasy detail to fit naturally into the world of Syloria.\n\nImportant technical requirement\n\nThe character will eventually be customisable by the player, so we’d like the artwork created with this in mind.\n\nIdeally, the character would be delivered as a properly organised layered PSD, with elements such as:\n\nBase body / skin\n\nHair\n\nFace\n\nClothing\n\nFootwear\n\nAccessories / equipment\n\nseparated into independent layers/components where appropriate.\n\nThe intention is to eventually create different combinations of hairstyles, clothing and equipment without having to redraw the entire character each time.\n\nYou don’t necessarily need to handle the implementation we’re primarily looking for someone who can create the artwork in a way that supports this workflow.\n\nInitial scope\n\nWe’re initially looking to create:\n\n1 high-quality player character\n\nA small number of interchangeable customisation options\n\nProperly organised source files\n\nCommercial rights for use within the game\n\nThere is potential for ongoing work creating additional outfits, hairstyles, equipment and other character assets if the initial project is a good fit.\n\nPlease send examples of your game character work, particularly fantasy/RPG characters and any examples of layered, modular or customisable character artwork.\n\nPlease also include your pricing/quote for the initial scope.\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vp0i0l/paid_2d_character_artist_for_fantasy_rpg_mobile/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-15T11:32:22Z"
+  },
+  {
     "post_id": "1vov0za",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$500",
     "created_at": "2026-08-11T09:17:24Z"
-  },
-  {
-    "post_id": "1vlbwia",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/Zealottas",
-    "title": "Hiring - illustrator for a short project.",
-    "content": "Hiring - illustrator for a short project.\n\nI am looking for an illustrator for a short, self-contained project: a set of 39 pictograms in a single consistent style.\n\n  \nTHE STYLE — Flat black silhouettes on white. One recurring character shown across roughly 39 poses and crops: head and shoulders, hands and forearms only, and full body. No colour, no gradients, no texture, no facial features. Emphasis is created by a clean white gap between overlapping forms rather than by outlines.\n\nDELIVERABLES — Layered vector (AI or SVG), black on transparent, plus flat PNG exports.\n\nSCOPE — About 39 drawings. I have a written brief with a one-line description of each, so there is no guesswork about content.\n\nDM me with rate, timeframe and portfolio\n\nThanks!",
-    "url": "https://reddit.com/r/artistforhire/comments/1vlbwia/hiring_illustrator_for_a_short_project/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-11T08:45:49Z"
   }
 ]
