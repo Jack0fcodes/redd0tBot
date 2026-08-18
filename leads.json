@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vs3t0p",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/AnywhereExcellent692",
+    "title": "[HIRING] 3D Character Animator / Generalist — Blender + Unreal Engine 5",
+    "content": "[HIRING] 3D Character Animator / Generalist — Blender + Unreal Engine 5\n\n**\\[PAID\\] 3D Character Animator / Generalist — Blender + Unreal Engine 5**\n\nI'm looking for a **3D Character Animator / Generalist** to help with character and first-person animation work for an anime-inspired card game prototype being developed in Unreal Engine 5.\n\nThe project focuses heavily on making the player **feel like an actual duelist**, so hands, fingers, cards, body language and interaction with a wearable card device are a major part of the experience.\n\n# Initial paid test\n\nFor the first milestone, I need help creating/refining a small set of animations using an existing rigged character/hand model:\n\n* First-person pose holding **5 trading cards in a fan**\n* First-person **Draw Card** animation\n* First-person **Reach / Select Card** animation\n* First-person **Grab Card** animation\n* Natural finger posing and card grip\n* Basic transition back to an idle/ready pose\n\nReferences and existing models/rigs will be provided.\n\n# What I'm looking for\n\nStrong experience with:\n\n* Blender or Maya\n* Character animation\n* Rigging / skinning\n* Hand and finger animation\n* Body mechanics\n* Working with props\n* Clean FBX/game-ready export workflow\n\nExperience with **Unreal Engine 5** is highly appreciated, especially:\n\n* Animation Blueprints\n* Animation Montages\n* IK / Control Rig\n* Retargeting\n* First-person animation\n\nHowever, deep Unreal knowledge is **not mandatory** if you're strong in character animation and can deliver clean game-ready assets.\n\n# Animation style\n\nThe direction is **anime-inspired and expressive**, but still grounded enough to work well in first-person gameplay.\n\nExamples of the type of motion I'm looking for:\n\n* confident card draws;\n* dramatic but readable hand gestures;\n* expressive finger movement;\n* physically believable card handling;\n* duelist poses;\n* interaction with cards and a wearable Duel Disk-style device.\n\nThe challenge is not simply making an animation look good from a cinematic camera — it needs to feel good **from the player's first-person perspective**.\n\n# Important\n\nI already have the gameplay prototype running in Unreal Engine.\n\nI'm specifically looking for help improving the **visual/animation quality and building a reusable animation pipeline**, rather than someone to program the game itself.\n\nThe long-term goal is to establish reusable standards for:\n\n* first-person hand animations;\n* third-person duelist animations;\n* card handling;\n* Duel Disk interaction;\n* character gestures;\n* summon/activation animations;\n* character rigs;\n* eventually creature/monster animations.\n\n# Workflow\n\nI'd prefer to start with a **small paid milestone** rather than immediately committing to a large package.\n\nThe first test would be:\n\n1. Hold Cards pose\n2. Draw Card animation\n3. Reach / Grab Card animation\n\nIf the collaboration works well, there is potentially a significant amount of ongoing character, creature and gameplay animation work.\n\n# When applying\n\nPlease send:\n\n* portfolio / animation reel;\n* examples of character animation;\n* examples involving hands, props or first-person animation if available;\n* software you primarily use;\n* whether you have experience with Unreal Engine;\n* your rate or expected price for the initial test.\n\nI'm much more interested in seeing **good character movement, posing and animation fundamentals** than a specific job title.\n\nRemote freelance work.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vs3t0p/hiring_3d_character_animator_generalist_blender/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-18T22:15:36Z"
+  },
+  {
     "post_id": "1vs36tp",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-15T02:57:24Z"
-  },
-  {
-    "post_id": "1vor7km",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/Weridfoxtime",
-    "title": "[hiring] animators needed for pilot and episodes (PAYMENT WONT BE FROM PILOT ONLY EPISODE BUT CREDITS AND MORE WILL BE DONE FOR WORKING ON THE PILOT) there are other post I made if want to see more! Talk in casting call club!!! MORE INFO BELOW!!!",
-    "content": "[hiring] animators needed for pilot and episodes (PAYMENT WONT BE FROM PILOT ONLY EPISODE BUT CREDITS AND MORE WILL BE DONE FOR WORKING ON THE PILOT) there are other post I made if want to see more! Talk in casting call club!!! MORE INFO BELOW!!!\n\nthis series will be 2d animated mostly! there is more info on casting club however main thing you should know! \n\nwe will use rigs so we need someone to rig the characters\n\nthe characters are mostly just like cute and not like realistic hard to draw/animate\n\nif want to animate you most likely want to know how to animate fluid and flags (trust me that might come in hand)\n\nif you prefer something other than animation you can do backgrounds! its also like only eye candy but not focus away yk..\n\nif you want to do storyboards you can but only few can do that because we need a lot of animators and backgroun more\n\n\n\n\n\nfor the payment: I’m only making money on commissions and perhaps patreon! I will only pay on what I can afford that maybe at most being 15 at least 5 to 7 (these numbers can change but don’t expect much im only one person) \n\n  \nas always if questions dm me otherwise more info is right here: [https://www.castingcall.club/projects/f-a-d-f8087aa1-ad1f-43a3-bb8e-cdbdd21b480b](https://www.castingcall.club/projects/f-a-d-f8087aa1-ad1f-43a3-bb8e-cdbdd21b480b)",
-    "url": "https://reddit.com/r/artistforhire/comments/1vor7km/hiring_animators_needed_for_pilot_and_episodes/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-15T02:49:44Z"
   }
 ]
