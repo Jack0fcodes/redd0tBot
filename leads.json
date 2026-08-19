@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vsutsg",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Lukas0842",
+    "title": "[PAID] Looking for a game artist for my 2D top-down tower defense / factory automation game",
+    "content": "[PAID] Looking for a game artist for my 2D top-down tower defense / factory automation game\n\nHi, I'm a solo indie dev working on a top-down game that contains tower defense (turrets, waves of enemies) and factory automation (conveyor belts, machines, resource types).\n\nWhat I need:\n\nTurrets, enemies, and machines, each with subtle animation (idle, firing, running states)\n\nConveyor belts (animated) and resources (static)\n\nTilesets for grass, sand, water, and lava\n\nStyle/specs: pixel art at 32×32, industrial style.\n\nBudget: 10$ per sprite, 30$ per animated sprite. negotiable and can vary depending on complexity.\n\nIf you're interested, DM me with your portfolio, rates, and rough turnaround. Happy to share screenshots so you can see what you'd be working with.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vsutsg/paid_looking_for_a_game_artist_for_my_2d_topdown/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-19T18:28:54Z"
+  },
+  {
     "post_id": "1vsumq3",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30-40,",
     "created_at": "2026-08-16T00:36:12Z"
-  },
-  {
-    "post_id": "1vpihum",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Plastic_Carpenter930",
-    "title": "[PAID] Quest Writer for SoloDev Tactics RPG — $150/quest, 3 slots open",
-    "content": "[PAID] Quest Writer for SoloDev Tactics RPG — $150/quest, 3 slots open\n\nSolo Dev here, building a hex based tactics RPG, *The Wandering Star*, in Godot. Hopefully headed to steam in 2 to 3 years.\n\nI have a playable grey box build right now, setting and story are built in outline form, I'm currently looking for some quest writers.\n\nMy ask: one quest, roughly 1,500 words of prose + branches + stage directions. **$150**, paid in thirds (start / first draft / revision), one round of notes included, credited on release (if you want that), work-for-hire, no AI-generated content.\n\nI'm picking 3 different writers to compare tone and voice before scaling up. \n\nIf you can post a sample of your writing, preferably a game related excerpt, I'll send a full copy of the lore guide and writing brief for you to review before either of us commit. \n\nHappy to answer questions!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vpihum/paid_quest_writer_for_solodev_tactics_rpg/",
-    "quality": "High Quality",
-    "budget": "$150",
-    "created_at": "2026-08-16T00:22:40Z"
   }
 ]
