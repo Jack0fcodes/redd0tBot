@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vtzeh7",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/aidang95",
+    "title": "[PAID] Looking for someone to create a low poly set of armour",
+    "content": "[PAID] Looking for someone to create a low poly set of armour\n\nWorking on a project which is using kaykit characters, I’m looking for someone competent in blender who’s able to make a custom set of armour that fits on the character model.\n\nInitially looking for one set (3 items) with the view to expand into longer term work with multiple sets as I develop.\n\nTIA",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vtzeh7/paid_looking_for_someone_to_create_a_low_poly_set/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-20T23:18:27Z"
+  },
+  {
     "post_id": "1vtz025",
     "platform": "Reddit",
     "source": "r/Artistsforhire",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$25-75",
     "created_at": "2026-08-17T16:13:20Z"
-  },
-  {
-    "post_id": "1vquzu0",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/MrBrocula",
-    "title": "[Paid][Remote] Looking for a True-Crime Writer and/or Deduction Narrative Puzzle Designer",
-    "content": "[Paid][Remote] Looking for a True-Crime Writer and/or Deduction Narrative Puzzle Designer\n\nHi,\n\nI’m Kristian Macanga, Founder &amp; Game Director at Gungrounds. We’re developing *Murder Book*, a fully dialogue-driven true-crime interrogation and deduction game supported by a **Creative Europe MEDIA grant**.\n\nThe player questions a suspect, uncovers evidence and contradictions, and chooses what to ask next based on the theory they are building.\n\nA core idea is that **the game does not declare one theory to be the definitive truth**. Several interpretations can remain plausible, and the player builds the strongest case they can from the evidence they uncover.\n\nWe’ve built a custom level editor where designers can structure:\n\n* competing investigation theories;\n* evidence, statements and contradictions;\n* conditions for unlocking information;\n* branching dialogue paths;\n* and which dialogue choices reveal or challenge particular proofs.\n\nWe’re currently looking for people in two overlapping areas:\n\n**Narrative / True-Crime Writer**  \nSomeone interested in researching complex cases, reconstructing timelines and competing theories, and potentially writing interrogation dialogue.\n\n**Deduction / Narrative Puzzle Designer**  \nSomeone who can turn evidence, statements and contradictions into **playable narrative deduction puzzles** — where the player forms hypotheses, tests them, unlocks new questions and decides which theory the available evidence supports.\n\nThe designer does **not** need to also write the dialogue. Investigation structure and dialogue writing can be handled separately.\n\nProfessional game-industry experience is useful but not required if you can demonstrate strong thinking around true crime, narrative puzzles, deduction or investigation design.\n\n**This is paid, fully remote work with flexible working hours.**\n\nIf interested, DM me or email [**kristian@gungrounds.com**](mailto:kristian@gungrounds.com) with:\n\n1. Your background and which role interests you.\n2. Relevant work or portfolio.\n3. A true-crime case you find interesting.\n4. A narrative/deduction puzzle game you admire.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vquzu0/paidremote_looking_for_a_truecrime_writer_andor/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-17T15:08:27Z"
   }
 ]
