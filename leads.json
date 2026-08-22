@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vviu32",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/BurningVilla",
+    "title": "[PAID] Looking for Pixel Artist – 4-Direction Character Sprite (16×24)",
+    "content": "[PAID] Looking for Pixel Artist – 4-Direction Character Sprite (16×24)\n\nLooking for a pixel artist to create one character sprite in 4 directions: North, South, East, and West.\n\nRoughly 16×24 pixels per sprite\n\nStatic sprites only for now\n\nI already have a character/model reference that you can base the design on\n\nSimple top-down pixel art style\n\nPayment through PayPal only\n\nI’m trying to keep this first commission fairly small. If everything works out, I’m developing a game and would potentially be interested in ongoing paid work for more characters and animations later.\n\nPlease DM me with your price and a few examples of your pixel art.\n\nThank you for reading",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vviu32/paid_looking_for_pixel_artist_4direction/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-22T17:45:16Z"
+  },
+  {
     "post_id": "1vvitk1",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$110",
     "created_at": "2026-08-19T01:22:54Z"
-  },
-  {
-    "post_id": "1vs6lfx",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/EntangledRedPanda",
-    "title": "[PAID] [Part-Time] Seeking VFX artist for 2D shooter with bioelectric creatures",
-    "content": "[PAID] [Part-Time] Seeking VFX artist for 2D shooter with bioelectric creatures\n\nHey everyone!\n\nI've been developing a 2D arena shooter game with bioelectrical creatures in Unity, for over a year now. I'm targeting a demo release on Steam late December or early January. I'm looking for an artist to help with visual effects (shaders, particles, etc.).\n\n**Budget**: $32-35 per hour, up to $5,000 total\n\n**Game/Work Context**  \nThe game features bioelectric creatures, various gun types from energy-beam weapons to shotguns and rocket launchers, electrical shields, dashing + down-thrusting, and enemies that can wander the whole map to chase you.\n\nHere's a few screenshots &amp; brief [footage](https://drive.google.com/drive/folders/1i4hJMJXDCMp8wSYzE73mJo_GlDcrtkpy?usp=sharing) of existing art/VFX in game. I'm happy to share more visuals of the game over private messages.\n\n**What I'm looking for:**  \nMuch of the core art and gameplay is already implemented. I'm looking for help with improving visuals across various areas of the game, including:\n\n* Polishing effects for 11 weapons (already implemented with recoil): Improving a large beam visual (scrolling texture), adding muzzle fire, explosion particles, etc.\n* Adding new ability VFX, including an electric ground pound/slam explosion\n* Adding environmental VFX such as embers and smoke on a blown-up bridge, wind, etc.\n\n**Required skillset**  \nYou should definitely have:  \n\\- Experience creating visuals with Shaders, Particle systems, and Lighting.  \n\\- Game Engine experience (Unity strongly preferred, but Godot experience welcome too)  \n\\- Past-work of game visuals that you're proud of (2D or 3D)\n\n**Collaboration**  \nThere is an established visual/artistic direction, but I'm happy to give you lots of creative freedom within it.\n\nI'm looking for a long-term collaborator: someone who can average at least 10-12 hours a week, most weeks (exceptions are fine), so we can make steady progress to release the demo.\n\nWe would start the first week as a paid test period to see if the collaboration is a good fit for both of us.\n\n**Reaching Out**  \nIf you're interested in collaborating to help finish the game's demo, feel free to DM me with a link to your past VFX work or games you worked on, and how many hours you can commit consistently most weeks. I'm happy to discuss more details and answer any questions.\n\nYou can also message me on Discord  \nUsername: glacionninja  \n\\*If you need to be in the same server to message me, I'm in the Discord Server r/gamedev",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vs6lfx/paid_parttime_seeking_vfx_artist_for_2d_shooter/",
-    "quality": "High Quality",
-    "budget": "$32-35",
-    "created_at": "2026-08-19T00:11:37Z"
   }
 ]
