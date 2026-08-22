@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vvdo51",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/laeraor",
+    "title": "[Hiring] Dark Epic Fantasy Cover Artist",
+    "content": "[Hiring] Dark Epic Fantasy Cover Artist\n\nArtist wanted for a dark epic fantasy book cover.  \n\nLooking for a style in the vein of frank frazetta or something that at least looks less digital/more like a painting and not overly cartoonish.\n\nMust be comfortable with both fantasy creature character design and epic landscapes that really encompasses scope and scale.\n\nAbsolutely no AI usage.\n\nBudget min $20 USD.  Would want to talk to you about the actual budget I'm willing to pay because I don't want to get scammed here.  But just know I'm looking for quality and am an artist myself, so obviously I want to pay you what you think you're worth.",
+    "url": "https://reddit.com/r/artcommissions/comments/1vvdo51/hiring_dark_epic_fantasy_cover_artist/",
+    "quality": "High Quality",
+    "budget": "$20",
+    "created_at": "2026-08-22T14:19:10Z"
+  },
+  {
     "post_id": "1vvcwgh",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-08-18T21:50:45Z"
-  },
-  {
-    "post_id": "1vs1dod",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/philosophicalwax44",
-    "title": "[PAID] Looking to hire a 3D prop artist to create stylized typewriters",
-    "content": "[PAID] Looking to hire a 3D prop artist to create stylized typewriters\n\nHello, I'm a solo developer building a first-person game that prominently features typewriters. They are essentially the focus of the entire game. I tried looking on various marketplaces for a model, but I couldn't find anything I like or that was built to animate.\n\nUltimately, I'd like several vintage manual typewriters, but I'll probably begin with just one for the demo I'd like to build. Specifically, I'd like the first typewriter to be a stylized (not photoreal) version of the Olivetti Lettera 32.\n\nI don't need rigs or animations. All I need is for every key (\\~50) to have its own named transform, for the carriage assembly to be separate so it can slide, for the platen to be separate so it can roll, and the ribbon spools to be separate so they can spin.\n\nThe deliverable is the FBX plus source files for Unity, with textures up to 2K. My budget for this is $200–400.\n\nIf this work interests you, you can send me a DM with a portfolio of your work and a rough quote and I'll get back to you as quickly as possible.\n\nBest,  \nphilosophicalwax44",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vs1dod/paid_looking_to_hire_a_3d_prop_artist_to_create/",
-    "quality": "High Quality",
-    "budget": "$200-400",
-    "created_at": "2026-08-18T20:41:46Z"
   }
 ]
