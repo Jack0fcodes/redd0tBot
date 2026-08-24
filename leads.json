@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vwxlw0",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/bikay053334",
+    "title": "[PAID][REMOTE-US] Unreal Engine 5.8 Technical Artist – Synthetic Human Faces &amp; Eyes | $110–$150/hr",
+    "content": "[PAID][REMOTE-US] Unreal Engine 5.8 Technical Artist – Synthetic Human Faces &amp; Eyes | $110–$150/hr\n\nWe're a neurotech company building computer-vision models that measure ocular and facial signals from smartphone video. To train them we generate synthetic human faces in Unreal, which gives us perfect ground truth — exact pupil diameter, iris diameter, gaze vector, head pose, lid aperture — that you can never get from labeling real footage.\n\nWe need a technical artist to make those faces good enough that models trained on them transfer to real people.\n\n**Two things make this different from typical character work:**\n\n* **The eyes are the product.** Corneal refraction, limbal ring, iris stroma parallax, scleral vessels, tear meniscus, lash occlusion. We need pupil diameter as a real, calibrated, millimeter-accurate rig parameter — not a texture trick. Dark irises specifically, where pupil/iris contrast is low, is the hard case we care most about.\n* **We run Unreal headless.** UnrealEditor-Cmd, Python, Movie Render Graph from CLI, seeded and deterministic, batched on Linux. Thousands of controlled variations, not hero renders. The Editor is for validating and authoring. We also use AI coding agents (Claude Code, OpenCode, local on-prem LLMs) to write the automation layer and want someone who works that way already.\n\n**Scope:** parameterized MetaHuman-based head library covering the full range of skin tones, eyelid morphologies, iris colors, ages, facial hair, eyewear · eye/face rig with physically meaningful gaze, pupil, blink and FACS controls · headless generation pipeline with manifests and reproducibility · per-frame ground-truth and segmentation-mask export · smartphone camera and lighting simulation to close the sim-to-real gap.\n\n**You:** deep Unreal Engine 5.8 expertise, MetaHuman fluency (Creator/Animator/DNA/Groom + scripting APIs), photoreal human faces in your portfolio, Python + command-line Unreal automation, Linux-comfortable. Bonus: prior synthetic-data-for-ML work, eye tracking / pupillometry knowledge, Houdini grooms, render farm orchestration.\n\n**Terms:** **$110–$150/hr**, hourly, remote, **1099 independent contractor** (not payroll), **US persons only** (regulated data, everything stays on-prem — no cloud services, no external APIs). Expected initial engagement of roughly 3 months at 20–30 hrs/week, with possible extension. The three-month period is not guaranteed, and either party may terminate the engagement at any time.\n\n**Clinical-data access:** If the work requires access to clinical subject data or videos, completion of the applicable human-subjects research training/certification will be required. Senseye will cover the certification cost and pay for the contractor's time to complete it.\n\n**To apply:** portfolio with close-up eye work · an example of Unreal automation you've built · and tell us: *given a MetaHuman head and 50,000 frames to render with exact per-frame pupil ground truth, where does the pipeline break first and what would you build to prevent it?* · your rate and availability. No take-home test — we'll ask you to walk us through your samples live.\n\nDM or → [apply@senseye.co](mailto:apply@senseye.co)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vwxlw0/paidremoteus_unreal_engine_58_technical_artist/",
+    "quality": "High Quality",
+    "budget": "$110-150",
+    "created_at": "2026-08-24T09:13:10Z"
+  },
+  {
     "post_id": "1vwwy9m",
     "platform": "Reddit",
     "source": "r/dndcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-08-20T15:48:07Z"
-  },
-  {
-    "post_id": "1vtn6ug",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/earle27",
-    "title": "[Hiring] [Paid] Low-Poly 3D Artist — Spaceship Hulls &amp; Modular Parts for Sci-Fi RTS",
-    "content": "[Hiring] [Paid] Low-Poly 3D Artist — Spaceship Hulls &amp; Modular Parts for Sci-Fi RTS\n\nHey y'all, I'm looking for a 3D artist to build low-poly spaceship assets for \\*\\*Void Front\\*\\*, an in-development 3D space RTS built in Godot (think \\*Conquest: Frontier Wars\\*, but modernized).\n\n\n\nThe work:\n\n\\- A handful of hero warship hulls for our starting faction (the Terrans) — corvette, frigate, and destroyer classes to start. Style reference is a greebled grey hull with blue accents, CR90-corvette-ish silhouette (rear engine block, truss neck, tapered forward hull) / Rocinante Expanse type silhouette.\n\n\\- A handful of space stations for the same faction with the same aesthetic.\n\n\\- A modular kit of swappable parts (engines, weapon hardpoints, sensor arrays, etc.) that plug into a base hull for an in-game ship customization tool.\n\nEverything needs to read clearly at RTS zoom levels, so low-poly with clean silhouettes is exactly what we want — no need for hyper-detailed hard-surface work.\n\n\n\nFormat: GLB, game-ready (reasonable tri counts, clean UVs for texturing/materials).\n\nPay: Paid per asset. Budget guideline: \\~$100–250 per hero hull (corvette/frigate/destroyer/station), \\~$25–75 per modular part (engines, hardpoints, sensors) — this is an indie project, so I'm looking for artists comfortable at that tier. Open to discussing based on your rate and portfolio.\n\n\n\nIf you're interested DM me a portfolio/ArtStation link and your rates",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vtn6ug/hiring_paid_lowpoly_3d_artist_spaceship_hulls/",
-    "quality": "High Quality",
-    "budget": "$100-250",
-    "created_at": "2026-08-20T15:47:37Z"
   }
 ]
