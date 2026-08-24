@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vwpxdo",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/AdvisorEmergency2402",
+    "title": "[Hiring] Looking for an artist I can commission for an oil painting of a wedding photo for $500-600",
+    "content": "[Hiring] Looking for an artist I can commission for an oil painting of a wedding photo for $500-600\n\nI am wanting to commission an image from my wedding as an anniversary gift on April 20th. I would prefer to find an artist that can ship on canvas. I am unsure on size as I’ve never bought art before but want to make sure it’s a fair price! I’d prefer the image to be painted in a romantic, dreamy way. However, I don't want to share this image blindly on Reddit but I will share it with potential partners who would like to take on this project.  \nThanks in advance!",
+    "url": "https://reddit.com/r/HungryArtists/comments/1vwpxdo/hiring_looking_for_an_artist_i_can_commission_for/",
+    "quality": "High Quality",
+    "budget": "$500-600",
+    "created_at": "2026-08-24T02:10:48Z"
+  },
+  {
     "post_id": "1vwpqa4",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30",
     "created_at": "2026-08-20T11:08:43Z"
-  },
-  {
-    "post_id": "1vtg9gz",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Overall_Smoke_3105",
-    "title": "[Hiring] Unity/Godot Developer for Simple Endless Survival Mobile Game — Budget $60",
-    "content": "[Hiring] Unity/Godot Developer for Simple Endless Survival Mobile Game — Budget $60\n\nHey everyone,\n\nI'm looking for a Unity developer to help me build a simple mobile game and publish it on the Play Store. Assets (graphics, characters, maps, UI) will be provided by me. I just need someone to handle the coding, gameplay logic, and store deployment.\n\nGame concept:\n\nSimple endless dodge-and-collect game — player avoids incoming mobs/obstacles while collecting coins to build a high score based on survival time. Think casual, addictive, \"one more try\" style gameplay.\n\nWhat I'm providing:\n\nAll game assets — character, mob designs, backgrounds/maps, coins, UI elements\n\nBasic game concept and reference\n\nWhat you'll handle:\n\nCore mechanics: movement, obstacle spawning, collisions, coin collection, scoring\n\nDifficulty scaling to keep it engaging (increasing speed/spawn rate over time)\n\nMultiple map integration using my provided assets\n\nHigh score tracking (local, leaderboard optional)\n\nAdMob integration (banner/interstitial/rewarded ads)\n\nFull Play Store publishing (listing, screenshots, compliance)\n\nMinor post-launch bug fixes\n\nRequirements:\n\nUnity (2D) experience\n\nAt least one published Play Store game (please share links/portfolio)\n\nFamiliarity with AdMob SDK\n\nPayment method: Bank transfer\n\nType: Freelance, remote\n\nDrop a comment or DM with your portfolio and similar projects you've worked on. Open to students/beginners building their portfolio too. Thanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vtg9gz/hiring_unitygodot_developer_for_simple_endless/",
-    "quality": "High Quality",
-    "budget": "$60",
-    "created_at": "2026-08-20T11:00:03Z"
   }
 ]
