@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vxma3d",
+    "platform": "Reddit",
+    "source": "r/Artistsforhire",
+    "author": "u/Honest-Elephant9843",
+    "title": "[hiring] Graphic Designer, postcard",
+    "content": "[hiring] Graphic Designer, postcard\n\nHi! My sister attended a wedding and this was the Save the Date. I absolutely love it. It is a postcard style on the back The artist was a family friend of the couple and does not do this as a job, so does not take commissions. Anyone know of an artist who could do something in a similar style? I am getting married in Boothbay Harbor, ME summer 2027. Thank you!",
+    "url": "https://reddit.com/r/Artistsforhire/comments/1vxma3d/hiring_graphic_designer_postcard/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-25T01:44:58Z"
+  },
+  {
     "post_id": "1vxkn84",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-21T01:38:33Z"
-  },
-  {
-    "post_id": "1vu2lbr",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Familiar_Working8718",
-    "title": "[PAID] Looking for Artist/Animator for a 2D Pixel Character That Moves in a Fully 3D World",
-    "content": "[PAID] Looking for Artist/Animator for a 2D Pixel Character That Moves in a Fully 3D World\n\nI'm looking for an artist/animator to create the main character for a game I'm developing. If I like the result, I would potentially like to continue working with you on additional characters, equipment, and animations.\n\nThe most important part is the character system:\n\nI want a modular 2D pixel-art character designed to exist and animate inside a fully 3D world.\n\nThe character should be built from separate pixel-art body parts (head, torso, upper/lower arms, hands, upper/lower legs, feet, hair, clothing, equipment, etc.) that can be attached to and animated using a 3D skeletal rig.\n\nVisually, the finished character should still look like classic pixel art, but I want him to move, turn, fight, and react with the freedom of a 3D character. I am NOT looking for a normal 3D character with a pixelated texture.\n\nCharacter:\n\nMale adventurer with short-to-medium white hair, one blue eye and one red eye. He will eventually receive a scar around/across one eye, so I'd like the design to support a pre-scar and post-scar version. His main weapons are a sword and shield.\n\nWorld/style:\n\nThe setting is medieval retrofuturism. Society still has kings, castles, knights, villages, adventurers, medieval clothing, armor, swords, shields, etc.\n\nThe technology is inspired by an 80s/90s vision of the future: CRT screens, chunky electronics, glowing indicators, analog gauges, exposed wires, cassette-like technology, old computer interfaces, and bulky futuristic equipment.\n\nThese elements should be blended with medieval leather, cloth, steel, armor, belts, cloaks, etc. It should NOT look like standard cyberpunk. The medieval fantasy appearance should remain dominant.\n\nI would like to see your interpretation of this style before committing to a large amount of work.\n\nThe character should also be modular/reusable, allowing different armor, clothing, hair, weapons, shields, and other equipment later.\n\nEventually I will need animations including idle, walk/run, combat idle, light/heavy sword attacks, attack combos, shield blocking, shield impact reactions, shield parry, dodge/roll, hit reactions, and death.\n\nFor now, I'm primarily looking for someone who understands the visual style and technical character setup.\n\nIf this is something you can create, please let me know how you would approach the character/rig and what you would recommend for making the system reusable for future characters and animations.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vu2lbr/paid_looking_for_artistanimator_for_a_2d_pixel/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-21T01:39:17Z"
   }
 ]
