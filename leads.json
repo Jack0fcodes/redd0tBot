@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vxwidj",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Unlikely-Wolf7967",
+    "title": "[PAID] Looking for someone experienced with UE5 Blueprints – Small Gameplay System ($10 USD)",
+    "content": "[PAID] Looking for someone experienced with UE5 Blueprints – Small Gameplay System ($10 USD)\n\nHey everyone! I'm looking for someone who can help me make a small **UE5 Blueprint gameplay system** for my game.\n\nThe system is basically an item/reward shop:\n\n* Player starts with **¥4,000**\n* There are **7 items**, each with a different price\n* Player buys an item → its price is deducted from their wallet\n* A weighted random reward is then generated\n* The reward's value is added back into the player's wallet\n* They can continue buying items as long as they can afford them\n\n# Rewards\n\n* Nothing → **¥0**\n* Bronze Cat Trophy → **¥800**\n* Silver Cat Trophy → **¥2,000**\n* Gold Cat Trophy → **¥5,000**\n\n# Default probabilities\n\n* Nothing: **20%**\n* Bronze: **50%**\n* Silver: **25%**\n* Gold: **5%**\n\nThe probabilities also change depending on the item's price tier.\n\n**Cheap:**\n\n* Nothing 5%\n* Bronze 70%\n* Silver 20%\n* Gold 5%\n\n**Medium:**\n\n* Nothing 20%\n* Bronze 50%\n* Silver 25%\n* Gold 5%\n\n**Expensive:**\n\n* Nothing 20%\n* Bronze 30%\n* Silver 35%\n* Gold 15%\n\nI'd like the probabilities and item prices to be exposed/easy to modify later.\n\nThe random system should use **one random roll from 0–100 with cumulative ranges**, rather than separate random rolls for each reward.\n\nI already have my own UI, so **I don't need artwork or a complicated UI system**. I mainly need the Blueprint logic and an easy way to connect it to my existing UI.\n\n**Budget: $10 USD fixed.**\n\nThis should be a relatively small Blueprint task. If you're interested, please DM me with examples of previous UE5 Blueprint work. Thanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vxwidj/paid_looking_for_someone_experienced_with_ue5/",
+    "quality": "High Quality",
+    "budget": "$10",
+    "created_at": "2026-08-25T10:57:37Z"
+  },
+  {
     "post_id": "1vxssyl",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-21T07:58:47Z"
-  },
-  {
-    "post_id": "1vu8ti9",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Naive_Reputation_255",
-    "title": "[PAID] Looking for 2D Illustrators for TCG Card Artworks, mostly creature designs",
-    "content": "[PAID] Looking for 2D Illustrators for TCG Card Artworks, mostly creature designs\n\nHello, we are making a card game and in need of a lot of, 400 unique artworks(16 mostly elemental sets and 25 unique cards in each set), in a relatively shorter time. We are okay with working with multiple people because it is just too many. Still we are not certain here, would like to see how much it would cost us and if we can actually fund it. They will all be in a fantasy setting and %90 creature designs.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vu8ti9/paid_looking_for_2d_illustrators_for_tcg_card/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-21T06:56:01Z"
   }
 ]
