@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1vzn80e",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/GiraffeHeadStudios",
+    "title": "[PAID] UE5 Level &amp; Puzzle Designer | UK Remote | Fixed-Term Contract | Giraffe Head Studios",
+    "content": "[PAID] UE5 Level &amp; Puzzle Designer | UK Remote | Fixed-Term Contract | Giraffe Head Studios\n\nHi everyone,\n\nWe’re looking for an experienced **Level &amp; Puzzle Designer** to join Giraffe Head Studios and work on *RMF’s Ragdoll Physics Experiments*, our Unreal Engine 5 physics-comedy puzzle game currently in development.\n\nThis is a **paid, fully remote role for UK-based applicants**.\n\nThe game’s core systems are already established and we’re now moving through production of the main Challenge Rooms and gameplay spaces.\n\nWe’re looking for someone who can work hands-on in **Unreal Engine 5**, designing, prototyping and implementing physics-based levels and puzzles using our existing gameplay framework.\n\nThis is not purely a paper-design role. You’ll be expected to work directly within the UE5 project, including:\n\n* Designing physics-based Challenge Rooms and gameplay spaces\n* Prototyping and implementing puzzle ideas in UE5\n* Creating Blueprint logic for room-specific interactions and events\n* Building spaces using existing project assets and asset packs\n* Taking levels from initial blockout through to a convincing playable state\n* Designing for experimentation, multiple approaches and emergent outcomes\n* Testing and iterating on your own work\n* Working closely with our Creative/Design Lead and Lead Developer\n\nYou will not be expected to create bespoke 3D models or environment assets.\n\nStrong practical experience with **UE5 and Blueprints** is important. We’re particularly interested in people with experience in level design, puzzle design, systemic gameplay, physics-heavy games or emergent gameplay.\n\nThe position is expected to run from approximately **Autumn 2026 to 31 March 2027**, with up to **37.5 hours per week** available depending on the final start date and agreed arrangement.\n\nThe role is fully remote, but **you must be based in the UK**.\n\nPlease include your expected hourly rate when applying.\n\n**Take a quick look at the game:**  \n[RMF's Ragdoll Physics Experiments on YouTube](https://www.youtube.com/watch?v=JdNxnS6u0fQ&amp;utm_source=chatgpt.com)\n\n**Full job description and application:**  \n[Giraffe Head Studios Careers]()\n\nWe’re particularly interested in playable work, prototypes and greybox examples that show how you approach gameplay and level design.\n\nThanks,\n\nSteve",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vzn80e/paid_ue5_level_puzzle_designer_uk_remote/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-27T07:35:15Z"
+  },
+  {
     "post_id": "1vzm6pn",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-23T18:13:57Z"
-  },
-  {
-    "post_id": "1vwdtz3",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/PixelWhippedDev",
-    "title": "[PAID] Steam Capsule artist for RTS",
-    "content": "[PAID] Steam Capsule artist for RTS\n\nHi all, I am looking to update the Steam capsule artwork for my casual real-time-strategy game Plebs: [https://store.steampowered.com/app/1902180/Plebs/](https://store.steampowered.com/app/1902180/Plebs/) (demo available)\n\nThis is the style/composition I am looking for, but obviously using the imagery/assets from the game.\n\nhttps://preview.redd.it/lduys8a1d5lh1.png?width=1834&amp;format=png&amp;auto=webp&amp;s=d7d44867a416e083fafb2c74263f7fbd84395c39\n\nPlease provide any examples of artwork with a similar style, as I am most likely to consider artists who have had experience with this sort of design work previously.\n\nWhat I am looking for:\n\n* Full Steam capsule image set\n* Final image file(s) with layers\n* No AI artwork\n\nThanks in advance!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vwdtz3/paid_steam_capsule_artist_for_rts/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-23T17:49:09Z"
   }
 ]
