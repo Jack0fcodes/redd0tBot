@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w0sm4k",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ptgauth",
+    "title": "[Paid] Quadruped Procedural Animation Consultation / Small Project",
+    "content": "[Paid] Quadruped Procedural Animation Consultation / Small Project\n\nHello everyone! I've been working for a while on some procedural animations for a quadruped character with a tail but I'm having great difficulty achieving the effect I want. In many cases what I have looks good, but there are some edge cases, issues with collision, and speed that breaks my current animation setup. Right now I'm looking for someone who:\n\n\\- Is very familiar with Unreal Engine 4/5  \n\\- Has experience with procedural animation of creatures with tails  \n\\- Has in-engine knowledge of achieving spine IK animations  \n\\- Has Discord or is willing to use Google Meet for communication  \n\\- Is willing to sign an NDA  \n  \n\\- Familiarity with Dragon IK plugin is a bonus  \n\\- Familiarity with UE's Control Rig is a bonus\n\nI would like to pay someone to consult with me and possibly build out an animation blueprint for such a character. I don't need any formal resume or anything (though you can certainly send it my way if you'd like). If you're interested, please DM me your desired rate (hourly or for the project) and your experience with this topic.\n\nThank you!\n\nBest,  \nPatrick",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w0sm4k/paid_quadruped_procedural_animation_consultation/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-08-28T14:47:09Z"
+  },
+  {
     "post_id": "1w0sgf8",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$200-300",
     "created_at": "2026-08-25T02:16:21Z"
-  },
-  {
-    "post_id": "1vxmwan",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/Affectionate-Cat6502",
-    "title": "[Hiring] Looking for an artist to design a custom decal for a truck.",
-    "content": "[Hiring] Looking for an artist to design a custom decal for a truck.\n\nNew account i know, not scamming or anything. Title pretty much sums it up, don't need anything too complex.",
-    "url": "https://reddit.com/r/artistforhire/comments/1vxmwan/hiring_looking_for_an_artist_to_design_a_custom/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-25T02:12:30Z"
   }
 ]
