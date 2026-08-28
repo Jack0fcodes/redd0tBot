@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w16tif",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/iris_axolotl",
+    "title": "[Hiring] Hiring Concept Artist for Large DnD Project, NOT LOOKING AT DMS ($70) Budget Flexible",
+    "content": "[Hiring] Hiring Concept Artist for Large DnD Project, NOT LOOKING AT DMS ($70) Budget Flexible\n\nI need a good concept artist to draw the enemy types of my Dungeons and Dragons campaign. THIS CAMPAIGN WILL BE STREAMED, and of course i will give artistic credit.",
+    "url": "https://reddit.com/r/artcommissions/comments/1w16tif/hiring_hiring_concept_artist_for_large_dnd/",
+    "quality": "High Quality",
+    "budget": "$70",
+    "created_at": "2026-08-28T23:49:32Z"
+  },
+  {
     "post_id": "1w15lh1",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-08-25T16:59:39Z"
-  },
-  {
-    "post_id": "1vy3dqn",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Silvae3",
-    "title": "[PAID] Looking for a 2D artist: small set of stylized assets for a puzzle-based personal site",
-    "content": "[PAID] Looking for a 2D artist: small set of stylized assets for a puzzle-based personal site\n\nHi! I'm building an interactive personal site: a 3D stone \"device\" (a rotating pentagonal drum) sitting in sunlit jungle ruins, and I'm looking for a 2D artist to create a small, cohesive set of stylized assets to skin it. Cel-shaded / illustrated work is the vibe.\n\nAttached: numbered screenshots of the current build, a short gif showing how the drum rotates, and one style-reference image.\n\nSTYLE\n\nCel-shaded / anime-esque, light warm sandstone, clean dark linework, painterly. The style-reference image shows the look I'm after. Use it for style and surface only, not the form: it shows a brick wall with mortar and separate bricks, which I don't want. My stone is one continuous texture that wraps across all five faces of the drum, a single long strip of stone, with no mortar lines or brick divisions.\n\nWHAT I'M LOOKING FOR (numbers match the screenshots in the reference album)\n\n1. Background. The jungle-ruins scene framing the device. It doesn't need to be a full scene: the device covers the center, so only the visible edges/frame matter and the center can be hollow.\n\n2. Sandstone texture. One continuous sandstone texture that wraps across all five faces of the drum. I'll be splitting the delivered asset to be spread across the five faces. Light warm sandstone, subtle surface, a few sparse cracks and chips (see the style ref). I'd want this with a separate moss layer (moss creeping along the faces, edges, cracks) I can toggle on and off.\n\n3. Holders. The two rounded stone holders flanking the device. Happy for these to reuse part of the main texture with a little bespoke moss/flair.\n\n4. Arrow buttons. Four raised stone buttons in a row (one design). I'd like these to read as fancy and distinct from the plain stone, for example set with gems, or carved from a different, redder stone, so they clearly stand out as buttons.\n\n5. Drum interior. The darker inner stone surface seen as the drum turns. Again, happy for this to reuse part of the main texture with a little bespoke moss/flair.\n\n6. The artifact. A small object revealed at the climax, seen top-down. An ancient bronze mechanism: a few concentric rings carrying two or three toothed gears at different radii, around a glowing gem core, so it reads as slightly anachronistic ancient \"tech,\" out of place in the ruins but not modern. See the attached reference for the idea. It flares with light when it activates. I'd need the moving parts (the gears and any rotating rings) on their own separate layers, each centered on its pivot, so I can spin them in code.\n\nFor delivery I'd need layered source files (PSD or equivalent) with moss on its own layer, transparent PNGs where relevant, high resolution.\n\nReference images: [https://imgur.com/a/TtZzPI6](https://imgur.com/a/TtZzPI6)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vy3dqn/paid_looking_for_a_2d_artist_small_set_of/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-25T15:41:27Z"
   }
 ]
