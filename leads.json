@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w1bceu",
+    "platform": "Reddit",
+    "source": "r/commissions",
+    "author": "u/TheRogu3DM",
+    "title": "[Hiring] Character or Environment Concept Artist for Indie 2D Platformer Roguelite. Budget will be around $150",
+    "content": "[Hiring] Character or Environment Concept Artist for Indie 2D Platformer Roguelite. Budget will be around $150\n\nThe game is still in the working stages, so I'm looking for just concept art over game sprites/backgrounds.\n\n**A little about the game:**\n\n*Basic Gameplay:*\n\nThe game will be a 2D side-scrolling platformer roguelite. It's platforming focused with no conventional combat system. Instead, the player will clear a stage before being presented with a selection of rewards. The reward they pick gets shuffled into a generation pool. Each stage's layout is randomly generated along with the current rewards. For example, selecting fire might allow a mario-esque fire flower powerup to appear, but fire hazards might spawn as well.\n\n*Visuals:*\n\nThe game takes place in a fantasy world inundated with bizarre magical anomalies that seem to absorb and replicate magic, over time taking on an appearance influenced by the magic the player introduces. The tone is fun and vibrant, not too complicated in shapes, appearances, colorful, and cute. Though I would like to avoid being too aggressively cute, cozy, simple. I'm still open to exploring the exact art style to go with, so I'm not too rigid on design ideas.\n\n**The Protagonist:**\n\nThe main character of the game will be a cute little witch-in-training. She's adventurous, curious, and loves learning new magic. This is what leads her to searching for these anomalies as a perfect opportunity to train her powers, learn new ones, and maybe even discover magical treasures.  \nShe should have a distinctive silhouette that can translate well to small sprites. I hinted before, but there will be a host of different power-ups that will appear randomly in stages, such as fire or lightning. When using these power-ups, similar to mario or mega-man, her outfit would change to a palette fitting that element.",
+    "url": "https://reddit.com/r/commissions/comments/1w1bceu/hiring_character_or_environment_concept_artist/",
+    "quality": "High Quality",
+    "budget": "$150",
+    "created_at": "2026-08-29T03:24:09Z"
+  },
+  {
     "post_id": "1w1b5uf",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30-40",
     "created_at": "2026-08-25T22:29:57Z"
-  },
-  {
-    "post_id": "1vycptw",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/tbonneau",
-    "title": "[Paid] Looking for low-poly artist/animator for N64 games",
-    "content": "[Paid] Looking for low-poly artist/animator for N64 games\n\nHello all,\n\nI'm hiring a 3D generalist to handle most or all of the game's low poly art pipeline, including:\n\n* environment and prop modeling\n* buildings, roads, interiors, vegetation, vehicles, and other world assets\n* character modeling\n* UV mapping and texturing\n* character and object rigging\n* character animation\n* vehicle/object animation where needed\n* optimizing models, textures, rigs, and animations for the technical limitations of the hardware\n\nI'm specifically looking for someone who is comfortable owning a large part of the project's 3D production pipeline, from creating assets through rigging, animation, texturing, and optimization. N64 textures often are only \\~32x32 in size\n\nHere are examples of our current projects:\n\n[https://youtu.be/afdDbcAY4tk](https://youtu.be/afdDbcAY4tk)\n\n[https://youtu.be/J1scD\\_1f1VQ](https://youtu.be/J1scD_1f1VQ)\n\nYou can see some of the studio's past work at [triverske.net](https://triverske.net). We have had great success working with the gamedevclassifieds community and we are always thrilled to post our paid work.\n\nPlease DM or comment below with\n\n* email or discord contact\n* portfolio or demo reel\n* general hourly rate information - 6 month project\n\nI will likely not be able to get back to everyone but thank you in advance for reading this post and considering our game.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vycptw/paid_looking_for_lowpoly_artistanimator_for_n64/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-25T21:11:36Z"
   }
 ]
