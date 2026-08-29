@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w1d78k",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/xblues",
+    "title": "[Hiring] ($30) OC - No AI - Spunky Woman",
+    "content": "[Hiring] ($30) OC - No AI - Spunky Woman\n\nHiring for a an OC to work with an artist. Several poses of OC can be provided, but I'd like to discuss with the artist first.\n\nhttps://preview.redd.it/x5o38tg8x8mh1.png?width=2500&amp;format=png&amp;auto=webp&amp;s=ae7f7af7767ace9f54b1775e10054ec81bba1b73",
+    "url": "https://reddit.com/r/starvingartists/comments/1w1d78k/hiring_30_oc_no_ai_spunky_woman/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-08-29T04:59:32Z"
+  },
+  {
     "post_id": "1w1cush",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-26T01:00:07Z"
-  },
-  {
-    "post_id": "1vyiddm",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Lilnoah328",
-    "title": "[PAID] Environment / Prop Artist wanted to build an arcade asset kit for a 2008 co-op horror game (Unreal)",
-    "content": "[PAID] Environment / Prop Artist wanted to build an arcade asset kit for a 2008 co-op horror game (Unreal)\n\n**About the project**\n\nWe're a small remote indie team building a 2 to 4 player co-op horror game in Unreal Engine 5.\n\nThe game is set in 2008 and follows a group of teenage urban explorers who break into abandoned locations to record disturbing footage. **Our current location** is an **abandoned arcade** filled with animatronic threats, story driven encounters, and objectives built around recording evidence, teamwork, and survival.\n\nWe have a working multiplayer framework, core interactions, inventory, enemies, and objectives already in place. What we're missing is the art side of the arcade, which is where you'd come in.\n\n**What we're looking for**\n\nWe want someone to build us a **game ready asset kit** for the arcade rather than dressing levels for us. Our own level designer places everything, we just need better parts to build with.\n\nWe're still putting the exact list together and would honestly rather finalize it with whoever we bring on, but roughly what we're after:\n\n* A batch of props, somewhere around 15 to 25 pieces for this first round depending on complexity\n* A few larger items, mainly the stage and its curtains, front counter, dining room tables, etc. \n* Good textures and materials, which is the part we most need help with. (nothing too crazy, this is a indie game)\n\nPriority for this first batch is the **main stage, arcade and dining room**, since that's what's going into our Steam screenshots and teaser.\n\nThe full building includes an arcade, dining room, stage, backstage, storage/power room, security office, playground area, kitchen and restrooms, so there's a decent amount of follow-on work if this goes well. We'd rather find one person to grow with than restart the search every time.\n\nWe'd also much rather have a smaller number of well made, modular, reusable pieces than a big pile of one-offs. Trim sheets and shared material sets are very welcome and will stretch the budget a lot further.\n\n**Style**\n\nThink FNAF adjacent, but more grounded and \"realistic\" **but NOT 4K**. Not cartoonish or heavily stylized. The building has been shut for years, so everything should read as worn, dusty, sun faded, and a bit sad. The 2008 setting matters, so CRT screens, period correct signage, late 90s and early 2000s decor rather than anything modern.\n\nWe have concept art and reference we'll share with anyone who's interested.\n\n**Technical requirements**\n\n* Game ready and optimized, this is going into a shipping project\n* FBX export, real world scale, clean pivots and naming\n* PBR textures, ORM packed for Unreal, sensible resolutions and consistent texel density\n* Clean, non-overlapping UVs, with a second UV channel where it makes sense\n* Collision and LODs are a plus\n* You don't need to work in Unreal yourself, but it helps. If you can hand things over as an Unreal package that's ideal, otherwise clean FBX and textures are completely fine.\n\n**Budget**\n\n**$250 USD for this first batch.** Paid upfront. **(Max $600 total for future batches)**\n\nRather than us dictating exactly what that covers, tell us what you think $250 realistically gets us and we'll scope it together from there. If you work per asset or per batch, let us know your rates. Payment terms and milestones are flexible and we're happy to split it into stages.\n\n**How to apply**\n\nComment or DM with:\n\n* Your portfolio, environment and prop work especially\n* Your rates and rough availability\n* Anything you've made that's close to this style\n\nPLEASE DM ME THROUGH DISCORD: \"@xnoahb\"\n\nConcept art for the game: [https://drive.google.com/drive/folders/1Ari1n-otDobzL8TnG3PpLaUoR4bZvbT2?usp=sharing](https://drive.google.com/drive/folders/1Ari1n-otDobzL8TnG3PpLaUoR4bZvbT2?usp=sharing)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1vyiddm/paid_environment_prop_artist_wanted_to_build_an/",
-    "quality": "High Quality",
-    "budget": "$250",
-    "created_at": "2026-08-26T01:03:54Z"
   }
 ]
