@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1w3oi4i",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/glamgirlluna",
+    "title": "[Hiring] Looking to get labels made for a crochet mystery box!",
+    "content": "[Hiring] Looking to get labels made for a crochet mystery box!\n\nI am currently on the hunt to get a front and back label made for my newest mystery boxes I’ll be selling. They’re mystery kitties! \n\nI want the words ‘Mystery Cats’ and a cat head on the front label. On the back label I’ll want 6 cats (preferably blank so I can add colors with each series I make) with the odds written below each cat. All other design elements are up to whoever makes them. The cats can look the same (copy and paste) or different, up to the creator. \n\nI also want to include at the bottom of each label to have a credit to the creator so that it is clear I did not make the labels myself. \n\nI would prefer to keep the budget between $20-$50 but can be flexible since I’m not sure what is standard for something like this.",
+    "url": "https://reddit.com/r/artcommissions/comments/1w3oi4i/hiring_looking_to_get_labels_made_for_a_crochet/",
+    "quality": "High Quality",
+    "budget": "$20-50",
+    "created_at": "2026-08-31T19:40:01Z"
+  },
+  {
+    "post_id": "1w3oemp",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/travis_the_maker",
+    "title": "[PAID] Pixel artist for visual direction on a puzzle game — 8-bit biology theme, paid exploration first",
+    "content": "[PAID] Pixel artist for visual direction on a puzzle game — 8-bit biology theme, paid exploration first\n\nBlockmosis is a puzzle game about filling a shape. Pieces slide in from the four edges of a 15x15 board, stop at the first thing they hit, and lock. You're trying to fill a white outline without spilling outside it. I'm currently preparing the store page for Steam Next Fest: [https://store.steampowered.com/app/5034650/Blockmosis/](https://store.steampowered.com/app/5034650/Blockmosis/)  \n  \nPlay it in 60 seconds, no install: [https://blockmosis.io/play-the-demo](https://blockmosis.io/play-the-demo)  \n  \n**Where I'm at**  \n  \nThe game currently has no concept of a theme or story. I'm toying with the idea of biology and music making, and I'd like to give the blocks some personality. I want to see what it looks like with an 8-bit biology theme.  \n  \nOne thing worth knowing before you pitch: the game ships zero image assets. Every block, wall and outline is drawn procedurally in canvas 2D. There are four flat colors on a dark mosaic. So this is a direction job, not a sprite order.  \n  \nThere's a companion post for the audio side, if you know someone.  \n  \n**The work**  \n  \nA paid exploration, \\~1-2 days. Three questions:  \n  \n\\- What does a piece look like in flight, before it locks?  \n\\- What does it look like once it's locked?  \n\\- What happens where pieces meet?  \n  \nI'm deliberately not being more prescriptive than that.  \n  \nIf a direction lands, there will be ongoing work after it - building it out into real assets, Steam store art, or both. But I'm hiring for the exploration first, and I'd rather pay three people to explore than guess at one.  \n  \n**Budget**  \n  \n$200-400 flat for the exploration, paid on delivery. If your number is different, say so and I'll tell you if we're far apart.  \n  \nThat said, if we go long-term after the exploration, I'd like to add an additional base fee, adding your name to the Steam store page and credits in the game, PLUS a percentage of profits. A share on top of being paid, never in place of it.  \n  \nWork stays yours until we agree a buyout for anything that ships.  \n  \n**To apply**  \n  \nEmail [hiring@blockmosis.io](mailto:hiring@blockmosis.io) with the subject starting: MOSAIC  \n  \nIn the body, three things:  \n  \n1. Portfolio link (pixel work preferably)  \n2. One sentence on something you noticed playing the demo. Anything. This is how I know you opened it.  \n3. Your fee, and your availability between now and Steam Next Fest (roughly October 10th)  \n  \nApplications close end of day September 4th. I'll follow up with folks I think could be a good fit.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w3oemp/paid_pixel_artist_for_visual_direction_on_a/",
+    "quality": "High Quality",
+    "budget": "$200-400",
+    "created_at": "2026-08-31T19:36:38Z"
+  },
+  {
     "post_id": "1w3o9vd",
     "platform": "Reddit",
     "source": "r/Artistsforhire",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$150",
     "created_at": "2026-08-27T22:36:07Z"
-  },
-  {
-    "post_id": "1w0798c",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/poison11037",
-    "title": "[Hiring] After specifically robot and technology based art.",
-    "content": "[Hiring] After specifically robot and technology based art.\n\nI am after a steampunk aesthetic art piece, so if you are going to DM, please have something that suits. My budget is open to offers (minimum $20)",
-    "url": "https://reddit.com/r/artcommissions/comments/1w0798c/hiring_after_specifically_robot_and_technology/",
-    "quality": "High Quality",
-    "budget": "$20",
-    "created_at": "2026-08-27T21:34:11Z"
-  },
-  {
-    "post_id": "1w076bn",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/FunkshinGames",
-    "title": "[PAID] Looking for Programmer",
-    "content": "[PAID] Looking for Programmer\n\nWe are Funkshin Games, a small Indie video game team developing Project Soul! We're creating a 2v2 turn based battle game, with a heavy focus on characters and team ups. \n\nWe’re looking for a programmer who specializes (preferably) in Godot 4 to join us. You need to be communicative, have a solid portfolio, and be willing to interview with the team. Anyone who's willing to work with us, please reach out and give a time we can speak with you so we can see if you would be a good fit!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w076bn/paid_looking_for_programmer/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-27T21:31:11Z"
   }
 ]
