@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w49dw4",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/protoforge-systems",
+    "title": "[PAID] Freelance 3D artist — characters/creatures/environments for a body-horror roguelike (remote, per-asset, work in Unreal/Unity/Blender)",
+    "content": "[PAID] Freelance 3D artist — characters/creatures/environments for a body-horror roguelike (remote, per-asset, work in Unreal/Unity/Blender)\n\nTwo-person team (programmer + game designer), shipping a side-scrolling body-horror roguelike\non Steam in early 2027. Godot 4 + C#. The gameplay build is real and the project is four weeks\nold — 90-second demo: https://youtu.be/pumPCGatK2U — and everything visible in it is\nplaceholder kit art, which is the problem you'd be solving.\n\n**The work, in priority order:**\n\n1. Player mutation forms — a base humanoid plus part-by-part transformed variants (blade arms,\n   restructured legs) on a fixed rig\n2. Creatures/enemies\n3. Lab/facility environment kits and overall visual direction\n\n**Compensation:** starts with a **$200 trial piece** (one creature or one mutation set, scoped\ntogether, real deadline). Continues per-asset at rates we agree per piece — small indie budget,\nstated honestly up front, not a bait-and-switch. For an artist who wants a stake in the project\nlong-term there's a revenue-share component on top, but the working arrangement is paid\nfreelance per asset.\n\n**Practical details:** remote, async-friendly, and **you never have to touch Godot**. The game\nruns on it, but the pipeline is built so you author in Unreal, Unity, or Blender — whichever\nyou already work in — and conversion into the game is scripted and handled by us. You deliver\nart in your own tools, we make it run. Style target is schlocky B-movie body horror: gory, readable, deliberately pulpy.\n\n**About us:** https://protoforgesystems.com · https://www.linkedin.com/in/cmcginnis/ ·\nhttps://github.com/ProtoForgeSystems\n\nDM with a portfolio of game-ready work (in-engine beats renders) and your per-asset rate range.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w49dw4/paid_freelance_3d_artist/",
+    "quality": "High Quality",
+    "budget": "$200",
+    "created_at": "2026-09-01T11:37:11Z"
+  },
+  {
     "post_id": "1w492ej",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-08-28T21:20:26Z"
-  },
-  {
-    "post_id": "1w125k5",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/GWR_Dukedog_9021",
-    "title": "[Hiring] Looking for an artist to help with designing an Ace Attorney OC I've been thinking of for a while, close to the Ace Attorney style. Budget of around $55, but I'm flexible for budget.",
-    "content": "[Hiring] Looking for an artist to help with designing an Ace Attorney OC I've been thinking of for a while, close to the Ace Attorney style. Budget of around $55, but I'm flexible for budget.\n\nThe OC I don't have a visual design for them yet, but they are named Lotté Arte, and she's meant to be a personal assistant to Prosecutor Godot, who slides his coffee mugs for him across the bench.\n\nShe would have darker skin, a long white ponytail, and her outfit would be sort of colored like Godot's original costume (with the red button up shirt, black tie, and black short shorts). She'd be around her early 20s, like Franziska von Karma and Maya Fey.\n\nWould love to possibly get an NSFW nude alternate of the same pose, in a style close to the Ace Attorney art style.\n\nThank you in advance for reaching out! :) ☕",
-    "url": "https://reddit.com/r/artcommissions/comments/1w125k5/hiring_looking_for_an_artist_to_help_with/",
-    "quality": "High Quality",
-    "budget": "$55,",
-    "created_at": "2026-08-28T20:38:49Z"
   }
 ]
