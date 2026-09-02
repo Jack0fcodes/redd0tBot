@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w5rbh6",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Porumaru",
+    "title": "[PAID] Looking for 3D Environment Artist - PS2-Style Japanese School ($200–300 USD)",
+    "content": "[PAID] Looking for 3D Environment Artist - PS2-Style Japanese School ($200–300 USD)\n\nI’m looking for a low poly 3D environment artist to create a small Japanese school environment for a commercial psychological-horror visual novel with light 3D exploration, currently being developed in Unity. This is the budget for a single map commission, if you are a right fit this can open up to multiple future commissions for this game. \n\nThe intended visual style is low-poly [PS2-era graphics](https://imgur.com/a/RsHn8dD) with slightly pixelated, photobashed or hand-created textures. I’m looking for someone whose existing work already fits this aesthetic. I've attached a reference image of what I'm looking for.\n\n**Environment scope:**\n\n* First-floor hallway with entrances to several classrooms\n* One fully modeled and enterable classroom\n* School entrance area with shoe lockers\n* Staircase leading to a smaller second-floor hallway\n* Non-enterable background rooms where appropriate\n* Some reusable/modular hallway sections\n* Standard Japanese school props, including desks, chairs, a chalkboard, teacher’s desk, clocks, lights, signs, noticeboards and vents\n* Doors that can be opened and closed\n* Separate chairs that can be moved in-engine\n* Basic collision and appropriate real-world scale\n* Clean and horror variations, with blood, scattered papers and other disturbing elements kept separate so they can be enabled or disabled\n\nI will provide detailed reference images, a visual design document, map schematics and a rough 3D blockout. The artist will not be expected to design the layout from scratch.\n\n**Budget:** $200–300 USD, depending on experience, portfolio and the final agreed scope.\n\nThis environment will serve as the first commission and a way to determine whether our workflows are compatible. If the artist is a good fit and the collaboration goes well, I expect to commission them for multiple additional environments for the same game.\n\nBecause this is for a commercial release, all textures and source materials must be original or properly licensed for commercial use.\n\nPlease respond or message me with:\n\n* Your portfolio, particularly any PS1/PS2-style environment work\n* Your estimated turnaround time\n* Your preferred software and deliverable format\n* Any questions you have about the scope\n\nPlease only apply if your portfolio demonstrates a style reasonably close to the requested aesthetic. I’ll send the full reference material privately to artists who appear to be a good fit.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w5rbh6/paid_looking_for_3d_environment_artist_ps2style/",
+    "quality": "High Quality",
+    "budget": "$200-300",
+    "created_at": "2026-09-02T23:50:56Z"
+  },
+  {
     "post_id": "1w5pr60",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-30T20:22:50Z"
-  },
-  {
-    "post_id": "1w2rg5h",
-    "platform": "Reddit",
-    "source": "r/ComicBookCollabs",
-    "author": "u/Victorydoctor24",
-    "title": "[PAID] Sequential artist wanted for bright medical-fantasy graphic novel — 8-page paid audition, possible long-term series",
-    "content": "[PAID] Sequential artist wanted for bright medical-fantasy graphic novel — 8-page paid audition, possible long-term series\n\nHi — I’m looking for a sequential artist for a long-form full-color graphic novel project called The Spinal Express.\n\nThis is a bright, stylized medical-fantasy story set inside “Corpus City,” a world inspired by human anatomy and nervous-system communication. The tone is adventurous, expressive, and accessible — not horror or dystopian.\n\nI already have:\n\n\\- the story/script\n\n\\- approved cover direction\n\n\\- character/world rules\n\n\\- an 8-page paid audition brief\n\nI’m looking for someone strong in:\n\n\\- sequential storytelling\n\n\\- character consistency\n\n\\- expressive acting\n\n\\- anatomy/posture\n\n\\- environments\n\n\\- long-term collaboration potential\n\nImportant note:\n\n\\- This is PAID\n\n\\- No free sample pages requested\n\n\\- I’m asking artists to quote staged audition levels separately:\n\n  1. Igor concept check\n\n  2. thumbnails\n\n  3. 2 finished diagnostic pages\n\n  4. full 8-page pilot\n\nPlease review the live brief here:\n\nhttps://drive.google.com/file/d/1BzOGQSQk7uufoc0CNdKNYn6xN1qQR4fD/view?usp=drivesdk\n\nIf interested, please send:\n\n\\- portfolio (especially sequential pages)\n\n\\- page rate\n\n\\- audition-level quote\n\n\\- turnaround time\n\n\\- revision policy\n\n\\- whether commercial rights are included\n\nThanks!",
-    "url": "https://reddit.com/r/ComicBookCollabs/comments/1w2rg5h/paid_sequential_artist_wanted_for_bright/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-30T19:50:10Z"
   }
 ]
