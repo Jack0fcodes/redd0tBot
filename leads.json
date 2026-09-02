@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w5gvd9",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/BigAlps2435",
+    "title": "[Hiring] Remote Unity Dev - Addressables / Remote Content (Existing Project)",
+    "content": "[Hiring] Remote Unity Dev - Addressables / Remote Content (Existing Project)\n\nWork\n\nWe have existing Unity PC projects. We need a reusable setup so a small client build loads most content from a remote/shared content server instead of shipping everything inside the install.\n\nTasks\n\n•  Review an existing Unity project and split local vs remote content\n\n•  Implement Addressables (or similar) with a remote catalog\n\n•  Set up caching and content updates without rebuilding the whole client\n\n•  Help define folder/host layout for the content server\n\nRequired\n\n•  Unity + C#\n\n•  Addressables with remote catalogs\n\n•  Comfortable working in someone else’s codebase\n\n•  Git\n\n•  Clear written English",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w5gvd9/hiring_remote_unity_dev_addressables_remote/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-02T17:24:21Z"
+  },
+  {
     "post_id": "1w5fys1",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-30T05:30:46Z"
-  },
-  {
-    "post_id": "1w27mjd",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/MoleculesImplode",
-    "title": "[Hiring] Digital Artist for Kawaii/Chibi Pokemon Sticker Designs ($300 Budget)",
-    "content": "[Hiring] Digital Artist for Kawaii/Chibi Pokemon Sticker Designs ($300 Budget)\n\nI'm commissioning a set of **digital Pokemon illustrations** for sticker designs in a specific kawaii/chibi style (see reference images). These designs are for commercial use. The character style needs to match my references closely, but there's creative freedom on backgrounds. The style is simple, so you don't need a huge portfolio to apply - if you can draw clean lines and flat colors, give it a shot!\n\n**Composition:** Character sits on the **right half** of the image (50-70% of the area), typically peeking from the lower-right corner. A fuller view is fine if the Pokemon's features are hard to show when cropped. Left side stays clear. Pokedex number (#001, etc.) in the top-left in bold white.\n\n**Color:** Monochromatic per design - one dominant hue matching the Pokemon's type. Accents used sparingly.\n\n**Background:** This is your creative space. My references use halftone dots with simple thematic elements (Ex. Squirtle), but feel free to experiment. Just keep it monochromatic and don't overpower the character.\n\n  \n**Deliverables**\n\nHigh-res PNG (300+ DPI), roughly 16:10 landscape. RGB. Layered PSD or vector is a plus but not required.\n\n# Sketch\n\nBefore committing, I'll ask you to sketch a quick colorless Pokemon of your choice in this style. What I'm evaluating:\n\n1. **Pokemon clarity** \\- Can someone identify the Pokemon at a glance without any labels? (The Charmander and Squirtle are BAD examples - people cannot tell right away who they are)\n2. **Style consistency** \\- Does it match the character style features/simplification in my references \n\n# To Apply\n\nI'm looking for around **20** designs at a budget of $300. If this rate suits you, please DM your sketch. Looking forward to talking to you!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1w27mjd/hiring_digital_artist_for_kawaiichibi_pokemon/",
-    "quality": "High Quality",
-    "budget": "$300",
-    "created_at": "2026-08-30T04:31:18Z"
   }
 ]
