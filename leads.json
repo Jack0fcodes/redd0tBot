@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w546a5",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Character_Chef_1411",
+    "title": "[PAID] Looking for 3D Fauna &amp; Flora Animator / Rigger – Blender, Game-Ready Assets",
+    "content": "[PAID] Looking for 3D Fauna &amp; Flora Animator / Rigger – Blender, Game-Ready Assets\n\nYo! \n\nI’m looking for a freelance 3D artist with strong experience in aquatic animals and plants, for a real time 3D side-project I want to develop more professionally.\n\nThe main focus is rigging and animation.\n\nI already have existing optimized 3D models and I want to start with a paid test to see how well they work with a proper animation pipeline.\n\nFor the first task, I will provide one existing model and I would like you to:\n\n* Inspect the model and determine whether it is suitable for animation\n* Make minor topology or mesh adjustments if necessary\n* Create a clean rig\n* Skin / weight-paint the model\n* Create at least one polished looping test animation\n* Preferably create a basic swimming / locomotion loop\n* Export the final result as GLB / glTF\n* Keep the result suitable for real-time use\n\nThe goal of the test is to evaluate both the existing model and the animation workflow itself.\n\nIf the test works well, this could turn into ongoing work involving a larger number of fauna and flora assets.\n\nFor now I only need two animations for aquatic fauna assets:\n\n* Idle movement\n* Normal swimming / locomotion\n\nI’m particularly interested in artists with experience in:\n\n* Fish and aquatic animals\n* Marine and freshwater fauna\n* Animal / creature animation\n* Organic rigging\n* Aquatic plants\n* Seaweed\n* Underwater vegetation\n* Game-ready assets\n* Blender\n* GLB / glTF workflows\n\nModelling is optional, but it would be a strong plus if you can also create, retopologize or modify models when needed. \n\nI’m especially interested in someone who understands how to keep rigs, animations and meshes efficient enough for real time applications.\n\nPlease send me:\n\n* Your portfolio (optional)\n* Examples of your own animal / creature animation\n* Examples of aquatic fauna or flora if available\n* Your price/h \n* Whether you also offer modelling / retopology\n\nFor the initial paid test, I’m mainly looking for someone who can take one of my existing models and deliver a properly rigged and animated result rather than only reviewing it. \n\nBudget is flexible, but I am primarily looking for affordable freelance / indie rates rather than studio pricing.\n\nStudents, junior artists and artists building their portfolio are also welcome if the quality is good.\n\nFeel free to DM me or reply below. \n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w546a5/paid_looking_for_3d_fauna_flora_animator_rigger/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-02T08:14:24Z"
+  },
+  {
     "post_id": "1w53pok",
     "platform": "Reddit",
     "source": "r/commissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-08-29T18:07:50Z"
-  },
-  {
-    "post_id": "1w1srlc",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Ok-Television-7157",
-    "title": "[Hiring] Looking for a Art commision of a improved thought out version of my fictional crawling tank in a setting. Minimium budget is 25 USD or 400ZAR(South African Rand)",
-    "content": "[Hiring] Looking for a Art commision of a improved thought out version of my fictional crawling tank in a setting. Minimium budget is 25 USD or 400ZAR(South African Rand)\n\nI want someone to improve on and actually bring to shape my fictional tank design in a modern like setting or pasture.",
-    "url": "https://reddit.com/r/artcommissions/comments/1w1srlc/hiring_looking_for_a_art_commision_of_a_improved/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-08-29T17:37:52Z"
   }
 ]
