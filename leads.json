@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w7bp4s",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/l3rva",
+    "title": "[HIRING] [PAID] Looking for someone to help with simple 2D vector art",
+    "content": "[HIRING] [PAID] Looking for someone to help with simple 2D vector art\n\nI need some help with simple 2D assets in my game. You can find alpha version of the game at [https://catfather-games.itch.io/dom-dom](https://catfather-games.itch.io/dom-dom) (it is also in private Steam playtest atm). The assets I need help with are:\n\n\\- Buildings (currently pretty much just outlines, open to new styles - about 10 different buildings)  \n\\- Planes (same style as the buildings, 7 at the moment, some additional ships but those might not need updates)  \n\\- Some additional assets, like satellites\n\nThere are more (like enemy ships &amp; buildings), but I think I might want to keep them simpler at the moment - although if we find super cool art direction, that might change.\n\nYou can see some of these in the screenshots. I am a solodev, so budget isn't anything crazy, I can afford around $200-$400 at the moment - but the assets and style can also be pretty simple.\n\nIf you think this would be an interesting job for you, please write here or send me a DM, showing relevant work or even a quick mockup of your ideas.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w7bp4s/hiring_paid_looking_for_someone_to_help_with/",
+    "quality": "High Quality",
+    "budget": "$200-400",
+    "created_at": "2026-09-04T17:57:07Z"
+  },
+  {
     "post_id": "1w7at06",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-08-31T21:37:10Z"
-  },
-  {
-    "post_id": "1w3rb7r",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Fun-Truth-4185",
-    "title": "[Hiring] Seeking artist for semi-realistic dark romance scene ($100 - $200 USD)",
-    "content": "[Hiring] Seeking artist for semi-realistic dark romance scene ($100 - $200 USD)",
-    "url": "https://reddit.com/r/artcommission/comments/1w3rb7r/hiring_seeking_artist_for_semirealistic_dark/",
-    "quality": "High Quality",
-    "budget": "$100-200",
-    "created_at": "2026-08-31T21:17:05Z"
   }
 ]
