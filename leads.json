@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1w8g7bz",
+    "platform": "Reddit",
+    "source": "r/Artistsforhire",
+    "author": "u/goddamnitD0NUT",
+    "title": "Looking for someone who specializes in digital art who would be willing to create a band logo based on the attached. [hiring] Willing to pay and hoping to get the rights. Thanks!",
+    "content": "Looking for someone who specializes in digital art who would be willing to create a band logo based on the attached. [hiring] Willing to pay and hoping to get the rights. Thanks!",
+    "url": "https://reddit.com/r/Artistsforhire/comments/1w8g7bz/looking_for_someone_who_specializes_in_digital/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-05T23:41:21Z"
+  },
+  {
+    "post_id": "1w8g7dj",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/LithexDev",
+    "title": "[PAID] Looking for low poly, stylized, Environment/Props 3D Artist",
+    "content": "[PAID] Looking for low poly, stylized, Environment/Props 3D Artist\n\n[\\\\\"Preserve\\\\\" by Bitmap Galaxy](https://preview.redd.it/j7hyyp1jbsnh1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=a36cae90b3af2cbb6902f188ccd1e404a0c92e48)\n\nHello everyone, \n\nTLDR; I need a modeler who is capable of the style in the image who can create a few different tiles, environment and turrets for a tower defense type of game I am working on. Please send me quotes and portfolios!\n\n**About Me:**\n\nI have been a developer in the industry for going on 15 years and I've recently started a project of creating a bunch of free games. (Don't worry, just because I'm not getting paid doesn't mean you won't be paid!) This is the first game that I will be releasing for this project and have started devloging the process through youtube and patreon. \n\n**HexTileTDR** is a hex based tower defense roguelike game where the player must focus on economy, strategy, and total base defense throughout a series of difficult maps to defeat the final boss where they must use everything they have learned along the way to achieve victory. \n\nI have created many of the models already myself, but I am still new to blender, so, if my models are useable by you as a base model, even better. If not its okay. However here are the models that I currently need or even just base privatives textured (like the hexagon for example can just be a cylinder with 6 sides) \n\n* HexTile\n   * Grass Biome\n   * Dirt Biome\n   * River Bed\n   * Mountain Biome\n   * Ore Deposit Biome\n   * Forest Biome\n* I have these models if they could be textured:\n   * Enemy Drone\n   * Mining Rig\n   * Solar Panel\n   * Shield Generator\n   * Pulse Turret\n   * Tesla Tower\n   * NOTE: if the models wont fit the style, I would consider remaking them myself or if you want to take that on as well that's fine for the right price. \n* Main Base Building\n\n  \nThese are the core objects I need while working on the prototype, but there will be so much more and these are just the \"Tier One\" variants of these objects, so there is potential for long term collaboration here. If you made it to this point shoot me the word icecream when you send your portfolio.\n\n  \nWhy Don't I just do it my self?\n\nI am still fairly new to blender. While I can create most of the things I need, I am extremely slow at it and they come out feeling a bit... armature. I really want the game to look cohesive and well designed, so I know where my limits lie and would love to hire some help.\n\n  \n**Pay:**\n\nThis is totally negotiable, I am open to hearing quotes from everyone. I want to make sure you are paid what you are worth, and am most concerned about finding an artist who can pull off the vision as needed. Please send your quote and your portfolio to me.\n\nCurrent Progress:  \nI have a procedural map generation and core turret placement logic finished. Looking to supplement that with the actual models as I finish out each tile's core logic, of course posting devlogs throughout the journey.\n\nThanks a ton,   \nIf I left anything out or you feel like this post is stupid, I am completely open to criticism, and will adjust accordingly.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w8g7dj/paid_looking_for_low_poly_stylized/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-05T23:41:24Z"
+  },
+  {
     "post_id": "1w8fxp7",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$250",
     "created_at": "2026-09-02T12:09:45Z"
-  },
-  {
-    "post_id": "1w54vta",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/ignislupus",
-    "title": "[Hiring] ~$100 negotiable",
-    "content": "[Hiring] ~$100 negotiable\n\nHi. Im looking for someone to illustrate the cap stone to my dnd characters story. Pre warning - It is a very dark moment filled with rage. \n\nThe offered price is an estimate. Im willing to go higher depending on the quality of the portfolio of the artist.",
-    "url": "https://reddit.com/r/artcommissions/comments/1w54vta/hiring_100_negotiable/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-09-02T08:56:18Z"
-  },
-  {
-    "post_id": "1w54hxo",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/ongoingrevolution",
-    "title": "[Hiring] Looking to hire a designer for Ads creatives - $20 ph",
-    "content": "[Hiring] Looking to hire a designer for Ads creatives - $20 ph\n\nI'm looking to hire a designer for  ads creatives and other design work. Please dm with your portfolio. Thanks,",
-    "url": "https://reddit.com/r/DesignJobs/comments/1w54hxo/hiring_looking_to_hire_a_designer_for_ads/",
-    "quality": "High Quality",
-    "budget": "$20",
-    "created_at": "2026-09-02T08:33:12Z"
   }
 ]
