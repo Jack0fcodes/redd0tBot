@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w7uv3m",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/dantetheredfox",
+    "title": "[Discussion] Looking for animation price estimations",
+    "content": "[Discussion] Looking for animation price estimations\n\nSo I'll start this off by saying I don't have the funds to hire anyone right now, or any time super soon. \n\nBecause of this I wasn't sure whether to put discussion or hiring as the flair, sorry if it's the wrong one. Let me know and I'll change it.\n\nI simply want to gather some names and price estimates so when I /do/ have the funds, I'll know about how much I have to have saved up and who I can reach out to. \n\nI have an idea for an OC animation I cannot get out of my head. It would be a 10 second animation looped once to part of a song. \n\nThere wouldn't be any super complicated movements, think something similar to an animation meme. Nor is the OC (humanoid angel. Though the wings can be excluded) complicated at all.\n\nI'll go further into details if someone asks. \n\nPlease feel free to post examples of your animations, and price estimates below. \n\nThank you!",
+    "url": "https://reddit.com/r/artcommission/comments/1w7uv3m/discussion_looking_for_animation_price_estimations/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-05T08:21:49Z"
+  },
+  {
     "post_id": "1w7uc9w",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-01T15:38:13Z"
-  },
-  {
-    "post_id": "1w4fceq",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Ikkarus__",
-    "title": "[Paid] Pixel Art, 48x48, Base Character - Create Remaining Sprites",
-    "content": "[Paid] Pixel Art, 48x48, Base Character - Create Remaining Sprites\n\nGood day!\n\nFor my game the base character consists of 5 body parts: lower body, torso, left arm, right arm, head. Theyre all drawn in separate layers. Some body parts have additional swappable poses, such as the sitting pose for the lower body.\n\nThe goal ist to create all of the character's animations entirely by moving individual body parts and swapping them out depending on which animation should be played. Many actions, like a waving-emote will be made by hiding the arms and using floating hands which show the desired action by changing their position relative to the character (and less often by rotating).\n\nThe only exception where I need an already ready-made animation is the movement animation as it is too specific to be created simply by moving existing parts.\n\nThe char is 4 a directional, 48x48 (actually slimmer) male base character. I already have the idle base for all directions. Following sprites are still needed:\n\n\\- Leaning Forward &amp; Leaning Back pose (torso only)\n\n\\- Sitting pose (lower body only)\n\n\\- Fighting Stance (lower body only)\n\n\\- Movement animation, 4-6 frames (lower body and both arms only)\n\n\\- One single sprite for each a straight arm &amp; a hand that I can use universally for all directions\n\nAs mentioned, all of these are single sprites, not animations, except for the movement animation for the respective body parts.\n\nWhat I already have is the sitting pose &amp; fighting stance for the side view which only need to be adjusted to match the current art style.\n\nAside from the sprites and animations it has been common for a few reworks to come up, so please take that into account.\n\n\\- The only thing that comes to my mind atm is that Im not entirely happy with the head in the front and back view, that Id have to discuss with the artist and get their expert opinion\n\n**Disclaimer**\n\nBased on past experience im mainly looking for artists who feel confident handling all aspects of the commission. If any aspect of the commission falss outside your current experience please only reach out if youre confident you can work through it independently without weakening the quality of the final result. So far Ive worked with some great artists who did great work in their own style, helped a lot but showed a limited ability/willingness to adapt to the requirements of the commission.\n\nIn general Im looking for indie rates but I dont want to comprimise on quality either. I tend to go with my gut on whether an offer feels right to me rather than limit myself to a fixed budget.\n\n*Thank you for taking your time! With all the details provieded Id be happy to hear from you with your portfolio and price estimate so we can discuss everything further from there. Also feel free to ask questions if something is not clear or has to be clarified :)*",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w4fceq/paid_pixel_art_48x48_base_character_create/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-01T15:31:02Z"
   }
 ]
