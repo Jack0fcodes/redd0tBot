@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w8r6y2",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/bellasam98",
+    "title": "[HIRING] Looking for an artist for a couple’s commission 💕",
+    "content": "[HIRING] Looking for an artist for a couple’s commission 💕\n\nHIII! I’m looking for something cute/romantic in a manga/anime-inspired style. Budget is around 50$. This is a birthday gift for my girlfriend so I’d need it completed by September 12tth. Please only reply if you can meet the deadline! Thanks! 🫶",
+    "url": "https://reddit.com/r/artistforhire/comments/1w8r6y2/hiring_looking_for_an_artist_for_a_couples/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-06T09:11:32Z"
+  },
+  {
     "post_id": "1w8plxy",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$40",
     "created_at": "2026-09-02T17:41:03Z"
-  },
-  {
-    "post_id": "1w5gvd9",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/BigAlps2435",
-    "title": "[Hiring] Remote Unity Dev - Addressables / Remote Content (Existing Project)",
-    "content": "[Hiring] Remote Unity Dev - Addressables / Remote Content (Existing Project)\n\nWork\n\nWe have existing Unity PC projects. We need a reusable setup so a small client build loads most content from a remote/shared content server instead of shipping everything inside the install.\n\nTasks\n\n•  Review an existing Unity project and split local vs remote content\n\n•  Implement Addressables (or similar) with a remote catalog\n\n•  Set up caching and content updates without rebuilding the whole client\n\n•  Help define folder/host layout for the content server\n\nRequired\n\n•  Unity + C#\n\n•  Addressables with remote catalogs\n\n•  Comfortable working in someone else’s codebase\n\n•  Git\n\n•  Clear written English",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w5gvd9/hiring_remote_unity_dev_addressables_remote/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-02T17:24:21Z"
   }
 ]
