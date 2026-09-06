@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w974xy",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/Patriotic_Helldiver",
+    "title": "[HIRING] Calling Sci-Fi artists. Looking to adopt one of your personal works or commission something new. Would like to stay around $75 USD.",
+    "content": "[HIRING] Calling Sci-Fi artists. Looking to adopt one of your personal works or commission something new. Would like to stay around $75 USD.\n\nI will be happy to talk details when I see your portfolio and enjoy your style. Without being too vague, I would like sci-fi vehicles, characters, and even weaponry and mechs. Let me know if you're available for NSFW, as well. Can't wait to see your work ☺️",
+    "url": "https://reddit.com/r/artcommissions/comments/1w974xy/hiring_calling_scifi_artists_looking_to_adopt_one/",
+    "quality": "High Quality",
+    "budget": "$75",
+    "created_at": "2026-09-06T20:23:22Z"
+  },
+  {
     "post_id": "1w96i91",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$250",
     "created_at": "2026-09-03T00:08:49Z"
-  },
-  {
-    "post_id": "1w5rbh6",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Porumaru",
-    "title": "[PAID] Looking for 3D Environment Artist - PS2-Style Japanese School ($200–300 USD)",
-    "content": "[PAID] Looking for 3D Environment Artist - PS2-Style Japanese School ($200–300 USD)\n\nI’m looking for a low poly 3D environment artist to create a small Japanese school environment for a commercial psychological-horror visual novel with light 3D exploration, currently being developed in Unity. This is the budget for a single map commission, if you are a right fit this can open up to multiple future commissions for this game. \n\nThe intended visual style is low-poly [PS2-era graphics](https://imgur.com/a/RsHn8dD) with slightly pixelated, photobashed or hand-created textures. I’m looking for someone whose existing work already fits this aesthetic. I've attached a reference image of what I'm looking for.\n\n**Environment scope:**\n\n* First-floor hallway with entrances to several classrooms\n* One fully modeled and enterable classroom\n* School entrance area with shoe lockers\n* Staircase leading to a smaller second-floor hallway\n* Non-enterable background rooms where appropriate\n* Some reusable/modular hallway sections\n* Standard Japanese school props, including desks, chairs, a chalkboard, teacher’s desk, clocks, lights, signs, noticeboards and vents\n* Doors that can be opened and closed\n* Separate chairs that can be moved in-engine\n* Basic collision and appropriate real-world scale\n* Clean and horror variations, with blood, scattered papers and other disturbing elements kept separate so they can be enabled or disabled\n\nI will provide detailed reference images, a visual design document, map schematics and a rough 3D blockout. The artist will not be expected to design the layout from scratch.\n\n**Budget:** $200–300 USD, depending on experience, portfolio and the final agreed scope.\n\nThis environment will serve as the first commission and a way to determine whether our workflows are compatible. If the artist is a good fit and the collaboration goes well, I expect to commission them for multiple additional environments for the same game.\n\nBecause this is for a commercial release, all textures and source materials must be original or properly licensed for commercial use.\n\nPlease respond or message me with:\n\n* Your portfolio, particularly any PS1/PS2-style environment work\n* Your estimated turnaround time\n* Your preferred software and deliverable format\n* Any questions you have about the scope\n\nPlease only apply if your portfolio demonstrates a style reasonably close to the requested aesthetic. I’ll send the full reference material privately to artists who appear to be a good fit.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w5rbh6/paid_looking_for_3d_environment_artist_ps2style/",
-    "quality": "High Quality",
-    "budget": "$200-300",
-    "created_at": "2026-09-02T23:50:56Z"
   }
 ]
