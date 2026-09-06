@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1w8la3o",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/New_Dev5",
+    "title": "PAID LOOKING FOR DEVS!!",
+    "content": "PAID LOOKING FOR DEVS!!\n\n\\[PAID\\] Hiring UE5 Developers — Single-Player FPS Vertical Slice\n\nI'm assembling a small team of paid contractors to help develop a polished 20–30 minute single-player FPS vertical slice in Unreal Engine 5.\n\nThis is a funded project — not rev-share or hobby work.\n\nThe game is focused on intense close-quarters gunplay, intelligent/reactive enemy AI, highly replayable combat arenas, environmental destruction, and polished weapon handling.\n\nThe goal is a short, extremely polished vertical slice rather than a large amount of unfinished content.\n\nROLES NEEDED\n\nUE5 Gameplay / AI Programmer\n\n\\- FPS weapon/gameplay systems\n\n\\- Behavior Trees/State Trees, EQS, perception and navigation\n\n\\- Tactical AI: flanking, repositioning, pushing, grenades and squad behavior\n\n\\- Blueprint and/or C++\n\n\\- Previous FPS or combat AI work strongly preferred\n\nFPS Level Designer\n\n\\- Handcrafted combat arenas\n\n\\- Multiple routes, flanking opportunities, verticality and environmental interaction\n\n\\- Strong understanding of encounter design and AI navigation\n\n\\- FPS portfolio strongly preferred\n\nGameplay / Technical Animator\n\n\\- First-person weapon animation\n\n\\- Enemy locomotion and combat animation\n\n\\- Animation Blueprints, montages and retargeting\n\n\\- Weapon handling, melee and reactions\n\nEnvironment / Technical Artist\n\n\\- UE5 environment dressing and lighting\n\n\\- Materials, decals and asset modification\n\n\\- Optimization and environmental destruction\n\n\\- Photorealistic environment experience preferred\n\nSound Designer\n\n\\- Firearms and weapon mechanics\n\n\\- Impacts, destruction and debris\n\n\\- Indoor combat acoustics\n\n\\- Ambience and general combat mixing\n\nVFX Artist\n\n\\- Niagara\n\n\\- Muzzle flashes and bullet impacts\n\n\\- Sparks, smoke, debris, blood and destruction effects\n\nPROJECT\n\nEngine: Unreal Engine 5\n\nGenre: Single-player FPS\n\nScope: 20–30 minute vertical slice\n\nWork: Remote / Contract\n\nCompensation: Paid\n\nWe're using quality licensed assets where appropriate rather than unnecessarily creating everything from scratch.\n\nI'm particularly interested in developers who understand how to make FPS combat feel exceptional.\n\nAPPLY\n\nPlease DM me with:\n\n\\- Role you're applying for\n\n\\- Portfolio / gameplay footage / demo reel\n\n\\- Relevant UE5 experience\n\n\\- Rate or project estimate\n\n\\- Availability and time zone\n\nGameplay footage is strongly preferred for programmers and level designers.\n\nMore information about the project will be shared privately with promising candidates.\n\nIf you've built something relevant to this kind of FPS, I'd love to see it.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w8la3o/paid_looking_for_devs/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-06T03:46:29Z"
+  },
+  {
     "post_id": "1w8jymm",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-02T14:52:45Z"
-  },
-  {
-    "post_id": "1w5cjfc",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Coreypollack",
-    "title": "[Hiring] I am looking for a pixel artist to create/animate some designs for me.",
-    "content": "[Hiring] I am looking for a pixel artist to create/animate some designs for me.\n\nI want a demon like character like attached, using only shades of green and a touch of yellow for highlights. I want a head/face, and body. I’m not looking for hyper detailed. I am not hooked on anything other then a simpler retro vibe.\n\nAnimations will be a couple laughing animations and a flying one, maybe others as time goes on. For now I will say 3-5 sec each.\n\nI would like them as a PNG image sequence, with no background, upscaled to 1k -2k resolution. I am not sure how that part works with pixel art software, so educate me if needed. I get that large resolution is sort redundant with pixel art, but I think I will need it large not 100% on that though.\n\nI am a 3d artist and I need this to be able to be used in blender, hence the transparent PNG image sequence.   \nThis is early stages of development, so drop your stuff below and I will sort them out.\n\nBudget: $70 for the design, $20 each animation.   \n(Let me know if that’s fair)",
-    "url": "https://reddit.com/r/artcommissions/comments/1w5cjfc/hiring_i_am_looking_for_a_pixel_artist_to/",
-    "quality": "High Quality",
-    "budget": "$70",
-    "created_at": "2026-09-02T14:50:23Z"
   }
 ]
