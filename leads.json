@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wce6f4",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Uerdinc",
+    "title": "[Hiring] [Paid] Experienced 2D Character Animator — Party-Based Roguelite Deckbuilder (London preferred, Remote OK)",
+    "content": "[Hiring] [Paid] Experienced 2D Character Animator — Party-Based Roguelite Deckbuilder (London preferred, Remote OK)\n\n**Studio:** Topdeck Productions — a small, focused indie team (\\~7 people) building for Steam **Location:** London preferred; open to remote for the right candidate **Type:** Full-time **Salary:** £35,000–£55,000/yr, depending on experience\n\n# About the game\n\nProject Topdeck is a party-based roguelite deckbuilder game for Steam: players draft a party of heroes from a roster of \\~20, each contributing cards to a shared deck. Visual style sits in the Darkest Dungeon / Slay the Spire 2 space — characters that read as a little dark and serious while still being expressive and full of personality.\n\n# What we're looking for\n\nAn experienced 2D animator to bring our hero and enemy roster to life in combat: idle states, attacks, hit reactions, deaths, and special-ability moments, all with the weight and readability a turn-based card battler needs to sell impact. You'll be working closely with our concept art direction to keep animation consistent with an established, painterly character style, and with our Unity implementation to make sure everything lands in-engine the way it's meant to.\n\n# You might be a good fit if you\n\n* Have shipped 2D character/creature animation for games — a portfolio or reel showing combat-relevant animation (attacks, hits, deaths, idles) is a must\n* Are comfortable working within an established art style rather than designing your own\n* Have experience with a sprite or skeletal animation pipeline (Spine2D, DragonBones, or similar) and familiarity with how animation gets implemented in Unity\n* Understand what makes combat animation feel weighty and readable, not just pretty\n* Can work collaboratively and iteratively with a small team; based in London or able to overlap comfortably with a London-based team if remote\n\n**Nice to have:** some VFX knowledge/experience — not required, but a plus if you've dabbled.\n\n# To apply\n\nSend a portfolio or reel with combat/character animation examples, along with your availability to start.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wce6f4/hiring_paid_experienced_2d_character_animator/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-10T09:27:39Z"
+  },
+  {
     "post_id": "1wcdvrd",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-06T19:33:49Z"
-  },
-  {
-    "post_id": "1w935ku",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/hexgothdazia",
-    "title": "[Hiring] $50 USD Looking for digital artist to create a relatively simple arcane symbol. A bit of room for creativity. Seeking multiple of the same image in multiple colors. I have early mockups to show as a basis.",
-    "content": "[Hiring] $50 USD Looking for digital artist to create a relatively simple arcane symbol. A bit of room for creativity. Seeking multiple of the same image in multiple colors. I have early mockups to show as a basis.\n\nI am seeking an artist to create an arcane \"sigil\" for me. This sigil will feature a custom symbol that I have an affinity with, but there is some room for a bit of creativity. When completed, I would like multiple versions of the image in various colors (a simple color swap). The symbol can be seen in the placeholder mockup that I'm using for my profile picture. If you're interested, don't hesitate to reach out. Time is a factor.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1w935ku/hiring_50_usd_looking_for_digital_artist_to/",
-    "quality": "High Quality",
-    "budget": "$50",
-    "created_at": "2026-09-06T17:56:45Z"
   }
 ]
