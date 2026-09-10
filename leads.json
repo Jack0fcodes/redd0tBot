@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wcpyya",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/Mundane-Bag-9023",
+    "title": "[Hiring] looking for DnD headshots!",
+    "content": "[Hiring] looking for DnD headshots!\n\nHello! Its been a minute since ive been back here and im looking to get a dnd character touched up and worked on for myself and an upcoming campaign! I like his overall design its just the facial patterns id like tweaked! And maybe a bit more varying purple added into his palette! \n\nPlease note i do not check dms, if you dm me it will be ignored. App wise i only use PayPal! Budget wise im offering 20 to 25 dollars depending on the quality!  If your interested id love to hear from you all below :\\]",
+    "url": "https://reddit.com/r/artcommission/comments/1wcpyya/hiring_looking_for_dnd_headshots/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-10T17:35:39Z"
+  },
+  {
     "post_id": "1wcoyqb",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$250-300",
     "created_at": "2026-09-06T23:49:50Z"
-  },
-  {
-    "post_id": "1w9c3t0",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/spacemisfits",
-    "title": "[PAID] Need a 3D Modeler That Embraces AI Not Run From It",
-    "content": "[PAID] Need a 3D Modeler That Embraces AI Not Run From It\n\n🚀 **Looking for an AI Artist / 3D Modeler — Must Embrace AI**\n\nWe’re building **Misfit Galaxy**, an indie MMO space shooter, and we’re looking for a 3D artist/modeler who wants to **embrace AI-assisted asset production, not run from it.**\n\nA major part of this role will be working directly with **Astra** to rapidly produce large-scale game assets, including:\n\n• Exterior space stations  \n• Interior station environments  \n• Hangars and docking bays  \n• Sci-fi structures and architecture  \n• Environmental props and modular station pieces\n\nWe are **not** looking for someone who expects to model every asset manually from scratch.\n\nWe want someone who understands that AI can dramatically accelerate production and knows how to take AI-generated output and turn it into something actually usable in a game.\n\nYou’ll be responsible for:\n\n• Writing and refining Astra prompts  \n• Providing Astra with strong concept references and direction  \n• Iterating on generated models until they match the target design  \n• Cleaning up and refining Astra output in Blender  \n• Retopology and triangle-count optimization  \n• Fixing geometry, UVs, materials, textures, and problem areas  \n• Preparing assets for **Unity and real-time gameplay**  \n• Maintaining visual consistency across an entire sci-fi universe  \n• Finding ways to push out **high-quality assets quickly**\n\nThe goal is simple:\n\n**Use Astra to do the heavy lifting, then use your artistic and technical ability to turn that output into polished, optimized, game-ready assets.**\n\nWe want somebody excited about figuring out how to produce in days what traditionally might have taken weeks.\n\nYou should be comfortable experimenting, iterating quickly, and pushing AI tools until the output reaches the quality bar we need.\n\nIf your first reaction to AI-generated 3D is *“this is going to replace artists,”* this probably isn’t the role for you.\n\nIf your reaction is *“how can I use this to produce 10x more?”* — **we want to talk to you.**\n\nSend over your portfolio, Blender/3D experience, game-development experience, and any examples of AI-assisted 3D workflows you’ve worked with.\n\n**Indie studio. Fast-moving team. Massive sci-fi universe to build.**",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1w9c3t0/paid_need_a_3d_modeler_that_embraces_ai_not_run/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-06T23:48:18Z"
   }
 ]
