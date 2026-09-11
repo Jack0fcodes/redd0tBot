@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1wdhnuo",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/papu8888",
+    "title": "[Hiring] Layered mascot character for a wellbeing app -flat vector, Duolingo-style starting at 300$",
+    "content": "[Hiring] Layered mascot character for a wellbeing app -flat vector, Duolingo-style starting at 300$\n\nHey everyone!\n\nI'm looking for an illustrator to design a mascot character for a digital-wellbeing app I'm building -a bunny named Bella (after my real-life bunny) who lives on the user's home screen widget and reacts to how much time they spend on doom apps like tik tok. the user will be rewarded with customization for the rabbit for lower time on the those apps.  \nThis is a passion project, not a funded startup, but I'm willing to start at around **$300 USD**. I know that's likely below what the full list costs, and I'd rather be upfront than waste your time. Tell me what you'd deliver at that number, what a phased approach might look like, or what you'd charge for the whole scope.\n\nI'm specifically looking for someone experienced with flat vector character design, mascot work, expressive posing, and layered/modular character files.\n\n**What I'm looking for:**\n\n* Flat vector character design\n* Mascot/character work with personality\n* Layered, modular file organization\n* Expressive posing and comedic timing\n* Ability to take a concept and bring your own voice to it\n\nI'm much more interested in finding the right artist and artistic voice than in someone who'll copy my descriptions exactly.\n\n**The character**  \nThe widget will show a bunny named Bella. I need her designed and built as a **layered** character so accessories can be swapped in code.\n\n**Style reference: Duolingo's widget art** \\- flat vector, abstract, bold simple shapes, few colors (maybe teal at first, then we can talk about more). Expressive and cute. I want that visual language, not a copy of their character. She should feel warm and care-worthy - an animal with human-like emotion. **Static poses only.** \n\n\n\n**Tone**  \nI want the art to be **funny and cute** \\- that's a big part of the appeal. The descriptions below are just my ideas. I'd be more than happy if you played with them, exaggerated them, or replaced them with something funnier. Think Duolingo fan-art energy - expressive, a bit silly, lots of personality.\n\n\n\n**The poses**\n\nAt least one pose per state. Numbers and concepts are negotiable - these are just my ideas.\n\n* **Idle 1** \\- a happy bun waving\n* **Idle 2** \\- bun getting petted by the user's hand (static)\n* **Idle 3** \\- bunny eating a carrot\n* **Frozen** \\- bun chilling inside an ice cube\n* **Morning 1** \\- bunny waking up\n* **Morning 2** \\- bunny yawning\n* **Morning 3** \\- bun in a loaf position\n* **Doom warning 1** \\- stressed\n* **Doom warning 2** \\-  bun checking a watch, like the meme \n* **Doom panic 1** \\- phone chasing after the bun\n* **Doom panic 2** \\- bun in the shower, stressed\n* **Doom dead** \\- bun stuck inside a phone\n* **Budget spent** \\- ears down, holding her empty bowl. Sad \n* **In focus** \\- bun studying at a desk with headphones, cozy lamp, rainy window\n* **Focus failed** \\- same room, but it's a mess and the bun is freaking out\n\n**Hats:** carrot hat, straw hat, magician hat, beanie, cowboy hat, headband *(can have color variants)*\n\n**Accessories:** flowers, ribbons, moustache, ear cuffs *(can have color variants)*\n\n**Skins:** color variants of the bun  \n\n\n**One important constraint: the head stays anchored:**  \nThe customization composites onto the character in code, so **the head needs to stay in roughly the same position and size across all poses**. Body, arms and expression can change freely - poses can suggest motion, I just need the head to stay put while the body does whatever it needs.\n\nIf a pose genuinely needs the head to move, flag it and we'll decide together whether it's worth it.\n\n\n\n**Technical requirements**\n\n* **Vector source file (.ai or .svg)** \\-I need to export Bella at many sizes (small on the widget, larger in-app, large for the store listing). Vector scales perfectly. It also lets me recolor her body myself for alternate skins.\n* **Layers named and grouped** (body / face / accessory slots separate) - customization is composed in code, so I need to export each piece independently. A flattened file can't be layered.\n* **Transparent PNG exports, 512×512 minimum** \\- PNG is what Android displays. Transparent so there's no white box behind her and layers stack cleanly. 512 gives headroom to scale down sharply.\n* **All layers on the same canvas size** \\- each element in its correct position, the rest transparent. Layers then align automatically when stacked, with no repositioning needed.\n* **Must read clearly at \\~264px** \\- that's the actual size she renders on a home screen. Fine details and thin lines disappear at that size, so bold shapes work best.\n* **Designed against a dark background (#1E1E1E)** \\- the widget background is near-black. Please don't design on white; dark outlines vanish on dark.\n* **Strong silhouette** \\- she should be recognizable as a solid black shape. At small size, silhouette is most of what people actually perceive.\n\n\n\n**Process**\n\nI'd like to start with a few rough sketch options before committing to a direction, then develop the one we pick. Happy to work in phases if that suits you.\n\n\n\n**About me / why I'm building this**\n\nI'm 22, and I've spent the last couple of years dealing with phone addiction - especially doom apps like Instagram and short-form video. Two years ago I deleted those apps and even installed a modified version of YouTube so I couldn't access Shorts (I know that's the worst kind of doomscroll). I felt better afterwards. But I do think Instagram, TikTok and even YouTube Shorts have some benefit -Instagram keeps you connected to people you don't see often, and it's good to let your brain switch off now and then.\n\nSo six months ago I started building this app, so I could install those apps again and help other people facing the same problem. It's been through a lot of versions; I've settled on this one, which is much simpler than the earlier ones.\n\nI've almost finished the Android version and will start on iOS next. I have about 1.5 months before I start university, and I really want to finish it before then, since I won't have much time afterwards.\n\nI did consider using AI, but there were two problems: I didn't want slop, and my attempts didn't look good - plus it couldn't do the layering this project needs.\n\n\n\n**Please include in your reply:**\n\n* Portfolio, especially any layered/modular or mascot character work\n* What you'd deliver at this budget, and what you'd suggest changing\n* Rough timeline\n* Discord username so we can start talking\n\nThanks! 🐰",
+    "url": "https://reddit.com/r/HungryArtists/comments/1wdhnuo/hiring_layered_mascot_character_for_a_wellbeing/",
+    "quality": "High Quality",
+    "budget": "$300",
+    "created_at": "2026-09-11T14:20:31Z"
+  },
+  {
+    "post_id": "1wdhod0",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Feedinkoo",
+    "title": "[Hiring] – Graphics Designer (Full-Time) $31 – $38/Hourly",
+    "content": "[Hiring] – Graphics Designer (Full-Time) $31 – $38/Hourly\n\nFully Remote Job Opening 🚀\n\nRole – Graphics Designer (STI Federal)\n\nSalary – $31 – $38/Hourly\n\nLocation – Remote, United States\n\nAbout the Company – STI Federal supports federal agencies through strategic government contracting and mission-focused programs. The company reinvests profits into tribal businesses and community programs while supporting critical government initiatives.\n\nLet us know if you are Interested 👇",
+    "url": "https://reddit.com/r/DesignJobs/comments/1wdhod0/hiring_graphics_designer_fulltime_31_38hourly/",
+    "quality": "High Quality",
+    "budget": "$31-38",
+    "created_at": "2026-09-11T14:21:03Z"
+  },
+  {
     "post_id": "1wdhgh1",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$50-150",
     "created_at": "2026-09-07T20:00:03Z"
-  },
-  {
-    "post_id": "1wa2k0h",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/ljebsen",
-    "title": "[Hiring] Illustrator for contemporary M/M romance cover illustration, $150 USD budget",
-    "content": "[Hiring] Illustrator for contemporary M/M romance cover illustration, $150 USD budget\n\nHi! I’m an indie author looking for an illustrator for my next contemporary M/M romance book.\n\nI’m looking for illustration only—I’ll handle the typography and final cover layout myself.\n\nThe concept is two adult men lying on the ground, viewed **directly from above**, surrounded by colorful alpine stonecrop flowers. Their bodies should feel somewhat mirrored / yin-yang-like without being perfectly symmetrical. One arm is beneath each man’s head, while their other hands meet and hold between them. I have a (badly) hand drawn sketch for reference, but it's also important to me that your style comes through. \n\nAlso a moodboard--who doesnt have a moodboard?\n\nStyle**:** I’m open to semi-realistic or otherwise distinctive styles. I especially like artists with a strong personal style, including newer or less-established artists. Fire your shot, I might just like it.\n\nNot looking for: anime/manga-inspired styles, chibi, furry/anthro styles. It's lovely, just not what I envision for this project.\n\nBudget**:** $150 USD total, including commercial use for ebook/paperback cover and basic promotional use. This budget is firm**.** I completely understand that this may be below some artists’ rates; I’m simply working within a hobby budget. Always value yourself!\n\n  \nAnd, of course... NO AI!!!\n\n\n\nIf interested, please comment and send me a DM with some example work.\n\nLooking forward to checking out your stuff! :)",
-    "url": "https://reddit.com/r/artcommissions/comments/1wa2k0h/hiring_illustrator_for_contemporary_mm_romance/",
-    "quality": "High Quality",
-    "budget": "$150",
-    "created_at": "2026-09-07T19:53:42Z"
-  },
-  {
-    "post_id": "1wa2hsz",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/TuxedoKitty2023",
-    "title": "[Hiring] $25 USD loomis method planes",
-    "content": "[Hiring] $25 USD loomis method planes\n\nYou see how the first photo in the Loomis method has all the planes on it\n\nThen the second photo I put up has all the different angles in perspective of the loomis method\n\nI’m looking for someone to commission all the planes on the face of the Loomis method with all the different angles I put in the second photo\n\nI’m only willing to pay $25. I’m not paying any more because it shouldn’t take that long to do and it’s not really detailed.\n\nIf anyone’s interested, please let me know Thank you. I look forward to working with you.",
-    "url": "https://reddit.com/r/artcommissions/comments/1wa2hsz/hiring_25_usd_loomis_method_planes/",
-    "quality": "High Quality",
-    "budget": "$25",
-    "created_at": "2026-09-07T19:51:30Z"
   }
 ]
