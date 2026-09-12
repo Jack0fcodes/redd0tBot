@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wec7hq",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Dependent-Ride9850",
+    "title": "[PAID] Seeking visual artist to create a Style Guide / Visual Pitch for indie game",
+    "content": "[PAID] Seeking visual artist to create a Style Guide / Visual Pitch for indie game\n\nI am a solo indie developer building a low-to-mid poly stylized game. I already have a base environment built, but I need help locking down the aesthetic rules before proceeding with more assets.\n\n**The Role**\n\nI will provide screenshots of my existing environment &amp; the game concept / core loop. You will put together a cohesive **visual reference deck / mood board** defining:\n\n* **Lighting &amp; Tone:** Color palettes, contrast, and atmosphere recommendations to elevate the current environment.\n* **Character Visual Benchmarks:** Examples and visual references of stylized character proportions/shapes that would fit into this game.\n* **Visual Rules:** A simple breakdown of shape language, textures, and material styles to keep future 3D assets consistent.\n\n*(Note: This is focused on visual research, reference curation, and direction notes,* ***no*** *custom-drawn illustration or asset production is required.)*\n\n**Budget**\n\n* **Payment:** $100 flat fee.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wec7hq/paid_seeking_visual_artist_to_create_a_style/",
+    "quality": "High Quality",
+    "budget": "$100",
+    "created_at": "2026-09-12T13:08:01Z"
+  },
+  {
     "post_id": "1webq4s",
     "platform": "Reddit",
     "source": "r/Artistsforhire",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$230",
     "created_at": "2026-09-08T13:24:29Z"
-  },
-  {
-    "post_id": "1waodth",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Even-Cress-2789",
-    "title": "[HIRING] Painting wanted based off of a tattoo and philosophy idea $500+",
-    "content": "[HIRING] Painting wanted based off of a tattoo and philosophy idea $500+",
-    "url": "https://reddit.com/r/artcommission/comments/1waodth/hiring_painting_wanted_based_off_of_a_tattoo_and/",
-    "quality": "High Quality",
-    "budget": "$500",
-    "created_at": "2026-09-08T13:26:32Z"
   }
 ]
