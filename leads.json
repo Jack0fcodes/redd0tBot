@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wecsia",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/BigAlps2435",
+    "title": "[Hiring] Remote Unity Dev - Addressables / Remote Content (Existing Project)",
+    "content": "[Hiring] Remote Unity Dev - Addressables / Remote Content (Existing Project)\n\nWe have existing Unity PC projects. We need a reusable setup so a small client build loads most content from a remote/shared content server instead of shipping everything inside the install.\n\nTasks\n\n• Review an existing Unity project and split local vs remote content\n\n• Implement Addressables (or similar) with a remote catalog\n\n• Set up caching and content updates without rebuilding the whole client\n\n• Help define folder/host layout for the content server\n\nRequired\n\n• Unity + C#\n\n• Addressables with remote catalogs\n\n• Comfortable working in someone else's codebase\n\n•  Git\n\n• Clear written English\n\nBased in India for remote collaboration with one other senior developer. The work is experimental and requires an ambitious, open-minded approach. Must have contributed to shipping respectable titles.\n\nDM if interested",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wecsia/hiring_remote_unity_dev_addressables_remote/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-12T13:33:44Z"
+  },
+  {
     "post_id": "1wec7hq",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$230",
     "created_at": "2026-09-08T13:57:24Z"
-  },
-  {
-    "post_id": "1waoc2h",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Abbiesykes",
-    "title": "[Hiring] $230 per page ($2300 total), highly detailed NSFW comic All characters 18+ Commercial rights 8 pages + Front &amp; Back Cover.",
-    "content": "[Hiring] $230 per page ($2300 total), highly detailed NSFW comic All characters 18+ Commercial rights 8 pages + Front &amp; Back Cover.\n\nLast post got removed! I should specify all characters are 18+ commercial rights needed, can discuss more! Thanks",
-    "url": "https://reddit.com/r/HungryArtists/comments/1waoc2h/hiring_230_per_page_2300_total_highly_detailed/",
-    "quality": "High Quality",
-    "budget": "$230",
-    "created_at": "2026-09-08T13:24:29Z"
   }
 ]
