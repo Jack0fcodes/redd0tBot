@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wf949y",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Salty_Device2368",
+    "title": "[PAID] Looking for a Spine 2D animator for a Slovak folklore indie game — potential ongoing work",
+    "content": "[PAID] Looking for a Spine 2D animator for a Slovak folklore indie game — potential ongoing work\n\nHey everyone!\n\nI’m developing an indie card-based roguelite inspired by Slovak folklore, built in Godot. I’m looking for a **Spine 2D animator** to bring the main character’s combat movements to life, with the possibility of ongoing work as the project develops.\n\nThe main character, **Juro**, is an agile outlaw and dancer who fights with a traditional axe called a **valaška**. He should stand upright and confidently at rest, then move quickly and decisively. I’m looking for clear poses, convincing weight transfer, strong timing and natural follow-through.\n\n**Layered character artwork and an existing Spine project are available.** The rig may need adjustments, so I’d appreciate someone who can assess it and recommend or make the changes needed for good animation. Please quote rigging work separately from animation.\n\nThe initial animation set would include:\n\n* Jump towards the enemy, slash with the axe, then jump back.\n* Two or three connected axe attacks, plus a stronger finisher.\n* Dodge and parry.\n* Light and heavy hit reactions.\n* Idle and guard stance.\n* Axe throw.\n* Jump.\n* Defeat / fall.\n\nThe combat relies on **chaining attacks and timing player input**. Juro should approach once, perform a sequence of strikes and retreat after the final attack. I’m happy for you to choreograph a longer combo first, provided the individual attacks are designed to be separated, chained and ended smoothly.\n\n**I’ll adapt the gameplay timing to the finished animations.** Clear contact frames and transition points will be important, but I’d like the animator to lead the movement and choreography.\n\nI’m especially interested in someone with experience in:\n\n* Full-body 2D combat animation in Spine.\n* Strong posing, anticipation, weight and impact.\n* Natural limb deformation and secondary motion.\n* Modular animations that transition cleanly in a game.\n\nI’d like to start with **one paid animation commission**, likely the approach → slash → retreat sequence. We could review the key poses and rough motion first, then polish it before moving on to the rest of the set.\n\nThis would be **paid freelance work**, with potential for further character and enemy animations. Please send me:\n\n* Your animation reel or relevant Spine combat examples.\n* Your rates or an estimated quote for the initial scope.\n* Your availability and approximate turnaround time.\n* Whether you also handle rig improvements.\n\nDelivery should include the **editable Spine project, required assets and preview videos**. I can share character artwork, gameplay footage, movement references and the existing project files so you can assess the work.\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wf949y/paid_looking_for_a_spine_2d_animator_for_a_slovak/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-13T14:25:45Z"
+  },
+  {
     "post_id": "1wf84f3",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-09T14:24:15Z"
-  },
-  {
-    "post_id": "1wbmhke",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/h3xx1e",
-    "title": "[PAID] Looking to work with a Level Designer for 3D Platformer",
-    "content": "[PAID] Looking to work with a Level Designer for 3D Platformer\n\nHi everyone,\n\n  \nI'm currently looking for a level designer to help me design the level for my game.\n\n  \nWe are currently a 3-person team working on a 3D platformer with the intention of creating a vertical slice and demo.\n\n  \nWe currently need assistance fleshing out the opening areas of the game.\n\n  \nFor example, the player wakes up in a Mausoleum after being buried under a curse, and the current design goes over the basic jump and ledge grab, while teasing at an area that the player cannot yet reach, before opening the player up to a space that they can explore.\n\n  \nWe have the intention to create a space that has a variety of activities; such as attacking rabid vegetables, parkouring across some cliffside ruins, finding a fishing rod in the Gravewarden's Shack and fishing out a fish that swallowed a collectible.\n\n  \nWe're also looking at how we can gate content without leaving the player without guidance.\n\n  \nI'll be happy to send through some of our concept art of the game to give you an idea of what we're working on, along with some sketches of the current areas.\n\n  \nWhat I'd be looking from you is to hop into a call where I can either share my screen or give you access to a Miro Board where we can work together on creating, and improving the map.\n\n  \nPlease let me know your budget (per hour) along with any portfolio that you currently have.\n\n  \nThanks very much!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wbmhke/paid_looking_to_work_with_a_level_designer_for_3d/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-09T14:02:27Z"
   }
 ]
