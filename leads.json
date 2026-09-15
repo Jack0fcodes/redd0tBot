@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wgsmey",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/its-caribou-lou",
+    "title": "[PAID] Game UI motion + sound design for a mobile game score reveal",
+    "content": "[PAID] Game UI motion + sound design for a mobile game score reveal\n\nHey everyone,\n\nI’m building **BlitzXI**, a fantasy cricket app with drafting, player powerups and extra strategy. I’m looking for someone to help polish its post-match score reveal.\n\nThe sequence reveals their score, performance stats, league results, personal records and rewards. I want the anticipation and payoff of a great arcade results screen or collectible card opening: tactile, energetic and satisfying.\n\n**T**he visual identity is already established. I’m happy with the colours and overall aesthetic. I want to improve the choreography: timing, arrangement, easing, weight, transitions, particles and sound.\n\nI’m looking for a **game UI motion designer with sound design experience**, or a motion designer and sound designer who work together. Strong examples of either discipline are welcome.\n\nI’d value someone who can watch the current sequence, identify what feels flat or mistimed, and propose a cohesive treatment. This is more than sourcing and placing sound effects.\n\nThe initial scope is a **paid pilot covering one highest-tier reveal**. I can provide reference recordings, existing assets and an isolated interactive preview.\n\nIdeally, we’d start with a motion prototype or video animatic with sound. Once approved, delivery would include timing/motion notes, individual game-ready WAVs and a clear list of any third-party assets and usage rights. I can handle implementation.\n\nPlease DM:\n\n* Two or three relevant examples, explaining your contribution.\n* Whether you cover motion, sound or both.\n* Your proposed fee, availability and included revisions.\n\nAny additional asset or licensing costs would be agreed beforehand.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wgsmey/paid_game_ui_motion_sound_design_for_a_mobile/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-15T06:38:11Z"
+  },
+  {
     "post_id": "1wgrd2x",
     "platform": "Reddit",
     "source": "r/commissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$6",
     "created_at": "2026-09-11T06:31:20Z"
-  },
-  {
-    "post_id": "1wd7pmn",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/BitterSpare8428",
-    "title": "HIRING: UNITY GAME DEVELOPER / FREELANCERS | IMMEDIATE JOINING",
-    "content": "HIRING: UNITY GAME DEVELOPER / FREELANCERS | IMMEDIATE JOINING",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wd7pmn/hiring_unity_game_developer_freelancers_immediate/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-11T06:00:12Z"
   }
 ]
