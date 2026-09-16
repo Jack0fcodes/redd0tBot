@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wi766b",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/gleasonator13",
+    "title": "[Hiring] Xbox Gamerpics style avatar $100 - seeking 12 artists",
+    "content": "[Hiring] Xbox Gamerpics style avatar $100 - seeking 12 artists\n\nI'm looking to hire 12 artists. Each for $100, to create 1 avatar each. I think [Xbox Gamerpics](https://xbox.fandom.com/wiki/List_of_Xbox_One_gamerpics#Unsorted) is a good source for inspiration.\n\nContext:\n\nWe are developing [Armada](https://armada.buzz/), an open-source decentralized Discord alternative. It's similar to Matrix, except it's based on the Nostr/Concord protocol and it has the vibes of Discord.\n\nI want to replace [these placeholder avatars](https://blossom.ditto.pub/81180bfc2f4ed056e43cf5c4c8960a3bdb993130efbb55a3a0f45eeab0030c3e.png) in Armada's \"create account\" flow with inspired hand-drawn avatars.\n\nI would like you to create 1 original avatar for $100. I will select 12 people.\n\n**I will pay you through either PayPal or Bitcoin, your choice.**\n\nYou must agree to these terms:\n\n* **Avatar must be hand-drawn by you.**\n* You must deliver a **500x500px (or larger) png**.\n* You won't use any copyrighted assets, and **you agree to give your graphic to the world**, relenquishing copyright and treating the graphic you made as public domain. This kicks in after I pay you.\n* To agree to these terms, reply to this thread and drop a link to your portfolio or equivalent, along with a casual use of the word \"banana\" in a sentence, which may or may not be gramatically correct.\n\nAvatars must be square (equal pixel dimensions on both sides), and will be cropped into a circle shape by the app. So draw all the way to the edges, but plan to have focal points in the center so they are not cut off when cropped into a circle.\n\nIn return:\n\n* **You will have total creative freedom.**\n* I will not ask for revisions.\n* If you are selected and you produce anything that fits these terms, I will pay you.\n* But understand that it's my choice what makes it into the app. So although I will pay you for your work regardless, it's not a guarantee that the art makes it into Armada.\n\nIf you are selected, I will reply to you publicly and then send you a DM. Once you are finished, you may send me a watermarked version of the avatar. After I pay you, I would like you to post the finished graphic publicly in this thread.\n\nLet's have fun and see what we come up with!!",
+    "url": "https://reddit.com/r/artistforhire/comments/1wi766b/hiring_xbox_gamerpics_style_avatar_100_seeking_12/",
+    "quality": "High Quality",
+    "budget": "$100",
+    "created_at": "2026-09-16T19:27:13Z"
+  },
+  {
     "post_id": "1wi4xen",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-12T14:31:16Z"
-  },
-  {
-    "post_id": "1wed6js",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Alternative_Milk8937",
-    "title": "[PAID] Hiring 3D gameplay animator (and 3d modeler)",
-    "content": "[PAID] Hiring 3D gameplay animator (and 3d modeler)\n\n\\[PAID\\] Hiring 3D gameplay animator\n\nI need experienced gameplay animator to work freelance/task based on my games. While I work on programming, I need highly polished animations done. Please just comment demoreel link here or message me your demoreel. That's all I need.\n\nMostly combat and traversal/parkour animations. Please reach out who is experienced.   \n  \nThanks. If you do stylized/realistic character models, also send your work.\n\nThis is my linkedin: [Saba Danelia | LinkedIn](https://www.linkedin.com/in/sabadanelia/)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wed6js/paid_hiring_3d_gameplay_animator_and_3d_modeler/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-12T13:50:36Z"
   }
 ]
