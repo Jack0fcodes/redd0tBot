@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1whi83h",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/BaelonFalseDragon",
+    "title": "[HIRING]",
+    "content": "[HIRING]\n\nI am writing a medieval dark fantasy, and i like the idea of each oc family having their own sigil and banner or crest. Im not much of an artist despite everything but i do have the ideas in my head. Just need someone to help me put those ideas to digil paper \n\nBudget from 80-100$USD \n\nPaypal friendly",
+    "url": "https://reddit.com/r/artcommissions/comments/1whi83h/hiring/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-16T00:44:52Z"
+  },
+  {
     "post_id": "1whhz7q",
     "platform": "Reddit",
     "source": "r/FurryCommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-09-11T20:12:00Z"
-  },
-  {
-    "post_id": "1wdpswk",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/another_developer_40",
-    "title": "[DISCUSSION | QUESTION] How should I value and present an AI-assisted Three.js game prototype for acquisition?",
-    "content": "[DISCUSSION | QUESTION] How should I value and present an AI-assisted Three.js game prototype for acquisition?\n\nI’m developing a stylized Three.js browser-game prototype called Tidal Memory.\n\nDemo: [https://tidal-game-two.vercel.app/](https://tidal-game-two.vercel.app/?utm_source=chatgpt.com)\n\nIt currently has two playable levels, source code, a player controller, environmental exploration, and a water-level gameplay foundation. The project was created with substantial AI-assisted development, so I would be transparent with potential buyers about the need for code review, asset review, cleanup, and further development.\n\nI’m considering whether to sell the complete project to a developer or small studio as a starting point for continuation, reskinning, or rebuilding. I’m not looking to hire anyone through this post.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wdpswk/discussion_question_how_should_i_value_and/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-11T19:15:21Z"
   }
 ]
