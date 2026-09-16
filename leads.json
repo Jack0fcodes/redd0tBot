@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1whoj18",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/Lucky_Piano_9164",
+    "title": "[Hiring] looking for an artist to draw me live. Commission based.",
+    "content": "[Hiring] looking for an artist to draw me live. Commission based.",
+    "url": "https://reddit.com/r/artistforhire/comments/1whoj18/hiring_looking_for_an_artist_to_draw_me_live/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-16T05:51:18Z"
+  },
+  {
     "post_id": "1whmy7o",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$50",
     "created_at": "2026-09-11T23:38:46Z"
-  },
-  {
-    "post_id": "1wdwfif",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/lenamode",
-    "title": "[PAID] Low Poly 3D Character Artist Needed",
-    "content": "[PAID] Low Poly 3D Character Artist Needed\n\nHello! I am currently working on my first indie game and since I'm not much of a character artist I'm using [Advanced People Pack 2](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/advanced-people-pack-2-170756) to speed along clothing and NPC generation systems - I'm now at the point where I'm looking for someone who can make some bespoke outfits for the game using this system in a similar low-poly style using flat colours from a limited colour palette, a quick guide can be found at [https://www.youtube.com/watch?v=lRK8Kr01mTg](https://www.youtube.com/watch?v=lRK8Kr01mTg) for reference on what this pipeline looks like. \n\nI'm looking to create a good variety of outfits, but to start with, I'd really like the main character to wear a nice coat. The game is a sci-fi detective CRPG, so cool outfits are a must! \n\nhttps://preview.redd.it/pir2s9ep7zoh1.png?width=1243&amp;format=png&amp;auto=webp&amp;s=b57f651f5ed354572f4c78b60010bf3ac88fc786\n\nThis is basically a one-man show so I'm paying out of pocket, I'd be looking to pay around £20-50 per model given the low polycount and the fact there's no PBR texturing or high-to-low baking process required to produce a finished model but if that's extremely unrealistic then I'm happy to negotiate. \n\nIf you'd like to know more or contact me directly through Discord, you can join the 'studio' server here: [https://discord.gg/JBrUwWMcZ](https://discord.gg/JBrUwWMcZ)\n\nThanks for reading!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wdwfif/paid_low_poly_3d_character_artist_needed/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-11T23:36:02Z"
   }
 ]
