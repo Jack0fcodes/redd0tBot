@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wj2jjk",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Porumaru",
+    "title": "[HIRING] Looking for a Persona-Style Portrait Artist for a Visual Novel",
+    "content": "[HIRING] Looking for a Persona-Style Portrait Artist for a Visual Novel\n\nHi! I’m looking for a 2D portrait artist for a visual novel game in a style similar to the Persona series. I am specifically looking for someone who can create portraits at the quality level of Persona 4 or Persona 5. The final style will be slightly different, but those games represent the general look and quality I’m aiming for.\n\nThere will be roughly 6-10 characters in the game. Each character will need:\n\n* A neutral expression\n* Several different expressions\n* Blinking and jaw movement frames, similar to the Persona games\n* Three different costumes\n\nI am willing to pay $100-$200+ per character. I haven’t set a hard amount because each character will require a different number of expressions. I would like to receive a fair quote from the artist based on the amount of work required for each character.\n\nThe artwork will be used commercially in the game and related promotional material, so the agreed price must include commercial usage rights.\n\nIf you are interested, please send me any relevant portfolio pieces that show you could create artwork in this style. I will be hiring primarily based on your ability to match the Persona series, so examples that demonstrate this will be a huge plus.\n\n**\\[NO AI\\] Please do not submit AI-generated artwork or portfolios containing AI-generated work.**\n\nExample of the portrait style I'm looking for: [Style](https://youtu.be/zVc5MNqPrEE?si=YOc4ZeZEiXgBjJyY)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wj2jjk/hiring_looking_for_a_personastyle_portrait_artist/",
+    "quality": "High Quality",
+    "budget": "$100-200",
+    "created_at": "2026-09-17T18:45:03Z"
+  },
+  {
     "post_id": "1wiycly",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-13T11:53:05Z"
-  },
-  {
-    "post_id": "1wf3fh6",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Hilluja",
-    "title": "[PAID] Need an interface/config mod for an indie game",
-    "content": "[PAID] Need an interface/config mod for an indie game\n\nHi! I like playing DRG Survivor, but its a newer IL2CPP Unity game, so getting the files for balancing mods takes a long time from a coding noob.\n\nWould anyone be willing to make me config files or an interface mod allowing me to adjust the class and weapon balancing?\n\nI'll pay about 30€ or a similar price game on Steam.\n\nDM open!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wf3fh6/paid_need_an_interfaceconfig_mod_for_an_indie_game/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-13T09:52:33Z"
   }
 ]
