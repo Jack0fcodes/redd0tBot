@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1wjy481",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/pomegranate_pajamas",
+    "title": "Quick [Hiring]",
+    "content": "Quick [Hiring]\n\n\\[Hi all, lm looking for someone to do a quick job for $20/hr. Shouldn’t take more than an hour. Just cleaning up/recreating a design in a correct scale and sending me the finished pdfs (2 things). Basically it’s ai designed already, I just want real human finished work/touches. Thanks!",
+    "url": "https://reddit.com/r/DesignJobs/comments/1wjy481/quick_hiring/",
+    "quality": "High Quality",
+    "budget": "$20",
+    "created_at": "2026-09-18T18:23:35Z"
+  },
+  {
+    "post_id": "1wjy2pz",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ceribrus115",
+    "title": "Title: [PAID] Unity Multiplayer Programmer for Unannounced Co-Op Horror Prototype",
+    "content": "Title: [PAID] Unity Multiplayer Programmer for Unannounced Co-Op Horror Prototype\n\n**About the Project:** I am looking for a Unity C# Programmer to build the gray-box prototype for an unannounced 3D first-person co-op horror game. The game is asymmetrical and heavily relies on restricted player communication, spatial audio, and resource management.\n\nI am handling the game design and direction; I need you strictly for core gameplay logic, player networking, and voice comms integration.\n\n**What You Will Be Building (Technical Scope):**\n\n* **Networking &amp; Lobbies:** Setting up client/host architecture using Unity NGO, Mirror, or Photon.\n* **Advanced VoIP Integration:** Implementing proximity voice chat (e.g., Vivox, Dissonance) with custom scripts to dynamically mute/unmute specific players based on in-game resource variables.\n* **Networked Physics:** Creating heavy, physics-enabled objects that players can pick up and drag, which must be accurately synced across all clients.\n* **Sequential Logic:** Scripting strict \"state machines\" where players must interact with objects in a specific, synced order to avoid fail states.\n* **Shared Economy:** A basic UI terminal where players can spend a globally synced currency integer.\n\n**Required Skills:**\n\n* Strong experience with Unity C# and 3D physics.\n* Experience shipping or prototyping Multiplayer/Networked games.\n* Direct experience implementing and manipulating in-game Voice Chat (VoIP).\n* Ability to write clean, modular scripts with exposed variables for easy designer tweaking.\n\n**Compensation:**\n\n* Will be discussed upon interview\n* This is a contract role for the prototype phase, with the potential to stay on as Lead Programmer for the full Steam production.\n\n**How to Apply:** Please send a DM with:\n\n1. A brief introduction.\n2. Examples of previous multiplayer or Unity projects you've coded.\n3. Your estimated hourly rate or flat rate for a prototype of this scope.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wjy2pz/title_paid_unity_multiplayer_programmer_for/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-18T18:22:01Z"
+  },
+  {
     "post_id": "1wjuk6n",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$200",
     "created_at": "2026-09-14T13:12:38Z"
-  },
-  {
-    "post_id": "1wg2qji",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/PhantomAxisStudios",
-    "title": "[PAID] Looking for sound and music/VA for story games in interesting settings!",
-    "content": "[PAID] Looking for sound and music/VA for story games in interesting settings!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wg2qji/paid_looking_for_sound_and_musicva_for_story/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-14T12:59:02Z"
-  },
-  {
-    "post_id": "1wg2nmt",
-    "platform": "Reddit",
-    "source": "r/ComicBookCollabs",
-    "author": "u/aboymakeahitanime",
-    "title": "I NEED  AN ARTIST PLEASE REPLY NO SCAM",
-    "content": "I NEED  AN ARTIST PLEASE REPLY NO SCAM\n\nHII SIR I AM 17 YEAR OLD BOY AND I MAKE AN INTRESTING ANIME STORY DARK PHYSCOLOGY ACTION I NEED A ARTIST TO MAKE MY STORY INTO MANGA ON PARTNERSHIP ACCORDING TO ARTIST PLEASE I AM AGREE TO SEND MY FULL STORY PLEASE SERIOUS ARTIST REPLY NO SCAM \n\nIg id - krishnkant\\_mahaur\\_012",
-    "url": "https://reddit.com/r/ComicBookCollabs/comments/1wg2nmt/i_need_an_artist_please_reply_no_scam/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-14T12:55:48Z"
   }
 ]
