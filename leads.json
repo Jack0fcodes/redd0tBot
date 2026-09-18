@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wk4m8x",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/relided",
+    "title": "[Hiring] Need a cute, dancing Corgi for an edible image for a cake",
+    "content": "[Hiring] Need a cute, dancing Corgi for an edible image for a cake\n\nFor an 8th birthday party. Budget of $100, and I need it by Monday 20th September.",
+    "url": "https://reddit.com/r/artcommissions/comments/1wk4m8x/hiring_need_a_cute_dancing_corgi_for_an_edible/",
+    "quality": "High Quality",
+    "budget": "$100,",
+    "created_at": "2026-09-18T22:33:25Z"
+  },
+  {
     "post_id": "1wk4flr",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-14T19:37:32Z"
-  },
-  {
-    "post_id": "1wgdom7",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/WereDadStudios",
-    "title": "[PAID] Two programmers need a 3D Animator and a VFX Artist , UE5 tactical shooter, code ~60% done — $200/mo each + rev share",
-    "content": "[PAID] Two programmers need a 3D Animator and a VFX Artist , UE5 tactical shooter, code ~60% done — $200/mo each + rev share\n\n\nWe’re two programmers building a tactical shooter in Unreal Engine 5. The demo covers PvE and PvP with 5 playable characters. Code is about 60% done and net performant.\n\nUnfortunately we’re programmers with 0 3D skills between us. For this project to move forward, we’ve scraped together what we have to try and get some help.\n\n3D Animator (UE5) — $200/month\n\nCharacter and combat animation: weapon handling, fire, reload, hit reactions, deaths, locomotion, ability casts  \n\n\nUE5 Animation Blueprints, blend spaces, montages, notifies  \n\n\nWorking from marketplace/rigged characters is expected — no modelling or rigging required\n\nVFX Artist (Niagara) — $200/month\n\nMuzzle flashes, impacts, ability effects, status/aura effects  \n  \nNiagara, plus material/shader work where it helps  \n  \nWe have a GameplayTag-driven spawn system already, so you’re plugging effects into a working hookup\n\nExperience level doesn’t matter. No years bar, no credits needed. Self-taught, student, first team project — all fine. We’re looking at your work, nothing else.\n\nPay:\n\n$200/month each. We know that isn’t a lot. It’s what we can afford.  \n  \nPart-time rate, part-time scope — a few focused hours a week. We won’t ask for full-time output.  \n  \n  \nFull credit, and demo footage for your reel.\n\nTo apply: comment or DM with your reel, the role you want, and your timezone. Happy to show gameplay footage to anyone who asks.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wgdom7/paid_two_programmers_need_a_3d_animator_and_a_vfx/",
-    "quality": "High Quality",
-    "budget": "$200",
-    "created_at": "2026-09-14T19:37:24Z"
   }
 ]
