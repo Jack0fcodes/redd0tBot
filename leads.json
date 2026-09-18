@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wjnk8f",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Plane_Slip_9612",
+    "title": "[PAID] Looking for an RTS Game / Systems Designer to help iterate on a playable prototype",
+    "content": "[PAID] Looking for an RTS Game / Systems Designer to help iterate on a playable prototype\n\nHey, I’m a solo developer working on an RTS and I’m looking for a game designer to help me with it.\n\nI already have a playable prototype and a pretty clear idea of where I want to take the game. The problem is that I don’t have enough time to constantly play it, tweak things, try different ideas and keep iterating on the gameplay. That’s basically what I’m looking for someone to help with.\n\nI need someone who can spend time with the game and figure out what actually makes it fun. That could mean changing unit stats or the economy, but it could also mean changing buildings, their sizes or roles, map layouts, resource placement, pacing, progression, etc. I’m not looking for someone who will just balance a spreadsheet. I want someone who is comfortable saying “this part doesn’t really work, let’s try something else” and then actually testing it.\n\nThe prototype currently takes a lot from an existing RTS. That was intentional because I wanted to get something playable quickly rather than design everything from scratch. One of the goals now is to start moving away from that reference and figure out what works for this game specifically.\n\nI’m a developer myself, so I’m not primarily looking for programming help. I’m looking for someone who understands RTS/strategy game design and wants to spend time actually playing and iterating on the game. Professional experience is useful, but I’m also interested in people who have done serious modding or indie work and really understand RTS games.\n\nIf you’re interested, send me a DM with a little about yourself, what you’ve worked on, which RTS games you know really well, and your usual rate.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wjnk8f/paid_looking_for_an_rts_game_systems_designer_to/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-18T11:25:44Z"
+  },
+  {
     "post_id": "1wjnb2w",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-09-14T07:10:54Z"
-  },
-  {
-    "post_id": "1wfvq00",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Top-Sun-9826",
-    "title": "[PAID] Stylized 3D Character Artist Needed – Model, Rig &amp; Facial Expressions – 1 Week",
-    "content": "[PAID] Stylized 3D Character Artist Needed – Model, Rig &amp; Facial Expressions – 1 Week\n\nHi!  \nI’m looking for a **stylized 3D character artist** to create the main playable character for our 2–4 player co-op party/puzzle game, **Who Pressed It?!**\n\nI already have a clear concept/reference for the character and I’m looking for someone who can turn it into a **clean, game-ready 3D model** while preserving the cute, simple and expressive design.\n\nThe character style is:\n\n* simple / stylized / slightly sci-fi\n* cute and comedic\n* strong silhouette\n* expressive face system\n* suitable for physical comedy, falling, pushing, carrying, pressing buttons, etc.\n\n**What I need:**\n\n* Full 3D character model based on the provided concept\n* Clean topology\n* UVs + textures/materials\n* Rig\n* Basic facial expression setup\n* Game-ready FBX/Blender file\n* Preferably a small basic animation set:\n   * Idle\n   * Walk\n   * Run\n   * Jump\n   * Fall / Land\n   * Push / Carry\n   * Hit / Knockback\n\nThe project is made in **Unity**, so the final character must be suitable for Unity import and runtime animation.\n\n**Deadline:** around **1 week** from the start of the job.\n\nThis is a **paid commission**. Budget is flexible depending on portfolio, quality and whether animation is included.\n\nPlease reply or DM me with:\n\n* Portfolio\n* Similar stylized character work\n* Whether you can also rig/animate\n* Your price estimate\n* Your estimated delivery time\n\nI’ll provide the full character concept sheet and references privately.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wfvq00/paid_stylized_3d_character_artist_needed_model/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-14T06:33:08Z"
   }
 ]
