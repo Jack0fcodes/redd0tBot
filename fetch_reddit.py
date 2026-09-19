@@ -221,6 +221,7 @@ if __name__ == "__main__":
             "hireanartist",
             "HungryArtistsFed",
             "starvingartist",
+            "BookCovers",
             "CatsWithDogs",
             "starvingartists"
         ]
