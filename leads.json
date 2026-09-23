@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wnwrpo",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/jimothy_clickit",
+    "title": "[PAID] Terrain texture artist needed",
+    "content": "[PAID] Terrain texture artist needed\n\nI am a solo dev working on a real-world-scale global terrain engine which has reached a significant technical milestone in that the material system is now functional and ready for soil and rock-specific textures at both a micro and macro scale. Although the potential volume of work ranges up to a large number of lithological and soil classes, I'm looking to ramp up over time as I dial in a few material parameters and refine some blending and asset streaming workflows. What I need right now are a few soil and rock textures that I can use for testing, and some iteration and refinement may be required before final parameters are fully defined. \n\nGenerally, I'm looking for someone with prior terrain texturing experience with work to show. Photoscan or substance designer/equivalent workflow are equally compelling, and I leave it to the artist to decide how the final product comes together (although I will insist on a no-AI commitment up front on *source* material used for textures). Rocks and soil are everywhere, so I prefer source artifacts (images, scans, etc) come from natural inspiration :) \n\nI primarily work on the project in the evening but am reachable throughout the day (US, southwest). English fluency is required. Attached are a few examples of the terrain engine at work with placeholder textures from Polyhaven.\n\nOnly serious inquiries with real experience and portfolio will be considered. Ideal candidates are laid back, professional, and open to a collaborative, creative experience. If all goes well, a longer term collab with repeat work would be welcome as the engine continues to grow and expand. Please DM here, ongoing collab will take place over Discord.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wnwrpo/paid_terrain_texture_artist_needed/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-23T05:11:18Z"
+  },
+  {
     "post_id": "1wnwp8e",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30",
     "created_at": "2026-09-19T00:29:31Z"
-  },
-  {
-    "post_id": "1wk6i8v",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/OneStance",
-    "title": "[Hiring] Looking for an artist who can do a custom NSFW anime style piece.",
-    "content": "[Hiring] Looking for an artist who can do a custom NSFW anime style piece.\n\nBudget: $50  \nPreferred Payment: Cash App\n\nWe can discuss more details if you are interested in taking the commission on. Thank you!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1wk6i8v/hiring_looking_for_an_artist_who_can_do_a_custom/",
-    "quality": "High Quality",
-    "budget": "$50",
-    "created_at": "2026-09-18T23:54:14Z"
   }
 ]
