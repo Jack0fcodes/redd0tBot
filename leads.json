@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wpcpiy",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Acrobatic-Dream-2546",
+    "title": "[PAID] Looking for English → French Translator + Ren'Py Localizer for Being a DIK Season 3",
+    "content": "[PAID] Looking for English → French Translator + Ren'Py Localizer for Being a DIK Season 3\n\nHi!\n\nI'm looking to hire someone to create a complete French localization patch for Being a DIK – Season 3, an adult/NSFW visual novel made with Ren'Py.\n\nThis is a personal project for my legally purchased GOG copy. I'm not affiliated with the developer or publisher.\n\nSeason 3 currently includes the Interlude and Episodes 9–12.\n\nI'm looking for English → French localization of all player-visible content, including dialogue, narration, choices, phone messages/replies, Rooster posts/comments, Swyper content, character descriptions, free-roam content, mini-games and UI text where possible.\n\nThe French translation should preserve the original tone, including adult, sexual, vulgar and humorous dialogue.\n\nIdeally I'm looking for someone who can handle BOTH:\n\n* English → French translation/localization\n* Ren'Py technical work and integration\n\nThe final result should be a working French patch that I can install into my existing game.\n\nI currently have the original English GOG installation and also a complete working Russian translation patch for the same version, which can be used as a technical reference for the translation structure. The French translation itself must be made from the original English.\n\nIf you're a Ren'Py developer but don't speak French, I'm also interested in hiring someone for the technical extraction/preparation/integration while a separate French translator handles the linguistic work.\n\nI'd like to start with the Interlude as a small PAID test before commissioning Episodes 9–12.\n\nBudget for the initial Interlude test: around €10, negotiable depending on the amount of text and technical work.\n\nFor the complete Season 3, I'm looking for quotes after you've reviewed the scope. There is no strict deadline; quality and a reliable implementation matter more to me than speed.\n\nIf interested, please comment or DM me with your Ren'Py/localization experience, whether you can translate English → French, your estimated price/timeframe, and examples of previous work if available.\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wpcpiy/paid_looking_for_english_french_translator_renpy/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-24T20:29:28Z"
+  },
+  {
     "post_id": "1wpc9cj",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-21T03:05:00Z"
-  },
-  {
-    "post_id": "1wm0vy3",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Horror-Response8666",
-    "title": "Rule 34 [Hiring] Looking for an NSFW artist willing to draw fart fetish content and to copy art styles",
-    "content": "Rule 34 [Hiring] Looking for an NSFW artist willing to draw fart fetish content and to copy art styles",
-    "url": "https://reddit.com/r/HungryArtists/comments/1wm0vy3/rule_34_hiring_looking_for_an_nsfw_artist_willing/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-21T02:59:04Z"
   }
 ]
