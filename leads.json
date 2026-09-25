@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wqbr02",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/Deltamech325",
+    "title": "[HIRING] 150",
+    "content": "[HIRING] 150\n\nHey there! I'm hiring again for an illustration for my short story, I'd like commercial rights and price is negotiable.\n\nThe short story is fantasy with elements of both dark and epic. The main character is very celtic themed. Further details for the illustration will be given on hiring! Thank you.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1wqbr02/hiring_150/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-25T23:53:27Z"
+  },
+  {
     "post_id": "1wqbdf7",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-09-21T22:35:26Z"
-  },
-  {
-    "post_id": "1wmro0n",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Diddyman07",
-    "title": "[PAID] UI Designer for a Competitive Rhythm Game",
-    "content": "[PAID] UI Designer for a Competitive Rhythm Game\n\nHello people! I'm currently working on a project which is a free to play competitive vertical scrolling rhythm game that will release on steam. It's currently in closed alpha testing with some content creators and top players from other games. I had a decent go at designing all the menus myself but found I'm not so great at it so here I am!\n\nI'm looking for a UI designer to help me bring a proper visual identity for the game together alongside work on 3 key screens those being the title screen, song select and results screen. Target resolution of 1920x1080, 16:9. Mouse being the primary navigation method. No animations or transitions. Open license fonts only. Logo not included.\n\nScope by milestone: (Two revisions each)  \n1. Visual identity sheet - colour palette, typography, mood  \n2. Title screen - navigation to key areas (play, editor, settings etc.)  \n3. Song select - layout for browsing/selecting songs, showing difficulty ratings, key chart info, leaderboards, song background behind everything  \n4. Results screen - a post play summary, showing accuracy/score/grade which can be scrolled down for more detailed statistics\n\nStyle: clean and modern primarily greyscale with colours reserved for functional use (grades, difficulty ratings) Menus need to be clean and readable while still letting a song's background art feel dominant in the song select and results screens. Phigros' UI is a good example of the style I'd like to achieve in terms of style and mood. Not too neon/cyberpunk. \n\nWork type: Paid commission, milestone based  \nBudget: $500 across all milestones ($100, $75, $175, $150)  \nThere is potential for future paid work too after this.\n\nPayment timing:  \n\\- $50 upfront with the remaining $50 on approval of milestone 1  \n\\- Milestones 2-4 are paid on approval\n\nRequirements:  \n\\- Consistent communication. Updates and check-ins every few days.  \n\\- A portfolio with real game UI menus  \n\\- Delivery of screens in Figma with all assets also exported as PNGs\n\nNice to have:  \n\\- Interest in rhythm games\n\nLicense: Commercial use. Source files included.\n\nTimeline: Aiming for 4-6 weeks total\n\nCurrent menu screens and more details will be sent to shortlisted applicants.\n\nTo apply please comment the following:  \n\\- Your portfolio  \n\\- Your favourite snack",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wmro0n/paid_ui_designer_for_a_competitive_rhythm_game/",
-    "quality": "High Quality",
-    "budget": "$500",
-    "created_at": "2026-09-21T22:31:49Z"
   }
 ]
