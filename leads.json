@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wprgnw",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/RoughSeason815",
+    "title": "[HIRING] Android Reverse Engineer / WebSocket Developer – Paid Project",
+    "content": "[HIRING] Android Reverse Engineer / WebSocket Developer – Paid Project\n\n\\[I’m looking for an experienced Android reverse-engineering/network-protocol developer for a paid project involving Blockman GO. We already have the group-renaming endpoint working, but the messaging functionality is incomplete. We need a developer who can analyze the messaging architecture/protocol and, using our own test account and groups, develop a working script capable of connecting to the relevant WebSocket/protocol and sending and receiving messages. We suspect the messaging layer may involve RongCloud, so experience with RongCloud, WebSockets, Android network traffic analysis, Frida, APK analysis, and protocol reverse engineering would be highly valuable. We can provide the Blockman GO app/version, our existing working rename implementation, and any relevant technical information we already have. If the developer needs a remote environment for testing, I can also provide an Azure Windows/Linux VM with sufficient resources and remote access for the development/testing work. This is a paid project, and I’m specifically looking for someone who can take the messaging portion from analysis through to a functional implementation. Existing technical reference/code: \\[INSERT YOUR GITHUB/GIST/REFERENCE LINK HERE\\]",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wprgnw/hiring_android_reverse_engineer_websocket/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-25T09:08:39Z"
+  },
+  {
     "post_id": "1wpr9bd",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30-80",
     "created_at": "2026-09-21T13:08:40Z"
-  },
-  {
-    "post_id": "1wmbenr",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Perfect-Sherbert-648",
-    "title": "[Hiring] Magic The Gathering Miku proxy cards.",
-    "content": "[Hiring] Magic The Gathering Miku proxy cards.\n\nIm looking for someone whos able to take a current card with its art style and make it into miku themed. No restrictions or customization so what you think is a good fit is what ill pay for. Ecchi art is alright if not a bit preferred but no NSFW as they are playing cards. So only thing I ask is for you to make the card miku themed in some way. If I like final product I do have multiple cards I want mikufied. Fully body or waist up  with background and something that matches my other cards. The photos show the expetect art style. The last card Wedding ring is the card I want mikufied if anyone's up for the task. All for personal use. 40$ budget per card but cant be flexable depending on quality.",
-    "url": "https://reddit.com/r/artcommission/comments/1wmbenr/hiring_magic_the_gathering_miku_proxy_cards/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-21T12:29:27Z"
   }
 ]
