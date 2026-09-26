@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wqc351",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/substrate-games",
+    "title": "[PAID] Composer wanted: adaptive cyberpunk/synth soundtrack for an indie RTS",
+    "content": "[PAID] Composer wanted: adaptive cyberpunk/synth soundtrack for an indie RTS\n\nI'm building a game called Luminaris ([Steam page](https://store.steampowered.com/app/5116110/Luminaris/)). It's a minimalist RTS that can be played in \\~5-8 minutes. Stars breed light-motes that are your economy, army and shield all at once, so a match goes from a quiet build-up to full-scale chaos fast.\n\nI've got a standard Pixabay track over the top at the moment, and I'm looking to replace it with custom music that reacts to what's happening in the game.\n\n**What I'm after**\n\n* A cyberpunk/synth sound: dark, driving, a bit neon. Think pulsing bass, arps and big pads rather than chiptune.\n* Music built in layers so I can fade parts in and out in Godot as the match heats up. For example, pads alone at the start, the bass line joining as players expand, then drums and lead synths coming in when fighting breaks out.\n* Each layer should hold up on its own, because players will often hear only the first one or two.\n\n**Deliverables**\n\n* One main in-match track as a seamless loop (roughly 2-3 minutes), split into 4-6 stems: e.g. pads/atmosphere, bass, drums, arps, lead.\n* All stems the same length, starting on bar 1, summing to the full mix, with no clipping when everything plays together.\n* Fixed tempo, with BPM, time signature and bar count noted.\n* A full stereo mix as well, for trailers and socials.\n\n**Budget**\n\n* I'm aiming for around $500 - $600 USD. \n* I'm open to soundtrack-revenue split, as well as other options. \n\n**Process**  \nI'd like to start with a small paid test: 30-60 seconds with 3 stems, so we can check it layers properly in-engine before committing to the full piece.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wqc351/paid_composer_wanted_adaptive_cyberpunksynth/",
+    "quality": "High Quality",
+    "budget": "$500-600",
+    "created_at": "2026-09-26T00:08:14Z"
+  },
+  {
     "post_id": "1wqbr02",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30-110",
     "created_at": "2026-09-21T23:41:08Z"
-  },
-  {
-    "post_id": "1wmrr5s",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Tandashi",
-    "title": "[Hiring] Looking for 2D UI &amp; Asset Artist for Custom Game Assets (Player Icon, Crew Banner, Taunt Art)",
-    "content": "[Hiring] Looking for 2D UI &amp; Asset Artist for Custom Game Assets (Player Icon, Crew Banner, Taunt Art)\n\nHello! I am looking to commission a freelance 2D artist to create custom assets for an upcoming community event/mod for r/KnockoutCity (Halloween-themed). \n\nThe game has a very distinct bold, graphic, retro-futuristic arcade aesthetic, so experience with high-contrast vector/UI art, Twitch emotes, or arcade graphic styles is a huge plus!\n\nFor Reference: https://knockoutcity.fandom.com/wiki/Brawler\n\n### Asset Scope (any or multiple of):\n1. Player Icon: 480 × 392 PNG (Transparent background)\n2. Crew Banner: 4440 × 720 PNG (should be chunk able in \n1768 × 592 and 840 × 160) (Scalable, graphic UI layout)\n3. Taunt: 512 × 512 (× frames) PNG (either static or roughly 8-12 frames)\n\n### Details:\n- Theme: Halloween / Retro-Arcade / Spooky\n- Commercial Use: Non-commercial (Used purely for a non-profit community mod event)\n- Budget: $20+ - 100$ depending on asset scope (Open to adjustment depending on portfolio experience and scope)\n- Payment Method: PayPal &amp; Ko-Fi\n\n### How to Apply:\nPlease leave a comment on this post with a link to your portfolio/portfolio site (Carrd, ArtStation, VGen, Twitter/X, etc.). \n\n*Note: Please comment on this thread before DMing, as per subreddit rules.*\n\nThanks!",
-    "url": "https://reddit.com/r/artcommissions/comments/1wmrr5s/hiring_looking_for_2d_ui_asset_artist_for_custom/",
-    "quality": "High Quality",
-    "budget": "$20",
-    "created_at": "2026-09-21T22:35:26Z"
   }
 ]
