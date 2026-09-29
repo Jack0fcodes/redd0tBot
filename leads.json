@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wtewvn",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ScuffedGameDev",
+    "title": "[Hiring] Senior Unreal Engine Generalist - 2D Pixel Art MMORPG. $5,000/month",
+    "content": "[Hiring] Senior Unreal Engine Generalist - 2D Pixel Art MMORPG. $5,000/month\n\n**Hiring Senior Unreal Engine Generalist for 2D Pixel Art MMORPG | $5,000/month | Remote**\n\nHi everyone,\n\nWe are developing a high-quality 2D top-down pixel art MMORPG in Unreal Engine 5 and are looking for a **Senior Unreal Engine Generalist** to join the team full-time.\n\nThis is not a pure programmer position and not a pixel artist position. We already have dedicated pixel artists creating the assets.\n\nWe need someone who combines strong **Unreal Engine and C++ skills with a genuinely good eye for games**.\n\nYou should be able to play through a build and notice when something does not feel right. Maybe a forest feels too static and needs falling leaves, wind, particles, weather, or more ambient movement. Maybe combat works mechanically but lacks impact, hit reactions, VFX, animation feedback, camera feedback, or sound.\n\nWe want someone who can spot these things without needing us to point out every detail.\n\n**What we're looking for:**\n\n• Strong Unreal Engine 5 and C++ experience  \n• Excellent eye for game feel and visual polish  \n• Technical art, VFX and Niagara experience  \n• Multiplayer and replication experience  \n• Strong general gameplay development skills  \n• Ability to work independently and proactively suggest improvements  \n• Ideally 5+ years of professional game development experience\n\nYou do **not** need to create pixel art. Our artists handle asset creation. Your job is to help make everything come together properly inside Unreal Engine and push the game from functional to polished.\n\n**Position:** Full-time, long-term  \n**Location:** Remote  \n**Compensation:** $5,000 USD/month\n\nFull job details, requirements, and the application form are available on our website:\n\n[https://pixelhelmet.com/unreal-generalist/](https://pixelhelmet.com/unreal-generalist/)\n\n**Please apply through the website only. Please do not send Reddit DMs or chat requests.**",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wtewvn/hiring_senior_unreal_engine_generalist_2d_pixel/",
+    "quality": "High Quality",
+    "budget": "$5,000",
+    "created_at": "2026-09-29T16:33:15Z"
+  },
+  {
     "post_id": "1wtercq",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-150",
     "created_at": "2026-09-25T08:02:31Z"
-  },
-  {
-    "post_id": "1wppow3",
-    "platform": "Reddit",
-    "source": "r/DesignJobs",
-    "author": "u/agarwalvishal00",
-    "title": "[Hiring] Social Media Graphic Designer - India",
-    "content": "[Hiring] Social Media Graphic Designer - India\n\nThe Upside is looking for a full-time Graphic Designer \n\nLocation: near Hoodi, Bengaluru, India\n\nMonthly Salary: 30,000 (negotiable)\n\n  \nJob Description:\n\n1. Designing social media creatives: static posts, carousels, and story frames within our existing brand system (typeface, colour palette, grid).\n2. Adapting master layouts into multiple sizes and formats for Instagram, website, Amazon, and paid ads.\n3. Supporting packaging and label design: dielines, mockups, and print-ready file prep across product SKUs.\n4. Building website and PDP visual assets: banners, ingredient cards, section graphics, and infographics.\n5. Basic photo retouching and compositing in Photoshop for product and lifestyle imagery.\n6. Maintaining and organising our design library: templates, asset folders, and version control.\n7. Working closely with the founder, brand manager, and content team, and taking feedback through revision rounds.\n\nApply using this link: [https://forms.cloud.microsoft/r/9LhfVG82nb](https://forms.cloud.microsoft/r/9LhfVG82nb)",
-    "url": "https://reddit.com/r/DesignJobs/comments/1wppow3/hiring_social_media_graphic_designer_india/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-25T07:10:52Z"
   }
 ]
