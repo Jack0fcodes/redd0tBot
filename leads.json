@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wtiz02",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/Bananenscemi",
+    "title": "[Hiring] Looking for an Artist for my VTuber Project",
+    "content": "[Hiring] Looking for an Artist for my VTuber Project\n\nHey! \n\nI’m currently looking for an artist who could help me with some artwork for my upcoming VTuber project.\n\nI’m planning to work through these things step by step rather than ordering everything at once, so I’m mainly looking for someone I can work with over time as I build everything up.\n\nI’m looking for things like:\n\n* Profile picture\n* Banners\n* Twitch panels\n* Emotes &amp; animated emotes\n* Stream overlays\n* Offline screen\n* Starting screen\n* BRB / pause screen\n* Possibly other stream graphics in the future\n\nI already have my own ideas and references for the overall style, and I’m looking for someone who can bring them to life in their own art style.\n\nPayment would be through PayPal in EUR (€). My budget for now is around 100€.\n\nI’m planning to use the artwork for Twitch, YouTube and social media, so I would also need commercial usage rights.\n\nIf this is something you’re interested in, I’d love to see your portfolio and your prices!",
+    "url": "https://reddit.com/r/artcommissions/comments/1wtiz02/hiring_looking_for_an_artist_for_my_vtuber_project/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-09-29T19:03:55Z"
+  },
+  {
     "post_id": "1wtimoz",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-25T09:44:32Z"
-  },
-  {
-    "post_id": "1wprgnw",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/RoughSeason815",
-    "title": "[HIRING] Android Reverse Engineer / WebSocket Developer – Paid Project",
-    "content": "[HIRING] Android Reverse Engineer / WebSocket Developer – Paid Project\n\n\\[I’m looking for an experienced Android reverse-engineering/network-protocol developer for a paid project involving Blockman GO. We already have the group-renaming endpoint working, but the messaging functionality is incomplete. We need a developer who can analyze the messaging architecture/protocol and, using our own test account and groups, develop a working script capable of connecting to the relevant WebSocket/protocol and sending and receiving messages. We suspect the messaging layer may involve RongCloud, so experience with RongCloud, WebSockets, Android network traffic analysis, Frida, APK analysis, and protocol reverse engineering would be highly valuable. We can provide the Blockman GO app/version, our existing working rename implementation, and any relevant technical information we already have. If the developer needs a remote environment for testing, I can also provide an Azure Windows/Linux VM with sufficient resources and remote access for the development/testing work. This is a paid project, and I’m specifically looking for someone who can take the messaging portion from analysis through to a functional implementation. Existing technical reference/code: \\[INSERT YOUR GITHUB/GIST/REFERENCE LINK HERE\\]",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wprgnw/hiring_android_reverse_engineer_websocket/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-25T09:08:39Z"
   }
 ]
