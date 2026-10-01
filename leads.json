@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wv1k5s",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/jase_r",
+    "title": "[Hiring] Looking for a Graphic Designer (Instagram Covers &amp; Carousels)",
+    "content": "[Hiring] Looking for a Graphic Designer (Instagram Covers &amp; Carousels)\n\nHey everyone!\n\nI'm looking for a graphic designer to work with us on Instagram content, specifically:\n\n* **Instagram Reel covers:** We already have the grid concept and a clear vision of how the covers should look. We need someone who can understand and execute that vision consistently.\n* **Carousel designs:** Create visually appealing, well-structured carousels for Instagram.\n\n**Requirements:**\n\n* Must be fluent in Arabic (reading, writing, and understanding).\n* Good eye for design, typography, and visual consistency.\n* Able to follow an existing brand identity and design concept.\n* Experience designing Instagram content.\n\nIf you're interested, drop your portfolio in the comments or send me a DM with your rates and availability.\n\nLooking forward to seeing your work!",
+    "url": "https://reddit.com/r/DesignJobs/comments/1wv1k5s/hiring_looking_for_a_graphic_designer_instagram/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-01T14:54:14Z"
+  },
+  {
     "post_id": "1wv0wic",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-27T20:31:47Z"
-  },
-  {
-    "post_id": "1wrrr0p",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/emzeesquared",
-    "title": "[Hiring] Isometric pixel art world map for a cyberpunk mobile game, $1000-1500(full rights transfer)",
-    "content": "[Hiring] Isometric pixel art world map for a cyberpunk mobile game, $1000-1500(full rights transfer)\n\n\\[PAID CONTRACT\\] Pixel Art Environment Artist: Isometric World Map for a Cyberpunk Crime Game\n\nWe're looking for a talented, human-only pixel artist to design the world map for Nightfall City, an upcoming mobile-first idle crime game set in a dystopian synthwave cyberpunk city.\n\nBudget: $1000 to $1,500 USD flat rate depending on experience, up to $2,000 for exceptional portfolios.\n\nThis is phase one of an ongoing relationship. The map will keep growing with new buildings, timed event locations and seasonal overlays, and artists who deliver great work get first offer on all of it.\n\nScope and technical requirements\n\nTheme: synthwave cyberpunk, dystopian city grid. Gritty, neon-lit, 16-bit era aesthetic.\n\nProjection: true 2:1 isometric.\n\nBase tile: 32x16 px isometric diamonds.\n\nCanvas: \\[size in pixels\\], viewed on mobile in \\[portrait / landscape\\]. The map pans, so it doesn't need to fit on one screen.\n\nLandmarks: 6 to 8 unique key locations (list provided on hire, for example \\[the Warehouse, the Market\\]).\n\nThe rest of the city: built from a reusable modular tileset (streets, generic buildings, neon signage, props) so the city can grow cheaply later.\n\nPalette: must match our existing character art; palette file provided.\n\nDelivery\n\nLayered source files (.aseprite or .psd). Flat images will not be accepted.\n\nThe ground and base layout on their own layers.\n\nEach landmark on its own separate layer, so buildings can be moved, swapped or added later.\n\nThe modular tiles delivered as a clean tile sheet.\n\nA consistent tile grid, so future buildings and seasonal overlays (for example snow) can be added to match.\n\nMilestones\n\n10%: single-tile style test (for example one modular cyber-street or neon den). Due within 4 days of hire\n\n40%: uncoloured graybox / line-art sketch of the full map layout. Due within 2 weeks of hire\n\n50%: final rendered, polished, layered map, landmarks and tile sheet. Due within 4-6 weeks of hire\n\nTerms\n\nHuman-made only; no AI tools at any stage. Process files or a timelapse may be requested.\n\nFull commercial rights transfer to us on payment, including the right to modify the work and have it extended by other artists.\n\nWork in progress stays confidential until launch.\n\nTo apply: send your portfolio (isometric or environment work preferred), your quote for this scope, and your availability for the milestone dates.",
-    "url": "https://reddit.com/r/HungryArtists/comments/1wrrr0p/hiring_isometric_pixel_art_world_map_for_a/",
-    "quality": "High Quality",
-    "budget": "$1000-1500",
-    "created_at": "2026-09-27T18:32:38Z"
   }
 ]
