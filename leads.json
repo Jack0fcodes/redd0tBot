@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wurqya",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Ok-Cranberry-1240",
+    "title": "[PAID] Simplified Chinese game localization, ~14k words, MTPE",
+    "content": "[PAID] Simplified Chinese game localization, ~14k words, MTPE\n\nEN &gt; Simplified Chinese MTPE, game UI, \\~14,000 words\n\nXenobiome Command is a colony survival strategy game on Steam (release 4 Nov 2026, free demo live: [https://store.steampowered.com/app/5083380/Xenobiome\\_Command\\_Demo](https://store.steampowered.com/app/5083380/Xenobiome_Command_Demo)). A machine first pass exists; I need a native mainland Chinese game translator to post-edit it so it reads like a Chinese-made strategy game, not a translation.\n\nScope: menus, tooltips, buttons, tutorial cards, errors, achievements, building and trait names. 2,552 strings, 14,078 source words. Gettext .po file with a glossary of fixed terms. Placeholders like {count} and ICU plurals must stay intact. Narrative text (events, quests, codex) is not in this batch.\n\nRate: USD 0.03 per source word, MTPE. Paid 240-word test first (USD 10). Timeline: delivery by 10 October. Payment by PayPal or Wise on delivery.\n\nPlease send: two shipped games you localized (Steam links), your mainland background, and a yes/no on working in .po files.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wurqya/paid_simplified_chinese_game_localization_14k/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-01T06:05:01Z"
+  },
+  {
     "post_id": "1wurkhb",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$60-140",
     "created_at": "2026-09-27T11:18:47Z"
-  },
-  {
-    "post_id": "1wrg92d",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/OrangeSunBuck1",
-    "title": "Dark and Psychedelic [Hiring]",
-    "content": "Dark and Psychedelic [Hiring]\n\nHi,\n\nI'm looking for a 2D artist to draw/paint etc an album cover from a mock up. Looking for someone who can create dark, psychedelic and fantasy visual art. \n\nI'm willing to pay around $100 AUD, just would like to give my money towards an amateur artist as opposed to someone who already has plenty of support. If this sounds up your alley drop some of your work and I'll see if it matches the style I'm going for and shoot you a message.",
-    "url": "https://reddit.com/r/artcommissions/comments/1wrg92d/dark_and_psychedelic_hiring/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-09-27T09:55:00Z"
   }
 ]
