@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wumytc",
+    "platform": "Reddit",
+    "source": "r/commissions",
+    "author": "u/Pretty_Kitty_Girl",
+    "title": "[Hiring] I'm looking for a budget friendly artist that draws in 2d anime art styles. Hopefully I can find someone who I comfortably with a wide range of NSFW and SFW art. $20-30",
+    "content": "[Hiring] I'm looking for a budget friendly artist that draws in 2d anime art styles. Hopefully I can find someone who I comfortably with a wide range of NSFW and SFW art. $20-30",
+    "url": "https://reddit.com/r/commissions/comments/1wumytc/hiring_im_looking_for_a_budget_friendly_artist/",
+    "quality": "High Quality",
+    "budget": "$20-30",
+    "created_at": "2026-10-01T01:45:17Z"
+  },
+  {
     "post_id": "1wumsrm",
     "platform": "Reddit",
     "source": "r/commissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$50-100",
     "created_at": "2026-09-27T02:21:19Z"
-  },
-  {
-    "post_id": "1wr77o7",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/flying_fish_25",
-    "title": "[PAID] Pixel artist for a cute isometric tactics roguelite with animals &amp; bug-cult enemies",
-    "content": "[PAID] Pixel artist for a cute isometric tactics roguelite with animals &amp; bug-cult enemies\n\n\n\n\\[PAID\\] Pixel artist for a cute isometric tactics roguelite with animals &amp; bug-cult enemies\n\nHey! I'm a solo dev making an isometric grid tactics roguelite: a team of cute forest animals versus a goofy, very human cult of robed bugs. I handle the programming, music, and sound myself, and the game already has a working combat prototype and level editor. What I don't have is an artist, so I'm looking for someone to help me get a baseline set of art in place for a playable first version.\n\nSTYLE\n\n\\- Cute, chunky, readable pixel art. Lighthearted and goofy, not gritty or dark.\n\n\\- Isometric (2:1). Characters are 32x32, sitting on 32x16 floor tiles, and the game renders at 640x360.\n\n\\- The enemies are insects who've started a ridiculous cult to try and flip the food chain upside down. They are upright, wearing robes, and acting almost like people.\n\n\\- I can share a capybara concept I drew and the current tileset as references if that helps understand the style aswell.\n\nWHAT I NEED (to start)\n\n\\- Animals: the first 4 playable animals: a tortoise, an opossum, an okapi, and a hedgehog. There will be many more animals later. Each is 32x32 with two facings (the other two are mirrored), and needs a walk-in-place idle, attack, hurt, knocked-out, and victory animation. I am going for chunky FFTA style animations, so frame counts will be low.\n\n\\- Enemies: around 6 robed bug cultists for the first area, plus one elite and one boss.\n\nThere's plenty more after this for the right fit: more animals, enemies, areas (tilesets), and UI pieces.\n\nHOW I'D LIKE TO WORK\n\n\\- A small paid style test first (one animal or one enemy), then the rest in milestones.\n\n\\- Paid per piece or per milestone, via PayPal.\n\n\\- Budget: paid and flexible, but this is an indie budget. Please share your rates.\n\n\\- Timeline: flexible, no hard deadline.\n\n\\- Credit in-game and on the store page, with a link to your portfolio.\n\n\\- Hand-drawn only, please no AI.\n\n  \nI would really like if this was more of an ongoing collaboration rather than just a single art commission, I prefer to work with the same people over the life of a project.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wr77o7/paid_pixel_artist_for_a_cute_isometric_tactics/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-27T01:25:55Z"
   }
 ]
