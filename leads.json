@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wv9xpo",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/ShatteredStarlight20",
+    "title": "[Hiring] Looking for a colorist for our webcomic, Soul Chasers, willing to pay $50 to $55 or more per page per week.",
+    "content": "[Hiring] Looking for a colorist for our webcomic, Soul Chasers, willing to pay $50 to $55 or more per page per week.\n\nWe need someone to match the coloring we do here\n\nhttps://globalcomix.com/c/soul-chasers/r/2da8d328-1119-44f5-be22-c94ca44d628c\n\nPlease DM with reasonable prices.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1wv9xpo/hiring_looking_for_a_colorist_for_our_webcomic/",
+    "quality": "High Quality",
+    "budget": "$50",
+    "created_at": "2026-10-01T20:10:44Z"
+  },
+  {
     "post_id": "1wv9h8o",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-09-28T07:39:56Z"
-  },
-  {
-    "post_id": "1ws86gs",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/ConstantRaisin",
-    "title": "[PAID] Looking for 1–2 Developers to Help Build an Incremental Roguelike Game",
-    "content": "[PAID] Looking for 1–2 Developers to Help Build an Incremental Roguelike Game\n\nHey everyone,\n\nI’m looking to bring on **1–2 developers** to help build an indie **incremental roguelike** themed around Japanese concepts, moreso gambling style, not a combat game. I’ll go into more detail on the game itself during interviews.\n\nMy background is primarily in **startups, product, marketing, and business**, and I’ve had success building companies in the past. I’ve also spent the last few months working seriously in game development and feel confident taking on the **Game Producer / Product / Marketing / Partnerships** side of the project.\n\nWhat I need now is a strong technical team to help build the actual game.\n\nI’m looking for developers who can help with things like:\n\n* Core gameplay and combat systems\n* Roguelike run structure\n* Incremental/meta progression\n* Character abilities, upgrades, items, and synergies\n* Level implementation / generation\n* UI, save systems, and overall game architecture\n\nExperience with **roguelikes, roguelites, incremental games, or other systems-heavy games** is a big plus. \n\nThis will be **paid work**, likely hourly or weekly depending on experience and availability, along with **a percentage in the game** for core team members.\n\nI’m looking for people who want to be genuinely involved in building the game, contribute ideas, and have an impact on the direction rather than just work through a list of tickets.\n\nIf interested, DM me with:\n\n* A little about yourself\n* Games/projects you’ve worked on\n* Portfolio / GitHub / Steam links\n* Engines you’re comfortable with\n* Availability\n* Expected hourly or weekly rate",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1ws86gs/paid_looking_for_12_developers_to_help_build_an/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-28T07:36:59Z"
   }
 ]
