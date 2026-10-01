@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wum123",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/danidomen",
+    "title": "[PAID] 3D Hard-Surface Artist for Game-Ready Sci-Fi Spaceship — Potential Ongoing Work",
+    "content": "[PAID] 3D Hard-Surface Artist for Game-Ready Sci-Fi Spaceship — Potential Ongoing Work\n\nHi!\n\nI'm looking for a **3D hard-surface artist** to create the first production-quality spaceship for **Sidera Caeli**, a multiplayer first-person space project I've been developing alongside its own interconnected authoring/tooling framework.\n\n# What I'm looking for\n\nI currently have a fully functional ship in-game, but the model itself is an AI-generated placeholder — somewhere between a Temu spaceship and topology gore. 😂\n\nIt has served its purpose: validating flight, physical boarding, cockpit interaction, weapons, hardpoints, collisions, interiors, multiplayer, etc.\n\nNow I'd like to start replacing those placeholders with **proper, professionally made, game-ready assets**, beginning with this ship.\n\nI'm looking for someone who can take the existing design/concept and rebuild it as a polished sci-fi spacecraft while preserving its general identity, proportions and gameplay requirements.\n\n# Scope\n\nFor this first ship, the focus would primarily be the **exterior hull**.\n\nThere is a cockpit/interior cavity because the player physically enters the ship and sits inside it, so it needs to look believable from the pilot seat and through the windows. However, I'm **not looking for a fully detailed interior** at this stage.\n\nCockpit MFDs, radar, screens and other interactive UI elements are generated dynamically by the game and should **not** be modelled into the asset.\n\nI'd mainly expect:\n\n* Production-quality exterior modelling\n* UVs and proper PBR texturing\n* Game-ready topology\n* Approximately **100K triangles maximum for LOD0**, preferably lower where sensible\n* Good use of baked/normal detail instead of unnecessary geometry\n* A basic but believable cockpit cavity/pilot area\n* Clean GLB/glTF-compatible output\n* Sensible separation of functional components where appropriate\n\nI already have an automatic configurable LOD pipeline, so **you don't need to manually create multiple LODs**.\n\nI'm also completely open to discussing the poly budget and production workflow with someone more experienced on the art side. I'm a software/systems guy, not a 3D artist, so if you think one of my requirements is stupid, please tell me. :)\n\n# Modularity\n\nThe project already has a functional **hardpoint/attachment system**.\n\nWeapons and other replaceable components can exist as separate assets and be mounted dynamically by the game.\n\nSo my general philosophy is:\n\n**The hull is the hull. Functional things that can be replaced should ideally be separate.**\n\nFor this first asset I'm not going to be ridiculously strict about modularity, though. Part of the purpose of commissioning this first ship is to establish a good art → game pipeline that we can reuse afterwards.\n\n# About the project\n\nSidera Caeli is currently a functional multiplayer test bed built around Three.js/WebGPU on the client and Colyseus/Rapier on the server.\n\nThe player exists physically in the world: you can walk through a station, request a ship, board it through the airlock, sit in the cockpit, fly in 6DOF, fight other ships, EVA, use FPS weapons, quantum travel and descend through planetary atmospheres to the surface.\n\nA large part of the work so far has actually gone into the tooling behind it: prefab/entity authoring, hardpoints, ship configuration, procedural planets, LOD/scatter systems, particles, audio, diegetic screens, world editing, etc.\n\nThe current ugly assets have deliberately been placeholders while I validated whether all of those systems actually worked together.\n\nThey do.\n\nSo now I'd like to start making things pretty. :)\n\n# Potential ongoing work\n\nThis is **a paid commission**, not a revenue-share proposal.\n\nI'd like to start with **one ship**.\n\nHowever, I'm not really looking at this as a one-off Fiverr-style asset purchase.\n\nIf we work well together and can establish a workflow that produces assets that integrate cleanly with the tooling, there's potentially a lot more work afterwards: additional ships, stations, vehicles, environmental assets, modular pieces, props, etc.\n\nI'd much rather find an artist — or small team — I can continue working with than find a different person for every asset.\n\n# Budget\n\n**I'm open to quotes.**\n\nI'd specifically like artists to tell me what they believe is a realistic budget for this scope rather than me posting an arbitrary number that may not reflect the actual work involved.\n\nIf possible, please break down what your quote includes — modelling, high-poly/low-poly workflow, retopology, UVs, baking, textures, revisions, source files, etc.\n\nI'm happy to adjust scope if there's a significant difference between what I'd initially envisioned and what makes sense professionally.\n\n# Interested?\n\nPlease DM me with:\n\n* Your portfolio\n* Examples of **hard-surface / sci-fi / vehicle** work if available\n* Your approximate quote or rate\n* Estimated timeframe\n* Your timezone\n* Whether you're an individual artist or a studio/team\n\nI'm in Spain (**CET/CEST**), but my sleep schedule is questionable enough that timezone differences usually aren't a huge problem. 😂\n\nI'm also happy to jump on a call and show the current build, the existing placeholder GLB (https://sideracaeli.com/space\\_fighter\\_v1.zip) and the authoring tools so you can see exactly how the asset will be used before providing a final quote.\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wum123/paid_3d_hardsurface_artist_for_gameready_scifi/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-01T00:59:25Z"
+  },
+  {
     "post_id": "1wukyy9",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$300",
     "created_at": "2026-09-27T00:19:53Z"
-  },
-  {
-    "post_id": "1wr2ucd",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Playful_Buyer_3801",
-    "title": "[Hiring] For a western style Tf comic, personal art. Budget 50 NEGOTIABLE",
-    "content": "[Hiring] For a western style Tf comic, personal art. Budget 50 NEGOTIABLE\n\nI ONLY DO PAYPAL",
-    "url": "https://reddit.com/r/HungryArtists/comments/1wr2ucd/hiring_for_a_western_style_tf_comic_personal_art/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-26T21:58:50Z"
   }
 ]
