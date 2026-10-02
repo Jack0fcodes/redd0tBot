@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wvvme1",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/colintagray",
+    "title": "How to hire an artist for a small project, respectfully?",
+    "content": "How to hire an artist for a small project, respectfully?\n\nWhat I'm working on is a side-of-desk, spare-time-only, maybe-never-finish game. I can create temporary assets that work well enough, but I want to sweat the details \\*while\\* I build. Things like animations, 3d asset loading times, art design, etc. So I'm thinking of getting a designer on a retainer to build assets and help as needed. Turning images into models, breaking models up so they can be animated (separate entities I mean), turning my \"something like this\" AI gen'd ideas into a \"no you meant *this*\" cohesive game asset.\n\nI'm not an artist, and learning blender is a side project I don't need (I know about blender MCP, I'm here to talk about *hiring!*). The images that AI produces are fun, and meshy can turn those into models (with plenty of vertices! 😅), but I want a human with taste to turn these into \"final product\".\n\nI worry that I'm asking for too little – are artists here frustrated/exhausted when they're handed slop and a small budget to \"make this look nice\"? What makes it *less* frustrating? What is a minimum budget where you feel like the project is worth your time (this varies w/ experience - I'm interested in all ends of the new/pro spectrum).",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wvvme1/how_to_hire_an_artist_for_a_small_project/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-02T14:43:27Z"
+  },
+  {
     "post_id": "1wvtux1",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-28T19:47:36Z"
-  },
-  {
-    "post_id": "1wsovb7",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/euthanize",
-    "title": "[Paid] Looking for quotes and Artists for new 3D Survival/Automation",
-    "content": "[Paid] Looking for quotes and Artists for new 3D Survival/Automation",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wsovb7/paid_looking_for_quotes_and_artists_for_new_3d/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-28T19:50:14Z"
   }
 ]
