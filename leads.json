@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wvwf8n",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/iInsist_",
+    "title": "How to find 2D Artist to collaborate with?",
+    "content": "How to find 2D Artist to collaborate with?\n\nHi! I’m a 2D Artist and Unity developer making 2D games. \n\nThe last game I worked on was an NSFW game, and it worked pretty well, so I’ve been thinking about making more games in that direction.\n\nThe problem is that the scope gets pretty huge for one person, so I’m considering working with other people instead of trying to do everything myself.\n\nI’m specifically interested in finding another **2D Artist who would be open to a Revenue share collaboration**, rather than a paid commission.\n\nI’ve looked through quite a few subreddits, but most of them seem to be focused on hiring people for paid work, and Revenue share posts are either not allowed (same as here) or don’t really fit the format.\n\nFor those who have experience with this:\n\nWhere do you usually look for Revenue share collaborators (Do you)?\n\nAre there any subreddits, Discord servers, forums, etc. where this is actually common?\n\nHas anyone here worked on a Revenue share game with another artist? How did it go?\n\nIs Revenue share generally a reasonable way to start a small indie project, or does it tend to create more problems than it solves?\n\nI’m mainly interested in hearing from people who have actually done this, especially with indie or NSFW games.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wvwf8n/how_to_find_2d_artist_to_collaborate_with/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-02T15:15:23Z"
+  },
+  {
     "post_id": "1wvvqzr",
     "platform": "Reddit",
     "source": "r/commissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-28T20:38:54Z"
-  },
-  {
-    "post_id": "1wspwst",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Qiravael",
-    "title": "[Hiring] $130 -  Looking for an on-call artist to add to our team.",
-    "content": "[Hiring] $130 -  Looking for an on-call artist to add to our team.\n\nHey there! We are a custom Magic: the Gathering card group! We make custom proxies/alternate arts and either sell them in a service package or include them in our monthly Mail Club. We just started up our business and are looking for someone to have on-call or add to our team of two (we currently have a graphic designer and a writer). If you're interested, please leave a comment down below!! :))",
-    "url": "https://reddit.com/r/artcommissions/comments/1wspwst/hiring_130_looking_for_an_oncall_artist_to_add_to/",
-    "quality": "High Quality",
-    "budget": "$130",
-    "created_at": "2026-09-28T20:28:03Z"
   }
 ]
