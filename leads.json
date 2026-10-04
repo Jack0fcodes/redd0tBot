@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wx30to",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/TheWanderersWay",
+    "title": "[PAID] Looking for 2D Artist freelancer - PC Indie (Occult idle-incremental game)",
+    "content": "[PAID] Looking for 2D Artist freelancer - PC Indie (Occult idle-incremental game)\n\nHello Everybody! Here is my blurb for you, enjoy:\n\n\n\nDear Occupant is an incremental (idle) game that plays in the browser. I write and design it solo, in Godot. You play a bedroom occultist who summons beings from the Moon, the Planets and the Stars while something very old and very large slowly notices you. The tone is dry, understated cosmic horror, in a manner similar to my inspirations, Fallen London and Sunless Sea.\n\n\n\nIt is (very roughly)playable now: [https://thewanderersway.itch.io/dear-occupant](https://thewanderersway.itch.io/dear-occupant)\n\n\n\nAll of the current art is placeholder: a code-drawn sigil, simple icons, and a brass-and-parchment interface. I want a human artist to design the real thing, and to give the game its identity before it goes on Steam.\n\n\n\nWhat I need is an artist to design the game's art from start to finish, including the Steam capsule art when the store page goes up. That means roughly:\n\n\\- A logo / wordmark and key art\n\n\\- The Steam capsule set (header, small, main, vertical, library capsule, library hero, library logo)\n\n\\- 19 creature (so far)s: Each should be a distinct character, with small icon versions that read at about 48 px\n\n\\- 10 building icons (so far)\n\n\\- Interface art: panel borders, ornaments, tier icons\n\n\\- Optionally, small illustrations for the in-game encyclopedia\n\n\n\nThe Style: Victorian occult. Engraving, woodcut or ink-and-wash, with a limited palette: aged paper, brass, black, and an ember red. The horror is in what is withheld: an edge, a corner, a shape in a doorway, not a monster in full view. I am fully open to suggestions and ideas from the artist, as Im sure you know design better than I ever will lol.\n\n\n\n\n\nOther important points:\n\n\\- Human-made artwork only, with no generative AI in the work. I have to disclose AI use on [itch.io](http://itch.io) and Steam, and the point of this is authenticity. I'll ask you to confirm in writing.\n\n\\- Layered source files or vectors, plus PNG/SVG at agreed sizes. I'll integrate the art into the game myself.\n\n\\- Tell me how you would approach it, and please send a quote for the full set, itemised if you can.\n\n\n\n\n\n\n\nDM me or comment with a portfolio link (game, character or gothic work especially), a rough quote and turnaround,  and whether the terms above are fine. \n\n\n\nThank you!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wx30to/paid_looking_for_2d_artist_freelancer_pc_indie/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-04T01:11:21Z"
+  },
+  {
     "post_id": "1wx2qrr",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-09-29T18:28:57Z"
-  },
-  {
-    "post_id": "1wthruj",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/nyabitss",
-    "title": "[PAID] Hiring a Blender artist for stylized low-poly props/buildings",
-    "content": "[PAID] Hiring a Blender artist for stylized low-poly props/buildings\n\nHi, I'm a SWE by day but working on a low-poly winter/horror type game during my time at night.\n\n  \nI'm looking for a 3D blender artist to create environment assets that fit the existing style. I've attached some examples. There will likely be multiple batches of assets over time, so I'd love to find someone interested in an ongoing working relationship (consistent quality / reliable communication / predictable turnaround). Happy to start with a small paid commission just to see if things are a good fit.\n\nIf you're interested, please reply in this thread with your portfolio showing examples of stylized low-poly work, your usual rates (per asset or hourly, and if hourly, please include estimated hours for different types of models), and your typical turnaround time.\n\nPlease include all of the above so I can get a sense of fit and budget. If you’d prefer not to share those details publicly, feel free to message me privately!\n\nThanks for taking the time to read this! Looking forward to seeing neat work and hopefully finding someone to collaborate with.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wthruj/paid_hiring_a_blender_artist_for_stylized_lowpoly/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-09-29T18:19:06Z"
   }
 ]
