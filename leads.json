@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wx2g95",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/RealmConquest",
+    "title": "Hiring digital marketing expert for free-to-play strategy game",
+    "content": "Hiring digital marketing expert for free-to-play strategy game\n\nHi there!\n\nI'm the developer behind RealmConquest. RealmConquest is a free-to-play browser based strategy game with both a single player and multiplayer mode. We're entering our final stages of beta testing and interested in securing a long-term relationship with a marketing expert, preferably somebody with experience in video game marketing.\n\nCurrently, beyond the gaming community joining and playtesting with feedback, I'm the only contributor to the project.\n\nOur game is hosted: [https://playrealmconquest.com](https://playrealmconquest.com)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wx2g95/hiring_digital_marketing_expert_for_freetoplay/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-04T00:41:17Z"
+  },
+  {
     "post_id": "1wwxhwv",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$50",
     "created_at": "2026-09-29T17:47:05Z"
-  },
-  {
-    "post_id": "1wtewvn",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/ScuffedGameDev",
-    "title": "[Hiring] Senior Unreal Engine Generalist - 2D Pixel Art MMORPG. $5,000/month",
-    "content": "[Hiring] Senior Unreal Engine Generalist - 2D Pixel Art MMORPG. $5,000/month\n\n**Hiring Senior Unreal Engine Generalist for 2D Pixel Art MMORPG | $5,000/month | Remote**\n\nHi everyone,\n\nWe are developing a high-quality 2D top-down pixel art MMORPG in Unreal Engine 5 and are looking for a **Senior Unreal Engine Generalist** to join the team full-time.\n\nThis is not a pure programmer position and not a pixel artist position. We already have dedicated pixel artists creating the assets.\n\nWe need someone who combines strong **Unreal Engine and C++ skills with a genuinely good eye for games**.\n\nYou should be able to play through a build and notice when something does not feel right. Maybe a forest feels too static and needs falling leaves, wind, particles, weather, or more ambient movement. Maybe combat works mechanically but lacks impact, hit reactions, VFX, animation feedback, camera feedback, or sound.\n\nWe want someone who can spot these things without needing us to point out every detail.\n\n**What we're looking for:**\n\n• Strong Unreal Engine 5 and C++ experience  \n• Excellent eye for game feel and visual polish  \n• Technical art, VFX and Niagara experience  \n• Multiplayer and replication experience  \n• Strong general gameplay development skills  \n• Ability to work independently and proactively suggest improvements  \n• Ideally 5+ years of professional game development experience\n\nYou do **not** need to create pixel art. Our artists handle asset creation. Your job is to help make everything come together properly inside Unreal Engine and push the game from functional to polished.\n\n**Position:** Full-time, long-term  \n**Location:** Remote  \n**Compensation:** $5,000 USD/month\n\nFull job details, requirements, and the application form are available on our website:\n\n[https://pixelhelmet.com/unreal-generalist/](https://pixelhelmet.com/unreal-generalist/)\n\n**Please apply through the website only. Please do not send Reddit DMs or chat requests.**",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wtewvn/hiring_senior_unreal_engine_generalist_2d_pixel/",
-    "quality": "High Quality",
-    "budget": "$5,000",
-    "created_at": "2026-09-29T16:33:15Z"
   }
 ]
