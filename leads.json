@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wylpmu",
+    "platform": "Reddit",
+    "source": "r/commissions",
+    "author": "u/Tsukuyomi_Says",
+    "title": "[HIRING] We are looking for a Graphic Designer / Illustrator specializing in Character and / or Logo Design for an new and independent horror event —  Budget: 110 USD",
+    "content": "[HIRING] We are looking for a Graphic Designer / Illustrator specializing in Character and / or Logo Design for an new and independent horror event —  Budget: 110 USD\n\nDear Artists!\n\nA group of friends and I are organizing an event called Dusk Fest. It is a one-day event dedicated to horror, fantasy, Gothic, and adventure fiction, taking place on October 21, 2028, in Santiago, Chile.\n\nWe are looking for one or two illustrators or graphic designers to create the initial sketches for the event's mascot and logo. I would also love to establish an ongoing working relationship, as we will need a significant amount of promotional and reference material before May 1st of next year.\n\nYou will find all the necessary information in this PDF:\n\n[Dusk Fest | Sketch &amp; Logo](https://drive.google.com/file/d/1WonBH7y9979ZDaLxgdL3F2y86-xFi6M6/view?usp=drive_link)\n\n***Note: All information in yellow represents undecided ideas regarding the logo and the character.***\n\nBut, I will summarize the most important aspects you need to know:\n\n**Sketch:** The event mascot is named Corax; he is a black harlequin wearing a black, sun-shaped mask. His main ability is detaching and reattaching his limbs, but when he removes his legs, he can replace them with a pair of bird legs, giving him the ability to transform into a raven.\n\nUnlike the logo, this sketch is for personal use. It will serve solely as a reference for future drawings of the character to be featured in promotional materials and official merchandise.\n\n**Logo:** The logo must function as both an *isotype* and an *imagotype*. It features the event mascot striking a pose or performing an action, accompanied by the text. The title \"Dusk Fest\" should be placed either below or to the right of the mascot. The two words may appear together or separately; if separated, the name should span two lines, using different font sizes and typefaces.\n\nWe need a style that isn't overly realistic but doesn't lean too heavily into a cartoonish look; the art style should be inspired by the [Vermis books](https://www.youtube.com/watch?v=EJoi89nYCg0) published by [Plastiboo ](https://www.instagram.com/plastiboo/?hl=es)and the illustrations of [The Salamander King](https://www.instagram.com/salamander.king/?hl=es). Added to this is the approach to shading used by [Mike Mignola](https://characterdesignreferences.com/artist-of-the-week-7/mike-mignola) in his comics (see above (↑) for examples of work by the three artists mentioned).\n\n**Budget:** $110 total ($40 for the sketch / $70 for the logo). A 50% deposit is to be paid upon starting each piece, with the remaining 50% due upon delivery.\n\n**Deadline:** The delivery time for both items is 3 to 5 weeks.\n\n***IMPORTANT:***\n\n***I would greatly appreciate it if, in addition to your portfolios, you included the following:***\n\n***- Contact details (Discord, email, etc.)***\n\n***- Estimated time to design the sketch and/or the logo.***\n\n***- Whether you prefer to work on just one of the pieces or both together.***\n\n***- In what formats will you deliver the logo and the mascot sketch***\n\nI hope all the information provided is sufficient.\n\nThank you!",
+    "url": "https://reddit.com/r/commissions/comments/1wylpmu/hiring_we_are_looking_for_a_graphic_designer/",
+    "quality": "High Quality",
+    "budget": "$110",
+    "created_at": "2026-10-05T22:04:26Z"
+  },
+  {
     "post_id": "1wyjt6g",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$400-800",
     "created_at": "2026-10-01T08:31:54Z"
-  },
-  {
-    "post_id": "1wurqya",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Ok-Cranberry-1240",
-    "title": "[PAID] Simplified Chinese game localization, ~14k words, MTPE",
-    "content": "[PAID] Simplified Chinese game localization, ~14k words, MTPE\n\nEN &gt; Simplified Chinese MTPE, game UI, \\~14,000 words\n\nXenobiome Command is a colony survival strategy game on Steam (release 4 Nov 2026, free demo live: [https://store.steampowered.com/app/5083380/Xenobiome\\_Command\\_Demo](https://store.steampowered.com/app/5083380/Xenobiome_Command_Demo)). A machine first pass exists; I need a native mainland Chinese game translator to post-edit it so it reads like a Chinese-made strategy game, not a translation.\n\nScope: menus, tooltips, buttons, tutorial cards, errors, achievements, building and trait names. 2,552 strings, 14,078 source words. Gettext .po file with a glossary of fixed terms. Placeholders like {count} and ICU plurals must stay intact. Narrative text (events, quests, codex) is not in this batch.\n\nRate: USD 0.03 per source word, MTPE. Paid 240-word test first (USD 10). Timeline: delivery by 10 October. Payment by PayPal or Wise on delivery.\n\nPlease send: two shipped games you localized (Steam links), your mainland background, and a yes/no on working in .po files.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wurqya/paid_simplified_chinese_game_localization_14k/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-01T06:05:01Z"
   }
 ]
