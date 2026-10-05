@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1wyj6lf",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/alpineDominic",
+    "title": "[Paid] 3D Artists for a Space Sim",
+    "content": "[Paid] 3D Artists for a Space Sim\n\nHi there,\n\nWe're a 3 person team (2 technical) with me being the tech lead for our game.\n\nI'm looking for a somewhat experienced 3d artist (blender, substance painter) to help us creating (photo)realistic assets for our space sim. That includes small 3d props like donuts, or bigger things like a modular space station.\n\nMy monthly budget is around 300-400$, long term hopefully more as we gain some budget :-)\n\nWhat we already have:\n\n**Planetary tech**\n\n* Planetary Simulation from plates, to river systems, biomes, weather engine and procedural genome based growth of pbr plants (and later insects) [https://imgur.com/a/mTqdu1W](https://imgur.com/a/mTqdu1W) for example, this is a fully simulated plant based on a swamp biome. The cool thing is, this allows us to grow alien plants based on the planetary env. So if the light spectrum would grow pink plants, the simulation would do that. I'm proud of that one if you can't already tell.\n* etc.\n\n**Space Tech**\n\n* Working orbits, planets orbit their sun, moons the planets, space stations orbit whatever they want.\n* Frames - eg. you fly from the ship to the station and you move seamlessly between those simulation frames\n* Solarsystem Simulation with correct radiation, habitable zones, sunflares, larange points (with asteroid fields)\n* etc\n\n**Flight Tech**\n\n* Physically realistic flight dynamics in space and in atmospheric conditions. Sadly the item that's not as far as I'd like - but the base is there and many concepts are borrowed from x-plane and msfs.\n* Avionics that are basically html / js with a interop into the game. Msfs devs know what I'm speaking about.\n\n**Display / Terminal**\n\n* Custom rust based html / js / css renderer, that allows us to create the terminals and avionics outside of the engine and test them against a testbed. Makes onboarding for non game devs easier - all the other game UI is obv. using UMG.\n\n  \nIf you are a space sim enthusiast and happen to know your way around blender, substance painter, unreal (we use a forked and modified version), modular assets and most importantly are interessted in our project - please comment below or shoot me a dm. \n\nDisclaimer:   \nI already posted a very similar message on another board and got lots of scam dm's - if I don't reply and you are NOT a scammer, leave a message down here. Sorry! :-)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wyj6lf/paid_3d_artists_for_a_space_sim/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-05T20:21:35Z"
+  },
+  {
     "post_id": "1wyh7gv",
     "platform": "Reddit",
     "source": "r/ComicBookCollabs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20",
     "created_at": "2026-10-01T04:45:54Z"
-  },
-  {
-    "post_id": "1wupxg9",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Fuzzykinzzy",
-    "title": "[Hiring] Looking to hire someone to make me a icon for my small business appreciation blog! Graphic design probably. $30",
-    "content": "[Hiring] Looking to hire someone to make me a icon for my small business appreciation blog! Graphic design probably. $30\n\nI need a icon that represents community, friendship, kindness, and working together. I might want a heart,  hand holding, a hug, stuff of the like. If you have an idea, go for it! I'm open to see your ideas. If it works out that way, I'm willing to pay a little more depending on what's done and how many drafts we do, as well as taking note of your policies and price chart. C:\n\nAbsolutely NO AI, and if you DM me without commenting, I'm going to ignore your message (for my safety) I'd prefer to pay through Kofi or PayPal, I don't have vgen.\n\nHope that's all! Comment any questions you have and I'll get back to you as quickly as I can!",
-    "url": "https://reddit.com/r/artcommissions/comments/1wupxg9/hiring_looking_to_hire_someone_to_make_me_a_icon/",
-    "quality": "High Quality",
-    "budget": "$30",
-    "created_at": "2026-10-01T04:18:27Z"
   }
 ]
