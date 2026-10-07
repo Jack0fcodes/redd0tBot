@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1x02lqp",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ke73",
+    "title": "[HIRING] Level Designer / Environment Artist (Blender + Unity)",
+    "content": "[HIRING] Level Designer / Environment Artist (Blender + Unity)\n\nWe're a very small indie team working on a cozy co-op sim set in suburban neighborhoods. The streets, houses and backyards are the levels, and we need someone to help build more of them.\n\n**The gig**\n\n* Block out new areas in Blender from a brief and references, then take approved blockouts through to finished, textured environments\n* Mix your own custom-modeled assets with premade assets and asset packs, and make the purchased stuff sit comfortably in our style\n* Keep it game-ready: real-world scale, sane poly budgets, clean naming, pivots where Unity wants them, FBX export and a check in-engine\n* Work in short feedback rounds: you get a list of notes on a build, you turn around the next pass\n\n**Looking for**\n\n* Strong Blender skills and a portfolio with at least one environment that went from graybox to final\n* Stylized / low-poly work with textured detail (think depth from textures, not dense geometry, with slightly Pixar-ish proportions)\n* Comfortable adapting and retexturing asset pack content so it doesn't read as asset pack content\n* Working knowledge of Unity import, materials and scale\n* Takes direction well and can run with an area on a small remote team\n\n**Strong bonus**\n\n* Real level design chops: you think about how a space plays, not just how it looks\n* Architectural design: you can invent a believable mid-century house (ranch, split-level, colonial, cabin) rather than only model one you were handed\n* Vegetation: hedges, garden beds, overgrown corners, game-ready foliage\n\n**Details**\n\n* Contract, remote, start ASAP\n* Next few months to start, good chance it goes longer\n* We're on Mountain Time; some overlap helps but most of the work is async\n* Rate: \\[add a rate or range, the sub expects one on paid listings\\]\n\n**To apply:** email [**jobs@studiostarpuppi.com**](mailto:jobs@studiostarpuppi.com) with a portfolio and a few sentences on why this project.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x02lqp/hiring_level_designer_environment_artist_blender/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-07T17:25:38Z"
+  },
+  {
     "post_id": "1x01jlc",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-200",
     "created_at": "2026-10-03T07:43:57Z"
-  },
-  {
-    "post_id": "1wwg2hh",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Iyagi89",
-    "title": "[Hiring] AI artist wanted [$100]",
-    "content": "[Hiring] AI artist wanted [$100]\n\nI am making a RENPY game with 7 different characters in a Pixar style. I decided that I want them to be naked! I am looking for someone that can deliver 7 images using Stable Diffusion/similar. Just a clear Pixar style, no erections, no mutual fun or character work - I just want them naked! Hit me up with a link to your Patreon/Fiverr/DeviantArt profile where I can officially contact you.  \n  \nI'm thinking of around $100-$120 for 7?",
-    "url": "https://reddit.com/r/artcommissions/comments/1wwg2hh/hiring_ai_artist_wanted_100/",
-    "quality": "High Quality",
-    "budget": "$100-120",
-    "created_at": "2026-10-03T06:24:41Z"
   }
 ]
