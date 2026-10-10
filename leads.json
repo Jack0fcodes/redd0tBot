@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1x2mnpd",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Fastje",
+    "title": "[PAID] Looking for 2D Artist for Village Background and Map Tiles for a Medieval Strategy Game",
+    "content": "[PAID] Looking for 2D Artist for Village Background and Map Tiles for a Medieval Strategy Game\n\nHello! \n\n  \nI'm a solo dev working on a game in the style of the early-2000s browser MMO RTS genre. Art wise this translates to a more hand-painted feeling and the current direction that I'm looking at is ink and watercolor style. This is negotiable to some degree as better art can beat whatever rose-tinted vision I have for the genre. \n\n  \nThe game currently has some AI generated assets that have filled the purpose of allowing me to playtest. The rest of the game's art structure derives from the village background and will likely need replaced as well. \n\n  \nHere are the specifics of the request, timeline, and budget I'm looking for:\n\n\n\n**Village Background:**\n\n* Description: An angled overhead view of a meadow where a village will be constructed. Empty plots ready for buildings to be constructed with a ringed outline around the village where a wall will be raised. Four resource patches, one for each corner, outside the walls of the village with roads leading to. \n* Size: 3840×2160 (16:9), PNG, plus the layered source file\n* Layout: There are 14 buildings that will overlay onto this background. 9 of them inside of the village and 5 of them corresponding to the 4 resource patches. \n\n  \n**Map Tiles:**\n\n* Description: Repeating terrain tiles used on a world map that can seamlessly connect together. Mainly: Variations of grassy tiles, forests, and lakes. \n* Size: 256×256\n* Additional: There are 6 variation village sprites that will go on the world map. It would be preferable to have these match stylistically with the terrain tiles. Open to discussing this as an addition.  \n\n  \n**Timeline:** \n\n* Looking to have enough art completed to host a demo for one of the first two 2027 Steam Next Fests. For the background, I would like to see it completed by January 2027 at the latest, preferably sooner.\n\n  \n**Budget:** \n\n* Prefer to work with the artist(s) involved on a per-asset delivery but open to discuss hourly rates if the art style matches.\n* Planning for \\~40 hours of paid work or the sum equivalent between the background and map tiles. If your estimate is different, we can discuss.\n\n  \nThe steam page is currently not up but I am in the process of doing so. There is an [itch.io](http://itch.io) page I can share to showcase the current state of the game. Further art work on the game will be determined by the village background. Will be open to discussing UI, building art, and whatever other art details I'm missing once this work is complete. \n\n  \nPlease reach out to me with any questions and/or your portfolio! Thank you :)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x2mnpd/paid_looking_for_2d_artist_for_village_background/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-10T18:40:12Z"
+  },
+  {
     "post_id": "1x2lzuw",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-10-06T11:31:32Z"
-  },
-  {
-    "post_id": "1wyzwr3",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/NoPace6143",
-    "title": "[PAID] Looking for artist(s) for my mysterious roguelite shootemup game",
-    "content": "[PAID] Looking for artist(s) for my mysterious roguelite shootemup game\n\nHello!\n\nI'm a solo developer working on a roguelite shootemup game where you fight off hoards of enemies riding a motorbike to try and get home. If you die you wake up in the motel where you started and the only real choice you have is to get back on the bike and start over. The game's tone is supposed to be mysterious, vague, the nature of the loop the hero stuck is unknown. There are other NPCs in the game who acknowledge what is happening but do not entertain you with any explanations. I want the game to feel something like a David Lynch's movie maybe. \n\nI have been working on the game over a year and it is now fully playable with placeholder/AI generated art based on my (bad) sketches. I do have a general vision of how things should look and feel like.\n\nThere are a few areas in the game where I need graphics, not necessarily all done by 1 person. If you want to handle just one, feel free to contact me anyway. Here they are:\n\n* **UI/HUD**. I need a stylised HUD to display in-game info, looking like a motorbike dashboard. Also there's dialogue and menu UI that needs to look pretty.\n* **Characters.** For main character I have sketches, he needs dialogue images (neutral, angry, etc.) and some other imagery. For 2-3 NPCs I have references, they need dialogue imagery (also different emotions). \n* **Enemies.** 10-15 sprites with basic animations, reskins allowed. Important: they must look good in 3D space. I think we can try pixel art here to keep things simple.\n\nTimeline: Please only respond if you have the time to move through the above at a steady pace. I would like to have enough art for a Steam page listing done before 2027. If you can work faster than that, even better.\n\nThis will be a paid partnership. I am open to both per-piece and hourly pricing. I WILL NOT accept AI-generated art, I can do that myself. Of those who reach out, I will likely select a few to do a paid demo and then move forward from there. Also happy to credit you by name in the game.\n\nPlease comment or DM with your portfolio (including animation if you have it), your rate, your availability, and a quick sentence about what direction you would take the art in.\n\nFeel free to ask me any questions if there is anything I missed. I look forward to working with you!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1wyzwr3/paid_looking_for_artists_for_my_mysterious/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-06T11:14:46Z"
   }
 ]
