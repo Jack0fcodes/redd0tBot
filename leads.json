@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1x4xj64",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/SnooStrawberries2978",
+    "title": "[Hiring] Senior Full-Stack / Backend Developer – Dark Fantasy Idle MMORPG | Long-term | Remote",
+    "content": "[Hiring] Senior Full-Stack / Backend Developer – Dark Fantasy Idle MMORPG | Long-term | Remote\n\n**ABOUT OATH: Order x Empire**\n\nhttps://preview.redd.it/8fki4bl7r8vh1.png?width=2000&amp;format=png&amp;auto=webp&amp;s=656c88d98c9ecb23da4a709db9609af70190ebea\n\nWe're an indie studio of 6 building Oath: Empire x Order, a dark fantasy idle MMORPG for browser and Steam. Players swear an oath to one of two warring factions, then gather, craft, hunt, trade and fight over a shared world map. All the art is hand-painted by our in-house artists.\n\n\n\n**WHAT'S READY**\n\n\\- A fully playable HTML prototype covering every system: nav and action bar, inventory, crafting stations, combat (hunting, bosses, dungeons, invasion), Auction House, rankings, chat, mail, shop and more.\n\n\\- A full game design document.\n\n\\- A complete UX handoff package.\n\n\n\nThe design is done. We need someone to make it real.\n\nhttps://preview.redd.it/hon4fh5ar8vh1.png?width=1940&amp;format=png&amp;auto=webp&amp;s=bc1a91255f57e4de0e32e01d1bc98def3f3b8b19\n\n**WHAT YOU'LL DO**\n\nYou'll own the whole technical side of the game:\n\n\\- Turn the prototype into a production web frontend (React or Svelte with TypeScript, or your recommendation).\n\n\\- Design and build the authoritative game server: idle and offline progress, action timers, combat results, drops.\n\n\\- Build a secure economy: Auction House, gold and premium currency, and protection against duplication and other exploits.\n\n\\- Real-time features over WebSockets: chat, notifications, and weekly faction war updates and resets.\n\n\\- Databases, hosting, deploys, backups and scaling.\n\n\\- A Steam release: a desktop build (Electron or Tauri) with Steamworks.\n\n\\- Accounts, payments and anti-cheat.\n\n\\- Technical decisions and architecture. We'll listen.\n\n\n\n**WHAT WE'RE LOOKING FOR**\n\n\\- Strong full-stack experience, with backend as your strength: Node.js, Go or similar, plus PostgreSQL and Redis.\n\n\\- You've built online or multiplayer systems before. A shipped browser, idle or online game is a big plus.\n\n\\- You think about cheating, economy exploits and server authority from day one.\n\n\\- You can take a visual prototype and build it faithfully.\n\n\\- Clear, proactive communication. You're comfortable owning decisions.\n\n\\- An EU time zone is preferred.\n\n\\- You're looking for a large, long-term project.\n\n\n\n**HOW WE WORK**\n\n\\- Remote, Monthly salary.\n\n\\- A hands-on team in constant contact.\n\n\\- Quality first, with a steady pace.\n\n\n\n**TO APPLY**\n\nDM us or comment with:\n\n1. A short intro and your relevant experience.\n\n2. Links to online or multiplayer projects you've built (games are a bonus).\n\n3. How you'd approach the architecture for an idle MMO, a few sentences is fine.\n\n4. Your availability and rate expectations.\n\n\n\nPlease only apply if you've built online or multiplayer systems in production. Thanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x4xj64/hiring_senior_fullstack_backend_developer_dark/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-13T14:04:07Z"
+  },
+  {
     "post_id": "1x4wvx8",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-10-09T08:55:16Z"
-  },
-  {
-    "post_id": "1x1g975",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Morethanyouknow14",
-    "title": "[Hiring] NSFW commission involving two characters in Bondage. [$100-200]",
-    "content": "[Hiring] NSFW commission involving two characters in Bondage. [$100-200]\n\nHello.  \n\nI am looking to commission an artist for a piece involving a male and female couple tied up and gagged together.  This will be a NSFW work for my private collection.  I’m looking for something dark, gritty, and erotic at the same time.  \n\nExperience drawing bondage/BDSM is a plus but not required.  The two characters will both be in their underwear or stripped down, and tied up together either in a bar background or a hotel room.",
-    "url": "https://reddit.com/r/artcommissions/comments/1x1g975/hiring_nsfw_commission_involving_two_characters/",
-    "quality": "High Quality",
-    "budget": "$100-200",
-    "created_at": "2026-10-09T08:50:50Z"
   }
 ]
