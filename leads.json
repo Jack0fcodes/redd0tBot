@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1x62kqm",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/zzalmoxiss",
+    "title": "[Hiring] I want a new pfp for my socials &lt;3",
+    "content": "[Hiring] I want a new pfp for my socials &lt;3\n\nMy budget is 20$, i only want a headshot of my fursona",
+    "url": "https://reddit.com/r/artcommission/comments/1x62kqm/hiring_i_want_a_new_pfp_for_my_socials_3/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-14T20:44:34Z"
+  },
+  {
     "post_id": "1x620vw",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-10-10T19:12:23Z"
-  },
-  {
-    "post_id": "1x2mnpd",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Fastje",
-    "title": "[PAID] Looking for 2D Artist for Village Background and Map Tiles for a Medieval Strategy Game",
-    "content": "[PAID] Looking for 2D Artist for Village Background and Map Tiles for a Medieval Strategy Game\n\nHello! \n\n  \nI'm a solo dev working on a game in the style of the early-2000s browser MMO RTS genre. Art wise this translates to a more hand-painted feeling and the current direction that I'm looking at is ink and watercolor style. This is negotiable to some degree as better art can beat whatever rose-tinted vision I have for the genre. \n\n  \nThe game currently has some AI generated assets that have filled the purpose of allowing me to playtest. The rest of the game's art structure derives from the village background and will likely need replaced as well. \n\n  \nHere are the specifics of the request, timeline, and budget I'm looking for:\n\n\n\n**Village Background:**\n\n* Description: An angled overhead view of a meadow where a village will be constructed. Empty plots ready for buildings to be constructed with a ringed outline around the village where a wall will be raised. Four resource patches, one for each corner, outside the walls of the village with roads leading to. \n* Size: 3840×2160 (16:9), PNG, plus the layered source file\n* Layout: There are 14 buildings that will overlay onto this background. 9 of them inside of the village and 5 of them corresponding to the 4 resource patches. \n\n  \n**Map Tiles:**\n\n* Description: Repeating terrain tiles used on a world map that can seamlessly connect together. Mainly: Variations of grassy tiles, forests, and lakes. \n* Size: 256×256\n* Additional: There are 6 variation village sprites that will go on the world map. It would be preferable to have these match stylistically with the terrain tiles. Open to discussing this as an addition.  \n\n  \n**Timeline:** \n\n* Looking to have enough art completed to host a demo for one of the first two 2027 Steam Next Fests. For the background, I would like to see it completed by January 2027 at the latest, preferably sooner.\n\n  \n**Budget:** \n\n* Prefer to work with the artist(s) involved on a per-asset delivery but open to discuss hourly rates if the art style matches.\n* Planning for \\~40 hours of paid work or the sum equivalent between the background and map tiles. If your estimate is different, we can discuss.\n\n  \nThe steam page is currently not up but I am in the process of doing so. There is an [itch.io](http://itch.io) page I can share to showcase the current state of the game. Further art work on the game will be determined by the village background. Will be open to discussing UI, building art, and whatever other art details I'm missing once this work is complete. \n\n  \nPlease reach out to me with any questions and/or your portfolio! Thank you :)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x2mnpd/paid_looking_for_2d_artist_for_village_background/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-10T18:40:12Z"
   }
 ]
