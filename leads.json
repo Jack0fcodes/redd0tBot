@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1x7p9da",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/kwanalan",
+    "title": "[Hiring][Paid] Unity HDRP Optimization Engineer/Technical Artist – Fixed-Price $2,500 USD",
+    "content": "[Hiring][Paid] Unity HDRP Optimization Engineer/Technical Artist – Fixed-Price $2,500 USD\n\n\n\nHi everyone,\n\nI am an independent artist preparing a \\~20-minute atmospheric, cinematic, art game (PC) for release on Steam. The project is content-complete, and built in **Unity HDRP** using a mix of **Playmaker &amp; C#**.\n\nI am seeking an experienced **Unity HDRP Optimization Engineer / Technical Artist** to handle performance optimization, controller input/UI, and short post-launch support &amp; hotfixes.\n\nProfiling and diagnostics are already documented.  \n\n\n**Milestone Breakdown &amp; Scope**  \n\n\n**Milestone 1: Pre-Launch (2-3 weeks)**\n\n1.       **Optimization to Broaden PC Compatibility:**\n\n   * Establish stable performance across 4 target PC hardware tiers and determine minimum system requirements.\n\n2.       **Steam Hardware Compatibility:**\n\n   * Ensure Steam Machine compatibility (targeting the Steam Machine Verified badge).\n   * Target Steam Deck Verified as an aspirational goal if achievable without compromising visual fidelity.\n\n3.       **Graphics Presets &amp; Menu:**\n\n   * Configure 4 graphics presets (Low, Medium, High, Ultra) in Unity HDRP, and build the graphics presets menu to select them (accessible via the existing title screen and during gameplay).\n\n4.       **Telemetry:**\n\n   * Integrate a lightweight, cost-free crash reporting tool (e.g., Unity Cloud Diagnostics or free-tier Sentry) for post-launch monitoring.  \n\n5.       **Input &amp; UI Integration (Steam Input):**\n\n   * Implement plug-and-play gamepad support (Xbox, PlayStation, Steam Controller/Deck) alongside existing keyboard/mouse controls.\n   * Support dynamic on-screen UI prompt swapping, and seamless hot-swapping between input devices.  \n\n6.       **Release Build:**\n\n   * Generate the final Steam-ready release build.\n\n \n\n**Milestone 2: Post-Steam Launch Support**\n\n* A 2-to-4-week standby window (\\~5–10 hrs/week) post-launch to triage telemetry logs, monitor crash reports, and quickly deploy hotfixes.\n\n  \n**Budget**\n\n* **Total Fixed Budget:** **$2,500 USD** (for Milestone 1 &amp; 2 combined).\n\n\n\n**How to Apply**\n\nPlease send a **Reddit DM** with:\n\n1. Links to past projects showcasing your experience with **Unity HDRP optimization, technical art, or profiling**.\n2. A brief note on your experience with Unity HDRP optimization, profiling tools and input/UI systems. Experience targeting Steam Machine and/or Steam Deck compatibility is a plus. \n\nA detailed Request for Quotation document, diagnostic information, and full gameplay footage will be shared privately with shortlisted candidates.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x7p9da/hiringpaid_unity_hdrp_optimization/",
+    "quality": "High Quality",
+    "budget": "$2,500",
+    "created_at": "2026-10-16T19:16:21Z"
+  },
+  {
     "post_id": "1x7owl5",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-10-13T00:15:14Z"
-  },
-  {
-    "post_id": "1x4i5xy",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/Available_Cable_3065",
-    "title": "[Hiring] Watercolor character design for 2 otter brothers, original graphic novel (Beneath the Trees Where Nobody Sees vibe) | Budget: $225",
-    "content": "[Hiring] Watercolor character design for 2 otter brothers, original graphic novel (Beneath the Trees Where Nobody Sees vibe) | Budget: $225\n\nHi everyone! I'm developing Bevy Family Lodge, an original one-shot graphic novel with potential to grow into a mini-series. I'm looking for an artist to design the first two characters in the cast. This is a paid starter commission, and if the style is the right fit, I plan to bring you back for the rest of the cast and the book itself.\n\n\n\nThe story:\n\nWhen a brutal territorial encroachment by beavers claims the life of an otter, a peaceful family is thrust into an irreversible war for survival. Four grieving brothers are consumed by revenge, and the one surviving voice of reason has to stop his kin before they destroy themselves.\n\n\n\nWhat I need (per brother):\n\n\\- Front, side, and back turnaround in clean lineart or flat color\n\n\\- 3 expressions (grief, rage, and restraint), lineart or flat color is fine\n\n\\- Color palette callouts\n\n\\- 1 full-body painted piece in watercolor (traditional or digital watercolor)\n\n\n\nArt direction:\n\nMy main reference is Patrick Horvath's Beneath the Trees Where Nobody Sees. Soft watercolor, warm woodland setting, animals in everyday clothes, and real darkness living underneath something that looks cozy. The painted pieces are where I most want to see that feeling.\n\n\n\nSecondary reference is PB&amp;J Otter, for how a family of otters can still have clearly different silhouettes and personalities. The brothers need to be easy to tell apart at a glance, so I'd love to see how you'd approach that.\n\n\n\nStyle inspiration only. All characters will be 100% original.\n\n\n\nNO AI. Human artists only. No AI-generated, AI-assisted, or AI-traced work of any kind. I'll ask for sketches and WIPs along the way.\n\n\n\nDetails:\n\n\\- Budget: $225 for both brothers ($150 if you'd prefer to start with one)\n\n\\- Timeline: 4 weeks\n\n\\- Usage: Commercial. These designs will be used in a published comic, so I'll need full commercial rights to the character designs.\n\n\\- Payment: \\[PayPal invoice, 50% upfront / 50% on delivery\\]\n\n\n\nTo apply, comment or DM with your portfolio (anthro and watercolor work especially), and your availability.\n\n\n\nThank you!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1x4i5xy/hiring_watercolor_character_design_for_2_otter/",
-    "quality": "High Quality",
-    "budget": "$225",
-    "created_at": "2026-10-13T00:10:24Z"
   }
 ]
