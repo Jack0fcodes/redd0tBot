@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1x8mdjf",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/Informal-Arachnid-32",
+    "title": "[HIRING] Pixel artist for character animations in a tactical RPG (~84 px sprites) - Budget: ~$6,000-7,000 for the full package",
+    "content": "[HIRING] Pixel artist for character animations in a tactical RPG (~84 px sprites) - Budget: ~$6,000-7,000 for the full package\n\nHi! I'm a solo dev making an original isometric tactical RPG in Godot, inspired by Final Fantasy Tactics and Jeanne d'Arc (PSP).\n\n\n\nI'm gathering quotes for a cultural funding application in Brazil. Work would start in 2027 if the project is approved and funded, so right now I'm looking for prices and portfolios, not an immediate hire.\n\n\n\nScope:\n\n\\- About 12 combat characters (heroes, soldiers, bandits), \\~84 px tall, 3/4 top-down view.\n\n\\- 7 animations each: idle, run, attack, skill, hit, dodge and death.\n\n\\- 2 views per animation (front diagonal and back diagonal); the other two are mirrored.\n\n\\- Approximate frames: idle 4, run 6-8, attack 6-8, skill 10-14, hit 3, dodge 4, death 6-8.\n\n\\- I already have reference sheets, a palette and a few finished characters to match the style.\n\n\n\nPlease reply or DM with:\n\n1. Your price per animation or per full character.\n\n2. How long one character takes.\n\n3. A portfolio with animated pixel art characters (GIFs or sprite sheets).\n\n\n\nThanks!",
+    "url": "https://reddit.com/r/HungryArtists/comments/1x8mdjf/hiring_pixel_artist_for_character_animations_in_a/",
+    "quality": "High Quality",
+    "budget": "$6,000-7,000",
+    "created_at": "2026-10-17T21:56:47Z"
+  },
+  {
     "post_id": "1x8l07w",
     "platform": "Reddit",
     "source": "r/FurryCommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$600",
     "created_at": "2026-10-13T17:31:12Z"
-  },
-  {
-    "post_id": "1x52njh",
-    "platform": "Reddit",
-    "source": "r/ComicBookCollabs",
-    "author": "u/wayshorecomics",
-    "title": "[HIRING] Comicbook Character Design Artist",
-    "content": "[HIRING] Comicbook Character Design Artist",
-    "url": "https://reddit.com/r/ComicBookCollabs/comments/1x52njh/hiring_comicbook_character_design_artist/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-13T17:17:14Z"
   }
 ]
