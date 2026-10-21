@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xbdt4f",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/hotr42",
+    "title": "[HIRING] 5-10 Artists for a Nostalgic Christmas Trading Card Series | $200 per Illustration (More for established artists) | NO AI",
+    "content": "[HIRING] 5-10 Artists for a Nostalgic Christmas Trading Card Series | $200 per Illustration (More for established artists) | NO AI\n\nWe’re VaultMint, a collectible metal trading card company, and we’re looking for **5–10 artists to each create 1–2 original illustrations** for our upcoming holiday series inspired by *The Night Before Christmas*.\n\n**Strong familiarity with the poem and the Christmas traditions it captures is especially important to us.**\n\nWe want to capture the feeling of hearing this story on Christmas Eve: a quiet house, children dreaming, stockings waiting, and the anticipation that something magical is about to happen.\n\nThe goal is to preserve the poem’s traditional charm while creating scenes that families today can immediately understand and connect with. Warmth, personality, expressions, and thoughtful little details should make the illustrations feel familiar and meaningful.\n\n**Different art styles are welcome.** Painterly, vintage, whimsical, and traditional storybook approaches could all work beautifully. The stronger the sense of holiday nostalgia, the better.\n\nEach illustration will capture a different scene from the poem. We’ll provide the assigned scene, main subjects, dimensions, and references, with room for your creativity.\n\n**Budget: $200 per finished illustration, with 1–2 illustrations per artist.**\n\n**Project requirements:**\n\n**Absolutely no generative AI at any stage.** Traditional artwork and hand-created digital illustrations are welcome.\n\nHigh quality, highly detailed artwork suitable for printing on metal trading cards.\n\n**Editable, layered source files strongly preferred**, with backgrounds, characters, and major elements separated where practical.\n\n**A collaborative revision process.** We’ll work through sketches and progress updates, with revisions included as needed to meet the agreed brief. Major changes to an approved direction will be discussed separately.\n\n**Full copyright and ownership transfer required**, included in the commission price and documented in a signed agreement upon final payment. This includes exclusive rights to reproduce, modify, sell, and use the finished artwork across products, packaging, marketing, and future releases.\n\n**What you receive:**\n\n**$200 per completed illustration.**\n\n**Your name printed on the back of each card featuring your artwork.**\n\nAn **artist spotlight on the VaultMint subreddit and in our Founders Discord during November or December**, introducing collectors to you, your artwork, and where they can follow you.\n\n**Opportunities for ongoing paid commissions.** We have multiple releases each year and need a variety of artists. We’d love to build lasting relationships for future collections.\n\nPlease send your **portfolio, art/social links, availability, and estimated turnaround time**. Let us know whether you can provide layered files and whether the budget and rights requirements work for you.\n\n**Please also include a few sentences about how you would capture the nostalgia of this poem for today’s audience.** Relevant Christmas or storybook illustrations would be especially helpful to see.\n\n\\*will review dms starting tomorrow and will delete this post when weve found everyone we need.",
+    "url": "https://reddit.com/r/DesignJobs/comments/1xbdt4f/hiring_510_artists_for_a_nostalgic_christmas/",
+    "quality": "High Quality",
+    "budget": "$200",
+    "created_at": "2026-10-21T04:40:23Z"
+  },
+  {
     "post_id": "1xbd36d",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$5-15",
     "created_at": "2026-10-16T16:04:55Z"
-  },
-  {
-    "post_id": "1x7k6os",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/armastevs",
-    "title": "[PAID] $25 total — record two indie games on a real iPhone",
-    "content": "[PAID] $25 total — record two indie games on a real iPhone\n\nI’m the developer of Path Defenders and CLICK BAIT. I need someone with a physical iPhone on the latest stable iOS to record a short walkthrough of each game for Apple App Review.\n\nI’ll provide TestFlight builds and an exact checklist. For each game, I need an unedited recording showing first launch, any tracking-permission prompt, the main gameplay and any specified sandbox purchase/restore steps. No real purchases or developer-account access required.\n\nPlease provide your device model, iOS version and the tested build numbers. If a prompt doesn’t appear or something breaks, record/report that honestly.\n\nBudget: $25 total for both recordings. This is a small recording task, not a full QA pass; additional testing or retests would be agreed separately. Builds are being prepared, so we’ll confirm they’re ready before starting.\n\nYou shouldn't have to spend more than 15 minutes inside of each game while you are recording.\n\nWhat you need to do in each game:\n\n* Verify **Settings → Privacy &amp; Security → Tracking → Allow Apps to Request to Track** is enabled on the test device.\n* Record launching the game, all permission/ATT tracking prompts, and exact steps taken.\n* Record playing through the tutorial, placing a tower, completing a wave, and triggering any ad/reward flows.\n* If the tracking prompt does not appear, report it without resetting the device.\n* Send original video files, device/OS/build specs, timestamps, and bug reports.\n\nReply with your iPhone model, iOS version and availability.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x7k6os/paid_25_total_record_two_indie_games_on_a_real/",
-    "quality": "High Quality",
-    "budget": "$25",
-    "created_at": "2026-10-16T16:03:23Z"
   }
 ]
