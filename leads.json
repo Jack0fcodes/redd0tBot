@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xc2zcr",
+    "platform": "Reddit",
+    "source": "r/starvingartists",
+    "author": "u/mxrriiiiia",
+    "title": "[Hiring] looking to hire a painter (?) to recreate something similar as per the pictures attached - budget £30-50",
+    "content": "[Hiring] looking to hire a painter (?) to recreate something similar as per the pictures attached - budget £30-50\n\nI am based in the UK.\n\nI adore these kinds of paintings and I have recently renovated my room and think a portrait painting such as these photos attached would be very fitting. \n\nI haven’t a clue what style this is or what was exactly used so I am assuming this is a painting, apologises if I’m wrong! If anyone has any knowledge then please do let me know what this style is called!\n\nI’m looking for a portrait painting that depicts nature, with soft colours such as hues of green, pink, blue and grey, and similar tones.",
+    "url": "https://reddit.com/r/starvingartists/comments/1xc2zcr/hiring_looking_to_hire_a_painter_to_recreate/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-21T23:35:29Z"
+  },
+  {
     "post_id": "1xc2sa2",
     "platform": "Reddit",
     "source": "r/Artistsforhire",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-10-17T15:26:35Z"
-  },
-  {
-    "post_id": "1x8cymg",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/NotADentist7",
-    "title": "Hiring - 2D Game Sprite Sheets and Animations",
-    "content": "Hiring - 2D Game Sprite Sheets and Animations\n\nLooking for someone experienced with 2D game sprites who can help with:  \nTurning existing character designs into consistent, usable sprite sheets.  \nCreating smooth idle, walk, attack, hit, and death animations.  \nMaintaining character proportions, clothing, weapons, and details across frames.  \nExporting transparent PNG sprite sheets with consistent sizing and alignment.  \nPreparing assets for integration into a game.  \nOpen to workflow recommendations or hiring someone experienced. Please DM me with examples of your work!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x8cymg/hiring_2d_game_sprite_sheets_and_animations/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-17T15:25:20Z"
   }
 ]
