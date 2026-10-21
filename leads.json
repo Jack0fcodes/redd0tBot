@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1xbjrs4",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/QuestPhenix",
+    "title": "[Hiring] Looking for a digital artist to create a custom Shield Maiden avatar for my YouTube channel! ⚔️ {$ 80-150}",
+    "content": "[Hiring] Looking for a digital artist to create a custom Shield Maiden avatar for my YouTube channel! ⚔️ {$ 80-150}",
+    "url": "https://reddit.com/r/HungryArtists/comments/1xbjrs4/hiring_looking_for_a_digital_artist_to_create_a/",
+    "quality": "High Quality",
+    "budget": "$80-150",
+    "created_at": "2026-10-21T10:43:38Z"
+  },
+  {
+    "post_id": "1xbjriw",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/QuestPhenix",
+    "title": "[Hiring] Looking for a digital artist to create a custom Shield Maiden avatar for my YouTube channel! ⚔️ {$ 80-150}",
+    "content": "[Hiring] Looking for a digital artist to create a custom Shield Maiden avatar for my YouTube channel! ⚔️ {$ 80-150}\n\nHello fellow artists!\n\nI'm looking for a talented digital artist to help bring a character idea to life for my gaming YouTube channel!\n\nI'd love to commission a Nordic/Viking-inspired shield maiden with a unique, recognizable design that could become the face of my channel (ideally resembling me IRL)\n\nI'm particularly interested in something halfway between anime/cartoony to something a bit more serious (I can give examples haha). So I'd like some expressive art style rather than something overly realistic.\n\nThe artwork would initially be used for my YouTube branding, but I'd love the possibility of commissioning additional poses or expressions in the future.\n\nI'm open to discussing styles, ideas, and pricing!\n\nIf you are interested please leave a link to your portfolio in the comments so I can take a look and DM you ♡\n\nCheers,\n\nEll",
+    "url": "https://reddit.com/r/artcommissions/comments/1xbjriw/hiring_looking_for_a_digital_artist_to_create_a/",
+    "quality": "High Quality",
+    "budget": "$80-150",
+    "created_at": "2026-10-21T10:43:21Z"
+  },
+  {
     "post_id": "1xbjbsr",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$130",
     "created_at": "2026-10-16T21:14:08Z"
-  },
-  {
-    "post_id": "1x7p9da",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/kwanalan",
-    "title": "[Hiring][Paid] Unity HDRP Optimization Engineer/Technical Artist – Fixed-Price $2,500 USD",
-    "content": "[Hiring][Paid] Unity HDRP Optimization Engineer/Technical Artist – Fixed-Price $2,500 USD\n\n\n\nHi everyone,\n\nI am an independent artist preparing a \\~20-minute atmospheric, cinematic, art game (PC) for release on Steam. The project is content-complete, and built in **Unity HDRP** using a mix of **Playmaker &amp; C#**.\n\nI am seeking an experienced **Unity HDRP Optimization Engineer / Technical Artist** to handle performance optimization, controller input/UI, and short post-launch support &amp; hotfixes.\n\nProfiling and diagnostics are already documented.  \n\n\n**Milestone Breakdown &amp; Scope**  \n\n\n**Milestone 1: Pre-Launch (2-3 weeks)**\n\n1.       **Optimization to Broaden PC Compatibility:**\n\n   * Establish stable performance across 4 target PC hardware tiers and determine minimum system requirements.\n\n2.       **Steam Hardware Compatibility:**\n\n   * Ensure Steam Machine compatibility (targeting the Steam Machine Verified badge).\n   * Target Steam Deck Verified as an aspirational goal if achievable without compromising visual fidelity.\n\n3.       **Graphics Presets &amp; Menu:**\n\n   * Configure 4 graphics presets (Low, Medium, High, Ultra) in Unity HDRP, and build the graphics presets menu to select them (accessible via the existing title screen and during gameplay).\n\n4.       **Telemetry:**\n\n   * Integrate a lightweight, cost-free crash reporting tool (e.g., Unity Cloud Diagnostics or free-tier Sentry) for post-launch monitoring.  \n\n5.       **Input &amp; UI Integration (Steam Input):**\n\n   * Implement plug-and-play gamepad support (Xbox, PlayStation, Steam Controller/Deck) alongside existing keyboard/mouse controls.\n   * Support dynamic on-screen UI prompt swapping, and seamless hot-swapping between input devices.  \n\n6.       **Release Build:**\n\n   * Generate the final Steam-ready release build.\n\n \n\n**Milestone 2: Post-Steam Launch Support**\n\n* A 2-to-4-week standby window (\\~5–10 hrs/week) post-launch to triage telemetry logs, monitor crash reports, and quickly deploy hotfixes.\n\n  \n**Budget**\n\n* **Total Fixed Budget:** **$2,500 USD** (for Milestone 1 &amp; 2 combined).\n\n\n\n**How to Apply**\n\nPlease send a **Reddit DM** with:\n\n1. Links to past projects showcasing your experience with **Unity HDRP optimization, technical art, or profiling**.\n2. A brief note on your experience with Unity HDRP optimization, profiling tools and input/UI systems. Experience targeting Steam Machine and/or Steam Deck compatibility is a plus. \n\nA detailed Request for Quotation document, diagnostic information, and full gameplay footage will be shared privately with shortlisted candidates.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x7p9da/hiringpaid_unity_hdrp_optimization/",
-    "quality": "High Quality",
-    "budget": "$2,500",
-    "created_at": "2026-10-16T19:16:21Z"
-  },
-  {
-    "post_id": "1x7owl5",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/BlackOnyxStudio",
-    "title": "[PAID] Looking for a 2D Technical Artist / Godot Asset Integrator for our RPG Dawnfall",
-    "content": "[PAID] Looking for a 2D Technical Artist / Godot Asset Integrator for our RPG Dawnfall\n\nHi everyone!\n\nWe're working on Dawnfal**l**, a story-driven, top-down 2D RPG featuring handmade pixel art, turn-based combat, exploration, and meaningful narrative choices.\n\nWe're looking for a 2D Technical Artist / Asset Integrator familiar with **Godot** to help turn our existing artwork into assets that work properly in-game.\n\nOur artists have created a variety of environmental objects and props, but integrating them requires more preparation than we initially anticipated.\n\nCharacters move freely rather than being locked to a grid, so they need to walk around objects and appear correctly in front of or behind different parts of them. Some assets therefore need to be split into multiple layers, reorganized into usable spritesheets, and assembled appropriately inside Godot.\n\nWe're looking for someone who understands both pixel art preparation and the technical requirements of a top-down environment, and who can help us establish a consistent approach.\n\nYour responsibilities would include :\n\n\\- Preparing and editing existing spritesheets for in-engine use\n\n\\- Separating objects into layers where needed for correct character occlusion\n\n\\- Setting up assets and reusable object scenes in Godot\n\n\\- Configuring collisions, sorting, and visual layering\n\n\\- Preserving the original artwork and pixel art consistency throughout integration\n\n\\-Working with our artists and programmers to identify issues early and establish clear asset preparation guidelines.\n\nThe immediate priority is our existing environmental props. You would work alongside our programmer, who currently handles this preparation in addition to coding.\n\nExperience with Y-sorting, object occlusion, collision setup, and multi-part environmental assets would be particularly useful. You should be comfortable examining an existing asset, figuring out how it needs to be prepared, and explaining any changes needed to the team.\n\nThe compensation for the job can be negotiated, we are an indie team, but our kickstarter is in march so we can pay people, but we can discuss your rates and fees.\n\nPlease send me a DM or add me on discord (Nath8108) with a short introduction, your availability and examples of relevant work. In-engine examples showing how you've handled environmental objects, layering, or character occlusion would be especially helpful.\n\n**Here are some assets from our games**\n\n[https://www.reddit.com/r/PixelArt/comments/1v7amar/dorothy\\_the\\_delightful\\_school\\_teacher/](https://www.reddit.com/r/PixelArt/comments/1v7amar/dorothy_the_delightful_school_teacher/)\n\n[https://www.reddit.com/r/IndieDev/comments/1v92ml2/presenting\\_our\\_first\\_project\\_dawnfall\\_flowers/](https://www.reddit.com/r/IndieDev/comments/1v92ml2/presenting_our_first_project_dawnfall_flowers/)\n\n[https://www.reddit.com/r/IndieDev/comments/1x3gsng/some\\_v1\\_interiors\\_for\\_our\\_indie\\_rpg\\_dawnfall/](https://www.reddit.com/r/IndieDev/comments/1x3gsng/some_v1_interiors_for_our_indie_rpg_dawnfall/)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x7owl5/paid_looking_for_a_2d_technical_artist_godot/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-16T19:02:42Z"
   }
 ]
