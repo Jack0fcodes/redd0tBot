@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xccz8o",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Primary_Falcon_9851",
+    "title": "[PAID] Looking for a few songs for game!",
+    "content": "[PAID] Looking for a few songs for game!\n\nHey everyone! I'm an indie game developer working on a Tetris-like roguelike, and I'm looking for someone to work with on the music for my game. I'm looking for at least two songs, possibly more, but if you'd rather just work on one, that's totally fine too! I'm hoping for electronic music with a similar feel to Tetris, but without being too retro-sounding. I'm also working with a pretty small budget, and I don't need an exclusive license, so I'm open to figuring something out that works for both of us. As an indie dev myself, I'd love to give other indie creators a chance to do what they love and get their work out there! If you're interested, feel free to reach out! I'd love to hear any questions you have, and portfolios or examples of music you've worked on would be awesome.\n\nI'm working in GameMaker and can us MP3, OGG or WAV, I'm also not working on a tight time schedule or anything!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xccz8o/paid_looking_for_a_few_songs_for_game/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-22T08:30:21Z"
+  },
+  {
     "post_id": "1xcbjsz",
     "platform": "Reddit",
     "source": "r/artcommission",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-10-17T22:05:57Z"
-  },
-  {
-    "post_id": "1x8mguz",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Informal-Arachnid-32",
-    "title": "[PAID] [HIRING] Pixel artist for character animations in a tactical RPG (~84 px sprites) - Budget: ~$6,000-7,000 for the full package",
-    "content": "[PAID] [HIRING] Pixel artist for character animations in a tactical RPG (~84 px sprites) - Budget: ~$6,000-7,000 for the full package",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1x8mguz/paid_hiring_pixel_artist_for_character_animations/",
-    "quality": "High Quality",
-    "budget": "$6,000-7,000",
-    "created_at": "2026-10-17T22:00:47Z"
   }
 ]
