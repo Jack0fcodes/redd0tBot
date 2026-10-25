@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xf61uo",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/JonathanAralis",
+    "title": "[PAID] Looking for 2D Artist – Watercolor Illustration &amp; UI for a Strategy Game",
+    "content": "[PAID] Looking for 2D Artist – Watercolor Illustration &amp; UI for a Strategy Game\n\nAralis Studio, an independent studio, is developing a 2D top-down strategy and planning game for PC about the survival of an insect colony in nature. I’m looking for a 2D artist for a first contract, with the possibility of continuing longer term. \n\n**The style**\n\n* Watercolor on paper, with fine, precise ink drawing on top.\n* Visuals that say “strategy, thinking, planning, survival”, far from a “cute mobile game” look.\n* A minimalist, clean and clear look that catches the eye at thumbnail size while staying restful over long play sessions.\n* A clean data-visualization layer (lines, grids, counters).\n* Theme: nature, the forest and the seasons (summer and winter for now).\n* A few kinds of insects, simple, true to their anatomy: no faces, no big eyes, no cartoon style.\n* Lots of empty space around the main elements, few colors, with color mostly reserved for information.\n\n**The game elements**\n\n* A top-down map of a forest floor with a watercolor-on-paper look: grass, rocks, leaves, trunks, a patch of water.\n* Production sites shown as circular medallions, each with its available resource drawn in ink (e.g. seeds, dew, mushrooms).\n* Colored dotted paths linking the sites. Insects travel along them, drawn as fine silhouettes that carry information (what they’re carrying, and how much).\n* Other forest insects are part of the world, some of them as threats.\n* Little to no animation: the screen is mostly static, and information comes before decoration.\n* Panels (lists, counters, gauges, production buildings with their inputs and outputs, requested resources, tech-tree) and a timeline along the bottom of the screen.\n* The whole thing reads like a plan or a dashboard laid over a watercolor: elegant, precise, calm.\n\n**Who I’m looking for**\n\n* Human-made art only (no generative AI).\n* Ideally, naturalist watercolor illustration: plants, insects, paper textures, washes, ink and hatching, traditional or digital.\n* Illustrated cartography: top-down maps, plans, maps for board games or books.\n* Game UI: panels, icons, gauges, information hierarchy, readability at small sizes, data visualization.\n* Experience on a strategy, management or board game; a shipped project and experience with Godot are bonuses, not requirements.\n* Final assets delivered separately and in PNG format. Integration and test can be done in Godot.\n\n**How I work**\n\n* Aralis Studio is currently a solo developer, so art production is planned to stay lean and efficient: minimalist assets, informative variants and high quality. The core mechanics are what sell the game.\n\n**Initial contract**\n\n* Consolidate the style and art direction so the game clearly communicates what it is.\n* The first visual elements for the prototype (resources, production buildings, paths and world elements), menus and 2D interface elements.\n* CAD 3,000–4,000 for the first contract (prototype phase), paid by milestones. Further contracts to follow for the rest of the game, and a long-term collaboration is possible for the right person.\n\n**Longer term**\n\n* Backgrounds, seasons, menus, additional elements, and the remaining resources to complete the game.\n* A few animations if needed: short loops and the change of season.\n* Additional decorative elements\n* Promotional art, the game logo, and more.\n* The game is planned for release in fall 2027.\n\n**Terms**\n\n* Paid contract with Aralis Studio inc., milestone payments, transfer of rights, and a credit in the game.\n* Art made by the artist, by hand or with digital tools (Photoshop, Krita, etc.), with no generative AI.\n* The project is confidential for now: details are shared after signing a non-disclosure agreement.\n\n**How to apply**\n\n* Email [**hello@aralis.studio**](mailto:hello@aralis.studio) with the subject line **“Watercolor-Strategy UI – \\[your name\\]”**.\n* Include:\n   * a link to your portfolio;\n   * **3 to 5 samples** closest to this brief: (examples : watercolor or ink illustration, illustrated maps, game UI or icon sets);\n   * your availability and a typical rate or price range;\n   * one sentence on why this project interests you.\n* I’ll reply to every application that follows these steps, within about two weeks.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xf61uo/paid_looking_for_2d_artist_watercolor/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-25T15:59:33Z"
+  },
+  {
     "post_id": "1xf29ou",
     "platform": "Reddit",
     "source": "r/artistforhire",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20-35",
     "created_at": "2026-10-20T23:45:14Z"
-  },
-  {
-    "post_id": "1xb75in",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/VoidmasterVyxeus",
-    "title": "[Hiring] Looking for a Character Designer!",
-    "content": "[Hiring] Looking for a Character Designer!\n\nLooking for a character designer that specializes in the weird!\n\nI have an old non-human design that I want to have redone, updated and turned into something better! Visual inspiration comes from Pokémon, Hoyoverse games, and League of Legends - ideally looking for someone who understands those styles well and can help me populate this concept with things that match that overall vibe! \n\nIf you are interested, please comment below and, if possible, include some art of yours that you think best applies to this! At current there is no hard-set budget or price range, but I'm ideally not looking to spend over $100 (but that is negotiable, the number is only here because the format requires it 😂)\n\nPlease DO NOT DM, I dont check those and will likely not see your message!!\n\nThank you!!",
-    "url": "https://reddit.com/r/artcommission/comments/1xb75in/hiring_looking_for_a_character_designer/",
-    "quality": "High Quality",
-    "budget": "$100",
-    "created_at": "2026-10-20T23:11:57Z"
   }
 ]
