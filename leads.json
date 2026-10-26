@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xfxu11",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Solus_Caelum_Studio",
+    "title": "[HIRING] Paid: pixel artist for a dark top-down RPG — short paid test, then a small environment piece (ENG/FR)",
+    "content": "[HIRING] Paid: pixel artist for a dark top-down RPG — short paid test, then a small environment piece (ENG/FR)\n\nWe’re a two-person indie studio making a 2D co-op multiplayer RPG (Godot 4): grounded, dark, late-medieval fantasy, no flashy magic. The title is not public yet.\n\nOur environments need a real artist’s hand. We want someone to set the reference style that our team and our tools will copy afterwards.\n\n**The job**\n\n* Hand-paint one environment piece (about 12 × 10 tiles, ≈ 384 × 320 px): a cave corner with wet rock, black water and rubble. We give you the base; scale, perspective and shape are already correct, so you only repaint the rendering.\n* Write a one-page ruleset (light, edges, textures, colour count, dithering) that our team can apply alone.\n* Fixed palette (182 colours, provided). Top-down three-quarter view. Layered source files (.aseprite or .psd) are part of the delivery.\n* A second piece (a village corner) may follow if the result fits and the budget allows. No promise.\n\n  \n**Who we look for:** a portfolio of top-down environment pixel art (characters, caves, dungeons, villages, citys, interiors), comfortable with dark moods and a strict palette, able to explain your method in simple written English or French. Bonus: Godot or 3D-render-to-pixel-art experience.\n\n\n\n**Terms**\n\n* A written contract is signed before we send any file: full assignment of rights on all deliverables (images, source files, written rules) for the game and its promotion, plus an NDA.\n* Original work, by hand. No generative AI for the deliverables, and no copying of existing games.\n* Independent contractor: your own hours and tools, no exclusivity.\n* Credit in the game if you wish. Portfolio use after the public release, or earlier with our written OK.\n\n**To apply:** send a link to your portfolio, your availability and 3 lines on how you work. We reply to shortlisted profiles by private message. Please don’t send files or unsolicited work.\n\n  \nThank you.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xfxu11/hiring_paid_pixel_artist_for_a_dark_topdown_rpg/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-26T14:07:50Z"
+  },
+  {
     "post_id": "1xfx49f",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-150",
     "created_at": "2026-10-21T16:12:45Z"
-  },
-  {
-    "post_id": "1xbq2yr",
-    "platform": "Reddit",
-    "source": "r/Artistsforhire",
-    "author": "u/Elena_Cherish",
-    "title": "[Hiring] I'm looking for an assistant to help me developing comic panels (mockups) Thanks!",
-    "content": "[Hiring] I'm looking for an assistant to help me developing comic panels (mockups) Thanks!",
-    "url": "https://reddit.com/r/Artistsforhire/comments/1xbq2yr/hiring_im_looking_for_an_assistant_to_help_me/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-21T15:21:43Z"
   }
 ]
