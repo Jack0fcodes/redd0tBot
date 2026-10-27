@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xgma6s",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/usherfrusher",
+    "title": "Hiring a GFX Artist",
+    "content": "Hiring a GFX Artist",
+    "url": "https://reddit.com/r/artistforhire/comments/1xgma6s/hiring_a_gfx_artist/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-27T07:45:30Z"
+  },
+  {
     "post_id": "1xglkrt",
     "platform": "Reddit",
     "source": "r/artistforhire",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-10-22T04:57:26Z"
-  },
-  {
-    "post_id": "1xc9egk",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/TowerDelverGame",
-    "title": "[PAID]  Character (Knight) Sprite for a 32x32 Pixel Art JRPG Roguelite, like Final Fantasy",
-    "content": "[PAID]  Character (Knight) Sprite for a 32x32 Pixel Art JRPG Roguelite, like Final Fantasy\n\nI will only be responding to people who comment on this post, because last time I got so many people in my DMs selling AI art and I already lost money on some of them.\n\nI am looking for an artist to help with making the sprite work in my game space, with initial sketches, south facing sprite, then we move on to idle and move animations if possible.\n\nThe sprite will probably end up being about 22x50 or around there. Maybe similar style to Sea of Stars sprites with more rounded features.\n\nI am happy to work closely with you on this!\n\n(Potentially long-term partner for other character sprites)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xc9egk/paid_character_knight_sprite_for_a_32x32_pixel/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-22T04:53:32Z"
   }
 ]
