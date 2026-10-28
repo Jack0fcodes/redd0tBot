@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xhfolz",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/CyberGen49",
+    "title": "[HIRING] Brutalist Logo &amp; Scalable SVG Icon for Building Science Brand ($30/hr+ or Flat Rate)",
+    "content": "[HIRING] Brutalist Logo &amp; Scalable SVG Icon for Building Science Brand ($30/hr+ or Flat Rate)\n\nHi everyone,\n\nI am the systems and software developer for TONER Home Performance, and I am looking to hire a designer to create a custom logo and square icon for our new educational building science platform, HatesHouses ([https://hateshouses.com](https://hateshouses.com)). We are aiming for a heavy, brutalist, and authoritative aesthetic. I plan to update the website's UI to match the final logo, so please do not feel restricted by the current layout. I want your design to set the standard for our cohesive new look.\n\n**Deliverables:**\n\n* A square icon (symbol/mark)\n* A custom text wordmark\n* A combined lockup\n\n**Technical Requirements (Crucial):**\nBecause I will be masking and recoloring the logo dynamically via CSS, the designs *must* be delivered as clean, single-color SVGs expanded into solid compound paths. There can be zero active strokes, gradients, clipping masks, or overlapping shapes. The square icon must also maintain strong legibility when scaled down to a 16x16 pixel favicon, relying entirely on thick foundational geometry rather than fine detail.\n\n**Process &amp; Legal:**\n\n* I require an initial rough sketch for review before digitization (this strictly rules out AI generation).\n* The quote/invoice must include a full copyright transfer for commercial use so my company can legally register the trademark.\n\n**Budget:**\nLooking at a $200–$450 flat rate for the complete package, or we can negotiate an hourly rate ($25–$50/hr depending on experience and workflow).\n\nIf this fits your skill set, please comment below or DM me with a link to your portfolio. Please specifically point out any past work that features minimalist, geometric, or brutalist vector icons that scale well. Thanks!",
+    "url": "https://reddit.com/r/DesignJobs/comments/1xhfolz/hiring_brutalist_logo_scalable_svg_icon_for/",
+    "quality": "High Quality",
+    "budget": "$200-450",
+    "created_at": "2026-10-28T05:32:00Z"
+  },
+  {
     "post_id": "1xhf0rx",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$150",
     "created_at": "2026-10-23T03:59:54Z"
-  },
-  {
-    "post_id": "1xd20cx",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Crystalfox890",
-    "title": "[Hiring]",
-    "content": "[Hiring]\n\nI got my oc gal a few days ago and wanted to get some art of her done and am looking for a good artist to commission to make a lovely pice with her im down to talk more details about what I wanna do and the price is complete negotiable as well \n\nThis is what she looks like in her ref I got\n\nPrice 150$ usd",
-    "url": "https://reddit.com/r/artcommission/comments/1xd20cx/hiring/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-23T02:30:59Z"
   }
 ]
