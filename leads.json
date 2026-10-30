@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xjkwxm",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Poggler_",
+    "title": "[PAID] [HIRING] UI Artist for a 2D Fantasy MMORPG | PC + Mobile",
+    "content": "[PAID] [HIRING] UI Artist for a 2D Fantasy MMORPG | PC + Mobile\n\nI’m developing a 2D fantasy MMORPG in Godot 4.5, playable in browser/PC and on Android.\n\nThe game is already functional and almost every screen exists, but the UI is still mostly functional/placeholder. I’m looking for a UI artist to give the interface and HUD a strong, consistent visual identity.\n\nI can provide screenshots of the current UI privately.\n\n**HUD Style**\n\nFantasy RPG/MMORPG UI inspired by games like Dofus or Wakfu: framed panels, readable icons, warm and clean visuals.\n\nPixel art is welcome but not required.\n\nThe goal is an original visual identity, not a copy of another game.\n\n\n\n**What I need**\n\n* A reusable UI kit, not dozens of separate screen mockups:\n* Panels / windows / 9-slice frames\n* Buttons + states: normal, hover, pressed, disabled\n* Item / skill / equipment slots\n* HP, Breath (mana/resource), XP, cast and progress bars\n* Tabs, tooltips, badges, toggles, sliders and checkboxes\n* System icons\n* HUD elements: player, party and target frames, skill bar, minimap, chat and mobile joystick\n\nThe layout and responsive behaviour are already handled in Godot. I mainly need the visual assets/components.\n\nMust work on PC, mobile and tablet.\n\n\n\n**Technical notes**\n\n* Reference resolution: 1280×720\n* Minimum touch target: 44 px on mobile\n* Deliverables: exported PNGs + source files (PSD / Aseprite / Figma)\n* 9-slice margins clearly noted\n* Integer scaling if using pixel art\n\n\n\n**Collaboration**\n\nI’d like to start with a **paid test: redesigning one existing inventory window + a button set**.\n\nFor the test, I’ll provide:\n\n* The current inventory screen\n* A visual reference such as Dofus\n* Additional screenshots/context if needed\n\n\n\nIf the direction works, I’d like to continue with the full UI kit.\n\nAround **one week of work initially**, with possible long-term collaboration afterward.\n\n\n\nBudget is flexible depending on experience, Payment per milestone.\n\nFull commercial usage rights required. Original work only.h\n\nI handle all Godot integration myself.\n\n\n\n**To apply**\n\nPlease DM me with:\n\n* Your portfolio\n* A fixed-price estimate (preferred) or hourly/day rate\n* One screenshot of a game UI you made that you think would fit this project\\*\\*\n\n\n\n***The screenshot is mandatory in the first message***.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xjkwxm/paid_hiring_ui_artist_for_a_2d_fantasy_mmorpg_pc/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-10-30T17:00:08Z"
+  },
+  {
     "post_id": "1xjk3iv",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$40-50",
     "created_at": "2026-10-24T23:38:38Z"
-  },
-  {
-    "post_id": "1xen6jv",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Electrical_Bake844",
-    "title": "[Hiring] An artist that can draw something akin to images below",
-    "content": "[Hiring] An artist that can draw something akin to images below\n\nHello my fellow people, I'm looking for an artist that knows how to draw this stylized type of art. I'm making a oneshot for a TTRPG game and I want a person that could do a cover in a style close to this (Of course doesnt have to be the same!) Feel free to share links to portfolios in the comments &lt;3 Thank you so much\n\nThe budget 200 € or less. Sorry if it's laughable, let me know in the comments.",
-    "url": "https://reddit.com/r/artcommission/comments/1xen6jv/hiring_an_artist_that_can_draw_something_akin_to/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-10-24T23:37:00Z"
   }
 ]
