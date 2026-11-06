@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1xpenk1",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/HuntedCowGames",
+    "title": "[PAID] Looking for 2D artists for commander portraits, game icons and UI for an unannounced sci-fi strategy game",
+    "content": "[PAID] Looking for 2D artists for commander portraits, game icons and UI for an unannounced sci-fi strategy game",
+    "url": "https://reddit.com/r/artistforhire/comments/1xpenk1/paid_looking_for_2d_artists_for_commander/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-06T14:49:46Z"
+  },
+  {
+    "post_id": "1xpen8k",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/HuntedCowGames",
+    "title": "[PAID] Looking for 2D artists for commander portraits, game icons and UI for an unannounced sci-fi strategy game",
+    "content": "[PAID] Looking for 2D artists for commander portraits, game icons and UI for an unannounced sci-fi strategy game\n\nHunted Cow Games (huntedcow.com) is looking for freelance artists for an unannounced sci-fi strategy game on Steam and mobile. We need about 30 commander portraits and a lot of icons, covering skills, currencies, items and more. We're also looking for a **UI artist** to design the game's interface skin: frames, buttons, panels, HUD and faction branding.\n\nThe style is polished, semi-realistic digital painting: clean industrial sci-fi, cool metals, cyan glows and dark space tones.\n\n**No AI art of any kind.** Work that uses AI will be rejected, and we'll ask for WIP or layered files.\n\nTo apply, email [outsourcing@huntedcow.com](mailto:outsourcing@huntedcow.com) with your portfolio, what you're interested in, your rates and your availability.\n\nThanks! :)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xpen8k/paid_looking_for_2d_artists_for_commander/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-06T14:49:23Z"
+  },
+  {
     "post_id": "1xpdbby",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-11-02T01:00:17Z"
-  },
-  {
-    "post_id": "1xljjxk",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/heathwing",
-    "title": "[PAID] Godot 4 architecture review for a 3D action RPG prototype",
-    "content": "[PAID] Godot 4 architecture review for a 3D action RPG prototype\n\nI'm a solo developer with a working 3D action RPG prototype in Godot 4 (job-swapping combat, affinity/combo system, companion character). The code was written with AI assistance (mainly just to help with bug fixes), and I'm looking for an experienced Godot developer to review the architecture before I refactor.\n\n\n\nMain goals:\n\n\\- Identify hard-coded gameplay data that should move into Godot's systems (custom Resources, .tres files, exported variables)\n\n\\- Flag fragile or poorly structured systems\n\n\\- Provide a written list of issues and a recommended refactor plan\n\n\n\nScope: roughly \\[3-5\\] hours, fixed price. A project architecture document is available to speed things up. NDA required.\n\n\n\nPlease include your Godot 4 experience (shipped games, demos, or GitHub) and a quote.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xljjxk/paid_godot_4_architecture_review_for_a_3d_action/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-02T00:53:22Z"
-  },
-  {
-    "post_id": "1xljeyj",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/ohlawdwecomin",
-    "title": "[Hiring] Small Watercolor Landscape &amp; Buildings",
-    "content": "[Hiring] Small Watercolor Landscape &amp; Buildings\n\nI am looking to hire a hand-drawing (non-digital) watercolor artist for two small pieces depicting various buildings and landscapes. I would like to buy the originals, not a digital scan. One will be at daytime and one at dusk. If you've done works like this before, please reach out in the comments. I am interested!\n\n  \nBudget is $160 per piece and hoping for size roughly 5\"x7\" \n\n  \nThank you!",
-    "url": "https://reddit.com/r/artcommissions/comments/1xljeyj/hiring_small_watercolor_landscape_buildings/",
-    "quality": "High Quality",
-    "budget": "$160",
-    "created_at": "2026-11-02T00:46:41Z"
   }
 ]
