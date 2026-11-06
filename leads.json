@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xp4spu",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/vale_valerio",
+    "title": "[PAID] [HIRING] Low-poly 3D Character-Artist for a Modular Character Generator",
+    "content": "[PAID] [HIRING] Low-poly 3D Character-Artist for a Modular Character Generator\n\nWhat you’ll deliver  \nYou’ll create stylised low-poly fantasy characters: a male and a female base body, plus outfits made of interchangeable parts (headwear, top, bottom, weapon, accessory). They will power a modular “Hero” generator for Unity, where users mix parts, recolour them and change facial expressions. Every piece must follow a technical specification that I’ll share in full before the contract: shared skeleton, one shared texture, clean seams between parts.\n\nWe start with a paid trial  \none male and one female base character with one complete outfit. If it works well for both of us, more outfit sets follow in milestones.\n\nSkills required  \nLow-poly modelling with clean topology and good UVs. Rigging knowledge: skinning to a provided armature and clean weights. Blender (source files as .blend, exports as FBX, preferred as I can easily check them), otherwise, the FBX Unity experience is not a must\n\nCommunication  \nI’m the technical side of the project: I build the editor tool and supply the skeleton, texture template and test project. I’m happy to answer questions at any stage. I prefer short, regular updates with screenshots or work-in-progress files over long silences.\n\nHow I like to work I like to know people first.   \nBefore starting, I’d like a short call to get to know you, your working style, your work/life balance and how much time you can realistically give to the project. I’d rather plan around your availability than set deadlines that don’t fit it.\n\nBudget is good; all work is work-for-hire; full rights transfer on payment.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xp4spu/paid_hiring_lowpoly_3d_characterartist_for_a/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-06T05:25:13Z"
+  },
+  {
     "post_id": "1xp4a1m",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$75-100",
     "created_at": "2026-11-01T21:48:23Z"
-  },
-  {
-    "post_id": "1xldugx",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/duckydoom",
-    "title": "[Hiring] Line-Art Illustrator for Interactive Coloring Project (Raccoon / Kitschy Boho Nature Theme)",
-    "content": "[Hiring] Line-Art Illustrator for Interactive Coloring Project (Raccoon / Kitschy Boho Nature Theme)\n\nHey everyone! I’m currently in pre-production for an illustrated coloring book project and am looking to commission an artist.\n\n​**The Project:** The aesthetic blends a kitschy, cozy boho vibe with nature and a bit of mischief. Specifically, I'm looking for a mix of **wild forest raccoons** (foraging, hanging out by mossy logs) and **urban raccoons** (classic dumpster antics, using those grabby little hands), framed by botanical leaf borders, forest elements, the occasional crystal, and mushrooms. The final pieces need to be clean, crisp line art suitable for an interactive coloring book layout.\n\n​**Scope of Work:**\n\n​**1 Unique Cover Illustration**\n\n​**8 to 10 unique spot illustrations / page border designs** (to be rotated throughout the book)\n\n​**What I'm looking for in an artist:**\n\n​Strong line work and expressive, fun character design.\n\n​Ability to blend animal illustration with boho-botanical framing, forest textures, and fungi.\n\n​Willingness to sign a basic brief/agreement regarding commercial use.\n\n​**Budget:** Looking for package rates or per-piece pricing (Total project scope is 1 cover + \\~8-10 interior elements, $100-200). Please share your rates!\n\n​*Note: I am keeping full details of the overarching project private for now to protect the concept, but I'm happy to share specifics and reference vibes with interested illustrators.*\n\n​If this sounds like your style, please comment with your portfolio, rates, and turnaround times!",
-    "url": "https://reddit.com/r/starvingartists/comments/1xldugx/hiring_lineart_illustrator_for_interactive/",
-    "quality": "High Quality",
-    "budget": "$100-200",
-    "created_at": "2026-11-01T20:41:44Z"
   }
 ]
