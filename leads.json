@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xozsoq",
+    "platform": "Reddit",
+    "source": "r/commissions",
+    "author": "u/HiggsBoson1999",
+    "title": "[Hiring] for a NSFW OC commission. ~$60, price negotiable.",
+    "content": "[Hiring] for a NSFW OC commission. ~$60, price negotiable.\n\nTo understand what this character looks like, please read the Source Material. I wrote it, and I’d say I did a pretty good job, and it’s not long so it should be no big deal. Thanks!",
+    "url": "https://reddit.com/r/commissions/comments/1xozsoq/hiring_for_a_nsfw_oc_commission_60_price/",
+    "quality": "High Quality",
+    "budget": "$60,",
+    "created_at": "2026-11-06T01:06:46Z"
+  },
+  {
     "post_id": "1xozjhv",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-01T18:15:18Z"
-  },
-  {
-    "post_id": "1xl9obs",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/CopperForgeDesigns",
-    "title": "[PAID] 3D Texture Artist for Full-Color Miniature Resin Printing",
-    "content": "[PAID] 3D Texture Artist for Full-Color Miniature Resin Printing\n\nI’m looking for a 3D texture artist to digitally texture existing tabletop miniature STL models for **full-color printing on a PolyJet color resin printer**.\n\nI’ll provide the models, reference images, and desired color schemes.  \nWe’ll start with **one paid test miniature**, with potential for additional models and coordinated squads after evaluating the printed result.\n\n**Work needed:**  \nUV mapping and detailed color textures for armor, weapons, clothing, faces, and accessories.\n\nClear color separation and details that read well at miniature scale.\n\nConsistent color schemes across squad members.\n\nPreserve the original geometry, dimensions, and fit between parts.\n\n**Deliverables:**  \nGLB with embedded textures.\n\nOBJ, MTL, and all texture images packaged together.\n\nEditable project files and preview images.\n\nCommercial usage rights for the commissioned texture artwork on physical prints and in product photographs.\n\nSupplied models must remain private and cannot be shared or resold.\n\nPlease send portfolio examples, pricing for one test miniature, estimated turnaround, and your revision policy, including adjustments after a test print. \n\nExperience preparing textures for full-color 3D resin printing is a plus.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xl9obs/paid_3d_texture_artist_for_fullcolor_miniature/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-01T17:56:45Z"
   }
 ]
