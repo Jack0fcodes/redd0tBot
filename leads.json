@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xqj8zq",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/Unofficial_Salt_Dan",
+    "title": "[Hiring] [Paid] 2D Digital Cartographer / Illustrator for 8K WWII Pacific Strategy Map (Solo Indie Game - $400–$750 USD)",
+    "content": "[Hiring] [Paid] 2D Digital Cartographer / Illustrator for 8K WWII Pacific Strategy Map (Solo Indie Game - $400–$750 USD)\n\nHi everyone! I am a solo indie developer building a turn-based World War II Pacific theater strategy wargame for , and I am looking to hire a digital cartographer or technical 2D illustrator to create an 8K (7680x4320) strategic master map to serve as my main playable game board.\n\n**1. Geographical Scope &amp; Projection** I need a continuous Pacific-centered projection (16:9 aspect ratio) spanning the full 1942 operational theater:\n\n* **Western Edge:** India, Burma, and Central Asia (including Bombay, Calcutta, and Trincomalee).\n* **Northern Edge:** Manchuria, Siberia, Sakhalin, the Aleutian Islands, and Alaska (Kodiak, Gulf of Alaska).\n* **Eastern Edge:** The US and Canadian West Coast (Prince Rupert, Seattle, San Francisco) and Hawaii.\n* **Southern Edge:** All of Australia, New Zealand (Sydney, Melbourne, Dunedin), and the South Pacific (New Caledonia, Fiji).\n\n**2. Visual Style (\"1942 Naval War-Room Plotting Chart\")**\n\n* **Mood &amp; Palette:** An authentic, high-contrast 1942 military plotting map that pairs cleanly with my gunmetal-grey (#606468) and warm chart-paper tan UI panels.\n* **Ocean Bathymetry:** Distinct, readable ocean depth contours (shallow coastal reefs and atolls vs. deep ocean trenches) in muted nautical blues and slates.\n* **Land Topography:** Clear top-down distinction between gameplay terrain types (coastal plains, dense jungle, mountains, and plateaus) without pictorial fantasy icons.\n* **Readability Under UI:** My engine dynamically overlays node selection rings, unit counters, and movement arrows, so terrain textures must stay uncluttered when zoomed in.\n\n**3. Technical Specs &amp; Mandatory Digital Layer Separation**\n\n* **Resolution &amp; Format:** 7680x4320 pixels (8K, 16:9) at 300 DPI, delivered as a master layered PSD or TIFF file plus lossless PNG exports.\n* **No Baked City Dots:** Because I render ports, airfields, and city names dynamically in Godot, do not bake city dots or city labels into the land texture.\n* **Required Layers:** Separate layers for 1) Ocean &amp; Bathymetry, 2) Landmasses &amp; Topography, 3) 1942 Political Borders, 4) Nautical Grid &amp; Compass Rose, and 5) Sea Text Labels.\n\n**4. Budget, Payment &amp; Terms**\n\n* **Budget:** $400–$750 USD depending on portfolio and level of topographic detail.\n* **Payment:** Milestone-based via PayPal Goods &amp; Services invoice or other negotiated means  (33% on coastline draft, 33% on terrain WIP, 34% on final layered 8K delivery).\n* **Rights &amp; Authenticity:** Commercial indie game license for my in-game board, Steam page, and trailers, using a 100% human-made digital workflow with zero generative AI.\n\n**How to Apply** Please comment directly on this thread first—I ignore unsolicited DMs that do not have a matching public comment to filter out bots. To prove you read the brief, include the phrase **\"HALSEY WAS A PUNK\"** in your comment along with:\n\n1. A link to your portfolio showing digital maps, topographical/relief charts, or clean vector/GIS work.\n2. Your estimated quote and turnaround time.\n3. Your digital software stack",
+    "url": "https://reddit.com/r/HungryArtists/comments/1xqj8zq/hiring_paid_2d_digital_cartographer_illustrator/",
+    "quality": "High Quality",
+    "budget": "$400-750",
+    "created_at": "2026-11-07T22:52:38Z"
+  },
+  {
     "post_id": "1xqi8h5",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-500",
     "created_at": "2026-11-03T00:25:27Z"
-  },
-  {
-    "post_id": "1xmdt07",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/_perspective__",
-    "title": "discord profile picture and banner simple pixel art [Hiring] 30-90$",
-    "content": "discord profile picture and banner simple pixel art [Hiring] 30-90$\n\nI am looking for a pixel art artist to make me a purple themed simple looking trophy, as well as a \"lo-fi\" pixel art gif for my discord banner",
-    "url": "https://reddit.com/r/HungryArtists/comments/1xmdt07/discord_profile_picture_and_banner_simple_pixel/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-03T00:00:20Z"
   }
 ]
