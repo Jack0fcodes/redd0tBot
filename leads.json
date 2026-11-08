@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xqs454",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/symbioteeater",
+    "title": "[HIRING] in need of someone who can draw symbiote's and bandicoot like characters. 30$ my range",
+    "content": "[HIRING] in need of someone who can draw symbiote's and bandicoot like characters. 30$ my range\n\nHey I go by Venom, I need someone who can similar like pose to the above example. My budget is 30$ and the art must have five smaller panels and one alt. Thank you for listening",
+    "url": "https://reddit.com/r/artcommissions/comments/1xqs454/hiring_in_need_of_someone_who_can_draw_symbiotes/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-08T06:50:27Z"
+  },
+  {
     "post_id": "1xqrj35",
     "platform": "Reddit",
     "source": "r/starvingartists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-03T12:47:53Z"
-  },
-  {
-    "post_id": "1xmry7z",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/dendakthebest",
-    "title": "[PAID] Looking for a Stylized 3D Character Artist for Unity Mobile Game",
-    "content": "[PAID] Looking for a Stylized 3D Character Artist for Unity Mobile Game\n\n[Character and clothes reference](https://preview.redd.it/83ym7nlk7ezh1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=83b19a2ff141b756dab5e5dd62e73e122551c621)\n\n# Hi everyone!\n\nI'm looking for a 3D artist to create a stylized character for a multiplayer mobile game I'm developing in Unity (iOS and Android).\n\nI've attached a concept image showing the visual style I'm aiming for.\n\nThe image features three characters. **For now, I'm only looking to commission the base mannequin on the left**, without any clothing or accessories. The other two characters are examples of how the same base model could eventually look with different outfits.\n\n# What I'm looking for\n\n* A simple, appealing 3D character with smooth, rounded shapes, similar to the reference.\n* Clean topology suitable for future rigging, animation, and ragdoll physics.\n* A neutral A-pose or T-pose, suitable for future rigging.\n* Simple materials and colors matching the reference, including the eyes. I'm looking for a visually finished, game-ready character, not just an untextured mesh.\n* A lightweight, mobile-optimized model.\n* Blender source file (.blend) and FBX export (.fbx) for Unity, including any necessary textures and materials.\n\n**Triangle budget:** Ideally around 1,000–1,500 tris for the base mannequin. This is a flexible target, not a strict limit. If slightly more geometry is needed to maintain smooth shapes and good topology, that's perfectly fine.\n\nThe game uses a fairly high, almost top-down camera angle, so characters will appear relatively small on screen. However, I'd still like them to have smooth, appealing silhouettes without noticeably angular geometry.\n\n# Future character customization\n\nThe game will feature character customization, with different T-shirts, shorts, pants, shoes, hats, and accessories that can be equipped on the same base character.\n\nBecause of this, I'd like the base model to be designed with future interchangeable clothing in mind.\n\nIn Unity, body parts fully covered by clothing may eventually be hidden to prevent clipping and unnecessary rendering.\n\nFor reference, here are my preliminary triangle budgets for future clothing items:\n\n* T-shirt: 200–400 tris\n* Shorts: 150–350 tris\n* Sneakers (pair): 200–400 tris\n* Cap: 100–250 tris\n* Bandana: 100–200 tris\n\nIdeally, a fully dressed character would stay around **1,500–3,000 tris in total**, including visible body geometry, clothing, and accessories.\n\nThese are just initial estimates, and I'm happy to discuss more practical budgets based on your experience.\n\n# Creative flexibility\n\nThe attached concept is a visual reference rather than a strict final design.\n\nI'm open to small creative improvements to the eyes, body proportions, or other details if they make the character more appealing and expressive while maintaining the overall style.\n\n# Budget, timeline, and future work\n\n**This is a paid commission.** For now, I'd like to get a quote for creating just the base mannequin, including its basic materials and visual details.\n\nRigging, animations, and clothing are **not part of the current commission**, but they may become separate tasks later.\n\nI'd also be interested to know whether you offer rigging and animation services, and what those might cost as additional work in the future.\n\nIf you're interested, please send me:\n\n* Your portfolio, preferably with examples of stylized, low-poly game characters.\n* Your estimated price for the base mannequin.\n* Your estimated turnaround time.\n* Whether you also provide rigging and animation services.\n\nI'd also appreciate any professional feedback on the proposed triangle budgets and overall approach to character customization.\n\nFeel free to reply here or send me a DM.\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xmry7z/paid_looking_for_a_stylized_3d_character_artist/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-03T12:43:03Z"
   }
 ]
