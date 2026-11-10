@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xseuop",
+    "platform": "Reddit",
+    "source": "r/Artistsforhire",
+    "author": "u/Fancy_Highlight1259",
+    "title": "[hiring] 3D artist for Stake.US",
+    "content": "[hiring] 3D artist for Stake.US\n\n**Freelance 3D Artist Brief: Xeno Hoard Extreme**  \n**Project overview**  \nWargo Interactive is hiring a freelance 3D artist to make the symbols and key art for Xeno Hoard Extreme, an original alien-themed hold-and-win slot for the Stake Engine platform. The work is small, clearly scoped, and paid in phases.  \nCoins and orbs land and lock on a grid while the player gets respins, and four jackpot tiers (Mini, Minor, Major, Grand) can be won. The theme is alien sci-fi: a glowing alien hoard of treasure, orbs and creatures. The art goes through a quality review before publishing, so polish and consistency matter more than quantity.  \n**Deliverables (please quote each phase separately)**  \n*Phase 1 (must have)*  \n4 high-pay symbols (alien characters or creatures)  \n5 low-pay symbols (gems, crystals or alien glyphs)  \n1 wild symbol  \n1 bonus trigger symbol  \n1 blank coin/orb symbol (the game adds the cash value)  \n4 jackpot orbs (Mini, Minor, Major, Grand), each clearly different  \n*Phase 2 (should have)*  \nBase-game background  \nHold-and-win bonus background, a different look from the base game  \nGame logo or title treatment  \n*Phase 3 (nice to have)*  \nWin and idle animation, as separate layers or frames per symbol  \n**Technical specs**  \nModel and render everything in Blender.  \nSymbols: transparent PNG, 1024 x 1024 px, centered, with the same padding on every symbol.  \nBackgrounds: 1920 x 1080 px, with the center kept uncluttered because the reels sit there.  \nUse the same camera, lens, lighting and render settings on every symbol, and keep that setup in the .blend file.  \nEach symbol must read clearly at about 120 px wide on a phone.  \nDeliver .blend files with textures included, plus the final PNGs.  \nThe game is a static web build, so keep file sizes sensible.  \n**Style and originality**  \nAll art must be original. Stake Engine rejects games that infringe copyright or use existing IP.  \nDo not copy or closely imitate any existing slot, character, logo or franchise. References are for mood only.  \nNo Stake or Kick branding.  \nTell me up front if you use AI tools, marketplace models or stock assets. Anything not made from scratch needs a license that allows commercial use in a game.  \nLook: glossy, premium 3D slot style with bold shapes, glowing lights and strong color separation between symbols.  \nI'll send 3 to 5 mood references after hiring.  \n**Budget and payment**  \nMy total budget for Phase 1 is 100$ and it is firm. If your quote is higher, tell me what you can deliver for that amount. I'd rather get a smaller set done well.  \n**Paid test:** one high-pay and one low-pay symbol for \\[$20\\], so I can see your quality.  \n**Phase 1:** 50% at the start, 50% on delivery of the full set.  \n**Phases 2 and 3:** only if I'm happy with Phase 1, quoted and paid the same way.  \nPayments go through \\[Upwork / Fiverr / PayPal\\] and I pay promptly on delivery of each milestone.  \n**How to apply**  \nSend me these five things, and I'll reply within two days:  \nPortfolio links, ideally slot symbols, game icons or stylized 3D props rendered in Blender  \nA quote for each phase, with the total  \nYour estimated turnaround for Phase 1  \nYour availability over the next two weeks  \nOne sentence on how you keep a symbol set consistent  \n**Terms**  \nWargo Interactive owns all final assets and source files once each milestone is paid, including the right to modify them.  \nThe assets are exclusive to this game, with no resale or reuse.  \n\\[2\\] revision rounds per phase are included. Anything beyond that is quoted separately.  \nYou may show finished work in your portfolio after the game is published.  \nPlease don't share unfinished work publicly.",
+    "url": "https://reddit.com/r/Artistsforhire/comments/1xseuop/hiring_3d_artist_for_stakeus/",
+    "quality": "High Quality",
+    "budget": "$20",
+    "created_at": "2026-11-10T05:35:48Z"
+  },
+  {
     "post_id": "1xsepiw",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$50-120",
     "created_at": "2026-11-05T09:01:45Z"
-  },
-  {
-    "post_id": "1xodyy2",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/Out_lyer",
-    "title": "[Hiring] Finding someone who could draw Transformers as mecha girls similar to these ones. $50-120 for budget.",
-    "content": "[Hiring] Finding someone who could draw Transformers as mecha girls similar to these ones. $50-120 for budget.\n\nIf you are interested, please send me your portfolio (DeviantArt, ArtStation, Pixiv, etc.) and your contact (X, Instagram, Discord). Please do not DM me.",
-    "url": "https://reddit.com/r/artcommissions/comments/1xodyy2/hiring_finding_someone_who_could_draw/",
-    "quality": "High Quality",
-    "budget": "$50-120",
-    "created_at": "2026-11-05T09:01:34Z"
   }
 ]
