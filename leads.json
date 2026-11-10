@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xsu7lf",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/nadriangrz203",
+    "title": "[PAID] Pixel artist for a 2D online farming RPG (character animations + tilesets)",
+    "content": "[PAID] Pixel artist for a 2D online farming RPG (character animations + tilesets)\n\nHi! I'm a solo developer working on Feralis Valley, a 2D online farming RPG inspired by Stardew Valley, with MMO elements (kingdoms, guilds, dungeons, pets, trading).\n\n\n\n\\*\\*Where the project is\\*\\*\n\n\\- Playable build, version 0.20, on Windows and Android\n\n\\- Built with Phaser 3 + TypeScript, with its own server and accounts\n\n\\- Farming, crafting, animals, town, mines, combat and multiplayer already work\n\n\n\n\\*\\*What I need\\*\\*\n\nThe game works, but the art comes from many different packs and doesn't look consistent. I'm looking for one pixel artist to give it a single style:\n\n\\- Main character with 4-direction animations (idle, walk, tool use, attack)\n\n\\- Terrain and building tilesets\n\n\\- Crops, items, animals and NPCs over time\n\n\n\nI work with Aseprite files, so .aseprite sources with tagged animations would be ideal.\n\n\n\n\\*\\*What I offer\\*\\*\n\n1. First choice: a long-term partnership with \\[X\\]% of the game's net revenue, set in a written agreement. You would be the game's artist, credited as such.\n\n2. If revenue share isn't for you: paid work per asset or per milestone, starting with a small paid test piece (the main character walk cycle). Budget: \\[your budget\\].\n\n\n\n\\*\\*How to apply\\*\\*\n\nSend me a DM with your portfolio (pixel art, ideally top-down RPG or farming style), which of the two options you prefer, and your rates if you choose paid work.\n\n\n\nThanks for reading!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xsu7lf/paid_pixel_artist_for_a_2d_online_farming_rpg/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-10T18:14:08Z"
+  },
+  {
     "post_id": "1xstap6",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-05T23:41:58Z"
-  },
-  {
-    "post_id": "1xoxua7",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/OhSweetLiberty",
-    "title": "[Hiring] Looking for art commission, budget ~$70-80",
-    "content": "[Hiring] Looking for art commission, budget ~$70-80\n\nLooking to make a custom MTG card for a friend as a holiday gift, and am looking for someone to help with the artwork. My thought  was to have the two people done in the style of the existing card. Can use either the original background of the card or the photo. Please let me know if anyone is interested, what would be possible at this price point, thank you!",
-    "url": "https://reddit.com/r/artcommissions/comments/1xoxua7/hiring_looking_for_art_commission_budget_7080/",
-    "quality": "High Quality",
-    "budget": "$70-80",
-    "created_at": "2026-11-05T23:36:22Z"
   }
 ]
