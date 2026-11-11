@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xt3uah",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/ivanthagod",
+    "title": "[Hiring] looking for someone to make a pokemon vendor logo",
+    "content": "[Hiring] looking for someone to make a pokemon vendor logo\n\nHello I’m looking for someone to draw a logo for my pokemon vendor instagram. It only has to include two pokemon in it Gengar and Lugia. I only have a small budget of 50$ so please let me know if that works for you! (NO AI)",
+    "url": "https://reddit.com/r/artistforhire/comments/1xt3uah/hiring_looking_for_someone_to_make_a_pokemon/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-11T00:43:55Z"
+  },
+  {
     "post_id": "1xt2u00",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-06T07:20:58Z"
-  },
-  {
-    "post_id": "1xp4spu",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/vale_valerio",
-    "title": "[PAID] [HIRING] Low-poly 3D Character-Artist for a Modular Character Generator",
-    "content": "[PAID] [HIRING] Low-poly 3D Character-Artist for a Modular Character Generator\n\nWhat you’ll deliver  \nYou’ll create stylised low-poly fantasy characters: a male and a female base body, plus outfits made of interchangeable parts (headwear, top, bottom, weapon, accessory). They will power a modular “Hero” generator for Unity, where users mix parts, recolour them and change facial expressions. Every piece must follow a technical specification that I’ll share in full before the contract: shared skeleton, one shared texture, clean seams between parts.\n\nWe start with a paid trial  \none male and one female base character with one complete outfit. If it works well for both of us, more outfit sets follow in milestones.\n\nSkills required  \nLow-poly modelling with clean topology and good UVs. Rigging knowledge: skinning to a provided armature and clean weights. Blender (source files as .blend, exports as FBX, preferred as I can easily check them), otherwise, the FBX Unity experience is not a must\n\nCommunication  \nI’m the technical side of the project: I build the editor tool and supply the skeleton, texture template and test project. I’m happy to answer questions at any stage. I prefer short, regular updates with screenshots or work-in-progress files over long silences.\n\nHow I like to work I like to know people first.   \nBefore starting, I’d like a short call to get to know you, your working style, your work/life balance and how much time you can realistically give to the project. I’d rather plan around your availability than set deadlines that don’t fit it.\n\nBudget is good; all work is work-for-hire; full rights transfer on payment.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xp4spu/paid_hiring_lowpoly_3d_characterartist_for_a/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-06T05:25:13Z"
   }
 ]
