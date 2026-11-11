@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xtho70",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/Lil_PR0D19Y",
+    "title": "[hiring] looking for custom Discord banner 30$-40$",
+    "content": "[hiring] looking for custom Discord banner 30$-40$\n\nNeed a banner that says The Wonderclan color blue but incorporates Destiny, Ark survival, apex, RuneScape, marvel rivals.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1xtho70/hiring_looking_for_custom_discord_banner_3040/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-11T13:25:10Z"
+  },
+  {
     "post_id": "1xth0u0",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$80-250",
     "created_at": "2026-11-07T02:23:47Z"
-  },
-  {
-    "post_id": "1xprpk6",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/JrButton",
-    "title": "[PAID] Stylized 3D character artist: chibi bases, modular outfits &amp; equipment",
-    "content": "[PAID] Stylized 3D character artist: chibi bases, modular outfits &amp; equipment\n\nI'm looking for a 3D character artist to clean up or rebuild existing male and female base models and create well-fitted modular clothing and equipment from supplied 2D references.\n\nThe models will be used as customizable avatars in a browser-based Three.js environment, including profile views, animation, and interactive/game-like experiences.\n\n  \n**The look**\n\nWhimsical, chibi, expressive, and clean, with appeal across ages 5–19. References include a blue-hooded adventurer, fur-and-leather gear, purple mage robes, and more ornate outfits. I'm open to a modest shift in art direction that makes the assets more consistent.\n\nI'm aiming for polished real-time characters. The silhouette, face, and clothing should hold up from the front, side, and back at profile-screen distance. Clean shapes and thoughtful construction matter more than cinematic detail.\n\n  \n**What I need**\n\n* A refined male and female base model: review what we have, clean up what's worth keeping, and recommend rebuilding where that makes more sense.\n* Clean topology, UVs, skinning, and deformation, especially around the face, shoulders, hands, hips, and knees.\n* Modular clothing and equipment built from 2D references I can provide. Some existing 2D designs use separate front and rear layers; those need to become coherent 3D forms.\n* Reliable fit across the intended bases and supported outfit combinations. Exposed skin must remain intact; hiding the whole torso cannot be the default solution to clipping.\n\n \n\nThe modular system needs to accommodate 11 slots: hair, head/hat, chest, legs, feet, gloves, cape/back, main hand, off hand, face/accessory, and waist. \\*Not every set includes each of these.  \nNeed to discuss options/plan for combinations such as hair under hats, layered robes or rear panels, belts over clothing, and separately attached weapons or shields. The first commission will cover an agreed subset.\n\n \n\n**Pipeline and quality bar**\n\nBlender source files plus textures and GLB exports for Three.js. We'll agree on a canonical skeleton, fitting pose, material approach, attachment points, and performance budget after reviewing the existing files. We need a repeatable outfit workflow that future work can extend.\n\n \n\nReviews will include front/side/back views, wireframes, representative poses, and outfit swaps.\n\n \n\nAnimation experience is a plus, but base-model quality, modular fit, and weighting are the main priorities. New animation clips can be scoped separately. I do have a few complicated animations for a model of two I'd like to refine as a trial too.\n\n \n\n**How we'd start**\n\nI'd like a small paid pilot: review the current assets, provided one male and one female base model, and fit a single modular outfit. If it's satisfactory we'll move into more opportunities/milestones. Please quote the pilot and follow-on work separately.\n\n \n\nPlease send a few relevant portfolio links, ideally with wireframes, turnarounds, or modular clothing in motion, plus your rates and realistic availability. Tell me whether you'd favor cleanup, rebuilding, or a combination after reviewing the assets.\n\n \n\nI appreciate short, regular visual updates and a brief introductory call. We'll agree on scope, revisions, and schedule before starting.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xprpk6/paid_stylized_3d_character_artist_chibi_bases/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-06T23:40:09Z"
   }
 ]
