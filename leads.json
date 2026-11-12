@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xu29i7",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/Electrical_Pack1867",
+    "title": "[Hiring] looking for someone to do a doodle style portrait of my rats.",
+    "content": "[Hiring] looking for someone to do a doodle style portrait of my rats.\n\nFor reference I love the styles of @/tinyfreaksunit  and @/bleobsdoodles on IG. I love stylized art as it fits my rats’ personalities very well! I’m looking to spend at most $30 for three digitals that will only be for personal use, to print. One with both of them and two individuals.",
+    "url": "https://reddit.com/r/artcommission/comments/1xu29i7/hiring_looking_for_someone_to_do_a_doodle_style/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-11-12T03:31:05Z"
+  },
+  {
     "post_id": "1xu1c5h",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$35",
     "created_at": "2026-11-07T17:58:17Z"
-  },
-  {
-    "post_id": "1xqb9bz",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/WilburHiggins",
-    "title": "Looking for a 3d modeler for a few car models",
-    "content": "Looking for a 3d modeler for a few car models\n\nLooking to hire an artist to complete 3 car models for a racing game we are developing. \n\nWe’re looking for three original, unbranded, game-ready cars for an Unreal Engine 5 dirt oval racing game: a dirt late model, a dirt street stock, and a dirt winged sprint car. Each car has its own body, chassis and roll cage. No interior needed, just a blank cockpit with sockets for the relevant parts.\n\nA few parts are shared between them: shocks, wheels, rear end, small hardware and one trim sheet. We are running Nanite, so anything under 500k triangles per car is fine, and each car should be built around the wheelbase, track and tire sizes we supply. Every body panel, wheel and suspension part needs to be a separate static mesh with its pivot on its hinge line. No rigging or animation needed. Body panels need clean, non-overlapping UVs for paint schemes but no other textures or materials are needed.\n\nFor files we are wanting FBX and the source .blend per car with five material slots. We would like a test part completed first to make sure the work matches up with our work flow. All work must be original with full commercial rights, and we’d appreciate a quote per car and for all three together.\n\nWe are looking to find a long term partnership as we will have other assets coming down the pipeline later and it would be good to have an artist to work with that fits our style.",
-    "url": "https://reddit.com/r/artistforhire/comments/1xqb9bz/looking_for_a_3d_modeler_for_a_few_car_models/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-07T17:03:34Z"
   }
 ]
