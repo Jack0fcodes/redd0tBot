@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xu4u2a",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/CarbyneGames",
+    "title": "[Paid] Composer for adaptive soundtrack: sci-fi exoskeleton co-op (UE5). No AI-generated music.",
+    "content": "[Paid] Composer for adaptive soundtrack: sci-fi exoskeleton co-op (UE5). No AI-generated music.\n\nGreetings!\n\nCarbyne Games is looking for a composer to round out the soundtrack for our close to alpha release co-op PvE exoskeleton game, ahead of Steam Next Fest and our upcoming funding round.\n\nThe sound we're after: MechWarrior 2 meets Mass Effect with meaningful ambient fillers. Big, heavy, industrial energy when things kick off, and wide, atmospheric, lonely space between fights. Synths and weight, with some melody that sticks. We want those hooks.\n\nAdaptive music is a must. We need someone who has written dynamic music before: the same piece that shifts with game play instead of hard-cutting between tracks. Exploring a planet should flow into combat and back out again as one theme, through layers and stems that build up and strip back. Please tell us how you approach this (vertical layering, horizontal re-sequencing, stingers and transitions) and deliver stems we can wire up in Unreal Engine 5. Experience with MetaSounds, Wwise or FMOD is a plus, but not required.\n\nWhat we need, roughly in order:\n\n* Main theme / main menu: the game's identity 2-3 min looping\n* Exploration and combat: at least one adaptive piece with exploration, tension and combat layers, possibly two or three for different areas likely 4-5 min \n* Intro cinematic score: about 1:45, cut to an existing voice-over and picture\n* Trailer music: possibly, for Next Fest and the funding pitch \\~2min\n\n***No AI music, at all.*** This is a hard rule. No AI-generated or AI-assisted composition, melody, stems or vocals. You'll be asked to share work-in-progress and project files or stems along the way, and the contract will state it. Normal sample libraries and virtual instruments are of course fine.\n\nThe game: heavy-metal co-op PvE bot action on other planets, influences from SWG, MechWarrior, OMF2097. We're in our third year, with a fully procedural animation system that gives these metal exoskeletons real weight (https://youtu.be/i3tupqyfGTo). Also, who doesn't love blowing parts off bots!\n\nTerms: short-term contract, fully credited, paid per milestone (one milestone per piece or group of pieces), with strong potential to continue as the game grows. To be transparent: we're self-funded right now, so the it's the right fit and we secure funding, we'd love to keep working with you at proper rates. Please also say how you handle rights: full buyout / work-for-hire, or licensing, and whether you'd want to keep soundtrack release rights.\n\nImportant: Carbyne Games is a registered LLC in the United States, we'll need a completed W-9 form before beginning work, and will issue a 1099-NEC for payments of $600 or more. For international contractors, we'll need a completed W-8BEN form to establish tax status and withholding requirements. This is a legitimate contract position. We handle everything by the book.\n\n\n\nTo apply, DM or reply with:\n\n* links to your work, ideally including adaptive or interactive music, or shipped game credits\n* your availability and location (US/international)\n* what you'd typically charge for this scope\n* how you'd approach the exploration-to-combat transition\n\nUnfortunately I won't chase down missing portfolios or rates. Please work the word \"Adaptive\" into the DM first line for obvious reasons!\n\nI'm really excited to hear from you all!\n\n\\-Ben\n\nFew recent vids\n\n* [https://youtu.be/oLw45ki6pwc](https://youtu.be/oLw45ki6pwc)\n* [https://youtu.be/ANUxyPY4g\\_M](https://youtu.be/ANUxyPY4g_M)\n\n[https://bsky.app/profile/carbynegames.bsky.social](https://bsky.app/profile/carbynegames.bsky.social)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xu4u2a/paid_composer_for_adaptive_soundtrack_scifi/",
+    "quality": "High Quality",
+    "budget": "$600",
+    "created_at": "2026-11-12T05:48:59Z"
+  },
+  {
     "post_id": "1xu3wlt",
     "platform": "Reddit",
     "source": "r/commissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-07T18:44:16Z"
-  },
-  {
-    "post_id": "1xqdmk3",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/You-dogwater",
-    "title": "[Hiring] Paying 20$ for someone to finish this.",
-    "content": "[Hiring] Paying 20$ for someone to finish this.\n\nDO NOT DM ME UNLESS I SAY SO.",
-    "url": "https://reddit.com/r/artcommissions/comments/1xqdmk3/hiring_paying_20_for_someone_to_finish_this/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-07T18:42:47Z"
   }
 ]
