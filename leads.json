@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xvmvpv",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Odd_Force_4627",
+    "title": "[Hiring] Industrial/product designer for a CNC-machined car key fob case (CAD deliverable) - Remote / Ontario, Canada",
+    "content": "[Hiring] Industrial/product designer for a CNC-machined car key fob case (CAD deliverable) - Remote / Ontario, Canada\n\nI run a CNC machine shop in Ontario, Canada, and I’m launching a small consumer product line under a new brand. The first product is a **machined metal case for BMW’s current key fob**, the one on the 2023+ X3, X5 and 5 Series.\n\n**The concept: a skeleton, not a box.** Most cases on the market are silicone, leather or cheap zinc shells. I want something that looks like an exoskeleton of the key:\n\n* It follows the key’s tapered shape and chrome swoop, not a rectangle.\n* Each button sits in its own window in the metal, and you press it through the window.\n* The sides stay open, so the key’s chrome band and M stripes still show.\n* It’s built as two cages, top and bottom, screwed together.\n\n**Hard constraints** (we’ll walk you through them):\n\n* **It has to be machinable here:** 3-axis mill, 2 ops per part in soft jaws. Inside corner radii and wall thickness will come from our tooling, and I’ll give you the numbers.\n* **Radio signal:** metal blocks the key’s signal, so the design has to avoid closed metal loops around the key (slits, polymer posts). I’ll share the rules; you design within them.\n* **The real key gets measured and scanned on our side,** and you design to that reference model.\n\n**What you deliver:**\n\n* 2–3 concept directions (sketches or renders) and one round of feedback.\n* Final **CAD (STEP plus your native Fusion 360 or SolidWorks file)** that we can program from.\n* One revision round after our first 3D-printed and machined prototypes.\n* Optional: renders we can use on the product page.\n\n**Who I’m looking for:**\n\n* An industrial or product designer whose portfolio includes **physical products, ideally machined metal**: EDC, knives, watches, bike or car parts. A render-only portfolio isn’t enough.\n* Comfortable in Fusion 360 or SolidWorks, and able to design for manufacturing.\n* Bonus: you’re into cars, or you’re in Ontario and can visit the shop.\n\n**Terms:**\n\n* **Budget:** 500 CAD\n* **Timeline:** \\[concepts in \\_\\_ weeks, final CAD by \\_\\_\\_\\_\\]\n* An NDA before the concept details are shared.\n* The design and CAD files are assigned to the brand in writing.\n* Paid by milestone: concepts, final CAD, prototype revision.\n\n**To apply, DM me:**\n\n* A portfolio link showing physical products you’ve designed.\n* One or two lines on what you’d change about the concept.\n* Your rate or a quote, and your availability.",
+    "url": "https://reddit.com/r/DesignJobs/comments/1xvmvpv/hiring_industrialproduct_designer_for_a/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-13T23:16:11Z"
+  },
+  {
     "post_id": "1xvm789",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-09T18:03:25Z"
-  },
-  {
-    "post_id": "1xry465",
-    "platform": "Reddit",
-    "source": "r/artcommission",
-    "author": "u/Hungry_Apartment8351",
-    "title": "[hiring] $50-$100 portrait of Australian Animals watercolor style",
-    "content": "[hiring] $50-$100 portrait of Australian Animals watercolor style\n\nWanting a portrait very similar to this image but using photos of my actual animals as a reference. Even better if we can add a tree or branch of some kind in a way that still looks organic with the portrait style, so that I can include a possum in the artwork  😊",
-    "url": "https://reddit.com/r/artcommission/comments/1xry465/hiring_50100_portrait_of_australian_animals/",
-    "quality": "High Quality",
-    "budget": "$50-100",
-    "created_at": "2026-11-09T17:37:22Z"
   }
 ]
