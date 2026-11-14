@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xw5kin",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Individuo73",
+    "title": "[PAID] Part-time Unreal Engine 5 gameplay designer for a cinematic family game (remote)",
+    "content": "[PAID] Part-time Unreal Engine 5 gameplay designer for a cinematic family game (remote)\n\nHi! I'm Sergio, a filmmaker (Mexico). I'm making **WOW**, a cinematic family game in **Unreal Engine 5 (Blueprints)**. It follows a monarch butterfly from egg to his migration from Canada to the Oyamel forests of Mexico. It's for Steam and Steam Deck first, then Switch.\n\n**The style:** a guided side-view camera with deep, cinematic depth of field (think *Inside* or *Limbo*, but warm and colorful), simple controls, and one new skill per level: crawl, jump, balance, then fly. Some big flights switch to a behind-the-back camera.\n\n**What I need:**\n\n* Make the player character's **movement feel great**: crawl, walk, jump, land, balance, and later flap and glide.\n* Build and tune the **side-view camera** and its smooth switch to a behind-the-back flight camera.\n* Design small **puzzles and challenges** along the path, such as pushing, pulling, hiding and chases.\n* Play each build and tell me honestly what's not working.\n\n**You:** shipped or demo-able Unreal work (please send playable builds or videos), strong in Blueprints, character movement and cameras, and a love for platformers and narrative games.\n\n**Terms:** remote, part-time (about 5 to 10 hours a week), paid hourly. We start with a **small paid test** (about 5 to 10 hours): make our caterpillar's crawl and jump feel great in our project.\n\n**To apply:** send your portfolio or playable demo, your hourly rate, and your availability to [sergio@terricola.mx](mailto:sergio@terricola.mx)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xw5kin/paid_parttime_unreal_engine_5_gameplay_designer/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-14T15:47:48Z"
+  },
+  {
     "post_id": "1xw3na4",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-10T02:25:52Z"
-  },
-  {
-    "post_id": "1xsaqc9",
-    "platform": "Reddit",
-    "source": "r/HungryArtists",
-    "author": "u/MiniMellowz",
-    "title": "[HIRING] $150 Looking to commission werewolf designs for my humanoid OCs!",
-    "content": "[HIRING] $150 Looking to commission werewolf designs for my humanoid OCs!\n\nHi there!!!\n\nI'm currently working on a comic that includes humanoid OCs that can transform into werewolf-like creatures, but I'm not very good at drawing what I have in mind...\n\nI have humanoid designs and my own versions of their werewolf forms, but I'd love to have references that are a little more professionally done. The forms are based on actual canine designs and have some biological specifics. I'd also be willing to pay extra for \"biological journal\" notes to illustrate the mechanics of transformation (think field journal style sketch pages).\n\nThere's no hard deadline, as this will be for personal reference and will not be monetized. All credit will belong to you as the artist anytime I post about them.\n\nThank you, let me know if I can answer any other questions!",
-    "url": "https://reddit.com/r/HungryArtists/comments/1xsaqc9/hiring_150_looking_to_commission_werewolf_designs/",
-    "quality": "High Quality",
-    "budget": "$150",
-    "created_at": "2026-11-10T02:03:33Z"
   }
 ]
