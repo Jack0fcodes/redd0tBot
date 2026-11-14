@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xw9an9",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Nefisto-",
+    "title": "[Hiring] [PAID] Quote Request: Pixel Art Vertical Comic-Style Background (Transition + Idle animation)",
+    "content": "[Hiring] [PAID] Quote Request: Pixel Art Vertical Comic-Style Background (Transition + Idle animation)\n\n**Hi everyone,**\n\nI’m currently planning the visual features for a mobile game launch and looking for price quotes/estimates from Pixel Art artists.\n\nI’m aiming to create vertical progression backgrounds designed like a **vertical comic strip / comic page**, structured around incremental progression (for example, a child building a sandcastle where each step of the story expands the scene).\n\n**How I want to structure the quotes:** Instead of a flat rate for a fixed size, I would like quotes based on **packages combining Transition + Idle states** (or per milestone/block of levels) so I can easily average out the costs for scaling across **10, 15, or 20+ levels**.\n\n**Scope Details:**\n\n* **Target Resolution &amp; Aspect Ratio:** The main priority is maintaining a **vertical mobile aspect ratio (portrait mode)**—a native pixel resolution around **270x600** works great as a baseline reference.\n* **Comic-Style Panel Layout:** Background structured with transitions between frames/panels (like reading a comic vertically).\n* **Animations:** Flexible frame counts to ensure smooth transitions—roughly 6–10 frames for panel transitions, and potentially a few more for looping character/environment idles.\n* **Style:** 2D Pixel Art.\n\nIf you are interested, please reply with:\n\n1. **Your portfolio link**\n2. **Your rates per Transition + Idle unit (or milestone packages for scaling to 10/15/20 levels)**\n3. **Your general turnaround time**\n\nThanks!\n\nA sample of the idea [https://imgur.com/a/E2KITmn](https://imgur.com/a/E2KITmn)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xw9an9/hiring_paid_quote_request_pixel_art_vertical/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-14T18:18:33Z"
+  },
+  {
     "post_id": "1xw79fi",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-10T04:08:34Z"
-  },
-  {
-    "post_id": "1xsbmt6",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/D-Andrew",
-    "title": "[PAID] Looking For Logo Artist for a Dreamlike Metroidvania",
-    "content": "[PAID] Looking For Logo Artist for a Dreamlike Metroidvania\n\nHello everyone, I've been solo working on a fast-paced decision making metroidvania for a long time and being an artist myself I iterated into it's logo multiple times, even changed the same a few other times. But I think the game is currently on a solid state to look for professional help for the game to have it's definitive logo made so it can be used later for promotions and game related art.\n\n\n\nThe game is mainly pixel art, but I'm looking first for an artist that could be able to make a high resolution logo and then I'll be looking for another artist who could be able to make a pixel art version of these (for in-game usage), so if any of those profiles match your skills, don't be hesitant on sharing your portfolio and rates! (And if you can do both, even better!)\n\n\n\nI don't have in-vision of what I \"exactly\" want, but I have a lot of concepts I have made along with multiple logo iterations, and a font style already defined, so I would like to have some initial iterations (if possible) to discuss the idea. My current budget is between $300-$500 USD.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xsbmt6/paid_looking_for_logo_artist_for_a_dreamlike/",
-    "quality": "High Quality",
-    "budget": "$300-500",
-    "created_at": "2026-11-10T02:47:35Z"
   }
 ]
