@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1xxvtc5",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/versacealexander",
+    "title": "[Hiring] Help with a 1980s sport logo &amp; branding ($45/hr)",
+    "content": "[Hiring] Help with a 1980s sport logo &amp; branding ($45/hr)\n\nWe're back, and third time is the charm!\n\nI'm looking to commission at least one logo design for my up and coming sports coaching organization. We would like this effort to produce designs that complement existing branding and fit within our current visual language. The end result will be a complete logo package that's reminiscent of 70s-80s sports.\n\nWe have sketches of the remaining designs that we want finalized. What we need help with is cleaning up our sketches and digitizing them in a format that is editable and scalable. If we find a good fit, we will share the existing logos and any additional details that would help the design process. We would need the end result to be delivered through a package that includes editable svg files.\n\nBudget is $45 USD/hr.\n\nExperience with designing image icons is a priority, but a strength for fonts is also a big plus!\n\nLastly, please comment on this post before DMing me. Otherwise your DM will probably be lost.\n\nThanks",
+    "url": "https://reddit.com/r/DesignJobs/comments/1xxvtc5/hiring_help_with_a_1980s_sport_logo_branding_45hr/",
+    "quality": "High Quality",
+    "budget": "$45",
+    "created_at": "2026-11-16T17:42:05Z"
+  },
+  {
+    "post_id": "1xxvt6p",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/ItsGK",
+    "title": "[Hiring] Seeking Chiptune / 90s Sega-Inspired Techno Composer (7 Looping Tracks)",
+    "content": "[Hiring] Seeking Chiptune / 90s Sega-Inspired Techno Composer (7 Looping Tracks)\n\nLooking for a reliable, deadline-driven composer to produce 7 remaining tracks for an indie shmup/action project (4 stage themes, 1 repeating transitional stage, title screen, and credits).  \n\nThe Sound &amp; Direction:\n\nAesthetic: A modern-tech love letter to 90s Sega Genesis/Mega Drive soundtracks—specifically inspired by Yuzo Koshiro (Streets of Rage 2), Sonic 2, Vectorman, and early Detroit techno (The Belleville Three).  \n\nBenchmark: Track 1 (Beach Zone) is already completed and mastered; you will be matching its energy and production quality while bringing distinct personality to each stage.  \n\nSpecs &amp; Terms:\n\nLength: \\~1:45–2:00 minutes per track (seamless loop points required).  \n\nDeliverables: Fully mixed and mastered WAV files.  \n\nBudget &amp; Structure: $250/minute (billed song-by-song upon milestone approval).  \n\nWorkflow: I provide level outlines, scrolling gameplay videos, and reference tracks upfront. Looking for someone who communicates consistently and hits agreed-upon delivery dates.  \n\nHow to Apply:\n\nPlease DM me directly with 2–3 relevant portfolio links (90s synth, Genesis FM, or high-energy techno/synthwave preferred) and your current turnaround time for a 2-minute track. (No AI-generated audio; generic mass-pasted portfolios without relevant style examples will be skipped.)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xxvt6p/hiring_seeking_chiptune_90s_segainspired_techno/",
+    "quality": "High Quality",
+    "budget": "$250",
+    "created_at": "2026-11-16T17:41:54Z"
+  },
+  {
     "post_id": "1xxv9lt",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2374,29 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30",
     "created_at": "2026-11-12T07:24:59Z"
-  },
-  {
-    "post_id": "1xu6gzn",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/Advanced_Athlete_733",
-    "title": "[Hiring] I am looking for an artist who would be willing to draw me over a video call, its more like a live painting experience. $10 per hour",
-    "content": "[Hiring] I am looking for an artist who would be willing to draw me over a video call, its more like a live painting experience. $10 per hour",
-    "url": "https://reddit.com/r/artistforhire/comments/1xu6gzn/hiring_i_am_looking_for_an_artist_who_would_be/",
-    "quality": "High Quality",
-    "budget": "$10",
-    "created_at": "2026-11-12T07:25:33Z"
-  },
-  {
-    "post_id": "1xu4u2a",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/CarbyneGames",
-    "title": "[Paid] Composer for adaptive soundtrack: sci-fi exoskeleton co-op (UE5). No AI-generated music.",
-    "content": "[Paid] Composer for adaptive soundtrack: sci-fi exoskeleton co-op (UE5). No AI-generated music.\n\nGreetings!\n\nCarbyne Games is looking for a composer to round out the soundtrack for our close to alpha release co-op PvE exoskeleton game, ahead of Steam Next Fest and our upcoming funding round.\n\nThe sound we're after: MechWarrior 2 meets Mass Effect with meaningful ambient fillers. Big, heavy, industrial energy when things kick off, and wide, atmospheric, lonely space between fights. Synths and weight, with some melody that sticks. We want those hooks.\n\nAdaptive music is a must. We need someone who has written dynamic music before: the same piece that shifts with game play instead of hard-cutting between tracks. Exploring a planet should flow into combat and back out again as one theme, through layers and stems that build up and strip back. Please tell us how you approach this (vertical layering, horizontal re-sequencing, stingers and transitions) and deliver stems we can wire up in Unreal Engine 5. Experience with MetaSounds, Wwise or FMOD is a plus, but not required.\n\nWhat we need, roughly in order:\n\n* Main theme / main menu: the game's identity 2-3 min looping\n* Exploration and combat: at least one adaptive piece with exploration, tension and combat layers, possibly two or three for different areas likely 4-5 min \n* Intro cinematic score: about 1:45, cut to an existing voice-over and picture\n* Trailer music: possibly, for Next Fest and the funding pitch \\~2min\n\n***No AI music, at all.*** This is a hard rule. No AI-generated or AI-assisted composition, melody, stems or vocals. You'll be asked to share work-in-progress and project files or stems along the way, and the contract will state it. Normal sample libraries and virtual instruments are of course fine.\n\nThe game: heavy-metal co-op PvE bot action on other planets, influences from SWG, MechWarrior, OMF2097. We're in our third year, with a fully procedural animation system that gives these metal exoskeletons real weight (https://youtu.be/i3tupqyfGTo). Also, who doesn't love blowing parts off bots!\n\nTerms: short-term contract, fully credited, paid per milestone (one milestone per piece or group of pieces), with strong potential to continue as the game grows. To be transparent: we're self-funded right now, so the it's the right fit and we secure funding, we'd love to keep working with you at proper rates. Please also say how you handle rights: full buyout / work-for-hire, or licensing, and whether you'd want to keep soundtrack release rights.\n\nImportant: Carbyne Games is a registered LLC in the United States, we'll need a completed W-9 form before beginning work, and will issue a 1099-NEC for payments of $600 or more. For international contractors, we'll need a completed W-8BEN form to establish tax status and withholding requirements. This is a legitimate contract position. We handle everything by the book.\n\n\n\nTo apply, DM or reply with:\n\n* links to your work, ideally including adaptive or interactive music, or shipped game credits\n* your availability and location (US/international)\n* what you'd typically charge for this scope\n* how you'd approach the exploration-to-combat transition\n\nUnfortunately I won't chase down missing portfolios or rates. Please work the word \"Adaptive\" into the DM first line for obvious reasons!\n\nI'm really excited to hear from you all!\n\n\\-Ben\n\nFew recent vids\n\n* [https://youtu.be/oLw45ki6pwc](https://youtu.be/oLw45ki6pwc)\n* [https://youtu.be/ANUxyPY4g\\_M](https://youtu.be/ANUxyPY4g_M)\n\n[https://bsky.app/profile/carbynegames.bsky.social](https://bsky.app/profile/carbynegames.bsky.social)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xu4u2a/paid_composer_for_adaptive_soundtrack_scifi/",
-    "quality": "High Quality",
-    "budget": "$600",
-    "created_at": "2026-11-12T05:48:59Z"
   }
 ]
