@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xxl4d7",
+    "platform": "Reddit",
+    "source": "r/Artistsforhire",
+    "author": "u/Future_Union8547",
+    "title": "[Hiring] Looking for a long-term artist and friend",
+    "content": "[Hiring] Looking for a long-term artist and friend\n\nHello, my name is Logan. I'm currently writing a dark fantasy anime called Eternity Blue. It's 8 seasons long, this is my first project. The setting of this world is very run down and aged. broken stone castles and filled in with different forests. this story has a decent amount of plot twists and little details to show just how fucked up this world can be.\n\nthe description reads... \n\nUtaro Live's a poor life. then tragedy strikes and rips him away from his home. He embarks on a journey with his companions to find out who he is, only to descend into madness and regret from losing everything to this truly cruel reality.\n\nThis is a brutal anime and a lot of people die. I need someone who can capture despair, love and other intense feelings.",
+    "url": "https://reddit.com/r/Artistsforhire/comments/1xxl4d7/hiring_looking_for_a_longterm_artist_and_friend/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-16T09:30:13Z"
+  },
+  {
     "post_id": "1xxihbt",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$60",
     "created_at": "2026-11-11T22:02:18Z"
-  },
-  {
-    "post_id": "1xttrtl",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/SubjectAd2617",
-    "title": "[Hiring] Game Designer – Table Tennis Game Design Document (PC, custom C++ engine) - £200 fixed",
-    "content": "[Hiring] Game Designer – Table Tennis Game Design Document (PC, custom C++ engine) - £200 fixed\n\nHi! I'm Red Chomp, a YouTuber (8.81K subs, Roblox content). I'm producing a table tennis game for PC on a custom C++ / DirectX 12 engine. An engine programmer is already working on it.\n\n\n\nI'm looking for a game designer to write the Game Design Document (GDD) for it.\n\n\n\n\\*\\*What already exists\\*\\*\n\n\\- Physics spec: realistic ball physics (spin, Magnus effect, ITTF bounce rules, table/net sizes)\n\n\\- Animation spec: 11 characters, swing/move/idle animations, IK for the arm\n\n\\- Engine foundations in progress\n\n\n\n\\*\\*What I need (one fixed task)\\*\\*\n\nA GDD (about 10–20 pages) covering:\n\n\\- Core loop: serve → rally → score → win → unlock\n\n\\- Controls: mouse and controller, aiming, spin, power, timing\n\n\\- Game modes: quick match, tournament, practice/tutorial\n\n\\- AI opponents: difficulty levels and how the AI makes mistakes\n\n\\- The 11 characters: playstyles and stat differences\n\n\\- Progression and unlocks (no pay-to-win)\n\n\\- Menus and HUD flow (simple wireframes are fine)\n\n\\- What's in version 1.0 and what's for later\n\n\n\n\\*\\*Pay\\*\\*\n\n£\\[200\\] fixed, paid by PayPal invoice after I review and accept the document. One round of changes included.\n\n\n\n\\*\\*Process\\*\\*\n\n1. You send examples of design docs or games you've designed\n\n2. We agree the scope in writing and sign an NDA\n\n3. You write the GDD (Google Docs or Word), we discuss questions as you go\n\n4. I review it, you make one round of changes, then you invoice\n\n\n\n\\*\\*To apply\\*\\*, DM me with:\n\n\\- Your portfolio, or examples of GDDs you've written\n\n\\- Any sports or physics games you've worked on\n\n\\- Your estimate of how long it would take\n\n\n\nThanks!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xttrtl/hiring_game_designer_table_tennis_game_design/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-11T21:10:14Z"
   }
 ]
