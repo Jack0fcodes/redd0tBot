@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xywyxf",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/RHX_Thain",
+    "title": "[PAID] Default Unity3D Lighting System Overhaul, Visual FX, Sound FX",
+    "content": "[PAID] Default Unity3D Lighting System Overhaul, Visual FX, Sound FX\n\nSeeking a Technical Artist or VFX Artist who is interested in helping solve some complex lighting, shader, and destruction effect problems. The lighting woes are documented in the post above!\n\nWe also need:\n\n\\- 3D Wall &amp; 3D Object destruction effects (shatter, crumble, dust motes, debris, etc)  \n\\- Explosions! Of all kinds. Ideally one shader that can scale to various sizes without losing resolution or performance. More abstract and \"hand-rendred looking\" than realistic flames &amp; smoke.  \n\\- Impacts and blood splatters. We have placeholders but could be improved.   \n\\- New shader effects for destruction stages on 2D sprites that are on 3D meshes with projected UVs; a way to shatter the sprite and produce non-rotating, camera facing chunks would help here.  \n\\- Various miscellaneous environmental &amp; interaction effects; fireflies, dust, fog, etc  \n\\- Weather particles and snow / sand accumulation on meshes &amp; terrain  \n\\- Improved water interaction   \n\\- High performance fire effects for massive wildfires in complex scenes  \n\\- Better batching and other operations for particles and effects  \n\\- Improved UI shaders for various UI elements (flow-graphs for supply chains, aim dots, etc)\n\nWe also need sound effects &amp; Foley for all of the above, which is an additional job, unless the VFX &amp; Tech Artist also happens to cross class to a high level, lol.\n\nThe game is very advanced at this point, and coming up on having all the features we need to get started on these effects.\n\nAbsolutely NO AI art. Labor savings using local models to automate tedium and the unavoidable google is kept to a minimum. \n\nPay is 24-30$/hr depending on experience, availability, and timeliness, increasing with time spent with the company. \n\nSubmit through the portal here: [https://radianhelix.com/careers](https://radianhelix.com/careers)\n\nDiscussion here on reddit threads only, all PMs will be ignored &amp; deleted due to mass spam these kinds of posts generate.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xywyxf/paid_default_unity3d_lighting_system_overhaul/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-17T21:34:34Z"
+  },
+  {
     "post_id": "1xyw4em",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$80",
     "created_at": "2026-11-13T02:13:18Z"
-  },
-  {
-    "post_id": "1xuvjmg",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/Theaudiobandit",
-    "title": "[PAID] Looking for Comic Letterer — Large Vertical Comic Project",
-    "content": "[PAID] Looking for Comic Letterer — Large Vertical Comic Project\n\nHi everyone!\n\nI'm looking for a comic letterer for a long-form comic I've been working on. I'd like to start with a few paid samples before choosing someone for the full project.\n\n# Project Details\n\n* **405 long vertical pages**, averaging 23–24 panels each.\n* **Dimensions:** Approximately 4000 × 50,000 px per page (varies).\n* **Format:** Vertical digital comic / Webtoon-style.\n* **Artwork:** I'll provide full-resolution flattened images and scripts.\n* **Deliverables:** Layered PSD files with editable lettering separate from the artwork.\n\n# What I'm Looking For\n\nSomeone experienced with dialogue balloons, vertical reading flow, SFX, and expressive lettering. The comic includes dialogue-heavy scenes, action, and quieter moments.\n\nI'd like to give a few letterers the same **paid sample** to see how they approach the material. Creative freedom is encouraged!\n\n# Budget &amp; Applications\n\nI'm funding this myself and working with a limited budget, so I'd appreciate knowing your rates.\n\nIf interested, please comment or DM me with your **portfolio, rates, availability, and confirmation that you can provide layered PSD files.**\n\nThanks! Looking forward to seeing your work.",
-    "url": "https://reddit.com/r/artistforhire/comments/1xuvjmg/paid_looking_for_comic_letterer_large_vertical/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-13T02:04:55Z"
   }
 ]
