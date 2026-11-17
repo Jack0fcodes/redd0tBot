@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1xytbm7",
+    "platform": "Reddit",
+    "source": "r/ComicBookCollabs",
+    "author": "u/ELKFOREVER",
+    "title": "Colorist Needed",
+    "content": "Colorist Needed\n\nLooking to hire a colorist that can do this abstract/grunge comic paint style digitally.\n\nColor needs to be able to be layered under the line work for vector designs.\n\n3-6 colors per job. No gradients. Flat colors only.\n\nMust have understanding of color theory.\n\nThanks!",
+    "url": "https://reddit.com/r/ComicBookCollabs/comments/1xytbm7/colorist_needed/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-17T19:12:28Z"
+  },
+  {
+    "post_id": "1xytb4a",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/GreenCurious9895",
+    "title": "[Hiring] Claude Code Game Developer to run game dev workstreams, contract to full-time, remote",
+    "content": "[Hiring] Claude Code Game Developer to run game dev workstreams, contract to full-time, remote\n\nWe're a small AI-first game studio (4 people). Most of our code gets written by Claude Code agents, and we run a bunch of sessions in parallel across different workstreams: a browser 3D game, an Unreal version, and the platform behind it all.\n\nWe're looking for someone who's really good at working this way to take over a few of those workstreams. You'd plan the work, steer the agents, review what they build, jump in and fix things when they get stuck, and get it merged.\n\nImportant Requirements:\n\n\\- You've shipped real games with Claude Code (or something similar/comparable)\n\n\\- You're comfortable running several sessions and accounts at once\n\n\\- Solid fundamentals: Planning, architecture, Git, PRs, code review, CI, debugging\n\nYou don't need to be an Unreal or three.js dev. We use Unreal, three.js/WebGPU, and TypeScript on the platform side, but we care more about how you work with AI than about any one engine. A game dev or coding background is a big plus, and secondarily if you're a golfer you get bonus points as well. \n\nIt's remote and pay is competitive and varies based on experience. It starts as a multi-month contract, with the goal of turning it into a full-time role, and kicks off with a short paid trial. We'll never ask you to pay for anything, and you'll get a video call with us before any work starts. Must be available to collaborate with the team on a daily basis through out the work week.\n\nIf that sounds like you, DM me something you built mostly with Claude Code, describe your current AI development workflows, your prior coding/game dev/golf experience and your rates/location/availability.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xytb4a/hiring_claude_code_game_developer_to_run_game_dev/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-17T19:11:58Z"
+  },
+  {
     "post_id": "1xyt26s",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2374,29 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-13T01:56:46Z"
-  },
-  {
-    "post_id": "1xuv3km",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/killmeplease66",
-    "title": "[Hiring] christmas family card",
-    "content": "[Hiring] christmas family card",
-    "url": "https://reddit.com/r/artistforhire/comments/1xuv3km/hiring_christmas_family_card/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-13T01:43:31Z"
-  },
-  {
-    "post_id": "1xuv1hl",
-    "platform": "Reddit",
-    "source": "r/ComicBookCollabs",
-    "author": "u/Theaudiobandit",
-    "title": "[PAID] Looking for Comic Letterer — Large Vertical Comic Project",
-    "content": "[PAID] Looking for Comic Letterer — Large Vertical Comic Project\n\nHi everyone!\n\nI'm looking for a comic letterer for a long-form comic I've been working on. I'd like to start with a few paid samples before choosing someone for the full project.\n\n# Project Details\n\n* **405 long vertical pages**, averaging 23–24 panels each.\n* **Dimensions:** Approximately 4000 × 50,000 px per page (varies).\n* **Format:** Vertical digital comic / Webtoon-style.\n* **Artwork:** I'll provide full-resolution flattened images and scripts.\n* **Deliverables:** Layered PSD files with editable lettering separate from the artwork.\n\n# What I'm Looking For\n\nSomeone experienced with dialogue balloons, vertical reading flow, SFX, and expressive lettering. The comic includes dialogue-heavy scenes, action, and quieter moments.\n\nI'd like to give a few letterers the same **paid sample** to see how they approach the material. Creative freedom is encouraged!\n\n# Budget &amp; Applications\n\nI'm funding this myself and working with a limited budget, so I'd appreciate knowing your rates.\n\nIf interested, please comment or DM me with your **portfolio, rates, availability, and confirmation that you can provide layered PSD files.**\n\nThanks! Looking forward to seeing your work.",
-    "url": "https://reddit.com/r/ComicBookCollabs/comments/1xuv1hl/paid_looking_for_comic_letterer_large_vertical/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-13T01:40:36Z"
   }
 ]
