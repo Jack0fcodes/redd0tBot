@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1xzoaj6",
+    "platform": "Reddit",
+    "source": "r/DesignJobs",
+    "author": "u/Grindian",
+    "title": "[Hiring] 3 new app icons + 1 icon refresh – $200 total",
+    "content": "[Hiring] 3 new app icons + 1 icon refresh – $200 total\n\n  \n\\[Hiring\\] 3 new app icons + 1 icon refresh – $200 total  \n  \nI'm building CoverAgent, a company for real estate agents, with several related products under it. I need icons only (no full logos):  \n  \n1. A new icon for CoverAgent, the parent brand  \n2. A new icon for a calling product  \n3. A new icon for a home tracking product  \n4. A refresh of an existing icon (a chameleon mascot – I'll send the current file)  \n  \nWhat I need:  \n\\- Icons that show at a glance what each product does and read well small (app icon, favicon)  \n\\- Open to styles, including character or mascot styles; they should feel like one family  \n\\- Vector (AI/SVG) and PNG files, with full rights transferred to my company  \n  \nBudget: $200 total. Comment or DM with your portfolio and turnaround time. Details on each product shared by DM.",
+    "url": "https://reddit.com/r/DesignJobs/comments/1xzoaj6/hiring_3_new_app_icons_1_icon_refresh_200_total/",
+    "quality": "High Quality",
+    "budget": "$200",
+    "created_at": "2026-11-18T19:25:52Z"
+  },
+  {
     "post_id": "1xzo5xw",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-150",
     "created_at": "2026-11-13T22:46:34Z"
-  },
-  {
-    "post_id": "1xvl6kv",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/AccomplishedLoss6755",
-    "title": "[PAID] Backend C#/.NET Developer — Nexters (Hero Wars) — Remote or Cyprus / Armenia / Kazakhstan — Full-time",
-    "content": "[PAID] Backend C#/.NET Developer — Nexters (Hero Wars) — Remote or Cyprus / Armenia / Kazakhstan — Full-time\n\nNexters (part of GDEV, NASDAQ: GDEV) is hiring a Backend C#/.NET Developer for its flagship game **Hero Wars: Alliance**.\n\n**What you’ll do**  \n• Build new game mechanics, events and game modes, plus LiveOps features  \n• Design backend for a high-load game in a microservices architecture  \n• Keep the backend fast, stable and reliable; propose improvements\n\n**Requirements**  \n• 3+ years of commercial backend development  \n• C#, .NET / .NET Core, [ASP.NET](http://ASP.NET) Core  \n• PostgreSQL / MySQL / MSSQL; Kafka, RabbitMQ or similar  \n• High-load and microservices experience  \n• Nice to have: Redis, Kubernetes, DDD, gamedev or LiveOps\n\n**Offer**  \n• Fully remote, or offices in Cyprus, Armenia or Kazakhstan with relocation support  \n• Medical care (incl. dental), paid vacation and sick leave  \n• English courses, game jams, conferences\n\nDetails &amp; apply: [https://spawnparty.dev/en/jobs/backend-c-developer-nexters-f4605d7d](https://spawnparty.dev/en/jobs/backend-c-developer-nexters-f4605d7d)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xvl6kv/paid_backend_cnet_developer_nexters_hero_wars/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-13T22:03:49Z"
   }
 ]
