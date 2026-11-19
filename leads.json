@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y039p2",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/SoloDonbasPlayer",
+    "title": "[PAID] 8 GameDev Job Opportunities – AZUR GAMES, NORDEUS &amp; Sakura Games",
+    "content": "[PAID] 8 GameDev Job Opportunities – AZUR GAMES, NORDEUS &amp; Sakura Games",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y039p2/paid_8_gamedev_job_opportunities_azur_games/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-19T07:16:37Z"
+  },
+  {
     "post_id": "1y02ja2",
     "platform": "Reddit",
     "source": "r/FurryCommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$170-200",
     "created_at": "2026-11-14T18:32:55Z"
-  },
-  {
-    "post_id": "1xw9an9",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Nefisto-",
-    "title": "[Hiring] [PAID] Quote Request: Pixel Art Vertical Comic-Style Background (Transition + Idle animation)",
-    "content": "[Hiring] [PAID] Quote Request: Pixel Art Vertical Comic-Style Background (Transition + Idle animation)\n\n**Hi everyone,**\n\nI’m currently planning the visual features for a mobile game launch and looking for price quotes/estimates from Pixel Art artists.\n\nI’m aiming to create vertical progression backgrounds designed like a **vertical comic strip / comic page**, structured around incremental progression (for example, a child building a sandcastle where each step of the story expands the scene).\n\n**How I want to structure the quotes:** Instead of a flat rate for a fixed size, I would like quotes based on **packages combining Transition + Idle states** (or per milestone/block of levels) so I can easily average out the costs for scaling across **10, 15, or 20+ levels**.\n\n**Scope Details:**\n\n* **Target Resolution &amp; Aspect Ratio:** The main priority is maintaining a **vertical mobile aspect ratio (portrait mode)**—a native pixel resolution around **270x600** works great as a baseline reference.\n* **Comic-Style Panel Layout:** Background structured with transitions between frames/panels (like reading a comic vertically).\n* **Animations:** Flexible frame counts to ensure smooth transitions—roughly 6–10 frames for panel transitions, and potentially a few more for looping character/environment idles.\n* **Style:** 2D Pixel Art.\n\nIf you are interested, please reply with:\n\n1. **Your portfolio link**\n2. **Your rates per Transition + Idle unit (or milestone packages for scaling to 10/15/20 levels)**\n3. **Your general turnaround time**\n\nThanks!\n\nA sample of the idea [https://imgur.com/a/E2KITmn](https://imgur.com/a/E2KITmn)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xw9an9/hiring_paid_quote_request_pixel_art_vertical/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-14T18:18:33Z"
   }
 ]
