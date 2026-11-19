@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y01465",
+    "platform": "Reddit",
+    "source": "r/HungryArtists",
+    "author": "u/MenuLow7257",
+    "title": "[Hiring] Does anyone sell or can recommend an authentic seller who makes cyberpunk-esque masks or half masks like these?",
+    "content": "[Hiring] Does anyone sell or can recommend an authentic seller who makes cyberpunk-esque masks or half masks like these?\n\nBudget: $100-$250 but willing to go a bit higher if necessary.",
+    "url": "https://reddit.com/r/HungryArtists/comments/1y01465/hiring_does_anyone_sell_or_can_recommend_an/",
+    "quality": "High Quality",
+    "budget": "$100-250",
+    "created_at": "2026-11-19T05:07:07Z"
+  },
+  {
     "post_id": "1y00i9l",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-14T16:05:17Z"
-  },
-  {
-    "post_id": "1xw5kin",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Individuo73",
-    "title": "[PAID] Part-time Unreal Engine 5 gameplay designer for a cinematic family game (remote)",
-    "content": "[PAID] Part-time Unreal Engine 5 gameplay designer for a cinematic family game (remote)\n\nHi! I'm Sergio, a filmmaker (Mexico). I'm making **WOW**, a cinematic family game in **Unreal Engine 5 (Blueprints)**. It follows a monarch butterfly from egg to his migration from Canada to the Oyamel forests of Mexico. It's for Steam and Steam Deck first, then Switch.\n\n**The style:** a guided side-view camera with deep, cinematic depth of field (think *Inside* or *Limbo*, but warm and colorful), simple controls, and one new skill per level: crawl, jump, balance, then fly. Some big flights switch to a behind-the-back camera.\n\n**What I need:**\n\n* Make the player character's **movement feel great**: crawl, walk, jump, land, balance, and later flap and glide.\n* Build and tune the **side-view camera** and its smooth switch to a behind-the-back flight camera.\n* Design small **puzzles and challenges** along the path, such as pushing, pulling, hiding and chases.\n* Play each build and tell me honestly what's not working.\n\n**You:** shipped or demo-able Unreal work (please send playable builds or videos), strong in Blueprints, character movement and cameras, and a love for platformers and narrative games.\n\n**Terms:** remote, part-time (about 5 to 10 hours a week), paid hourly. We start with a **small paid test** (about 5 to 10 hours): make our caterpillar's crawl and jump feel great in our project.\n\n**To apply:** send your portfolio or playable demo, your hourly rate, and your availability to [sergio@terricola.mx](mailto:sergio@terricola.mx)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xw5kin/paid_parttime_unreal_engine_5_gameplay_designer/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-14T15:47:48Z"
   }
 ]
