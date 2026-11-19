@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y0dtbc",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/TOBIMAT79",
+    "title": "[PAID] [HIRING] 2D isometric artist for a vineyard management sim (tiles, seasons, long-term)",
+    "content": "[PAID] [HIRING] 2D isometric artist for a vineyard management sim (tiles, seasons, long-term)\n\n**„Images are stock references for the style, not my game.“**\n\nHi! I’m a solo developer making a vineyard management sim for PC/Steam in Godot. It’s set in 1985 in a small wine village in southern Germany. The player runs a family vineyard: pruning, harvesting, selling grapes.\n\n**Looking for:** a 2D isometric artist for the whole game. Clean, colourful, slightly retro style, no black outlines. Think friendly flat isometric art with love for detail.\n\n**Paid test task:** one hillside vineyard tile in summer, isometric 2:1 (128×64 base, export at 2x size), wooden posts and wire along the rows, layered source file.  \nIf it fits: the same tile in 4 seasons, plus flat and terrace tiles (12 tiles). Later on: buildings, small characters (grape pickers), a vintage vineyard tractor, portraits and UI icons.\n\n**Requirements:**\n\n* **Hand-made art only (no AI generation)**\n* Experience with isometric tiles that fit together\n* Layered source files, full commercial rights\n\n**Please send:** your portfolio (isometric work if possible), your price for the test tile and your usual rate. I have a detailed art brief and style references to share.\n\nFixed price per task, paid via PayPal or a platform of your choice.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y0dtbc/paid_hiring_2d_isometric_artist_for_a_vineyard/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-19T16:32:02Z"
+  },
+  {
     "post_id": "1y0db7e",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$30-100",
     "created_at": "2026-11-14T23:40:15Z"
-  },
-  {
-    "post_id": "1xwgm3w",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/Live-Tie-2889",
-    "title": "[Hiring] Looking for an artist for a damsel in distress comic that may be a bit nsfw. Budget is 30-50$. Example provided.",
-    "content": "[Hiring] Looking for an artist for a damsel in distress comic that may be a bit nsfw. Budget is 30-50$. Example provided.",
-    "url": "https://reddit.com/r/starvingartists/comments/1xwgm3w/hiring_looking_for_an_artist_for_a_damsel_in/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-14T23:35:52Z"
   }
 ]
