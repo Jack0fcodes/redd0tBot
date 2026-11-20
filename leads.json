@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y131kg",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/arxhangelius",
+    "title": "[PAID] Gameplay AI Review — Bots Reacting Late to a Shrinking Zone",
+    "content": "[PAID] Gameplay AI Review — Bots Reacting Late to a Shrinking Zone\n\nI’m looking for someone with experience in NPC decision-making, navigation, or planning to review one reproducible scenario in a headless game simulator. Some bots keep looting or pursuing another goal until it’s too late to reach the safe zone. Others decide to leave in time but lose progress along the route.\n\nI’ll provide a decision log, an overview of the current behavior logic, and a reproducible scenario. The deliverable is a short diagnosis grounded in the log, one proposed behavior rule in pseudocode or a diagram, and a plan to test it against the current behavior. No Go coding is required for this review.\n\n**Fixed budget — $50 USD.** If interested, please DM me with a brief example of similar gameplay AI work.",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y131kg/paid_gameplay_ai_review_bots_reacting_late_to_a/",
+    "quality": "High Quality",
+    "budget": "$50",
+    "created_at": "2026-11-20T13:08:29Z"
+  },
+  {
     "post_id": "1y125vx",
     "platform": "Reddit",
     "source": "r/HungryArtists",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$20-40",
     "created_at": "2026-11-15T21:54:49Z"
-  },
-  {
-    "post_id": "1xx7yub",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/Hopeful_Loan6950",
-    "title": "[Hiring] Hand-drawn artist for long-term original anime series, classic Takahashi-era style ($20-40 per piece)",
-    "content": "[Hiring] Hand-drawn artist for long-term original anime series, classic Takahashi-era style ($20-40 per piece)\n\nI'm producing an ongoing, animatic YouTube series with original characters, a personal, non-monetized fan project inspired by Yu-Gi-Oh. I'm looking for artists who can draw in Kazuki Takahashi's original style: hard edges, heavy inking, the look of classic Yu-Gi-Oh and Death Note. Not modern airbrushed anime. Hand-drawn only.\n\nWork: character sprites, closeups, monster sprites, backgrounds, action shots, dialogue shots. Years of steady work available, roughly 6+ pieces a month, with the pace agreed together.\n\nPay per piece: sprites \\\\\\~$20. Closeups $24, plus $8 per extra expression (each is three mouth states). Backgrounds $40 long shot, $20 closeup. Action and dialogue shots \\\\\\~$25. Separate \n\nTerms: I direct the work personally. I own the art, you're always credited and can use pieces in your portfolio. In return for steady work, I ask that you do not accept other Yu-Gi-Oh projects. \n\nFirst step: a paid test closeup.\n\nTo reply: DM me 2-3 portfolio pieces closest to this style and your realistic monthly capacity. Reference images are attached.",
-    "url": "https://reddit.com/r/artistforhire/comments/1xx7yub/hiring_handdrawn_artist_for_longterm_original/",
-    "quality": "High Quality",
-    "budget": "$20-40",
-    "created_at": "2026-11-15T21:57:14Z"
   }
 ]
