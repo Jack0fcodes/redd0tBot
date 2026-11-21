@@ -1,5 +1,29 @@
 [
   {
+    "post_id": "1y2ae6r",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/Alive_Meet519",
+    "title": "[HIRING] [PAID] Unreal Engine 5 Cinematic / Sequencer Artist (Assets &amp; Map already ready)",
+    "content": "[HIRING] [PAID] Unreal Engine 5 Cinematic / Sequencer Artist (Assets &amp; Map already ready)\n\nHi everyone,\n\n\n\nWe are looking for a skilled \\*\\*Unreal Engine 5 Cinematic / Sequencer Artist\\*\\* to direct, choreograph, and render a \\*\\*40–60 second trailer\\*\\* for our upcoming multiplayer project built on \\*\\*Nanos World (UE5)\\*\\*.\n\n\n\n\\### What is already done (No 3D modeling required):\n\nWe will provide you with a clean, ready-to-use UE5 project containing:\n\n\\* The fully built and assembled map/environment\n\n\\* All rigged characters with stylized / cel-shaded materials already set up\n\n\\* Our animation library (movement, combat, idle poses)\n\n\\* A shot-by-shot script (along with voice-over / music)\n\n\n\n\\### Your Role (Choreography &amp; Cinematography):\n\n\\* Character blocking, staging, and animation sequencing in \\*\\*UE5 Sequencer\\*\\*\n\n\\* Camera work (dynamic angles, smooth camera movements, depth of field)\n\n\\* Lighting polish, atmospheric effects, and final rendering via \\*\\*Movie Render Queue\\*\\*\n\n\\* Final video editing &amp; basic sound design\n\n\n\n\\### Visual &amp; Pacing Reference:\n\nHere is the exact style and atmosphere we are aiming for: [https://www.youtube.com/watch?v=azAqNxNTwls](https://www.youtube.com/watch?v=azAqNxNTwls)  \n[https://www.youtube.com/watch?v=lyzNnh0YoPY](https://www.youtube.com/watch?v=lyzNnh0YoPY)\n\n\\### Project Details:\n\n\\* \\*\\*Timeline:\\*\\* 1-2 weeks\n\n\\* \\*\\*Budget:\\*\\* $200– $400 (flexible depending on experience and quote)\n\n\\* \\*\\*Payment method:\\*\\* PayPal / Wise / Fiverr (milestone-based)\n\n\n\n\\### How to apply:\n\nPlease comment below or send me a DM (or add me on Discord: \\_shans ) with:\n\n1. Your \\*\\*showreel / portfolio\\*\\* (specifically showing UE5 Sequencer work)\n\n2. Your estimated rate and availability\n\n\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y2ae6r/hiring_paid_unreal_engine_5_cinematic_sequencer/",
+    "quality": "High Quality",
+    "budget": "$200-400",
+    "created_at": "2026-11-21T23:18:46Z"
+  },
+  {
+    "post_id": "1y2ae5c",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/SubjectAd2617",
+    "title": "[PAID] Game Designer – Table Tennis Game Design Document (PC, custom C++ engine) – £200 fixed",
+    "content": "[PAID] Game Designer – Table Tennis Game Design Document (PC, custom C++ engine) – £200 fixed\n\nHi! I'm Red Chomp, a YouTuber (8.8K subs, Roblox content). I'm producing a table tennis game for PC on a custom C++ / DirectX 12 engine. An engine programmer is already working on it, and engine work is merged and tested.\n\n\n\nI'm looking for a game designer to write the Game Design Document (GDD).\n\n\n\nWhat already exists\n\n\n\n\\- Physics spec: realistic ball physics (spin, Magnus effect, ITTF bounce rules, table/net sizes)\n\n\\- Animation spec: 11 characters, swing/move/idle animations, IK for the arm\n\n\\- Engine foundations in progress (rendering, camera, ECS, debug UI)\n\n\n\nWhat I need (one fixed task)\n\n\n\nA GDD (about 10–20 pages) covering:\n\n\n\n\\- Core loop: serve → rally → score → win → unlock\n\n\\- Controls: mouse and controller, aiming, spin, power, timing\n\n\\- Game modes: quick match, tournament, practice/tutorial\n\n\\- AI opponents: difficulty levels and how the AI makes mistakes\n\n\\- The 11 characters: playstyles and stat differences\n\n\\- Progression and unlocks (no pay-to-win)\n\n\\- Menus and HUD flow (simple wireframes are fine)\n\n\\- What's in version 1.0 and what's for later\n\n\n\nPay\n\n\n\n£200 fixed, paid by PayPal invoice after I review and accept the document. One round of changes included.\n\n\n\nProcess\n\n\n\n1. You send a portfolio or a sample GDD you've written\n\n2. We agree the scope in writing and sign an NDA\n\n3. You write the GDD (Google Docs or Word); questions welcome as you go\n\n4. I review it, you make one round of changes, then you invoice\n\n\n\nTo apply, DM me with:\n\n\n\n\\- Your portfolio or sample GDDs\n\n\\- Any sports or physics games you've worked on\n\n\\- How long you'd need\n\n\n\nThanks!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y2ae5c/paid_game_designer_table_tennis_game_design/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-21T23:18:42Z"
+  },
+  {
     "post_id": "1y2a9cy",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2374,29 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-17T17:17:07Z"
-  },
-  {
-    "post_id": "1xyplb4",
-    "platform": "Reddit",
-    "source": "r/starvingartists",
-    "author": "u/Ruby-Rose-Warlock",
-    "title": "[Hiring] I need to replace an old wallpaper for my phone, same style as below. Based on Godzilla Minus Zero. Budget: $50",
-    "content": "[Hiring] I need to replace an old wallpaper for my phone, same style as below. Based on Godzilla Minus Zero. Budget: $50\n\nI didn't know it was ai til it was pointed out .-.",
-    "url": "https://reddit.com/r/starvingartists/comments/1xyplb4/hiring_i_need_to_replace_an_old_wallpaper_for_my/",
-    "quality": "High Quality",
-    "budget": "$50",
-    "created_at": "2026-11-17T16:53:07Z"
-  },
-  {
-    "post_id": "1xypfzx",
-    "platform": "Reddit",
-    "source": "r/artistforhire",
-    "author": "u/biigmac_",
-    "title": "[Hiring] digital artist",
-    "content": "[Hiring] digital artist\n\nDO NOT PM ME!!!! I had over 40 requests!!! Stop without my permission!!!! Please comment only!!!!!\n\nI am looking to get a custom emoji for a discord server. It needs to be a square, and a 1:1 ratio. \n\nI want a cartoony, cutesy style. Like kawaii or chibi, nothing realistic or like a comic book. Nothing animated either. \n\nI can send references of current emojis to show what Im need, it’ll be a cartoon version of me getting pat on the head (can of course send pictures of myself).\n\nThanks in advance!!",
-    "url": "https://reddit.com/r/artistforhire/comments/1xypfzx/hiring_digital_artist/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-17T16:47:30Z"
   }
 ]
