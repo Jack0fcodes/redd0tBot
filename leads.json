@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y2cvos",
+    "platform": "Reddit",
+    "source": "r/artcommission",
+    "author": "u/ToXic200101",
+    "title": "[Hiring] Looking for art of my 2 ocs!",
+    "content": "[Hiring] Looking for art of my 2 ocs!\n\nHello hello! Ive been writing about my 2 ocs recently and was hoping to get some art of them! I made them both in GTA 5 and have some backstory on them. They're both male so please be okay with LGBT. They're also criminals, not extreme ones, just modern gta ones. Im also looking for an artist whos okay with both SFW and NSFW. And maybe someone who can do a comic page!\n\nBudget: Can be discussed! But im looking for $50-150.\n\nStyle: Open to suggestions! No heavy anime or heavy realism. \n\nPayment method: Paypal!\n\nI know im going to get swarmed with messages, I will try to respond to as many as I can, but please dont take it personal if I don't get to you. And please send a portfolio, or pieces you have done! Thank you and have a wonderful day!",
+    "url": "https://reddit.com/r/artcommission/comments/1y2cvos/hiring_looking_for_art_of_my_2_ocs/",
+    "quality": "High Quality",
+    "budget": "$50-150",
+    "created_at": "2026-11-22T01:21:50Z"
+  },
+  {
     "post_id": "1y2c2dh",
     "platform": "Reddit",
     "source": "r/artistforhire",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-17T19:12:28Z"
-  },
-  {
-    "post_id": "1xytb4a",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/GreenCurious9895",
-    "title": "[Hiring] Claude Code Game Developer to run game dev workstreams, contract to full-time, remote",
-    "content": "[Hiring] Claude Code Game Developer to run game dev workstreams, contract to full-time, remote\n\nWe're a small AI-first game studio (4 people). Most of our code gets written by Claude Code agents, and we run a bunch of sessions in parallel across different workstreams: a browser 3D game, an Unreal version, and the platform behind it all.\n\nWe're looking for someone who's really good at working this way to take over a few of those workstreams. You'd plan the work, steer the agents, review what they build, jump in and fix things when they get stuck, and get it merged.\n\nImportant Requirements:\n\n\\- You've shipped real games with Claude Code (or something similar/comparable)\n\n\\- You're comfortable running several sessions and accounts at once\n\n\\- Solid fundamentals: Planning, architecture, Git, PRs, code review, CI, debugging\n\nYou don't need to be an Unreal or three.js dev. We use Unreal, three.js/WebGPU, and TypeScript on the platform side, but we care more about how you work with AI than about any one engine. A game dev or coding background is a big plus, and secondarily if you're a golfer you get bonus points as well. \n\nIt's remote and pay is competitive and varies based on experience. It starts as a multi-month contract, with the goal of turning it into a full-time role, and kicks off with a short paid trial. We'll never ask you to pay for anything, and you'll get a video call with us before any work starts. Must be available to collaborate with the team on a daily basis through out the work week.\n\nIf that sounds like you, DM me something you built mostly with Claude Code, describe your current AI development workflows, your prior coding/game dev/golf experience and your rates/location/availability.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1xytb4a/hiring_claude_code_game_developer_to_run_game_dev/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-17T19:11:58Z"
   }
 ]
