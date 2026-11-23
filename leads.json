@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y3tppt",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/HakaBb",
+    "title": "[PAID] Looking to hire a 2D pixel artist for a space game",
+    "content": "[PAID] Looking to hire a 2D pixel artist for a space game\n\nFor context, I am a senior backend developer of 10+ years, and let's just say that I chose the backend side because frontend was not an option.\n\n\n\nI cannot draw a pixel; I know I COULD try, like I could try asking an AI to do it, but if it's not properly done, I won't know it.\n\n\n\nI am currently developing a pseudo idle game, that tells a story. The texts, sounds, assets will all be done by me (text and sound) and living people (music and 2D pixel assets). I DO rely on claude code for the code part because that's the only part I know I already master, and that's where I CAN know if the AI is doing poorly. For the text, I am an amateur writer and already wrote tons of stories so this one will be another, and for the sound I will make them myself with another app I developed (very fun part, everything in life is a game sound!).\n\n  \nNow for the game itself: I cannot find a proper pixel art asset lib that fits what I want to put in my game, I searched for hours on [itch.io](http://itch.io) and \"only\" found the Foozle pack and a nice one that allows me to use nice background and randomly generated planets with a tool, which are all nice and are used in the game at this moment. But I lack lots of other assets. I would say a good dozen, from 6 to 18 pixels; more if we count replacing the Foozle assets I have today to match the \"new\" style. Mostly ships, but not only.\n\n\n\nThe screenshot is on mobile, and the game is also aimed at steam (steamdeck compatible).\n\nWe can see what's AI and what's not: the little ships sitting just above the nice Foozle ones, + the drones around the planets, plus some other assets. They would not necessarily need multiple sprites each, since I was thinking round drones, and the ones sitting below just bob out, except 2. The theme is mining; the drones mine, you mine with a beam, your fleet is a mining fleet, etc. There is no violence per se, just a mini combat game later in the game, which uses the same mining mechanism. But no bomber, shooter, etc.\n\n\n\nI am very new to this, but I guess 150 euros seems fair for the work of a good dozen little sprites.\n\nIf anyone is interested, they can PM me their portfolio!",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y3tppt/paid_looking_to_hire_a_2d_pixel_artist_for_a/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-23T20:47:07Z"
+  },
+  {
     "post_id": "1y3t8y9",
     "platform": "Reddit",
     "source": "r/gameDevClassifieds",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-19T16:13:01Z"
-  },
-  {
-    "post_id": "1y0d2aw",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/Magic_Hulle",
-    "title": "[PAID][ART] Background artists for a deckbuilder. Project playable, in process polishing towards crowdfunding",
-    "content": "[PAID][ART] Background artists for a deckbuilder. Project playable, in process polishing towards crowdfunding\n\n**Wanted:** 2D Background artist, able to copy artist established style. (See link below).  \n[Esoteric](http://esotericsoftware.com/) Spine (or like) experience is a plus, but not a requirement.   \nThere are 4 backgrounds initially:  \n  \n2 backgrounds: completed asap.  \n2 backgrounds: no urgent deadline.  \nPotentially 12+ additional backgrounds later, making the project around 16+ backgrounds total.  \nThe additional backgrounds have a long-term target around April 2028.  \n  \n**Project:** Canvas size 1920\\*1080. Multilayered, with separated objects.   \n**Pay:** Fixed price. Negotiated between us.  \nNo AI work accepted.  \nTO SCAMMERS; DO NOT APPLY. WE DO NOT PAY ANY AMOUNT IN ADVANCE. Payment is released in milestones.  \n  \nArtists have artistic freedom to plan, interpret and execute, since we have not settled on a final template as to how the background should look and work.  \n  \nContact: Only here. Leave your Discord and portfolio. No portfolio = no contact.   \n(Sorry, but I have spent too much time on AI-art scammers with stolen portfolios.)  \n  \nMy previous work (We are not an established company):  \n[https://hulle.itch.io/nidding](https://hulle.itch.io/nidding)  \n  \nCurrent artist files for reference. (Artist still on board the team, but busy with other tasks).  \n[https://drive.google.com/drive/folders/1uYNXADUwVN4N3QTU1joRGiN-bJhPINZD?usp=drive\\_link](https://drive.google.com/drive/folders/1uYNXADUwVN4N3QTU1joRGiN-bJhPINZD?usp=drive_link)",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y0d2aw/paidart_background_artists_for_a_deckbuilder/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-19T16:03:01Z"
   }
 ]
