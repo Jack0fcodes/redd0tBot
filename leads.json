@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y3t8y9",
+    "platform": "Reddit",
+    "source": "r/gameDevClassifieds",
+    "author": "u/TheRealFudgeBrownie",
+    "title": "[Hiring] Pixel Artist Needed for Top-Down 2D Post-Apocalyptic Robot Roguelike ($2,500 – $3,200 Fixed)",
+    "content": "[Hiring] Pixel Artist Needed for Top-Down 2D Post-Apocalyptic Robot Roguelike ($2,500 – $3,200 Fixed)\n\nSolo indie dev looking for a pixel artist for a fast-paced top-down 2D robot roguelike built in Godot 4 (infinite floor scaling, boss every 10 floors). Core gameplay systems and mechanics are already playable in-engine.  Now looking for an artist to replace placeholder graphics with a cohesive, polished visual identity.\n\n**Budget &amp; Terms**\n\n* **Budget:** $2,500 – $3,200 USD fixed (paid across 4 milestones via PayPal, starting with a $100 paid vertical slice to lock in the art style)\n* **Rights:** Full commercial buyout / work-for-hire\n\n**Style &amp; Visual Specs**\n\n* **Perspective:** Top-down 2D (3/4 angled overhead)\n* **Vibe:** Gritty, weathered, post-apocalyptic sci-fi (rusted metal, grime, sparks, grounded proportions)\n* **Native Pixel Grid:** 48×48–64×64 (player/enemies), 128×128–192×192 (1 modular boss), 16×16–32×32 (ammo)\n* **Directions:** Open to your recommendation on 4-way vs. 8-way directional sprites to keep mouse-aimed movement fluid without feeling stiff\n* **Deliverables:** Organized PNG sprite sheets + source files\n\n**Modular Asset Scope**\n\n* **Player:** 1 animated robot (idle, walk, dash, hit/death) + 3 color swaps\n* **Gear &amp; Abilities:** 4 magnets, 4 guns (separate pivot/shoot overlays) + unique ammo, dash VFX, decoy sprite\n* **Enemies &amp; Boss:** 5 enemy types (idle, move, attack, death), 1 multi-part modular boss (phases + destructible parts), item drops\n* **UI:** HUD elements + Start, Select, Pause, and Game Over screen assets\n\n**How to Apply**  \nComment below, send a Reddit DM/Chat with:\n\n1. Your portfolio (animated top-down / gritty sci-fi / mecha sprites preferred—no AI or static-only portfolios)\n2. Your rough quote and estimated timeline within $2,500–$3,200\n3. Your favorite top-down shooter or action game (just a quick check to make sure you read the post!)",
+    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y3t8y9/hiring_pixel_artist_needed_for_topdown_2d/",
+    "quality": "High Quality",
+    "budget": "$2,500-3,200",
+    "created_at": "2026-11-23T20:29:01Z"
+  },
+  {
     "post_id": "1y3t85q",
     "platform": "Reddit",
     "source": "r/DesignJobs",
@@ -2386,17 +2398,5 @@
     "quality": "Medium",
     "budget": "Unknown",
     "created_at": "2026-11-19T16:03:01Z"
-  },
-  {
-    "post_id": "1y0an53",
-    "platform": "Reddit",
-    "source": "r/artcommissions",
-    "author": "u/ZELObreathesDIFF",
-    "title": "[Hiring] Traditional Coloring Digital Fanart",
-    "content": "[Hiring] Traditional Coloring Digital Fanart\n\nHi! I hope I can able to explain right to get what I'm looking for! :D\n\nI'm looking for like traditional coloring style but in digital form! I like a little sketchy messy type of thing for fanart!\n\nFor fanart, either Marvel Rivals or DC Comics! Male characters tho! Possibly a ship as well!\n\nIf you did read this, please add the pencil emote ✏️  to your comment!!\n\nThe minimum amount is at least 60 USD or up.",
-    "url": "https://reddit.com/r/artcommissions/comments/1y0an53/hiring_traditional_coloring_digital_fanart/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-19T14:25:44Z"
   }
 ]
