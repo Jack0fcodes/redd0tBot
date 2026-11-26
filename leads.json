@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y5r3rw",
+    "platform": "Reddit",
+    "source": "r/artcommissions",
+    "author": "u/kiwick_",
+    "title": "[HIRING] $30 CAD | LOOKING FOR SOMEONE TO DRAW MY SONA AS A REFERANCE SHEET!",
+    "content": "[HIRING] $30 CAD | LOOKING FOR SOMEONE TO DRAW MY SONA AS A REFERANCE SHEET!\n\nLooking for someone to draw my Sona using the above stuff as a referance sheet! I can send a photo of the example for the body type. I can use e-transfer (for people in Canada) or PayPal! My Sona is named Kiwi, and I would love if someone could bring them to life :D Thank you so much in advance 💚🩷🥝",
+    "url": "https://reddit.com/r/artcommissions/comments/1y5r3rw/hiring_30_cad_looking_for_someone_to_draw_my_sona/",
+    "quality": "High Quality",
+    "budget": "$30",
+    "created_at": "2026-11-26T03:46:03Z"
+  },
+  {
     "post_id": "1y5qjpw",
     "platform": "Reddit",
     "source": "r/artcommissions",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100",
     "created_at": "2026-11-22T07:09:28Z"
-  },
-  {
-    "post_id": "1y2ipvr",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/soft-wear",
-    "title": "[Hiring] 3D Character Artist (retopo, UVs, bakes, skinning)",
-    "content": "[Hiring] 3D Character Artist (retopo, UVs, bakes, skinning)\n\nI have a high-poly sculpt of an armored space suit and need an experienced character artist to make it game-ready. This is a one-off fixed-price contract, with more character work likely later.\n\nWhat I have\n\nA high-poly sculpt (roughly 50M triangles) broken into helmet, hard armor over cloth, gloves, backpack, two O2 hoses. Can provide in FBX or ZTL format with no UVs or textures. I'll provide a written brief with a short list of shape changes, and measurements from an animation clipping test.\n\nI have a photoshop overpaint. Unfortunately I don't have the original PSD, so it's just a flat front image. \n\nWhat I need\n\n1. A few small shape changes to the original (mostly slightly lowering a few features for clipping). No LODs required.\n2. Hand-made retopology to about 100,000-110,000 triangles for the whole suit.\n3. UVs, and baked normal and AO maps\n4. PBR textures (metal/roughness), one 4K set or two 2K sets (armor and helmet) if that packs better. A material ID mask would be ideal for in-game color changes.\n5. Skinning to the unmodified UE5 Manny skeleton so it plays stock animations. The engine is not Unreal, so delivery is FBX or a Blender file plus textures.\n6. Hard plates, helmet and backpack rigid. Belts and straps follow the cloth under them. The hoses follow the head.\n\nSince this is quite a few items we can split it up into milestones, which I cover in the brief. \n\nPlease DM/reply with:\n\n1. A portfolio piece showing the low-poly wireframe and the sculpt next to the baked game model and the character moving on a skeleton. If you work with a rigger, let me know in the DM and send me an example from their portfolio.\n3. Armored or hard-surface characters preferred.\n4. An estimate/price-quote for the retopo to skinning. You can quote the model changes separately after seeing the scope of work. \n\nI'll be out of town next week so I probably won't be able to respond until the week after, but I will send over the brief once I get back.",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y2ipvr/hiring_3d_character_artist_retopo_uvs_bakes/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-22T06:41:47Z"
   }
 ]
