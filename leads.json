@@ -1,5 +1,17 @@
 [
   {
+    "post_id": "1y7bunh",
+    "platform": "Reddit",
+    "source": "r/artistforhire",
+    "author": "u/roebuckrecords",
+    "title": "[Hiring]",
+    "content": "[Hiring]\n\n\\[Hiring\\]\n\nLooking for an artist for an album cover similar to the one in the link below. Let me know if you think your style (preferably psychdelic/occult style) could match and I'll check out your stuff. \n\n[https://youtu.be/T0GIbiDjs7I?si=vCP2dj5U89\\_5bA7T](https://youtu.be/T0GIbiDjs7I?si=vCP2dj5U89_5bA7T)",
+    "url": "https://reddit.com/r/artistforhire/comments/1y7bunh/hiring/",
+    "quality": "Medium",
+    "budget": "Unknown",
+    "created_at": "2026-11-28T03:24:08Z"
+  },
+  {
     "post_id": "1y7aok0",
     "platform": "Reddit",
     "source": "r/artcommission",
@@ -2386,17 +2398,5 @@
     "quality": "High Quality",
     "budget": "$100-250",
     "created_at": "2026-11-23T20:50:03Z"
-  },
-  {
-    "post_id": "1y3tppt",
-    "platform": "Reddit",
-    "source": "r/gameDevClassifieds",
-    "author": "u/HakaBb",
-    "title": "[PAID] Looking to hire a 2D pixel artist for a space game",
-    "content": "[PAID] Looking to hire a 2D pixel artist for a space game\n\nFor context, I am a senior backend developer of 10+ years, and let's just say that I chose the backend side because frontend was not an option.\n\n\n\nI cannot draw a pixel; I know I COULD try, like I could try asking an AI to do it, but if it's not properly done, I won't know it.\n\n\n\nI am currently developing a pseudo idle game, that tells a story. The texts, sounds, assets will all be done by me (text and sound) and living people (music and 2D pixel assets). I DO rely on claude code for the code part because that's the only part I know I already master, and that's where I CAN know if the AI is doing poorly. For the text, I am an amateur writer and already wrote tons of stories so this one will be another, and for the sound I will make them myself with another app I developed (very fun part, everything in life is a game sound!).\n\n  \nNow for the game itself: I cannot find a proper pixel art asset lib that fits what I want to put in my game, I searched for hours on [itch.io](http://itch.io) and \"only\" found the Foozle pack and a nice one that allows me to use nice background and randomly generated planets with a tool, which are all nice and are used in the game at this moment. But I lack lots of other assets. I would say a good dozen, from 6 to 18 pixels; more if we count replacing the Foozle assets I have today to match the \"new\" style. Mostly ships, but not only.\n\n\n\nThe screenshot is on mobile, and the game is also aimed at steam (steamdeck compatible).\n\nWe can see what's AI and what's not: the little ships sitting just above the nice Foozle ones, + the drones around the planets, plus some other assets. They would not necessarily need multiple sprites each, since I was thinking round drones, and the ones sitting below just bob out, except 2. The theme is mining; the drones mine, you mine with a beam, your fleet is a mining fleet, etc. There is no violence per se, just a mini combat game later in the game, which uses the same mining mechanism. But no bomber, shooter, etc.\n\n\n\nI am very new to this, but I guess 150 euros seems fair for the work of a good dozen little sprites.\n\nIf anyone is interested, they can PM me their portfolio!",
-    "url": "https://reddit.com/r/gameDevClassifieds/comments/1y3tppt/paid_looking_to_hire_a_2d_pixel_artist_for_a/",
-    "quality": "Medium",
-    "budget": "Unknown",
-    "created_at": "2026-11-23T20:47:07Z"
   }
 ]
